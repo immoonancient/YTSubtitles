@@ -20,6 +20,8 @@
 6. **发布**：同学 A 在 issue 或微信群通知其他同学去 YouTube 审核通过该字幕以便其尽早发布。字幕发布后关闭 issue
 7. **广告**：字幕发布后，同学 A 可在视频留言推广本字幕组。[留言模版](docs/promotion.md)
 
+TODO(immoonancient): 添加 GitHub 使用教程...
+
 ## 校对组
 
 英语好且愿意进行更多校对工作的同学请发 issue 加入[校对组](subtitles/CODEOWNERS)。
