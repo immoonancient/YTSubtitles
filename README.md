@@ -3,8 +3,8 @@
 为中文 YouTuber 提供英文字幕的志愿字幕组。
 
 联络方式：
-- [Issues](https://github.com/immoonancient/YTSubtitles/issues) 为主
-- [微信群](docs/wechat.md) 为辅
+- [Issues](https://github.com/immoonancient/YTSubtitles/issues) 仅限正式工作
+- [微信群](docs/wechat.md) 灌水吐槽混脸熟打酱油皆可
 
 ## 工作流程
 
