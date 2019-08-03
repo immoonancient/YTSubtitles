@@ -13,10 +13,12 @@
 
 ## Pull Request
 
-翻译稿文件名格式为 "日期 (YYYYMMDD)-视频标题"，如“20190801-肉末蒸蛋”。
+翻译稿文件名格式为 "日期 (YYYYMMDD)-视频标题"，如“20190801-肉末蒸蛋”。PR 内需留言引用相应的 issue.
 
 翻译稿应添加至 [subtitles/](/subtitles/) 下对应的子目录内，例如
 - 美食作家王刚：[subtitles/wang-gang/](/subtitles/wang-gang/)
 - 雪鱼探店：[subtitles/xue-yu/](/subtitles/xue-yu/)
 
 如果以前没做过该频道的字幕，请同时在 subtitles/ 下建立一个新的子目录。
+
+可参考已 merge 的 PR 作为范例
