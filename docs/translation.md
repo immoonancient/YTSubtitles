@@ -13,7 +13,7 @@
 
 ## Pull Request
 
-翻译稿文件名格式为 "日期 (YYYYMMDD)-视频标题"，如“20190801-肉末蒸蛋”。PR 内需留言引用相应的 issue.
+翻译稿文件名格式为 "日期 (YYYYMMDD)-视频标题"，如“20190801-rou-mo-zheng-dan”[^1]。PR 内需留言引用相应的 issue.
 
 翻译稿应添加至 [subtitles/](/subtitles/) 下对应的子目录内，例如
 - 美食作家王刚：[subtitles/wang-gang/](/subtitles/wang-gang/)
@@ -22,3 +22,5 @@
 如果以前没做过该频道的字幕，请同时在 subtitles/ 下建立一个新的子目录。
 
 可参考已 merge 的 PR 作为范例
+
+[^1] 由于 GitHub 的 bug，如果文件名有中文，在 PR review 的时候无法在文件内直接看到 line comments。因此文件名使用拼音。
