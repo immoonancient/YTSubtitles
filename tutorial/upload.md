@@ -13,7 +13,7 @@
 
 ![propose new file](resources/propose-new-file.png)
 
-5. 在 **Open a pull request** 页面输入 pull request 标题及描述内容，比如视频标题以及想要请审核者注意的问题等等。然后点击 **Create pull request** 按钮，如下图
+5. 在 **Open a pull request** 页面输入 pull request 标题及描述内容，比如视频标题，issue 编号以及想要请审核者注意的问题等等。然后点击 **Create pull request** 按钮，如下图
 
 ![create pull request](resources/create-pull-request.png)
 
