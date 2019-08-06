@@ -1,8 +1,9 @@
-# 如何上传翻译稿 pull request
+# 如何上传待审核的翻译稿
 
-[Pull request](https://help.github.com/en/articles/about-pull-requests) 为 github 术语，这里我们用于提交审核、修正中的翻译稿。
+待审核的翻译稿以 [pull request](https://help.github.com/en/articles/about-pull-requests) 的形式上传。
 
-提交步骤（简易版）：
+## 上传步骤（简易版）
+
 1. 进入相应频道的文件夹，如 美食作家王刚 对应的文件夹为 [subtitles/wang-gang](/subtitles/wang-gang)
 2. 点击 **Create new file** 按钮，如下图
 
