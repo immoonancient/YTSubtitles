@@ -6,4 +6,6 @@
 
 ## 声明
 
-本教程仅供本字幕组在 GitHub 上完成翻译稿的上传、审核、修改等基本步骤。GitHub 的详细使用方法请参考 [GitHub 帮助](https://help.github.com).
+本教程仅供本字幕组在 GitHub 上完成翻译稿的上传、审核、修改等基本步骤。
+
+GitHub 的详细使用方法请参考 [GitHub 帮助](https://help.github.com)。
