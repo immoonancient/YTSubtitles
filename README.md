@@ -6,6 +6,10 @@
 - [Issues](https://github.com/immoonancient/YTSubtitles/issues) 仅限正式工作
 - [微信群](docs/wechat.md) 灌水吐槽混脸熟打酱油皆可
 
+## GitHub 使用教程
+
+不熟悉 GitHub 的同学可参考 [GitHub 简易教程](tutorial/README.md)。
+
 ## 工作流程
 
 每期视频的字幕制作分为以下阶段：
