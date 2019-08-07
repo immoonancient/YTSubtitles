@@ -27,6 +27,6 @@
 7. 对每行需要修改的内容重复上述 4 至 6 步
 
 8. 审核完毕后，点击 **Finish your review** 按钮，然后点击 **Submit review** 从而发布审核意见
-  a. 发布时建议选择 **Approve** 方便进行翻译的同学进行后续的工作（除非翻译质量实在太差、出现太多的缺漏等等）
+   - 发布时建议选择 **Approve** 方便进行翻译的同学进行后续的工作（除非翻译质量实在太差需要打回大修...）
 
 ![publish comments](resources/publish-comments.png)
