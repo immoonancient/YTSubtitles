@@ -13,7 +13,7 @@
 
 ![files changed tab](resources/files-changed-tab.png)
 
-4. 将鼠标移至想要评论的行，点击蓝色 **+** 发表审核意见，如下图
+4. 将鼠标移至想要评论的行，点击蓝色 "**+**" 发表审核意见，如下图
 
 ![add line comment](resources/add-line-comment.png)
 
