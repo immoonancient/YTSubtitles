@@ -9,6 +9,7 @@
 ![pull request list](resources/pull-request-list.png)
 
 2. 点击相应的 pull request 开始审核
+
 3. 翻译稿内容在 **Files changed** 标签页下，如下图
 
 ![files changed tab](resources/files-changed-tab.png)
@@ -21,7 +22,7 @@
 
 ![insert a suggestion](resources/insert-a-suggestion.png)
 
-6. 添加完修改意见后按 **Start a review** 按钮，如下图
+6. 添加完修改意见后按 **Start a review** 按钮
 
 7. 对每行需要修改的内容重复上述 4 至 6 步
 
