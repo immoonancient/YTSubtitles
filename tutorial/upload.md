@@ -4,6 +4,8 @@
 
 ## 上传步骤（简易版）
 
+TODO: 该教程和非 owner，非 collaborator 看到的情况有出入... 待修正
+
 1. 进入相应频道的文件夹，如 美食作家王刚 对应的文件夹为 [subtitles/wang-gang](/subtitles/wang-gang)
 2. 点击 **Create new file** 按钮，如下图
 
