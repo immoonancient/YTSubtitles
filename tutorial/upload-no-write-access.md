@@ -15,11 +15,13 @@
 
 ![add file content](resources/add-file-content.png)
 
-4. 在页面底部点击 **propose new file** 按钮，如下图
+4. 在页面底部点击绿色的 **propose new file** 按钮
 
-![propose new file](resources/fork-propose-new-file.png)
+5. 进入 **Comparing changes** 页面后，点击绿色的 **Create pull request** 按钮，如下图
 
-5. 在 **Open a pull request** 页面输入 pull request 标题及描述内容，比如视频标题，issue 编号以及想要请审核者注意的问题等等。然后点击 **Create pull request** 按钮，如下图
+![compare create pull request](resources/compare-create-pull-request.png)
+
+6. 进入 **Open a pull request** 页面后，输入标题及描述内容，比如视频标题，issue 编号以及想要请审核者注意的问题等等。然后点击绿色的 **Create pull request** 按钮，如下图
 
 ![create pull request](resources/create-pull-request.png)
 
