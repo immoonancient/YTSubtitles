@@ -1,6 +1,6 @@
 # 简易 GitHub 使用教程
 
-- [如何上传待审核的翻译稿](upload.md)
+- [如何上传待审核的翻译稿](upload-no-write-access.md)
 - [如何添加审核评论](review-comment.md)
 - TODO: 如何根据审核评论修改翻译稿
 
