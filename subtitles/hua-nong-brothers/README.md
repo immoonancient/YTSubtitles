@@ -1,6 +1,6 @@
 # 华农兄弟字幕制作守则
 
-by Chow Hong Yu
+by [@vincenthychow](https://github.com/vincenthychow)
 
 我會盡量保留劉蘇良的壞習慣，因為他的壞習慣其實是華農的賣點之一。例如他經常“哎呀” “咿喲”之類我盡量會寫成Aiya,Eyo之類。盡管英語不會這樣說。
 
