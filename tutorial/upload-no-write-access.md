@@ -2,7 +2,7 @@
 
 待审核的翻译稿以 [pull request](https://help.github.com/en/articles/about-pull-requests) 的形式上传。
 
-如果你已经是 collaborator，请参考 [collaborator 版教程](upload.md)。
+如果你已经是 collaborator，请参考 [collaborator 版教程](upload-with-write-access.md)。
 
 ## 上传步骤（简易版）
 
