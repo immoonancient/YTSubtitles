@@ -13,6 +13,10 @@
 
 3. 输入文件名并添加翻译稿内容，如下图。注意由于 github 自身原因，文件名请勿包含中文
 
+&nbsp;&nbsp;&nbsp;&nbsp;**注意：github 编辑器不会自动保存！！**
+
+&nbsp;&nbsp;&nbsp;&nbsp;**强烈建议在别处（Word, Google Docs, ...）将稿件写完后再复制进来，以免遗失进度**
+
 ![add file content](resources/add-file-content.png)
 
 4. 在页面底部选择 "Create a **new branch** for this commit and start a pull request"，然后点击 **propose new file** 按钮，如下图
