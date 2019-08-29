@@ -98,7 +98,7 @@ def is_published(youtube, channelid, videoid):
     id = videoid)
   response = request.execute()
   privacy_status = response["items"][0]["status"]["privacyStatus"]
-  return privacy_status != "aunlisted"
+  return privacy_status != "unlisted"
 
 
 if __name__ == "__main__":
