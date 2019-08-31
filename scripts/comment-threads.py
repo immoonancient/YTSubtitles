@@ -122,7 +122,7 @@ if __name__ == "__main__":
   if not args.timedelta:
     exit("Please specify timedelta using the --timedelta= parameter.")
 
-  text = u"English subtitles added. 英文字幕已添加。\n欢迎加入我们的野生字幕组，详情请见 https://github.com/immoonancient/YTSubtitles"
+  text = u"English subtitles added. 英文字幕已添加。\n我们的野生字幕组长期为王刚、雪鱼、华农制作英文字幕，欢迎来玩～\n详情请见 https://github.com/immoonancient/YTSubtitles"
 
   youtube = get_authenticated_service(args)
   try:
