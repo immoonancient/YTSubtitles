@@ -29,5 +29,5 @@ PR经审核后可由翻译者整合意见并定稿，现推荐以下两种方法
    * “add suggestion to batch”可以将多个suggestions整合成一个文件并只会更新当前文件版本一次。按如图所示点击“commit changes”以完成修改
    ![add to batch](resources/2-1-2.png)
 
-*对该流程有任何疑问欢迎在群或者github里留言，也可以直接联系我的微信和email。*
+*对该流程有任何疑问欢迎在群或者github里留言，直接联系我的微信和email。*
   
