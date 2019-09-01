@@ -6,7 +6,7 @@ See? It's hot
 
 0:00:01.580,0:00:03.660
 # 全部狗都鑽下那個車底下睡覺
-All the dogs go to sleep under the car.
+All the dogs <span class="x x-first x-last">have gone </span>to sleep under the car.
 
 0:00:04.500,0:00:05.960
 # 車底下比較涼快啊
@@ -17,7 +17,7 @@ It's cooler under the car.
 They've made the right choice!
 
 0:00:10.400,0:00:12.020
-# 摸摸你的狗哥 啊
+# <span class="x x-first x-last">摸摸你的狗頭 啊</span>
 Let me touch your dog head, ah.
 
 0:00:13.540,0:00:15.040
@@ -50,7 +50,7 @@ The dogs are now that big. Especially this dog. It is the biggest
 
 0:00:37.080,0:00:37.580
 # 最大
-and fat.
+and <span class="x x-first x-last">fattest.</span>
 
 0:00:43.100,0:00:43.940
 # 哇  這小黑
@@ -198,7 +198,7 @@ I can't understand the rule.
 
 0:02:33.020,0:02:34.160
 # 是否是天天吃東西  吃
-Is it because she is eats everyday, eating
+Is it because she eats everyday, eating
 
 0:02:34.760,0:02:36.560
 # 啃骨頭  牙齒就可以白一點
@@ -286,7 +286,7 @@ I'll show you the consequence if you bite me. Don't say that I have not warned y
 
 0:04:03.360,0:04:05.280
 # 你先去旁邊玩  不要在這
-You go to play over there first. Don't stay here!
+You play over there. Don't stay here!
 
 0:04:06.520,0:04:08.020
 # 跑過來幹嘛  不要你
@@ -317,12 +317,12 @@ She is good at...
 I am sure she is...
 
 0:04:22.180,0:04:23.460
-# 我跑到??去  它就 (原片沒有字幕)
-When I... then she is...
+# <span class="x x-first x-last">跑到我面前  它说</span> (原片沒有字幕)
+<span class="x x-first x-last">She's coming to me and wants to say</span>
 
 0:04:23.680,0:04:25.520
-# ?我呀 ?我 不要?它 (原片沒有字幕)
-Lick me, lick me! Don't lick her.
+# <span class="x x-first x-last">玩我呀玩我呀 不要玩它 </span>(原片沒有字幕)
+<span class="x x-first x-last">"Play with me! Play with </span>me! Don't <span class="x x-first x-last">play with </span>her.<span class="x x-first x-last">"</span>
 
 0:04:27.360,0:04:29.220
 # 走開走開  這小黑  走開
@@ -330,7 +330,7 @@ Go away, go away! This Blacky, go away!
 
 0:04:32.160,0:04:34.160
 # 走開一點  不要你
-I say go away! I don't want you!
+I <span class="x x-first x-last">said</span> go away! I don't want you!
 
 0:04:35.660,0:04:38.160
 # 這狗這個  胖嘟嘟的  肥嘟嘟的
@@ -410,7 +410,7 @@ You can give me this hand too, got it?
 
 0:05:47.380,0:05:49.940
 # 你看這裡受傷了 嗯  跟人家打架
-See? Here is a wound. She must have had a fight.
+See? Here is a wound. <span class="x x-first x-last">Hmm, she </span>had a fight.
 
 0:05:50.960,0:05:53.060
 # 受傷了 小問題  沒事
