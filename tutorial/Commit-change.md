@@ -13,9 +13,6 @@ PR经审核后可由翻译者整合意见并定稿，现推荐以下两种方法
 3. 在编辑页面进行修改，完成后，拉到页面最下方，选择第一个选项。
 ![first option](resources/1-2.png)
 
-*4. 在评论里使用“#”引用该翻译的issue以方便其他组员找到最新版的翻译稿。*（可选）
-![refering](resources/1-（3）.png)
-
 ## **使用“commit change”功能修改翻译稿 *（适用于翻译者本人或Collaborator进行修改）**
 1. 在对应的PR里找到“File Changed”，审阅意见会直接显示在页面
 ![file change](resources/0.png)
@@ -29,5 +26,4 @@ PR经审核后可由翻译者整合意见并定稿，现推荐以下两种方法
    * “add suggestion to batch”可以将多个suggestions整合成一个文件并只会更新当前文件版本一次。按如图所示点击“commit changes”以完成修改
    ![add to batch](resources/2-2-2.png)
 
-*对该流程有任何疑问欢迎在[微信群](/docs/wechat.md)或者 [issue](/../../issues) 里留言。*
-  
+*对该流程有任何疑问欢迎在[微信群](/docs/wechat.md)或者 [issue](/../../issues) 里留言。*  
