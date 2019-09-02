@@ -1,4 +1,4 @@
-## **GitHub详细使用教程**
+## ** GitHub 详细使用教程**
 不熟悉 GitHub 的同学可参考github官方的 [GitHub使用帮助](https://help.github.com/en/articles/incorporating-feedback-in-your-pull-request)
 
 ## **如何修改Pull Request的简易教程**
@@ -16,7 +16,7 @@ PR经审核后可由翻译者整合意见并定稿，现推荐以下两种方法
 *4. 在评论里使用“#”引用该翻译的issue以方便其他组员找到最新版的翻译稿。*（可选）
 ![refering](resources/1-（3）.png)
 
-* **使用“commit change”功能修改翻译稿 *（适用于翻译者本人或Collaborator进行修改）***
+## **使用“commit change”功能修改翻译稿 *（适用于翻译者本人或Collaborator进行修改）**
 1. 在对应的PR里找到“File Changed”，审阅意见会直接显示在页面
 ![file change](resources/0.png)
 
@@ -24,10 +24,10 @@ PR经审核后可由翻译者整合意见并定稿，现推荐以下两种方法
 ![apply change](resources/2-1.png)
   
    * “commit suggestion”会直接按审阅意见修改文件，每个被接受审阅意见都会更新当前文件版本一次。再次点击“commit changes”以完成修改
-   ![commit change](resources/2-1-1.png)
+   ![commit change](resources/2-2-1.png)
   
    * “add suggestion to batch”可以将多个suggestions整合成一个文件并只会更新当前文件版本一次。按如图所示点击“commit changes”以完成修改
-   ![add to batch](resources/2-1-2.png)
+   ![add to batch](resources/2-2-2.png)
 
-*对该流程有任何疑问欢迎在群或者github里留言，也可以直接联系我的微信和email。*
+*对该流程有任何疑问欢迎在[微信群](/docs/wechat.md)或者 [issue](/../../issues) 里留言。*
   
