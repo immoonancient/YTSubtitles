@@ -8,7 +8,7 @@
 
 0. 找一部没有字幕的视频开始制作
    - 可以选择任何自己感兴趣的视频，内容范围原则上没有限制。
-   - 请务必确认该视频允许观众投稿。参考 [YouTube 官方帮助](https://support.google.com/youtube/answer/6054623)
+   - 请务必确认该视频允许观众投稿。参考 [YouTube 官方帮助](https://support.google.com/youtube/answer/6054623)。
    - 在 [issues](/../../issues) 留言认领该视频，若尚无此视频请先创建一个新的issue。参考 [issues 使用规范(TODO)](docs/issues-guideline.md)。
 
 1. 制作中英文对照的字幕文件，详见[教程](tutorial/create-subtitle-file.md)
