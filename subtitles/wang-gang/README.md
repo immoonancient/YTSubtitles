@@ -16,3 +16,7 @@ https://www.youtube.com/channel/UCg0m_Ah8P_MQbnn77-vYnYw
 ## 固定句式
 
 视频中常见的固定句式应当采用固定译法。参考[固定句式翻译模版(TODO)](docs/template.md)。
+
+## 登场人物
+
+参考视频中常见登场[人物关系和英文称呼(TODO)](docs/characters.md)。
