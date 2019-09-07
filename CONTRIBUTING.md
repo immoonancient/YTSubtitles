@@ -15,7 +15,10 @@
 
 2. 以 [pull request](/../../compare) 的形式上传字幕文件，详见[教程](tutorial/upload-subtitle-pr.md)
 
-3. 修改 pull request 加入对照中文对照等信息以供审核，修改方式见[教程](tutorial/Commit-change.md)
+3. 修改 pull request 加入帮助审核的辅助信息，包括视频链接、每行英文字幕的中文对照，乃至视频的标题描述（如果视频有提供的话），甚至可以以此注明自己某处没看懂或者译法不确定等等。原则上可以加入任何对审核有帮助的信息。
+   - 上述信息都应当以 `#` 开头以标示
+   - 成品范例可参考 [/subtitles/wang-gang/20190826-shao-zhu-shu.sbv](/subtitles/wang-gang/20190826-shao-zhu-shu.sbv)
+   - 修改方式见[教程](tutorial/Commit-change.md)
 
 4. 等待字幕组其他成员提供审核意见
 
