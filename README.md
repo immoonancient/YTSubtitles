@@ -12,10 +12,14 @@
 
 ## 如何参与
 
+欢迎参与翻译[待翻译视频](https://github.com/immoonancient/YTSubtitles/issues?q=is%3Aopen+is%3Aissue+label%3A待翻译)，或其他自己喜欢的视频。
+翻译流程：
 1. 制作中英文对照的字幕文件
 2. 以 pull request 的形式提交字幕供大家审核
 3. 按照审核意见修改字幕并定稿
 4. 将定稿的字幕上传至 YouTube
+
+亦可[参与审核校对](https://github.com/immoonancient/YTSubtitles/pulls)。
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 
