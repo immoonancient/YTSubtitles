@@ -346,7 +346,7 @@ or you can come to my buddy to have a feast.
 
 0:06:26.260,0:06:29.820
 #等一下要去你们圈里面抓2只竹鼠来
-You are going to catch two bamboo rats from your shred, aren't you?
+You are going to catch two bamboo rats from your shed, aren't you?
 
 0:06:29.900,0:06:30.740
 #可以 没问题
