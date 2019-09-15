@@ -2,11 +2,11 @@
 
 0:00:00.900,0:00:07.120
 #现在我们一大帮人去他（华农）兄弟家抓鱼
-Now the whole group of us are going to catch the fish at our buddies' (Huanong Brothers) place.
+Now the whole group of us are going to catch fish at our buddies' (Huanong Brothers) place.
 
 0:00:07.660,0:00:12.980
 #有四伯、苏良兄还有他的一些兄弟
-Here are my uncle, Suliang and some of his buddies we well.
+Here are my uncle, Suliang (Huanong) and some of his buddies we well.
 
 0:00:13.540,0:00:18.380
 #等下抓回来的时候让这位大厨弄点给我们吃一下
@@ -50,7 +50,7 @@ Your dogs are coming too.
 
 0:01:04.280,0:01:06.460
 #你这里都放了些什么鱼呢
-What fish have you put here?
+What fish have you put in here?
 
 0:01:06.500,0:01:07.540
 #蛇头鱼
@@ -82,7 +82,7 @@ I have put a lot of eel and loach.
 
 0:01:26.540,0:01:29.740
 #我以为你们这边的鱼塘都是很大面积的
-I thought that the ponds here were the very large ones,
+I thought that the ponds here were very large,
 
 0:01:30.080,0:01:33.100
 #就是很深的那种
@@ -249,7 +249,7 @@ My buddy took me to catch the fish for a good whole day.
 
 0:05:16.940,0:05:18.220
 #都快闪到腰了
-My back has almost twisted.
+My waist is almost hurt.
 
 0:05:19.820,0:05:22.815
 #他答应了带我去打他们家的板栗
@@ -406,11 +406,11 @@ Singing: "Cutie, you sit at the front"
 
 0:07:01.740,0:07:03.680
 #哥哥的岸上走
-Singing: "And bro, you walk on the shore"
+Singing: "And bro, you walk on the riverbank"
 
 0:07:04.120,0:07:05.640
 #我应该去岸上走吧
-Should I walk on the shore?
+Should I walk on the riverbank?
 
 0:07:06.100,0:07:06.920
 #嘿嘿
@@ -430,7 +430,7 @@ I think it weighs...
 
 0:07:40.820,0:07:42.900
 #1斤多不到2斤
-at least a jin, but not 2.
+at least one jin, but less than 2.
 
 0:07:43.520,0:07:45.680
 #兄弟你又偷偷的吃什么哦
@@ -534,7 +534,7 @@ Look! This is very naughty.
 
 0:08:46.360,0:08:47.640
 #老是动来动去
-It's always moving around.
+It's restless.
 
 0:08:48.080,0:08:49.900
 #都是公竹鼠吗
@@ -610,7 +610,7 @@ See what we have!
 
 0:09:54.320,0:09:58.600
 #我已经研究透了这个竹鼠要躲几刀才烤得够快
-After my thorough research, you need to cut the bamboo rats several times in order to shorten the grilling time.
+I have figured out how many times you need to chop the bamboo rats to shorten the grilling time.
 
 0:09:58.640,0:10:00.380
 #对 比较入味
