@@ -22,7 +22,7 @@ oh blast
 
 0:00:43.260,0:00:45.800
 # 每当看菜单的时候 我都会变的很纠结
-I struggle every time when I read the menu
+Whenever I see the menu, I get anxious
 
 0:00:45.800,0:00:48.660
 # 因为你不知道 应该点哪一种
@@ -80,21 +80,21 @@ since the traditional ones can not hold that long
 # 哦 明白 行 可以
 Ok I understand, ok sure
 
+0:01:34.001,0:01:35.000
+# 那就先做这个 就先吃它
+Then first make this one, I'll eat it first
 
+0:01:35.001,0:01:36.000
 # 可以 可以
-
+Ok, ok.
 
 0:01:35.640,0:01:39.320
 # 哦 这个是不能够放时间很长的
-so plain ones don't hold long, right?
+Oh, so the traditional ones don't hold long, right?
 
-
-# （缺失）
-
-
-0:01:39.400,0:01:39.980
-# （缺失）
-yes
+0:01:39.321,0:01:40.000
+# 不能放长时间的
+Can't leave it out for too long
 
 0:01:40.420,0:01:42.940
 # 为什么
@@ -102,8 +102,11 @@ why?
 
 0:01:43.820,0:01:44.680
 # 你吃几口就知道了 不会脆的
-- It will become less crispy
-- Have a bit and you will see why
+Have a bite and you'll understand (it will become less crispy)
+
+0:01:44.681,0:01:46.00
+# 呃不会脆的
+Oh, it won't be crispy
 
 0:01:47.280,0:01:49.200
 # 花生的 没关系
@@ -111,31 +114,28 @@ Ones with peanut stuffing don't have this problem
 
 0:01:50.375,0:01:51.375
 # 花生的晚一点没关系
-they can wait
+Peanut ones will be fine even if you wait a bit
 
-
+0:01:50.376,0:01:51.000
 # 可以
+Sure
 
-
-0:01:52.060,0:01:53.320
+0:01:51.001,0:01:51.600
 # 来
 here you are
 
-
+0:01:51.601,0:01:52.500
 # 谢谢
+Thank you
 
-
-0:01:53.820,0:01:56.820
+0:01:53.820,0:01:56.800
 # 然后呢 你们可以上楼坐
-You can go upstairs now
+So... you can seat yourself upstairs
 
-0:01:56.825,0:01:58.180
-# （缺失）
-I will bring you the shaved ice
-
-0:01:58.740,0:02:00.340
-# 行 我先付钱吧
-OK, maybe I should pay now
+0:01:56.801,0:01:58.500
+# 行 我先付钱吧 (等一下我再帮你们把冰拿上去)
+Ok, let me pay first.
+(I'll bring the shaved ice upstairs in a bit)
 
 0:01:59.000,0:02:00.500
 # 可以 可以 好 谢谢
@@ -357,6 +357,6 @@ Because when talking to my daughter, as soon as we talk about Zhangzhou, we'd th
 # 后面再去吃的时候 就突然 想说 泉州没有 所以就引进过来了
 so when i went there to eat it again, we were saying: well we don't have it in Quanzhou, so we introduced it to Quanzhou
 
-
+0:06:25:000,0:06:28:000
 # 关 注 雪 鱼 探 店
 (Subscribe)
