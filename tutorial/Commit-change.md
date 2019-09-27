@@ -6,7 +6,7 @@ PR经审核后可由翻译者整合意见并定稿，现推荐以下两种方法
 
 **注：以下方法只适用于翻译者本人或者 Collaborator。其他人只能提供修改意见，但没有权限直接修改稿件。**
 
-### 直接编辑文件
+### 方法一：直接编辑文件
 1. 在对应的PR里找到“Files Changed”
 ![File Chnage](resources/0.png)
 
@@ -16,7 +16,7 @@ PR经审核后可由翻译者整合意见并定稿，现推荐以下两种方法
 3. 在编辑页面进行修改，完成后，拉到页面最下方，选择第一个选项。
 ![first option](resources/1-2.png)
 
-### 使用 `commit change` 功能修改翻译稿
+### 方法二：使用 `commit change` 功能修改翻译稿
 1. 在对应的PR里找到“File Changed”，审阅意见会直接显示在页面
 ![file change](resources/0.png)
 
