@@ -1,14 +1,20 @@
 # https://www.youtube.com/watch?v=QaMuhlgTCI8
 
 # 在新疆逛小吃街，5元烤馕+30元红柳羊肉串一起吃！还了解馕文化
-# (title needs translation)
+# Xinjiang food alley: enjoy baked naan and mutton BBQ, and learn the naan culture
 
 # 新疆大巴扎，就是集市的意思。
+The Xinjiang grand bazaar, which means a market
 # 大巴扎上有很多小吃，几乎集齐了新疆所有的小吃种类，
+# There are so many kinds of snacks that almost cover everything available in Xinjiang.
 # 有烤馕、红柳烤肉、羊蹄、手抓饭、烤全羊等。
+Here we have baked naan, tamarisk barbeque, goat hoof, pilaf, roasted lamb, etc.
 # 这些美食看着就让人想试一试。
+# These food look so delicious that you want to have a try once you see them
 # 今天我买了一个烤馕，价格是5元，
+Today I spent 5 yuan on a baked naan
 # 还有3串羊肉，分量很大，吃起来很管饱。
+I've also got three skewers of mutton. They are so huge and must be fulfilling
 
 # (description needs translation)
 
