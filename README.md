@@ -23,6 +23,14 @@
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 
+## 福利
+
+为鼓励更多人参与，本字幕组会向有长期合作的频道进行申请，争取组员发放一定福利。
+
+福利内容原则上为小纪念品如签名照等，发放标准参考各个组员的贡献度统计。
+
+详见 [rewards/README.md](rewards/README.md)
+
 ## 校对组
 
 英语好且愿意进行更多校对工作的同学请发 issue 加入[校对组](subtitles/CODEOWNERS)。
