@@ -29,7 +29,7 @@
 
 福利内容原则上为小纪念品如签名照等，发放标准参考各个组员的贡献度统计。
 
-详见 [rewards/README.md](rewards/README.md)
+详见 [rewards](/rewards)
 
 ## 校对组
 
