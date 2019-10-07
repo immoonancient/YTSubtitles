@@ -70,16 +70,17 @@ def get_authenticated_service(args):
 
 
 # Call the API's commentThreads.insert method to insert a comment.
-def insert_comment(youtube, channel_id, video_id, text):
+def insert_comment(args):
+  youtube = get_authenticated_service(args)
   insert_result = youtube.commentThreads().insert(
-    part="snippet",
-    body=dict(
-      snippet=dict(
-        channelId=channel_id,
-        videoId=video_id,
-        topLevelComment=dict(
-          snippet=dict(
-            textOriginal=text
+    part = "snippet",
+    body = dict(
+      snippet = dict(
+        channelId = args.channelid,
+        videoId = args.videoid,
+        topLevelComment = dict(
+          snippet = dict(
+            textOriginal = args.text
           )
         )
       )
@@ -92,10 +93,11 @@ def insert_comment(youtube, channel_id, video_id, text):
   print "Inserted comment for %s: %s" % (author, text)
 
 
-def is_published(youtube, channelid, videoid):
+def is_published(args):
+  youtube = get_authenticated_service(args)
   request = youtube.videos().list(
     part = "id, status",
-    id = videoid)
+    id = args.videoid)
   response = request.execute()
   privacy_status = response["items"][0]["status"]["privacyStatus"]
   return privacy_status != "unlisted"
@@ -106,13 +108,20 @@ if __name__ == "__main__":
   # identifies the channel for which the comment will be inserted.
   argparser.add_argument("--channelid",
     help="Required; ID for channel for which the comment will be inserted.")
+
   # The "videoid" option specifies the YouTube video ID that uniquely
   # identifies the video for which the comment will be inserted.
   argparser.add_argument("--videoid",
     help="Required; ID for video for which the comment will be inserted.")
+
   # The "timedelta" option specifies the delay (in seconds) to post a comment
   # after the video is changed from unlisted to public.
+  # Default: 600s
   argparser.add_argument("--timedelta", help="Required; delay in automated comment posting.")
+
+  # The "text" option specifies the comment test
+  argparser.add_argument("--text", help="Optional")
+
   args = argparser.parse_args()
 
   if not args.channelid:
@@ -121,16 +130,10 @@ if __name__ == "__main__":
     exit("Please specify videoid using the --videoid= parameter.")
   if not args.timedelta:
     exit("Please specify timedelta using the --timedelta= parameter.")
+  if not args.text:
+    args.text = u"English subtitles are available. 本视频有英文字幕。\n我们的野生字幕组长期志愿为中文 YouTuber 制作英文字幕，并有独家福利哦，欢迎来玩～\n详情请见 https://github.com/immoonancient/YTSubtitles"
 
-  text = u"English subtitles are available. 本视频有英文字幕。\n我们的野生字幕组长期为王刚、雪鱼、华农制作英文字幕，欢迎来玩～\n详情请见 https://github.com/immoonancient/YTSubtitles"
-
-  youtube = get_authenticated_service(args)
-  try:
-    while not is_published(youtube, args.channelid, args.videoid):
-      time.sleep(float(args.timedelta))
+  while not is_published(args):
     time.sleep(float(args.timedelta))
-    insert_comment(youtube, args.channelid, args.videoid, text)
-  except HttpError, e:
-    print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
-  else:
-    print "Inserted top-level comment."
+  time.sleep(float(args.timedelta))
+  insert_comment(args)
