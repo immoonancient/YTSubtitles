@@ -29,4 +29,4 @@
 
 ## 对译表
 
-对译表请参考[translation-table.md](translation.md)
+对译表请参考[translation-table.md](translation-table.md)
