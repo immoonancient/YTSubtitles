@@ -15,11 +15,11 @@
 
 0:00:01.880,0:00:04.920
 # 广西·桂林
-Guang Xi - Guilin
+Guilin, Guangxi
 
 0:00:20.280,0:00:23.520
 # 走了 吃米粉去了
-Let's go, time to eat vermicelli
+Let's go, time to eat rice vermicelli
 
 0:00:27.240,0:00:30.680
 # 哦 这边一两是4块钱 二两是5块钱
@@ -43,7 +43,7 @@ Shouldn't be long
 
 0:01:08.840,0:01:11.160
 # 我的两个 不要蒜
-My 2 liang order, no garlic
+I have 2 orders, no garlic
 
 0:01:12.400,0:01:13.380
 # 什么东西
@@ -51,6 +51,7 @@ What
 
 0:01:13.380,0:01:14.720
 # 她说不要蒜
+(missing translation)
 
 0:01:14.720,0:01:16.360
 # 蒜要说 才加的
@@ -62,7 +63,7 @@ Don't say anything we won't add
 
 0:01:20.720,0:01:23.960
 # 米粉
-Vermicelli
+Rice vermicelli
 
 0:01:23.960,0:01:26.240
 # 锅烧
@@ -110,11 +111,11 @@ Finally, the dried chili pepper
 
 0:02:31.280,0:02:33.400
 # 这个就是5块钱的卤菜米粉
-This is thus the 5 yuan braised veggie vermicelli.
+This is thus the 5 yuan rice vermicelli with braised meat.
 
 0:02:33.400,0:02:36.040
 # 它里面是没有菜的 只有卤味
-It doesn't have any veggies inside, just the braised taste
+It doesn't have any veggies inside, just the braised meat
 
 0:02:36.040,0:02:39.280
 # 而且是加了差不多五片吧 五片的牛肉
@@ -134,7 +135,7 @@ Just it has about a spoonful of the braising sauce
 
 0:02:48.960,0:02:51.000
 # 而且舀卤汁的木桶很小
-The spoon is very small (?)
+The spoon is very small
 
 0:02:51.000,0:02:53.040
 # 只有那么一小勺
@@ -201,7 +202,7 @@ Really, it's too perfect
 
 0:03:36.160,0:03:38.800
 # 这碗粉 有肉 有粉 只卖5块钱
-This bowl of vermicelli, has meat, vermicelli, and only 5 yuan
+This bowl of vermicelli, has meat, vermicelli, and costs only 5 yuan
 
 0:03:38.800,0:03:40.400
 # 而且是这么大的量
@@ -261,7 +262,7 @@ Never had it before
 
 0:04:31.600,0:04:33.800
 # 但是点餐的大哥说 不要多加了
-But the hostess said don't add any more
+But the host said don't add any more
 
 0:04:33.800,0:04:35.960
 # 因为最近锅烧比较紧俏
