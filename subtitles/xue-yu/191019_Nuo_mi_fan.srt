@@ -80,7 +80,7 @@ This is our 4-yuan glutinous rice ball
 15 
 00:01:32,520 --> 00:01:36,200
 #糯米饭是从3块钱到6块钱不等
-The rice ball varies from 3 yuan to 6 yuan
+The rice balls vary from 3 yuan to 6 yuan
 
 16 
 00:01:36,200 --> 00:01:38,080
