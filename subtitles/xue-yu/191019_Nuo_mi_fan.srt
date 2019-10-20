@@ -23,7 +23,7 @@ Now it's noon. Time for lunch!
 4 
 00:00:26,160 --> 00:00:27,600
 #前面有一个步行街
-There's a pedestrian zone ahead
+There's a pedestrian shopping street ahead
 
 5 
 00:00:27,600 --> 00:00:30,480
