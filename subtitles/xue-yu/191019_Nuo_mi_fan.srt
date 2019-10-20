@@ -245,7 +245,7 @@ The rice was not steamed well because I couldn't do it
 48 
 00:03:23,600 --> 00:03:25,800
 #不懂什么叫蒸熟
-I didn't know to what extent it was steamed well
+I didn't know to what it means by "steamed well"
 
 49 
 00:03:26,080 --> 00:03:27,400
