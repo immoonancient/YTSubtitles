@@ -13,7 +13,15 @@
 
 1. 在 YouTube 制作英文字幕文件，详见[教程](tutorial/create-subtitle-file.md)
 
-2. 以 [pull request](/../../compare) 的形式上传字幕文件，详见[教程](tutorial/upload-subtitle-pr.md)
+2. 在 GitHub 提交字幕稿以供审核。嫌 GitHub 操作麻烦的同学可以直接在 issue 内留言提交，格式如下：
+
+```
+bot, please upload
+
+[你的字幕稿内容]
+```
+
+如果愿意折腾，可自行以 [pull request](/../../compare) 的形式上传字幕文件，方法详见[教程](tutorial/upload-subtitle-pr.md)
 
 3. 修改 pull request 加入帮助审核的辅助信息，包括视频链接、每行英文字幕的中文对照，乃至视频的标题描述（如果视频有提供的话），甚至可以以此注明自己某处没看懂或者译法不确定等等。原则上可以加入任何对审核有帮助的信息。
    - 上述信息都应当以 `#` 开头以标示
