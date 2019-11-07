@@ -7,9 +7,9 @@
 #今天在山东青岛品尝特色美食——脂渣！它是采用猪五花肉，油炸而成。80斤大片的五花肉放入油锅中，
 #油炸一小时出锅，最后只有18斤。大量油脂遗留在锅内，剩下的脂渣口感脆爽，一点不油腻。
 #脂渣可以直接白口吃，也可以炖白菜吃。它是青岛人最喜欢的小吃之一。
-#Today I tried a special snack, "Zhi zha", in Qingdao, Shandong. It's made from pork belly. Fried. 80 Jin (40 kg) of pork belly 
+#Today I tried a special snack, "Zhi zha" ("fat residual"), in Qingdao, Shandong. It's made from pork belly. Fried. 80 Jin (40 kg) of pork belly 
 #is fried in a large pot for one hour, with only 18 Jin left. Most fat stays in the pot. The fried "Zhi zha" is crispy and not greasy at all.
-#You can eat "Zhi zha" directly or cook it with cabbage. It's the most popular snack in Qingdao.
+#You can eat "Zhi zha" directly or cook it with cabbage. It's one of the most popular snacks in Qingdao.
 
 1
 00:00:01,800 --> 00:00:05,040
@@ -19,7 +19,7 @@ Qingdao, Shandong
 2
 00:00:13,520 --> 00:00:15,680
 #这就是炸脂渣最好的原料
-This is the best ingredient for fried "Zhi zha" (Fried pork belly)
+This is the best ingredient for fried "Zhi zha" ("fat residual")
 
 3
 00:00:15,680 --> 00:00:16,880
@@ -109,12 +109,12 @@ And the frying begins!
 20
 00:01:22,280 --> 00:01:24,680
 #我们期待一下吧
-Let's hope for it
+I can't wait
 
 21
 00:01:47,040 --> 00:01:50,120
 #大哥 我问一下 炸这一锅需要多少时间
-Bro, may I ask how long it takes to fry each pot?
+Bro, may I ask how long it takes to fry each batch?
 
 22
 00:01:50,120 --> 00:01:52,040
@@ -134,7 +134,7 @@ Every time you fry a whole pot of pork belly
 25
 00:01:57,640 --> 00:01:58,400
 #一炸炸一锅
-Yes, one pot each time
+Yes, one full pot each time
 
 26
 00:01:58,400 --> 00:02:00,960
@@ -149,7 +149,7 @@ How heavy is the pork in the beginning?
 28
 00:02:02,840 --> 00:02:04,880
 #炸完之后就剩18斤
-After frying, only 18 Jin is left
+After frying, only 18 Jin (9 kg) is left
 
 29
 00:02:04,880 --> 00:02:07,200
@@ -234,7 +234,7 @@ Look. This is the freshly made "Zhi zha"
 45
 00:03:57,560 --> 00:04:00,480
 #大哥说越凉越好吃
-The bro said that it would be more delicious when it's cold
+The bro said that it tastes better when it's cold
 
 46
 00:04:00,480 --> 00:04:03,400
@@ -259,7 +259,7 @@ A little bit salty
 50
 00:04:12,480 --> 00:04:15,960
 #它这种是硬脆 而且带有一定的力度
-It's hard and crispy. A little bit chewy as well    #请检查这里
+It's hard and crispy. It holds its shape really well.
 
 51
 00:04:16,720 --> 00:04:20,200
