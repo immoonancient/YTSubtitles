@@ -19,6 +19,7 @@ bot, please upload
 
 [你的字幕稿内容]
 ```
+之后会有 bot 帮你创建 pull request。
 
 - 如果愿意折腾，可自行以 [pull request](/../../compare) 的形式上传字幕文件，方法详见[教程](tutorial/upload-subtitle-pr.md)
 
