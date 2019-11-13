@@ -15,7 +15,7 @@ def totimestamp(epoch):
   return "{h:1}:{m:02}:{s:02}.{ms:03}".format(h=h, m=m, s=s, ms=ms)
 
 def shiftline(line, delta): # delta is in milliseconds, rounded to 0.01s
-  m = re.match("(\d):(\d\d):(\d\d)\.(\d\d\d),(\d):(\d\d):(\d\d)\.(\d\d\d)", line)
+  m = re.match("(\d+):(\d+):(\d+)\.(\d+),(\d+):(\d+):(\d+)\.(\d+)", line)
   if not m:
     return line
 
