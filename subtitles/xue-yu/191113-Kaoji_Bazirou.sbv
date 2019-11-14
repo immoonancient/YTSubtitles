@@ -594,7 +594,11 @@ Such that you don't have a hard time chewing it
 
 00:08:10.440,00:08:12.000
 #不爱吃肉呢
-If you don't enjoy eating meat #外加：被嫌弃了  I am frowned!
+If you don't enjoy eating meat
+
+00:08:12.000,00:08:14.120
+#被嫌弃了
+(I am frowned!)
 
 00:08:14.120,00:08:16.960
 #来吃把子肉 不一定要来吃肉
