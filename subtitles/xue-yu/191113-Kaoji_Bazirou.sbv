@@ -130,7 +130,11 @@ The shopkeeper just told us from this window
 
 00:01:53.680,00:01:55.120
 #一个不幸的消息
-A piece of bad news        #外加字幕：今天没有烤鸡了 没有整个的烤鸡了 The roast chickens are sold out today. The whole roast chickens are sold out
+A piece of bad news
+
+00:01:55.120,00:01:57.600
+#今天没有烤鸡了 没有整个的烤鸡了
+The roast chickens are sold out today. The whole roast chickens are sold out
 
 00:01:57.600,00:01:59.480
 #全都是鸡腿了
