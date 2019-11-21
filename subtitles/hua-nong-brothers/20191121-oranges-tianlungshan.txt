@@ -1,14 +1,14 @@
 #https://youtu.be/30wo279KYdQ
 
 #[华农兄弟] 华农兄弟参加赣南脐橙比赛拿了个第一顺便去天龙山玩了一下
-#Huanong Brothers: We participat in a oranges harvesting competition and win. We also visit the "Tian Lung Shan" on the way.
+#Huanong Brothers: We participate in an orange harvesting competition and win. We also visit the Tianlungshan Mountain on the way.
 
 
 
 0:00:00.000,0:00:04.140
 # #臍聚全南  橙聯四海  贛南臍橙千人採摘直播活動  啟動 
 Come to Naval of the World, Enjoy Quannan Oranges
-I hereby announce, "Thousand People Harvest Oranges", now begins!
+I hereby announce, "Thousand-People Orange-Harvesting", now begins!
 
 0:00:07.500,0:00:08.000
 # #Hello 
@@ -60,7 +60,7 @@ The tree, is support by the branches.
 
 0:00:40.280,0:00:41.820
 # #不然它會  下垂的 
-Otherwise,, is droops.
+Otherwise, it droops.
 
 0:00:43.920,0:00:44.420
 # #不會 
@@ -120,7 +120,7 @@ Aya! Why can't I twist it off?
 
 0:01:16.740,0:01:17.700
 # #擰了那麼多圈 
-I have twisted so many times already.
+I have twisted it so many times already.
 
 0:01:18.220,0:01:19.020
 # #給它轉個圈圈 
@@ -323,15 +323,15 @@ I'm so happy. These oranges must be very tasty.
 
 0:03:54.760,0:03:57.020
 # #大家好  現在我們來到了這個天龍山 
-Hi everyone! Now we've arrived at "Tian Lung Shan" (scenic site)
+Hi everyone! Now we've arrived at Tianlongshan Mountain(scenic site)
 
 0:03:57.380,0:04:00.160
 # #你看  我們縣城的天龍山  現在做的[SIC]很漂亮了哦 
-Look! This is the "Tian Lung Shan" at our county seat. It's so pretty now.
+Look! This is the Tianlongshan Mountain at our county seat. It's so pretty now.
 
 0:04:00.660,0:04:03.760
 # 天龍山  (註︰非對白)
-Tian Lung Shan (lit: Dragon Mountain)
+Tianlongshan Mountain (lit: Sky Dragon Mountain)
 
 0:04:11.160,0:04:13.460
 # #在這個纜車上哦  坐在纜車上 
@@ -471,7 +471,7 @@ Wa! I'd love that!
 
 0:05:40.240,0:05:42.120
 # #下次我們有空的時候從那裡走上來 
-Next time, when we have the time, let's walk up here down from the creek.
+Next time, when we have the time, let's walk up here from the creek.
 
 0:05:46.960,0:05:48.940
 # #哇  這裡真的好涼快呀 
@@ -479,7 +479,7 @@ Wa! It's really cool here!
 
 0:05:49.320,0:05:50.940
 # #那個涼風直接吹過來 
-The breeze is flowing onto me.
+The breeze is blowing onto me.
 
 0:05:55.460,0:05:56.040
 # #舒服 
