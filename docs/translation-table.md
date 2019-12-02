@@ -117,19 +117,18 @@
 |      切块      |          dice / cut ... into dice           |
 |      切沫      |         shred / cut ... into shreds         |
 |      切片      |         slice / cut ... into slices         |
-| 顺着纹路（切） |               with the grain                |
-| 逆着纹路（切） |              against the grain              |
+| 顺着纹路（切）  |               with the grain                 |
+| 逆着纹路（切）  |              against the grain               |
 |      切粒      |         fine dice/ grain-sized dice         |
 |      切丝      |                  julienne                   |
 |      明油      |   Ming You (literally "brightening oil")    |
-|      宽油      |       Kuan You (literally "wide oil")       |
-|      底油      |       Di You (literally "bottom oil")       |
-|      断生      |        Duan Sheng” (“barely cooked”)        |
+|      宽油      |       Kuan You (literally "broad oil")      |
+|      底油      |                  base oil                   |
+|      断生      |                    softened                 |
 |      香味      |                    aroma                    |
 |      鲜味      |                 umami taste                 |
 |      麻味      |                   numbing                   |
 |      爆香      | bring out the taste/stir fry until aromatic |
 |      爆炒      |              Fry on high heat               |
-|      爆干      |                                             |
 |      入味      |             flavor penetration              |
 |       腌       |                  marinade                   |
