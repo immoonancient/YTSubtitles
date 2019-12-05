@@ -33,291 +33,316 @@
 # 营业时间：07：30-22：00
 # Trading hours: 7:30 am to 10:00 pm
 
-
-00:00:01.920,00:00:06.200
+0:00:01.920,0:00:06.200
 # 福建·厦门
 Xiamen, Fujian Province
 
-00:00:12.360,00:00:15.880
+0:00:12.360,0:00:15.880
 # 哈喽 现在是早上起来八点钟
 Hello, it’s 8 o’clock in the morning now
 
-00:00:15.880,00:00:18.960
+0:00:15.880,0:00:18.960
 # 我打算到旁边的沙茶面馆
 I’m planning to go to the Satay Noodle Shop next door
 
-00:00:18.960,00:00:22.480
+0:00:18.960,0:00:22.480
 # 吃一碗
 To have a bowl of satay noodles
 
-00:00:22.480,00:00:24.040
+0:00:22.480,0:00:24.040
 # 就是前面这个了
 Here we are, it’s right in front of us
 
-00:00:24.040,00:00:26.680
+0:00:24.040,0:00:26.680
 # 人好像还不是特别多
 There are not that many people now
 
-00:01:09.320,00:01:12.400
+0:00:26.860,0:00:28.600
+# 走吧
+Let's go!
+
+0:01:04.040,0:01:06.240
+# （看下价格）
+(Checking the price)
+
+0:01:09.320,0:01:12.400
 # 阿姨 我 我要一个18块钱的
 Hi aunty, I’ll have a bowl of the 18-yuan noodles
 
-00:01:12.400,00:01:15.480
+0:01:12.400,0:01:15.480
 # 我要一个18块钱的
 I want one of the 18-yuan noodles
 
-00:01:20.840,00:01:23.160
+0:01:20.840,0:01:23.160
 # 面馆这边差不多有5口锅
 There are about 5 pots here
 
-00:01:23.160,00:01:24.880
+0:01:23.160,0:01:24.880
 # 一口锅放了罗汉肉
 There are some pork bellies in one pot
 
-00:01:24.880,00:01:27.520
+0:01:24.880,0:01:27.520
 # 一口锅放了沙茶底汤
 In that one is the satay stock
 
-00:01:27.520,00:01:29.600
+0:01:27.520,0:01:29.600
 # 还有一口锅放的卤豆腐
 Brined tofu is in another pot
 
-00:01:29.600,00:01:33.240
+0:01:29.600,0:01:33.240
 # 还有一口锅是用来汆熟面条的
 This pot is for quick boiling the noodles 
 
-00:01:33.240,00:01:35.920
+0:01:33.240,0:01:35.920
 # 还有呢 就是一锅的肉粽
 The last pot is full of rice dumplings made with pork meat
 
-00:02:00.040,00:02:03.760
+0:02:00.040,0:02:03.760
 # 咱们这个是要的18块钱的基础版
 This is what I ordered, the basic version which costs 18 yuan
 
-00:02:13.640,00:02:17.680
+0:02:13.640,0:02:17.680
 # 你可以看到沙茶面的汤底特别浓郁
 As you can see, the soup of these satay noodles is very rich
 
-00:02:17.680,00:02:19.680
+0:02:17.680,0:02:19.680
 # 泛着微微的红色
 It’s in light red colour
 
-00:02:19.680,00:02:21.920
+0:02:19.680,0:02:21.920
 # 可能是橘色
 Or maybe it’s orange
 
-00:02:21.920,00:02:25.360
+0:02:21.920,0:02:25.360
 # 因为汤是沙茶卤汤
 This is because the soup is made from satay stock
 
-00:02:26.320,00:02:29.120
+0:02:26.320,0:02:29.120
 # 咱们要的这一碗是18块钱的
 Inside this 18-yuan bowl we ordered
 
-00:02:29.120,00:02:32.280
+0:02:29.120,0:02:32.280
 # 里面是加了罗汉肉、鱼丸、豆腐泡
 There are some pork bellies, fish balls, puffed tofu
 
-00:02:32.280,00:02:34.280
+0:02:32.280,0:02:34.280
 # 还有面条
 Some noodles
 
-00:02:34.280,00:02:36.640
+0:02:34.280,0:02:36.640
 # 加了一些豆芽
 And some bean sprouts
 
-00:02:36.640,00:02:38.640
+0:02:36.640,0:02:40.320
 # 最后呢 就是舀了一勺蒜末
 Last but not least, a spoonful of crushed garlic
 
-00:02:40.640,00:02:44.000
+0:02:40.640,0:02:44.000
 # 来了厦门两次 今天总算吃了一碗
 I have come to Xiamen twice, and finally I had the chance to get one of these
 
-00:03:03.720,00:03:06.320
+0:03:03.720,0:03:06.320
 # 不过 我吃这边的面条就是 没有很筋道
 Although the noodles here are not that al-dente
 
-00:03:06.320,00:03:08.960
+0:03:06.320,0:03:08.960
 # 就是 一咬就断
 It means that you can easily break them by one bite
 
-00:03:20.280,00:03:22.400
+0:03:20.280,0:03:22.400
 # 它这个汤就是微甜
 The soup is slightly sweet
 
-00:03:22.400,00:03:24.640
+0:03:22.400,0:03:24.640
 # 还有点辣
 And a little bit spicy
 
-00:03:24.640,00:03:28.000
+0:03:24.640,0:03:28.000
 # 我觉得沙茶面 如果不加肉
 In my opinion, even if no meats are added to the satay noodles
 
-00:03:28.000,00:03:30.120
+0:03:28.000,0:03:30.120
 # 直接是面 加沙茶底汤
 Basically, just noodles in the satay stock
 
-00:03:30.120,00:03:31.280
+0:03:30.120,0:03:31.280
 # 也是很不错的
 It can also be quite good
 
-00:03:31.280,00:03:35.080
+0:03:31.280,0:03:35.080
 # 这个汤会让你觉得，很下面
 As this soup can really lift your appetite to eat the noodles
 
-00:03:41.640,00:03:44.960
+0:03:41.640,0:03:44.960
 # 鱼丸吃起来 就是比较清淡
 On the other hand, these fish balls are very light in taste
 
-00:03:44.960,00:03:46.960
+0:03:44.960,0:03:46.960
 # 口感上比较紧实
 And firm in texture
 
-00:03:49.720,00:03:51.720
+0:03:49.720,0:03:51.720
 # 它里面是有猪肉的
 They are stuffed with some pork
 
-00:03:54.920,00:03:57.600
+0:03:54.920,0:03:57.600
 # 它这个豆腐应该是炸过的吧
 The tofu should have been deep fried
 
-00:03:58.000,00:04:01.440
+0:03:58.000,0:04:01.440
 # 还是能够吸收一定的汤汁的
 So it can absorb decent amounts of soup
 
-00:04:02.440,00:04:04.880
+0:04:02.440,0:04:04.880
 # 它这个豆腐 外面虽然说是金黄色的
 The tofu is golden on the outside
 
-00:04:04.880,00:04:07.000
+0:04:04.880,0:04:07.000
 # 但是里面就像卤水豆腐一样
 But inside, it’s like brined tofu
 
-00:04:07.000,00:04:08.680
+0:04:07.000,0:04:08.680
 # 没有很多孔
 There are not that many holes
 
-00:04:08.680,00:04:11.480
+0:04:08.680,0:04:11.480
 # 还是比较柔嫩的
 And it’s quite tender
 
-00:04:11.480,00:04:15.280
+0:04:11.480,0:04:15.280
 # 它这个小店就是 完全靠几个阿姨做起来的店
 This little shop is completed made famous by these aunties
 
-00:04:15.280,00:04:16.520
+0:04:15.280,0:04:16.520
 # 而且是什么
 And you know what
 
-00:04:16.520,00:04:19.040
+0:04:16.520,0:04:19.040
 # 很多人来中山路这边旅游
 A lot of people travelling to Zhongshan Road
 
-00:04:19.040,00:04:21.080
+0:04:19.040,0:04:21.080
 # 可能就会选择这家沙茶面
 Will end up in this Satay Noodle Shop
 
-00:04:21.080,00:04:24.360
+0:04:21.080,0:04:24.360
 # 我两次来这边 这边每次都是人很多
 I’ve been here twice, and there are always full of diners every time I come
 
-00:04:24.360,00:04:27.520
+0:04:24.360,0:04:27.520
 # 今天总算尝到了沙茶面的味道
 Today, I eventually had this opportunity to taste these noodles
 
-00:04:27.520,00:04:29.120
+0:04:27.520,0:04:29.120
 # 主要是起了个大早 而且
 Mostly because I came here rather early in the morning, and
 
-00:04:29.120,00:04:30.880
+0:04:29.120,0:04:30.880
 # 酒店又没有吃的
 There was no food provided in my hotel
 
-00:04:30.880,00:04:33.680
+0:04:30.880,0:04:33.680
 # 到这边来吃碗沙茶面 也不错
 It feels great to come here to have a bowl of the satay noodles
 
-00:04:47.520,00:04:49.560
+0:04:47.520,0:04:48.380
 # 你看 这沙茶汤
 Look at this satay stock
 
-00:04:49.560,00:04:51.200
+0:04:48.380,0:04:49.560
+# 等下人排队
+# 你看 这沙茶汤
+Wait, get in line!
+Look at this satay stock
+
+0:04:49.560,0:04:51.200
 # 沙茶汤 一直不够用啊
 There has never been enough of satay stock
 
-00:04:55.840,00:04:56.720
+0:04:51.300,0:04:53.600
+# 到中午还得煮好多锅
+Need to cook many pots till noon
+
+0:04:55.840,0:04:56.720
 # 看我切猪肝
 Watch me slicing these pork livers
 
-00:04:56.720,00:04:59.160
+0:04:56.720,0:04:59.160
 # 我们切猪肝 切30多年了
 We have been slicing pork livers for more than 30 years
 
-00:05:01.040,00:05:03.840
+0:04:59.600,0:05:00.720
+# 哈哈哈
+[laughters]
+
+0:05:01.040,0:05:03.840
 # 猪肝 试试看 好香的
 Try these pork livers, they smell really good
 
-00:05:06.120,00:05:08.520
+0:05:06.120,0:05:08.520
 # 吃几片猪肝吧 好嫩的
 Have a bite, they are very tender
 
-00:05:08.560,00:05:11.160
+0:05:08.560,0:05:11.160
 # 我烫一点给你们试试看
 I’ll quick boil some for you to try
 
-00:05:12.040,00:05:13.520
+0:05:11.160,0:05:12.040
+# 不用 真不用
+No no, that's too generous
+
+0:05:12.040,0:05:13.520
 # 不要紧的 真的
 It’s ok, seriously
 
-00:05:13.520,00:05:17.200
+0:05:13.520,0:05:17.200
 # 试试看 不要吃多 一点就好
 Have a go, you don’t need to eat much, just a little bit
 
-00:05:19.520,00:05:20.160
+0:05:19.520,0:05:20.160
 # 谢谢
 Thank you
 
-00:05:20.160,00:05:21.880
+0:05:20.160,0:05:21.880
 # 真的很好吃
 They are truly tasty
 
-00:05:46.080,00:05:47.280
+0:05:46.080,0:05:47.280
 # 和阿姨聊了一会儿天
 I had some chats with the aunty there
 
-00:05:47.280,00:05:49.960
+0:05:47.280,0:05:49.960
 # 阿姨说 你们尝尝我们这边的猪肝吧
 She insisted that we should try some of their pork livers
 
-00:05:49.960,00:05:51.240
+0:05:49.960,0:05:51.240
 # 然后 她就是
 Then
 
-00:05:51.240,00:05:55.120
+0:05:51.240,0:05:55.120
 # 汆了一下几片猪肝还有罗汉肉给我们吃
 She quick boiled a few pieces of pork livers with some pork bellies for us
 
-00:05:55.120,00:05:58.280
+0:05:55.120,0:05:58.280
 # 我们尝尝吧
 Let’s have a try
 
-00:05:58.280,00:06:01.440
+0:05:58.280,0:06:01.440
 # 这么汆熟的好嫩啊
 They are so tender by quick boiling like this
 
-00:06:02.320,00:06:05.480
+0:06:02.320,0:06:05.480
 # 阿姨说 切猪肝切了30多年
 The aunty said she had been slicing pork livers for 30 years
 
-00:06:05.480,00:06:09.280
+0:06:05.480,0:06:09.280
 # 现在能够达到的水平就是 切到厚薄均匀
 And she had reached the level of slicing them into evenly thick pieces
 
-00:06:09.600,00:06:13.400
+0:06:09.600,0:06:13.400
 # 这个沙茶底汤真的是爱了
 I absolutely love this satay soup
 
-00:06:46.520,00:06:49.520
+0:06:46.520,0:06:49.520
 # 关 注 雪 鱼 探 店
 Follow China Food Travel
