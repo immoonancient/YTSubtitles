@@ -1,0 +1,645 @@
+0:00:00.480,0:00:02.540
+#我兄弟把那个猪肉现在在解冻
+My buddie is now defrosting the pork.
+
+0:00:02.540,0:00:05.680
+#他碳都生好了我以为都烤好了等我来吃
+I thought were already here for us as I see the charcoal is already set.
+
+0:00:09.660,0:00:10.940
+#你们家的狗太可爱了
+You dogs are simply too cute!
+
+0:00:18.480,0:00:20.000
+#怎么 还要烤一个鸡来吃啊
+What? We also have a chicken to grill?
+
+0:00:20.000,0:00:22.280
+#我兄弟家 我兄弟带的鸡过来
+It's taken from my buddy, my buddy's home.
+
+0:00:26.340,0:00:27.540
+#这样才能更入味 (註︰Penetrate這字對村霸來說太深奧了)
+Then the flavor can be better absorbed.
+
+0:00:30.980,0:00:33.220
+#很难得可以尝到你做的
+I am so, so privileged to have a chance to try your cooking. 
+
+0:00:33.980,0:00:34.540
+#很难得
+It's really a privilege.
+
+0:00:36.600,0:00:39.160
+#怎么难得 经常来经常做给你吃
+What privilege? Visit me more often. I am at your disposal.
+
+0:00:40.720,0:00:42.040
+#很好吃的这个
+It tastes really good.
+
+0:00:43.600,0:00:45.740
+#上次给你的宽油用完没有
+Have you used up the Kuan You (literally "broad oil") that I gave you last time?
+
+0:00:45.900,0:00:47.100
+#用完了用完了
+Yea, yea
+
+0:00:47.100,0:00:47.940
+#没了
+No more
+
+0:00:48.840,0:00:50.300
+#下次重新给你带过来
+I'll bring another bucket for you next time.
+
+0:00:50.300,0:00:51.480
+#好 没问题
+Sure! No problem!
+
+0:00:52.140,0:00:53.020
+#还差些什么
+What's missing?
+
+0:00:53.020,0:00:53.860
+#还差料酒
+Perhaps cooking wine?
+
+0:00:53.860,0:00:54.800
+#辣椒粉
+Chili powder
+
+0:00:57.280,0:00:58.140
+#这个要拿吗
+Do you need this?
+
+
+0:00:58.140,0:01:02.580
+料酒 那个猪已经有料酒了提前入味了
+#Cooking wine, the pork is already marinated with cooking wine beforehand.
+
+0:01:02.660,0:01:05.700
+对 我忘记了你的猪是醉死的
+#Yea, I've forgotten that your pigs are drunk to death.
+
+0:01:07.480,0:01:10.780
+#盐稍微放多一点 最近口味比较重
+Um, here, we need slightly more salt. I prefer stronger taste recently.
+
+0:01:11.305,0:01:12.305
+#是吗
+Really?
+
+0:01:17.485,0:01:18.485
+#再加点料酒
+Put some cooking wine as well,
+
+0:01:23.215,0:01:24.215
+#再加点油
+and some oil.
+
+0:01:26.600,0:01:28.460
+我都知道你还要放酱油
+#I also know that you want to put some soy sauce too.
+
+0:01:29.900,0:01:32.240
+酱油 因为酱油（上色）好看
+#Soy sauce. The colour is more appealing with soy sauce.
+
+0:01:33.500,0:01:34.440
+#够不够
+Enough?
+
+0:01:34.440,0:01:35.860
+不够 再加一点
+#No. Put more.
+
+0:01:35.860,0:01:36.900
+好 OK
+#Ya! OK
+
+0:01:37.080,0:01:41.180
+你的传统老配方 熟悉的味道
+#our traditional, old formula.
+
+0:01:42.600,0:01:43.860
+没有辣椒不好吃
+#I won't taste good without chili powder.
+
+0:01:45.240,0:01:47.080
+嗯 辣椒反正你随便放就行
+#Chili powder is completely up to you.
+
+0:01:50.840,0:01:52.840
+#好硬呀这个冰块
+The ice is really hard!
+
+0:01:59.720,0:02:01.360
+这里可能有四五十斤
+#I weighs almost forty or even fifty "jin" (1 jin = 500 grams).
+
+0:02:01.360,0:02:02.460
+#对
+Yup
+
+0:02:08.900,0:02:09.980
+#这个火有点旺
+The fire is a bit too strong.
+
+0:02:11.400,0:02:11.980
+#可以
+It's alright now.
+
+0:02:15.180,0:02:17.300
+猪看起来不小 它排骨没多少呀
+#The pig doesn't look small. But it has just a small piece of ribs.
+
+0:02:18.180,0:02:19.260
+#排骨没有多少
+The ribs are small.
+
+0:02:20.440,0:02:21.520
+#一边就这么一点
+Yea, just a bit on each side.
+
+0:02:21.760,0:02:23.140
+#行了我们就烤一个排骨吧
+Alright! Let's grill only once piece,
+
+0:02:23.180,0:02:24.880
+#其它搞不下来就算了
+and leave the rest alone.
+
+0:02:24.880,0:02:26.500
+#这还有只鸡嘛对吧
+We still have a chicken, don't we?
+
+0:02:26.500,0:02:29.800
+#明天把这个全部做成腊肉
+I'll use them all to make cured pork tomorrow
+
+0:02:31.220,0:02:31.800
+#可以啦
+Alright!
+
+0:02:31.800,0:02:33.120
+#先把这个鸡先烤了
+Let's grill the chicken first.
+
+0:02:33.120,0:02:33.800
+#好
+Alright!
+
+0:02:37.720,0:02:38.720
+#这个脚后面来慢慢烤
+Let's grill the feet later.
+
+0:02:40.495,0:02:42.345
+#好东西是慢慢的烤出来的
+Good food is always grilled slowly, 
+
+0:02:42.680,0:02:44.200
+#要烤出它的灵魂出来
+so that the soul can shine.
+
+0:02:44.680,0:02:46.120
+#这个鸡兄弟养了很久了
+My buddy had been keeping this chicken for a long time.
+
+0:02:46.620,0:02:50.160
+#早我就想叫他送给我了 他又不肯
+I had been always asking for it. But he said no.
+
+0:02:50.940,0:02:52.340
+#今天（正好）路过他那里
+I passed by his home today, right?
+
+0:02:54.040,0:02:55.940
+#来 你来休息会儿 我来翻
+C'mon. You take a rest. Let me take care of it.
+
+0:02:56.040,0:02:58.000
+#好啊 抓住它的脚
+Sure! Hold its feet.
+
+0:02:59.320,0:03:00.480
+#抓住它的脚
+Hold its feet.
+
+0:03:02.560,0:03:03.540
+#这个鸡可以
+This chicken is really not bad.
+
+0:03:20.560,0:03:24.500
+#这个好啊 鸡翅 我来烤
+That's great! Chicken wings! Let me grill me.
+
+0:03:26.420,0:03:27.820
+#好像都快熟了你那个
+Yours seems to be almost done.
+
+0:03:29.360,0:03:31.300
+#果然是砍下来更好烤
+It's really much more efficient when they're chopped down.
+
+0:03:37.200,0:03:38.200
+#哇 冒油啦
+Wa! The oil is coming out.
+
+0:03:41.380,0:03:42.640
+#鸡翅也冒油了
+The chicken wings too.
+
+0:03:46.420,0:03:47.420
+#你放的什么辣椒
+What sort of chili did you put?
+
+0:03:47.875,0:03:48.875
+#辣椒粉
+Chili powder
+
+0:03:49.665,0:03:50.735
+#好像有点辣诶
+It's seems to be a bit spicy.
+
+0:03:50.740,0:03:51.440
+#有点辣
+Is it?
+
+0:03:53.140,0:03:54.800
+#但是我喜欢哈哈哈
+But I like it! Ha ha ha!
+
+0:03:59.945,0:04:01.265
+#别烤着烤着就剩下一把骨头了
+Don't have only the bones left after grilling.
+
+0:04:02.535,0:04:04.765
+#边烤边吃
+We grill and eat and grill and eat...
+
+0:04:14.200,0:04:16.360
+#这个都焦了 不吃可惜了这个
+Here is already burnt. If would simply be wasted if it's not eaten now.
+
+0:04:16.360,0:04:17.440
+#这个好吃
+It tates good.
+
+0:04:20.400,0:04:21.660
+#嗯很香吧
+Um! It tastes good.
+
+0:04:24.700,0:04:25.720
+#有点辣
+It's a bit spicy.
+
+0:04:33.380,0:04:35.500
+#你这个技术真的是越来越好了
+Your skills are really advancing.
+
+0:04:36.840,0:04:39.380
+#华农哥 我觉得你很会烤这种东西哦
+Mr. Huanong, I feel that you're really good at grilling these stuffs,
+
+0:04:39.380,0:04:40.780
+#很会烤哦
+good at grilling.
+
+0:04:40.820,0:04:42.000
+#还好吧
+Not too bad, perhaps?
+
+0:04:44.140,0:04:45.240
+#教教我呗
+Can you teach me?
+
+0:04:45.420,0:04:47.380
+#想吃就烤啊这个
+Here, we grill whenever we want.
+
+0:04:48.440,0:04:50.460
+#传授下经验撒
+Share your experienced.
+
+0:04:50.605,0:04:53.145
+熟能生巧 多烤点
+#Practice makes perfect. Grill more.
+
+0:04:53.495,0:04:56.785
+把刚哥家的那些鸡呀鸭呀统统烤掉
+#Grill all the chickens, ducks, everything at Gang Ge's place. (Ge: Honorific title for Wang Gang)
+
+0:04:57.500,0:04:58.840
+#马上就会
+You would become an expert immediately.
+
+0:04:58.840,0:04:59.800
+#刚哥都是教我炒的
+Gang Ge teaches me stir-frying,
+
+0:05:00.040,0:05:01.520
+#怎么炒怎么做
+the skills of stir-frying.
+
+0:05:02.440,0:05:03.440
+#也行呀
+It's good as well.
+
+0:05:04.920,0:05:06.300
+#炒的也很好吃
+Stir-frying is also very tasty.
+
+0:05:13.400,0:05:14.420
+#真香
+It smells great.
+
+0:05:17.080,0:05:21.280
+而且还有一种香就是焦焦的香味
+#There's also an aroma, the aroma of caramelization.
+
+0:05:22.540,0:05:23.920
+#你也喜欢吃香的
+You also like this aroma.
+
+0:05:24.900,0:05:27.280
+#你哥小时候 你们谁调皮一点
+Who were naughtier when you were kids? You or your brother?
+
+0:05:28.720,0:05:31.020
+一看就知道啊嘿嘿
+#Isn't it too obvious? Ha ha ha!
+
+0:05:32.780,0:05:34.160
+嘿嘿肯定是我哥啊
+#Isn't it too obvious? Ha ha ha!
+
+0:05:35.260,0:05:36.740
+他在这里不好说
+#You don't wanna say too much when he's around.
+
+0:05:39.120,0:05:41.200
+小时候你们谁挨的打挨的多一点
+
+0:05:43.340,0:05:44.220
+都不挨打的
+#ho were beaten more often when you were kids?
+
+0:05:44.220,0:05:45.140
+都不挨打
+#We were never beaten.
+
+0:05:45.320,0:05:46.320
+那太好了
+#That's great.
+
+0:05:51.565,0:05:52.685
+嗯 那块很好吃
+#Um! That piece tastes very good.
+
+0:06:00.760,0:06:02.360
+#你家的狗吃的真好啊
+It's good to be your dogs.
+
+0:06:02.400,0:06:03.960
+直接吃烤鸡
+#They can have grilled chicken.
+
+0:06:06.660,0:06:07.720
+#加点孜然 (註︰他的只是粉，不是整顆孜然)
+Put some cumin powder.
+
+0:06:20.060,0:06:21.480
+#搞定 可以吃了
+Done! Let's start!
+
+0:06:23.580,0:06:24.760
+#这坨肉好大啊
+It's a huge piece of meat.
+
+0:06:24.940,0:06:26.760
+#别掉了 你吃大块的
+Don't drop it. Take the larger one.
+
+0:06:27.260,0:06:28.780
+#啊 直接一人一块啊
+Ah! Simply each of us has a piece?
+
+0:06:28.780,0:06:29.860
+#对 一人一块
+Yea! One each.
+
+0:06:29.940,0:06:32.320
+#那多不好意思 我吃这么大块的
+Oh, I would seem too greedy. Mine is so large.
+
+0:06:33.560,0:06:34.380
+#来者是客
+You're my guest
+
+0:06:35.760,0:06:36.300
+#谢谢
+Thanks a lot!
+
+0:06:37.580,0:06:39.020
+这么大一块肉
+#What a huge piece of meat!
+
+0:06:44.340,0:06:46.040
+#给一点 不给那么多
+Give them a bit. Don't give too much.
+
+0:06:50.200,0:06:51.680
+#真的很好吃
+It's really tasty.
+
+0:06:55.080,0:06:59.540
+他这个鸡吃起来口感特别香
+#The texture of his chicken is really great and it smells very good too.
+
+0:07:00.120,0:07:02.680
+#我觉得我们那边的鸡跟这边的鸡不一样
+I just feel that it's completely different from our chickens.
+
+0:07:04.500,0:07:06.420
+#他这个是放养的
+His chickens are free-range.
+
+0:07:18.920,0:07:22.380
+#先把这个放上去 这么大块
+Let's put it here first. It's so large.
+
+0:07:25.080,0:07:26.700
+#这块小肉都掉了
+This small piece of meat is already dropping off.
+
+0:07:26.700,0:07:28.660
+这个猪有多大呀 多重
+#How big is the pig, how heavy?
+
+0:07:28.660,0:07:30.320
+#这个猪五十斤左右
+The pig is, about 50 "jin".
+
+0:07:30.320,0:07:31.100
+#五十斤
+50 "jin".
+
+0:07:31.820,0:07:34.120
+#这五十斤排骨也太小了吧
+50 "jin, the ribs are far too small.
+
+0:07:35.140,0:07:35.680
+#是啊
+Yea,
+
+0:07:35.680,0:07:37.380
+#它就有点类似野猪肉哦
+It's quite similar to the pork from wild pigs.
+
+0:07:37.720,0:07:40.060
+#吃起来都差不多
+Yea, it tastes quite similar.
+
+0:07:40.380,0:07:41.940
+#跟那小野猪差不多
+It's just like the wild piglets.
+
+0:07:43.640,0:07:45.720
+#都干了你看 很快的
+Yours is already dried. It's really fast.
+
+0:07:53.200,0:07:54.940
+#猪肉比那个鸡肉还要好吃
+#The pork tastes even better than the chickens.
+
+0:07:54.940,0:07:55.780
+#肯定啊
+Sure!
+
+0:07:56.620,0:07:58.200
+#这猪养了快一年了
+They had been with us for almost a year.
+
+0:07:58.760,0:08:00.280
+#都有感情了是吧
+So you already have a bonding with them, don't you?
+
+0:08:00.280,0:08:00.780
+#对
+Yup
+
+0:08:03.040,0:08:04.040
+#真的很香哦
+It smells really good.
+
+0:08:14.500,0:08:16.240
+#这还有一点点没好
+Here still needs to be grilled for a while.
+
+0:08:20.580,0:08:22.740
+#先把这个架子撤了
+Let me put away the net.
+
+0:08:23.740,0:08:24.560
+#小心掉下去哦
+Don't drop it.
+
+0:08:27.300,0:08:29.460
+#我扶着 等下掉下去就没得吃了
+Let me hold it. If it drops, game over.
+
+0:08:36.080,0:08:39.520
+#兄弟齐心 其利断金是吧
+"In union there is strength", right?
+
+0:08:39.820,0:08:43.820
+#啊 你嘴巴张开我喂你 啊
+Ah! Open your mouth and I'll feed you. Ah!
+
+0:08:47.500,0:08:49.240
+#你差点咬到我的手了
+You almost bit my hand!
+
+0:08:50.980,0:08:51.540
+#香不香
+Is it good?
+
+0:08:55.860,0:08:56.480
+#你也来了
+You are coming too!
+
+0:09:06.320,0:09:10.480
+其实这个排骨真的不需要什么秘制什么料
+#In fact, no secret formula is needed for the ribs.
+
+0:09:10.480,0:09:12.820
+#不用 直接烤就很香很好吃 对
+No
+It's delicious by simply grilling.
+Exactly
+
+0:09:13.260,0:09:16.900
+#首先原材料上面就已经接近满分了
+First thing first, the ingredient is already almost perfect.
+
+0:09:17.200,0:09:18.840
+#肉质比较好
+The texture is really good.
+
+0:09:22.920,0:09:23.920
+#太香了这个
+It's simply wonderful!
+
+0:09:26.660,0:09:28.340
+来我再刷点那个油
+#Let me put on some more oil.
+
+0:09:29.020,0:09:30.500
+刷点油再把它烤
+#Put on some oil and grill for a while.
+
+0:09:35.200,0:09:36.400
+#熟透了
+It's done.
+
+0:09:38.220,0:09:39.520
+#这太香了这个
+It's marvelous!
+
+0:09:40.080,0:09:41.180
+#嗯可以哦
+Um! It's not bad!
+
+0:09:42.460,0:09:45.580
+#就有那种香味 那个香猪肉的味道 (註︰「香豬」好像沒有怎麼的譯法，這款豬叫「環江香豬」所以乾脆叫"Huanjiang pig"啦)
+It's the aroma, I mean, the aroma of Huanjiang pork.
+
+0:09:47.340,0:09:50.740
+#你看一说吃这些狗狗就来了
+Look! The doggies come once you say something about eating.
+
+0:09:51.020,0:09:52.720
+#好啦 本期视频就到这里吧
+Alright! Shall we end the video here? We,
+
+0:09:52.720,0:09:55.560
+我们要吃排骨了
+#We need to enjoy the ribs.
+
+0:09:55.560,0:09:57.860
+#我们要吃排骨了 吃相有点不好
+We need to enjoy the ribs and we don't have really good manner.
+
+0:09:57.860,0:09:59.800
+对啊 好了 拜拜了
+#Exactly! Alright! Bye!
+
+0:10:01.420,0:10:02.120
+别掉了哦
+#Don't drop it!
+
+0:10:02.120,0:10:03.120
+掉了就吃不成了
+#It would be too bad if it drops.
