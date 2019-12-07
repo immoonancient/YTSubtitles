@@ -79,12 +79,12 @@ Chili powder
 Do you need this?
 
 0:00:58.140,0:01:02.580
-料酒 那个猪已经有料酒了提前入味了
-#Cooking wine, the pork is already marinated with cooking wine beforehand.
+#料酒 那个猪已经有料酒了提前入味了
+Cooking wine, the pork is already marinated with cooking wine beforehand.
 
 0:01:02.660,0:01:05.700
-对 我忘记了你的猪是醉死的
-#Yea, I've forgotten that your pigs are drunk to death.
+#对 我忘记了你的猪是醉死的
+Yea, I've forgotten that your pigs are drunk to death.
 
 0:01:07.480,0:01:10.780
 #盐稍微放多一点 最近口味比较重
@@ -103,44 +103,44 @@ Put some cooking wine as well,
 and some oil.
 
 0:01:26.600,0:01:28.460
-我都知道你还要放酱油
-#I also know that you want to put some soy sauce too.
+#我都知道你还要放酱油
+I also know that you want to put some soy sauce too.
 
 0:01:29.900,0:01:32.240
-酱油 因为酱油（上色）好看
-#Soy sauce. The colour is more appealing with soy sauce.
+#酱油 因为酱油（上色）好看
+Soy sauce. The colour is more appealing with soy sauce.
 
 0:01:33.500,0:01:34.440
 #够不够
 Enough?
 
 0:01:34.440,0:01:35.860
-不够 再加一点
-#No. Put more.
+#不够 再加一点
+No. Put more.
 
 0:01:35.860,0:01:36.900
-好 OK
-#Ya! OK
+#好 OK
+Ya! OK
 
 0:01:37.080,0:01:41.180
-你的传统老配方 熟悉的味道
-#our traditional, old formula.
+#你的传统老配方 熟悉的味道
+our traditional, old formula.
 
 0:01:42.600,0:01:43.860
-没有辣椒不好吃
-#It won't taste good without chili powder.
+#没有辣椒不好吃
+It won't taste good without chili powder.
 
 0:01:45.240,0:01:47.080
-嗯 辣椒反正你随便放就行
-#Chili powder is completely up to you.
+#嗯 辣椒反正你随便放就行
+Chili powder is completely up to you.
 
 0:01:50.840,0:01:52.840
 #好硬呀这个冰块
 The ice is really hard!
 
 0:01:59.720,0:02:01.360
-这里可能有四五十斤
-#It weighs almost forty or even fifty "jin" (1 jin = 500 grams).
+#这里可能有四五十斤
+It weighs almost forty or even fifty "jin" (1 jin = 500 grams).
 
 0:02:01.360,0:02:02.460
 #对
@@ -155,8 +155,8 @@ The fire is a bit too strong.
 It's alright now.
 
 0:02:15.180,0:02:17.300
-猪看起来不小 它排骨没多少呀
-#The pig doesn't look small. But it has just a small piece of ribs.
+#猪看起来不小 它排骨没多少呀
+The pig doesn't look small. But it has just a small piece of ribs.
 
 0:02:18.180,0:02:19.260
 #排骨没有多少
@@ -331,8 +331,8 @@ Share your experience.
 #Practice makes perfect. Grill more.
 
 0:04:53.495,0:04:56.785
-把刚哥家的那些鸡呀鸭呀统统烤掉
-#Grill all the chickens, ducks, everything at Gang Ge's place. (Ge: Honorific title for Wang Gang)
+#把刚哥家的那些鸡呀鸭呀统统烤掉
+Grill all the chickens, ducks, everything at Gang Ge's place. (Ge: Honorific title for Wang Gang)
 
 0:04:57.500,0:04:58.840
 #马上就会
@@ -359,8 +359,8 @@ Stir-frying is also very tasty.
 It smells great.
 
 0:05:17.080,0:05:21.280
-而且还有一种香就是焦焦的香味
-#There's also an aroma, the aroma of caramelization.
+#而且还有一种香就是焦焦的香味
+There's also an aroma, the aroma of caramelization.
 
 0:05:22.540,0:05:23.920
 #你也喜欢吃香的
@@ -447,8 +447,8 @@ You're my guest
 Thanks a lot!
 
 0:06:37.580,0:06:39.020
-这么大一块肉
-#What a huge piece of meat!
+#这么大一块肉
+What a huge piece of meat!
 
 0:06:44.340,0:06:46.040
 #给一点 不给那么多
@@ -459,8 +459,8 @@ Give them a bit. Don't give too much.
 It's really tasty.
 
 0:06:55.080,0:06:59.540
-他这个鸡吃起来口感特别香
-#The texture of his chicken is really great and it smells very good too.
+#他这个鸡吃起来口感特别香
+The texture of his chicken is really great and it smells very good too.
 
 0:07:00.120,0:07:02.680
 #我觉得我们那边的鸡跟这边的鸡不一样
@@ -479,8 +479,8 @@ Let's put it here first. It's so large.
 This small piece of meat is already dropping off.
 
 0:07:26.700,0:07:28.660
-这个猪有多大呀 多重
-#How big is the pig, how heavy?
+#这个猪有多大呀 多重
+How big is the pig, how heavy?
 
 0:07:28.660,0:07:30.320
 #这个猪五十斤左右
@@ -516,7 +516,7 @@ Yours is already dried. It's really fast.
 
 0:07:53.200,0:07:54.940
 #猪肉比那个鸡肉还要好吃
-#The pork tastes even better than the chickens.
+The pork tastes even better than the chickens.
 
 0:07:54.940,0:07:55.780
 #肯定啊
@@ -575,8 +575,8 @@ Is it good?
 You are coming too!
 
 0:09:06.320,0:09:10.480
-其实这个排骨真的不需要什么秘制什么料
-#In fact, no secret formula is needed for the ribs.
+#其实这个排骨真的不需要什么秘制什么料
+In fact, no secret formula is needed for the ribs.
 
 0:09:10.480,0:09:12.820
 #不用 直接烤就很香很好吃 对
@@ -597,12 +597,12 @@ The texture is really good.
 It's simply wonderful!
 
 0:09:26.660,0:09:28.340
-来我再刷点那个油
-#Let me put on some more oil.
+#来我再刷点那个油
+Let me put on some more oil.
 
 0:09:29.020,0:09:30.500
-刷点油再把它烤
-#Put on some oil and grill for a while.
+#刷点油再把它烤
+Put on some oil and grill for a while.
 
 0:09:35.200,0:09:36.400
 #熟透了
@@ -629,21 +629,21 @@ Look! The doggies come once you say something about eating.
 Alright! Shall we end the video here? We,
 
 0:09:52.720,0:09:55.560
-我们要吃排骨了
-#We need to enjoy the ribs.
+#我们要吃排骨了
+We need to enjoy the ribs.
 
 0:09:55.560,0:09:57.860
 #我们要吃排骨了 吃相有点不好
 We need to enjoy the ribs and we don't have really good manner.
 
 0:09:57.860,0:09:59.800
-对啊 好了 拜拜了
-#Exactly! Alright! Bye!
+#对啊 好了 拜拜了
+Exactly! Alright! Bye!
 
 0:10:01.420,0:10:02.120
-别掉了哦
-#Don't drop it!
+#别掉了哦
+Don't drop it!
 
 0:10:02.120,0:10:03.120
-掉了就吃不成了
-#It would be too bad if it drops.
+#掉了就吃不成了
+It would be too bad if it drops.
