@@ -1,14 +1,16 @@
+# https://youtu.be/aUBTGWlyxFM
+
 0:00:00.480,0:00:02.540
 #我兄弟把那个猪肉现在在解冻
 My buddie is now defrosting the pork.
 
 0:00:02.540,0:00:05.680
 #他碳都生好了我以为都烤好了等我来吃
-I thought were already here for us as I see the charcoal is already set.
+I thought the food was already here for us as I see the charcoal is already set.
 
 0:00:09.660,0:00:10.940
 #你们家的狗太可爱了
-You dogs are simply too cute!
+Your dogs are simply too cute!
 
 0:00:18.480,0:00:20.000
 #怎么 还要烤一个鸡来吃啊
@@ -20,7 +22,7 @@ It's taken from my buddy, my buddy's home.
 
 0:00:26.340,0:00:27.540
 #这样才能更入味 (註︰Penetrate這字對村霸來說太深奧了)
-Then the flavor can be better absorbed.
+Then the flavor is better.
 
 0:00:30.980,0:00:33.220
 #很难得可以尝到你做的
@@ -74,7 +76,6 @@ Chili powder
 #这个要拿吗
 Do you need this?
 
-
 0:00:58.140,0:01:02.580
 料酒 那个猪已经有料酒了提前入味了
 #Cooking wine, the pork is already marinated with cooking wine beforehand.
@@ -125,7 +126,7 @@ Enough?
 
 0:01:42.600,0:01:43.860
 没有辣椒不好吃
-#I won't taste good without chili powder.
+#It won't taste good without chili powder.
 
 0:01:45.240,0:01:47.080
 嗯 辣椒反正你随便放就行
@@ -137,7 +138,7 @@ The ice is really hard!
 
 0:01:59.720,0:02:01.360
 这里可能有四五十斤
-#I weighs almost forty or even fifty "jin" (1 jin = 500 grams).
+#It weighs almost forty or even fifty "jin" (1 jin = 500 grams).
 
 0:02:01.360,0:02:02.460
 #对
@@ -201,7 +202,7 @@ Good food is always grilled slowly,
 
 0:02:42.680,0:02:44.200
 #要烤出它的灵魂出来
-so that the soul can shine.
+to grill the soul out of it.
 
 0:02:44.680,0:02:46.120
 #这个鸡兄弟养了很久了
@@ -233,7 +234,7 @@ This chicken is really not bad.
 
 0:03:20.560,0:03:24.500
 #这个好啊 鸡翅 我来烤
-That's great! Chicken wings! Let me grill me.
+That's great! Chicken wings! Let me grill.
 
 0:03:26.420,0:03:27.820
 #好像都快熟了你那个
@@ -301,7 +302,7 @@ Your skills are really advancing.
 
 0:04:36.840,0:04:39.380
 #华农哥 我觉得你很会烤这种东西哦
-Mr. Huanong, I feel that you're really good at grilling these stuffs,
+Mr. Huanong, I feel that you're really good at grilling this kind of stuff,
 
 0:04:39.380,0:04:40.780
 #很会烤哦
@@ -321,7 +322,7 @@ Here, we grill whenever we want.
 
 0:04:48.440,0:04:50.460
 #传授下经验撒
-Share your experienced.
+Share your experience.
 
 0:04:50.605,0:04:53.145
 熟能生巧 多烤点
@@ -365,46 +366,47 @@ You also like this aroma.
 
 0:05:24.900,0:05:27.280
 #你哥小时候 你们谁调皮一点
-Who were naughtier when you were kids? You or your brother?
+Who was naughtier when you were kids? You or your brother?
 
 0:05:28.720,0:05:31.020
-一看就知道啊嘿嘿
-#Isn't it too obvious? Ha ha ha!
+#一看就知道啊嘿嘿
+Isn't it too obvious? Ha ha ha!
 
 0:05:32.780,0:05:34.160
-嘿嘿肯定是我哥啊
-#Isn't it too obvious? Ha ha ha!
+#嘿嘿肯定是我哥啊
+Ha ha ha! It has to be my brother!
 
 0:05:35.260,0:05:36.740
-他在这里不好说
-#You don't wanna say too much when he's around.
+#他在这里不好说
+You don't wanna say too much when he's around.
 
 0:05:39.120,0:05:41.200
-小时候你们谁挨的打挨的多一点
+#小时候你们谁挨的打挨的多一点
+Who was beaten more often when you were kids?
 
 0:05:43.340,0:05:44.220
-都不挨打的
-#ho were beaten more often when you were kids?
+#都不挨打的
+We were never beaten.
 
 0:05:44.220,0:05:45.140
-都不挨打
-#We were never beaten.
+#都不挨打
+Never beaten.
 
 0:05:45.320,0:05:46.320
-那太好了
-#That's great.
+#那太好了
+That's great.
 
 0:05:51.565,0:05:52.685
-嗯 那块很好吃
-#Um! That piece tastes very good.
+#嗯 那块很好吃
+Um! That piece tastes very good.
 
 0:06:00.760,0:06:02.360
 #你家的狗吃的真好啊
 It's good to be your dogs.
 
 0:06:02.400,0:06:03.960
-直接吃烤鸡
-#They can have grilled chicken.
+#直接吃烤鸡
+They can have grilled chicken.
 
 0:06:06.660,0:06:07.720
 #加点孜然 (註︰他的只是粉，不是整顆孜然)
@@ -488,7 +490,7 @@ The pig is, about 50 "jin".
 
 0:07:31.820,0:07:34.120
 #这五十斤排骨也太小了吧
-50 "jin, the ribs are far too small.
+50 "jin", the ribs are far too small.
 
 0:07:35.140,0:07:35.680
 #是啊
