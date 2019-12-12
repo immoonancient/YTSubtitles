@@ -18,34 +18,68 @@
 | 五花肉 |          pork belly          |
 | 二刀肉 | Erdao Rou (pork leg top cut) |
 | 里脊肉 |       pork tenderloin        |
+|  猪脚  |           pork leg           |
+| 猪后腿 |         pork hind leg        |
+| 猪脑花 |          pork brain          |
+|  肥肠  |        pork intestine        |
 |  牛柳  |       beef tenderloin        |
+|  牛腩  |         beef brisket         |
+|  毛肚  |          beef tripe          |
+|  牛鞭  |          bull pizzle         |
 |  羊肉  |             lamb             |
 | 羊腿肉 |           lamb leg           |
 | 童子鸡 |        young chicken         |
+|  土鸡  |      free range chicken      |
+|  肉鸡  |        broiler chicken       |
+|  鸭掌  |          duck feet           |
+|  牛蛙  |           bullfrog           |
 |  鲤鱼  |             carp             |
 |  草鱼  |          grass carp          |
-|  花鲢  |         silver carp          |
+|  花鲢  |        bighead carp          |
 |  鲈鱼  |             bass             |
 | 笋壳鱼 |         marble goby          |
+|  黄鳝  |       Asian swamp eel        |
 
 ## 新鲜蔬菜 / Fresh Vegetables
 
+|     中文     |           English            |
+| :----------: | :--------------------------: |
+|     小葱     |     scallion/green onion     |
+|     大葱     |        spring onions         |
+|     韭菜     |        chinese chive         |
+|     洋葱     |            onion             |
+|     西芹     |            celery            |
+|     芹菜     |         leaf celery          |
+|    青江菜    |         baby bok choy        |
+|    空心菜    |         water spinach        |
+|     包菜     |            cabbage           |
+|     白菜     |         napa cabbage         |
+|     甜椒     |          bell pepper         |
+|     菜椒     |          bell pepper         |
+|    大红椒    |       red bell pepper        |
+|    灯笼椒    |       red bell pepper        |
+|     黄椒     |      yellow bell pepper      |
+|     马蹄     |        water chestnut        |
+|     紫菜     |             nori             |
+|     海带     |             kelp             |
+|     土豆     |            potato            |
+|     豆芽     |          bean sprout         |
+|    玉米粒    |          corn kernel         |
+|     苦瓜     |         bitter gourd         |
+|     莲藕     |          lotus root          |
+|     香菜     |          coriander           |
+|     蒜苗     |        garlic sprouts        |
+|     豇豆     |            cowpea            |
+|     豆角     |            cowpea            |
+|    泡豇豆    |        pickled cowpea        |
+
+## 菌菇类 / Mushrooms
+
 |   中文    |       English        |
 | :-------: | :------------------: |
-|   小葱    | scallion/green onion |
-|   大葱    |    spring onions     |
-|   香葱    |        chive         |
-|   西芹    |        celery        |
-|   芹菜    |     leaf celery      |
-|  青江菜   |    baby bok choy     |
-|   马蹄    |    water chestnut    |
 |   香菇    |  shiitake mushroom   |
-|   紫菜    |         nori         |
-|   海带    |         kelp         |
-|   香菜    |      coriander       |
-|   蒜苗    |    garlic sprouts    |
-| 豇豆/豆角 |        cowpea        |
-|  泡豇豆   |    pickled cowpea    |
+|  金针菇   |    enoki mushroom    |
+|  杏鲍菇   | king oyster mushroom |
 
 ## 油类 / Oils
 
@@ -56,11 +90,21 @@
 
 ## 腌制&干货 / Preserved Foods
 
-| 中文 |                  English                  |
-| :--: | :---------------------------------------: |
-| 芽菜 | "Ya Cai" Sichuan preserved mustard greens |
-| 泡椒 |               pickled chili               |
-| 瑶柱 |           Conpoy/dried scallops           |
+| 中文 |                    English                   |
+| :--: | :------------------------------------------: |
+| 芽菜 |   "Ya Cai" Sichuan preserved mustard greens  |
+| 酸菜 |   "Suan Cai" Chinese pickled napa cabbage    |
+| 榨菜 | "Zha Cai" Chinese pickled mustard plant stem |
+| 泡椒 |                pickled chili                 |
+| 腐乳 |              fermented bean curd             |
+| 瑶柱 |             Conpoy/dried scallops            |
+
+## 坚果 / Nuts
+
+| 中文 |        English        |
+| :--: | :-------------------: |
+| 花生 |        peanut         |
+| 核桃 |        walnut         |
 
 ## 香料 / Spices
 
@@ -78,12 +122,15 @@
 |    小茴香     |         fennel seed         |
 |     白蔻      |       white cardamom        |
 |     桂皮      |          cinnamon           |
+|     丁香      |            clove            |
 |     香叶      |          bay leaf           |
 |     孜然      |         cumin seed          |
+|     芝麻      |           sesame            |
 |    干辣椒     |     dried chili pepper      |
 | 子弹头/朝天椒 | "Chaotianjiao" chili pepper |
 |    小米辣     |   "Xiaomila" chili pepper   |
 |    二荆条     |  "Erjingtiao" chili pepper  |
+|    七星椒     |   "Qixingjiao" chili pepper |
 |     陈皮      |    (dried) mandarin peel    |
 
 ## 调料 / Condiments
@@ -105,6 +152,8 @@
 |   冰糖   |            white rock sugar            |
 |  甜面酱  |   "Tian Mian Jiang" sweet bean paste   |
 |   卤水   |              master stock              |
+|   香油   |               sesame oil               |
+|   蚝油   |              oyster sauce              |
 
 ## 术语 / Technical Terms
 
@@ -117,18 +166,34 @@
 |      切块      |          dice / cut ... into dice           |
 |      切沫      |         shred / cut ... into shreds         |
 |      切片      |         slice / cut ... into slices         |
-| 顺着纹路（切）  |               with the grain                 |
-| 逆着纹路（切）  |              against the grain               |
+|     斜刀切     |                  slant-cut                  |
+| 顺着纹路（切）  |               with the grain                |
+| 逆着纹路（切）  |              against the grain              |
 |      切粒      |         fine dice/ grain-sized dice         |
-|      切丝      |                  julienne                   |
+|      切丝      |                julienne / shred             |
 |      明油      |   Ming You (literally "brightening oil")    |
 |      宽油      |       Kuan You (literally "broad oil")      |
 |      底油      |                  base oil                   |
-|      断生      |                    softened                 |
+|      断生      |                   softened                  |
 |      香味      |                    aroma                    |
 |      鲜味      |                 umami taste                 |
 |      麻味      |                   numbing                   |
 |      爆香      | bring out the taste/stir fry until aromatic |
 |      爆炒      |              Fry on high heat               |
 |      入味      |             flavor penetration              |
-|       腌       |                  marinade                   |
+|       腌       |                  marinate                   |
+|     层次感     |               layering of...                |
+|     锅烧热     |              heat up the wok                |
+|     植物油     |               vegetable oil                 |
+|      拍散      |                  crush                      |
+|      定型      |               fixed shape                   |
+|      调味      |                  season                     |
+
+## 待分类 / To Be Classified
+
+|  中文  |         English         |
+| :----: | :---------------------: |
+| 豆腐皮 |        tofu skin        |
+|  鱼鳞  |      fish scale         |
+|  鱼刺  |       fishbone          |
+|  鱼鳞  |      fish scale         |
