@@ -28,22 +28,22 @@
 |  牛鞭  |          bull pizzle         |
 |  羊肉  |             lamb             |
 | 羊腿肉 |           lamb leg           |
- | 童子鸡 |        young chicken         |
- |  土鸡  |      free range chicken      |
- |  肉鸡  |        broiler chicken       |
+| 童子鸡 |        young chicken         |
+|  土鸡  |      free range chicken      |
+|  肉鸡  |        broiler chicken       |
 |  鸭掌  |          duck feet           |
 |  牛蛙  |           bullfrog           |
 |  鲤鱼  |             carp             |
 |  草鱼  |          grass carp          |
- |  花鲢  |        bighead carp          |
+|  花鲢  |        bighead carp          |
 |  鲈鱼  |             bass             |
 | 笋壳鱼 |         marble goby          |
 |  黄鳝  |       Asian swamp eel        |
 
 ## 新鲜蔬菜 / Fresh Vegetables
 
-|   中文    |       English        |
-| :-------: | :------------------: |
+|     中文     |           English            |
+| :----------: | :--------------------------: |
 |     小葱     |     scallion/green onion     |
 |     大葱     |        spring onions         |
 |     韭菜     |        chinese chive         |
@@ -130,7 +130,7 @@
 | 子弹头/朝天椒 | "Chaotianjiao" chili pepper |
 |    小米辣     |   "Xiaomila" chili pepper   |
 |    二荆条     |  "Erjingtiao" chili pepper  |
-|    七星椒     |   "Qixingjiao" chili pepper   |
+|    七星椒     |   "Qixingjiao" chili pepper |
 |     陈皮      |    (dried) mandarin peel    |
 
 ## 调料 / Condiments
@@ -170,7 +170,7 @@
 | 顺着纹路（切）  |               with the grain                |
 | 逆着纹路（切）  |              against the grain              |
 |      切粒      |         fine dice/ grain-sized dice         |
- |      切丝      |                julienne / shred             |
+|      切丝      |                julienne / shred             |
 |      明油      |   Ming You (literally "brightening oil")    |
 |      宽油      |       Kuan You (literally "broad oil")      |
 |      底油      |                  base oil                   |
@@ -181,18 +181,18 @@
 |      爆香      | bring out the taste/stir fry until aromatic |
 |      爆炒      |              Fry on high heat               |
 |      入味      |             flavor penetration              |
- |       腌       |                  marinate                   |
- |   层次感    |               layering of...                |
- |   锅烧热    |              heat up the wok          |
- |   植物油    |               vegetable oil              |
- |      拍散     |                  crush                       |
- |     定型     |             fixed shape                  |
- |     调味     |                  season                    |
+|       腌       |                  marinate                   |
+|     层次感     |               layering of...                |
+|     锅烧热     |              heat up the wok                |
+|     植物油     |               vegetable oil                 |
+|      拍散      |                  crush                      |
+|      定型      |               fixed shape                   |
+|      调味      |                  season                     |
 
 ## 待分类 / To Be Classified
 
-|  中文  |  English  |
-| :----: | :-------: |
+|  中文  |         English         |
+| :----: | :---------------------: |
 | 豆腐皮 |        tofu skin        |
 |  鱼鳞  |      fish scale         |
 |  鱼刺  |       fishbone          |
