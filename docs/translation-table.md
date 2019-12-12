@@ -38,7 +38,7 @@
  |  花鲢  |        bighead carp          |
 |  鲈鱼  |             bass             |
 | 笋壳鱼 |         marble goby          |
-|  黄鳝  |       asian swamp eel        |
+|  黄鳝  |       Asian swamp eel        |
 
 ## 新鲜蔬菜 / Fresh Vegetables
 
