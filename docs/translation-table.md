@@ -193,4 +193,7 @@
 
 |  中文  |  English  |
 | :----: | :-------: |
-| 豆腐皮 | tofu skin |
+| 豆腐皮 |        tofu skin        |
+|  鱼鳞  |      fish scale         |
+|  鱼刺  |       fishbone          |
+|  鱼鳞  |      fish scale         |
