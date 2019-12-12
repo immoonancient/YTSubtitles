@@ -25,15 +25,17 @@
 |  牛柳  |       beef tenderloin        |
 |  牛腩  |         beef brisket         |
 |  毛肚  |          beef tripe          |
-|  牛鞭  |          bull penis          |
+|  牛鞭  |          bull pizzle         |
 |  羊肉  |             lamb             |
 | 羊腿肉 |           lamb leg           |
-| 童子鸡 |        young chicken         |
+ | 童子鸡 |        young chicken         |
+ |  土鸡  |      free range chicken      |
+ |  肉鸡  |        broiler chicken       |
 |  鸭掌  |          duck feet           |
 |  牛蛙  |           bullfrog           |
 |  鲤鱼  |             carp             |
 |  草鱼  |          grass carp          |
-|  花鲢  |         silver carp          |
+ |  花鲢  |        bighead carp          |
 |  鲈鱼  |             bass             |
 | 笋壳鱼 |         marble goby          |
 |  黄鳝  |       asian swamp eel        |
@@ -52,18 +54,23 @@
 |    空心菜    |         water spinach        |
 |     包菜     |            cabbage           |
 |     白菜     |         napa cabbage         |
-| 青/ 红/ 黄椒 | green/red/yellow bell pepper |
+|     甜椒     |          bell pepper         |
+|     菜椒     |          bell pepper         |
+|    大红椒    |       red bell pepper        |
+|    灯笼椒    |       red bell pepper        |
+|     黄椒     |      yellow bell pepper      |
 |     马蹄     |        water chestnut        |
 |     紫菜     |             nori             |
 |     海带     |             kelp             |
 |     土豆     |            potato            |
 |     豆芽     |          bean sprout         |
 |    玉米粒    |          corn kernel         |
-|     苦瓜     |         bitter gourd         |##
+|     苦瓜     |         bitter gourd         |
 |     莲藕     |          lotus root          |
 |     香菜     |          coriander           |
 |     蒜苗     |        garlic sprouts        |
-|   豇豆/豆角  |            cowpea            |
+|     豇豆     |            cowpea            |
+|     豆角     |            cowpea            |
 |    泡豇豆    |        pickled cowpea        |
 
 ## 菌菇类 / Mushrooms
@@ -163,7 +170,7 @@
 | 顺着纹路（切）  |               with the grain                |
 | 逆着纹路（切）  |              against the grain              |
 |      切粒      |         fine dice/ grain-sized dice         |
-|      切丝      |                  julienne                   |
+ |      切丝      |                julienne / shred             |
 |      明油      |   Ming You (literally "brightening oil")    |
 |      宽油      |       Kuan You (literally "broad oil")      |
 |      底油      |                  base oil                   |
@@ -174,7 +181,13 @@
 |      爆香      | bring out the taste/stir fry until aromatic |
 |      爆炒      |              Fry on high heat               |
 |      入味      |             flavor penetration              |
-|       腌       |                  marinade                   |
+ |       腌       |                  marinate                   |
+ |   层次感    |               layering of...                |
+ |   锅烧热    |              heat up the wok          |
+ |   植物油    |               vegetable oil              |
+ |      拍散     |                  crush                       |
+ |     定型     |             fixed shape                  |
+ |     调味     |                  season                    |
 
 ## 待分类 / To Be Classified
 
