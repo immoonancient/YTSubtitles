@@ -13,7 +13,7 @@
 # 这道菜不是靠颜值取胜的，越看越丑，越吃越香。
 
 # Description: 
-I'm Xueyu, searching for the best street foods in the world.
+# I'm Xueyu, searching for the best street foods in the world.
 # Delicious foods in Zhangzhou, Fujian!
 # I found some delicacy in a small alley, which is in a beef-themed small restaurant
 # serving beef soup and fried beef vermicelli.
