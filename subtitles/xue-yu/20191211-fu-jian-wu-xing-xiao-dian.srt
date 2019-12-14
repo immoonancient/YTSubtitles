@@ -1,12 +1,29 @@
 # https://youtu.be/ezTMvEDWuLE
-标题：福建五星苍蝇小店，牛肉当饭吃，20年不挂牌，没有土著带路找不到
-title: a five stars small restaurant in Fujian, eat beef as rice, without brand in 20 years, and hard to find it without local people 
-描述：探寻世界最具烟火气息的美味，我是雪鱼。
-🐟
-福建漳州美食！我在一个小巷子里找到美味，是以牛肉为主题的小店，有牛肉汤、炒牛肉粉丝，特色就是牛肉超多，真的可以把肉当饭吃，不用再点主食！牛肉汤10元一碗，汤鲜味美，喝一口就停不下来。牛肉粉丝17元，足足一大盘，感觉一个人都吃不了。这道菜不是靠颜值取胜的，越看越丑，越吃越香。
-Description: 
-Explored street and local food all over the world, I’m xueyu(fat face fish)
-Delicious foods in zhangzhou, fujian, I found delicious food in a small alley, it is a beef domain restaurant, it have beef soup, fried beef vermicelli, with large amount of beef, eat beef as rice, no need to order staple food,10 yuan for each beef soup, delicious and flavorful, cannot stop once u drink it, 17 yuan for each fried beef vermicelli， with large amount in a plate, more than amount for one people can eat, don’t judge this dish with out look, more ugly u see it, more flavor u eat it.
+
+# 标题：福建五星苍蝇小店，牛肉当饭吃，20年不挂牌，没有土著带路找不到
+# Title: Five-star small beef restaurant in Fujian run without sign for 20 years, hard to find it without locals
+# 描述：探寻世界最具烟火气息的美味，我是雪鱼。
+# 🐟
+# 福建漳州美食！
+# 我在一个小巷子里找到美味，是以牛肉为主题的小店，
+# 有牛肉汤、炒牛肉粉丝，
+# 特色就是牛肉超多，真的可以把肉当饭吃，不用再点主食！
+# 牛肉汤10元一碗，汤鲜味美，喝一口就停不下来。
+# 牛肉粉丝17元，足足一大盘，感觉一个人都吃不了。
+# 这道菜不是靠颜值取胜的，越看越丑，越吃越香。
+
+# Description: 
+I'm Xueyu, searching for the best street foods in the world.
+# Delicious foods in Zhangzhou, Fujian!
+# I found some delicacy in a small alley, which is in a beef-themed small restaurant
+# serving beef soup and fried beef vermicelli.
+# They serve such a large amount of beef that
+# you can eat beef as a meal alone without needing to order staple food.
+# Beef soup costs 10 yuan for a bowl, which is delicious and flavorful.
+# You cannot stop once you drink it.
+# Each fried beef vermicelli costs 17 yuan, which is so big that one person can hardly finish it.
+# Don’t judge this dish by its presence.
+# It looks exceptionally ugly but tastes exceptionally flavorful.
 
 
 1
