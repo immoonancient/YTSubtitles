@@ -50,7 +50,6 @@
 |     洋葱     |            onion             |
 |     西芹     |            celery            |
 |     芹菜     |         leaf celery          |
-|     香芹     |            parsley           |
 |    青江菜    |         baby bok choy        |
 |    空心菜    |         water spinach        |
 |     包菜     |            cabbage           |
