@@ -74,7 +74,7 @@ Perhaps it sounds like
 7
 00:00:23,000 --> 00:00:24,760
 # 有些疼痛呢
-a little bit pain?
+a little bit painful?
 
 8
 00:00:24,760 --> 00:00:27,320
@@ -154,7 +154,7 @@ instantly, you could smell
 23
 00:01:57,980 --> 00:01:59,620
 # 香芹的清香味道
-the refreshening aroma of parsley # 香芹 = parsley 加入对译表
+the refreshing aroma of celery
 
 24
 00:01:59,640 --> 00:02:02,600
@@ -189,12 +189,12 @@ with a little bit of oil floating on top
 30
 00:02:20,640 --> 00:02:23,600
 # 汤 喝上去 很清新
-The soup tastes very refreshening
+The soup tastes very refreshing
 
 31
 00:02:23,600 --> 00:02:28,000
 # 还有胡椒粉辛辣的味道
-and also spicy for the pepper power
+and also spicy for the ground pepper
 
 32
 00:02:33,640 --> 00:02:35,640
@@ -204,7 +204,7 @@ So spicy!
 33
 00:02:35,640 --> 00:02:38,400
 # 是胡椒粉的辣味
-It’s the spiciness of pepper power
+It’s the spiciness of ground pepper
 
 34
 00:02:41,760 --> 00:02:44,920
@@ -520,5 +520,4 @@ Look at the path, which is rugged
 00:06:22,640 --> 00:06:25,360
 # 关 注 雪 鱼 探 店
 Subscribe
-
 
