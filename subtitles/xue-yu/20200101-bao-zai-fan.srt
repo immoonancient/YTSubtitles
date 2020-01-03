@@ -332,7 +332,7 @@ The rice is still very hot
 66
 00:04:19,040 --> 00:04:22,360
 # 这个煲仔饭是从炉子上刚拿下来的
-The baozaifan was just moved from a stove
+The baozaifan was just removed from a stove
 
 67
 00:04:22,760 --> 00:04:24,600
@@ -407,7 +407,7 @@ So it’s still the eel that’s more tasty
 81
 00:05:34,680 --> 00:05:37,400
 # 黄鳝都是这种大骨头 硬骨头
-The eel bons are all big and hard
+The eel bones are all big and hard
 
 82
 00:05:37,400 --> 00:05:40,040
@@ -457,7 +457,7 @@ because of the heat remaining in it
 91
 00:05:58,880 --> 00:06:01,080
 # 越吃感觉脸越热
-The more you eat, the hotter in your face
+The more you eat, the hotter your face
 
 92
 00:06:13,200 --> 00:06:15,200
@@ -477,5 +477,4 @@ the sis at the door keeps saying
 95
 00:06:24,200 --> 00:06:28,200
 # 您好 吃饭现在得拼桌了
-“Hello, need to share tables now”
-
+“Hello, you have to share a table with other customers at the moment”
