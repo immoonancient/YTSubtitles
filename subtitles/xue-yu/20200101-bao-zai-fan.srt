@@ -16,7 +16,7 @@ We are now heading for “baozaifan” (claypot rice)
 3
 00:00:16,800 --> 00:00:19,440
 # 你好 现在需要拼桌 得上二楼
-- Hello, need to share tables now
+- Hello, you have to share a table with other customers at the moment
 - Go upstairs?
 
 4
