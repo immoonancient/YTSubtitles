@@ -8,62 +8,62 @@
 1
 00:00:24,640 --> 00:00:26,600
 # 今天我们要去吃一碗面
-We will have a bowl of noodle today
+We will have a bowl of noodles today
 
 2
 00:00:26,600 --> 00:00:28,360
 # 它的名字叫肠旺面
-Its name is “Changwang noodle”(lit:pig
+Its name is “Changwang noodles” (lit: noodles with pork intestine and blood curd)
 
 3
 00:00:28,360 --> 00:00:30,560
 # 里面的材料就像它的名字一样
-Its ingredients just like its name
+Its ingredients are just like its name
 
 4
 00:00:30,560 --> 00:00:32,320
 # 有肠 有血旺 有面
-It have Pig intestine, pig blood curd and noddle
+It has pig intestine, pig blood curd and noddle
 
 5
 00:00:32,320 --> 00:00:34,520
-# 就是这么简单而且直接
-Just that simply and straightly
+# 就是这么简单而且露骨
+Just that simple and explicit
 
 6
 00:00:34,520 --> 00:00:36,000
 # 看看吧
-Lets see
+Let's see
 
 7
 00:00:46,240 --> 00:00:48,560
 # 我们现在是排队拿牌子
-We are lining up for brand
+We are lining up to make an order
 
 8
 00:00:48,560 --> 00:00:51,280
 # 然后到旁边的这边去端面条
-And go there to get our noodle
+And then go there to get our noodles
 
 9
 00:00:54,840 --> 00:00:58,360
 # 一碗 肠旺面 + 鸡蛋
-A bowl of “changwang noodle” add an egg
+A bowl of “changwang noodle” plus an egg
 
 10
 00:01:04,360 --> 00:01:06,120
 # 我们现在拿到了小牌
-We get small brands now
+We got the small order cards now
 
 11
 00:01:06,120 --> 00:01:08,320
 # 在这边排队领面
-Line up over there to get bowl of noodle
+Lining up here to get noodles
 
 12
 00:01:09,480 --> 00:01:12,160
 # 等待着自己的面条
-Wait for our own noddle
+Waiting for our own noddles
 
 13
 00:01:41,500 --> 00:01:43,500
@@ -73,7 +73,7 @@ Plenty of ingredients in the bowl
 14
 00:02:09,480 --> 00:02:11,560
 # 好了 走吧
-Okay. Lets go
+Okay. Let's go
 
 15
 00:02:50,200 --> 00:02:51,240
@@ -83,22 +83,22 @@ Not easy
 16
 00:02:51,240 --> 00:02:53,840
 # 咱们找了这么一个小的角落
-We find a small corner
+We finally found this small corner
 
 17
 00:02:53,840 --> 00:02:55,800
 # 来吃这碗肠旺面
-To eat this “changwang”noodle
+To enjoy the “changwang” noodles
 
 18
 00:02:55,800 --> 00:02:57,680
 # 这碗面是12块钱
-This bowl of noodle is 12 yuan
+This bowl of noodles is 12 yuan
 
 19
 00:02:57,680 --> 00:02:59,200
 # 咱们又加了一个鸡蛋
-We add an egg
+We added an egg
 
 20
 00:02:59,200 --> 00:03:00,720
@@ -123,47 +123,47 @@ They have two pots of pickles, open for us
 24
 00:03:16,920 --> 00:03:18,000
 # 然后呢 就是这个面
-Then this is the noodle
+Then there are the noodles
 
 25
 00:03:18,000 --> 00:03:19,760
 # 这个面就是放在一口大锅里
-This noodle is cooked in a big pot with hot water
+The noodles are cooked in a big pot with hot water
 
 26
 00:03:19,760 --> 00:03:22,600
 # 烫差不多20多秒 就可以出锅
-Ready to serve for boiling around 20 seconds
+Ready to serve after boiling for around 20 seconds
 
 27
 00:03:22,600 --> 00:03:24,640
 # 然后呢 就是给你放上红油
-And then topping with red oil
+And then there is chili oil
 
 28
 00:03:24,640 --> 00:03:26,160
 # 放上自己要的料
-Put what ingredients you likes
+And whatever ingredients you like
 
 29
 00:03:26,160 --> 00:03:28,000
 # 最后呢 就是撒上香葱
-Topping with green onion at the end
+Finally, it's topped with chopped green onion
 
 30
 00:03:28,800 --> 00:03:30,200
 # 我是第一次看到这样的面
-This is first time I have seen noodle like this
+This is first time I have seen noodles like this
 
 31
 00:03:30,200 --> 00:03:31,960
 # 它这个面很像方便面
-This noodle very like instant noodle
+The noodle looks like instant noodle very much
 
 32
 00:03:31,960 --> 00:03:34,080
 # 面条应该是加了蛋黄
-This noodle (不知道怎么翻合适)
+There should be egg yolk added into it
 
 33
 00:03:34,080 --> 00:03:36,320
@@ -173,17 +173,17 @@ Therefore its color seems very yellow
 34
 00:03:36,320 --> 00:03:38,240
 # 还有一点就是 它像方便面一样
-And another point is the noodle like instant noodle
+And another point is that the noodle is like instant noodle
 
 35
 00:03:38,240 --> 00:03:40,560
 # 呈这种波浪形 但是
-With wavy shape, but
+With a wavy shape, but
 
 36
 00:03:40,560 --> 00:03:44,800
 # 我只是说外形上 比方便面要细很多
-What I mean is at the outlooks is wavy, and it also thinner than instant noodle
+What I mean is the presence only, and it is also thinner than instant noodle
 
 37
 00:03:45,080 --> 00:03:47,800
@@ -197,26 +197,28 @@ The “instant noodle like” noodle
 
 39
 00:04:06,040 --> 00:04:07,800
-吃起来是有点硬的
+# 吃起来是有点硬的
+It feels a bit tough
 
 40
 00:04:07,800 --> 00:04:09,800
 # 而且它是有点细的
-And it also a little thinner than regular noodle
+And it is also a little thinner than regular noodle
 
 41
 00:04:09,800 --> 00:04:12,560
-一筷子下去 面条携带着红油
+# 一筷子下去 面条携带着红油
+Whenever you pick up the noodles into your mouth,
 
 42
 00:04:12,560 --> 00:04:14,160
 # 一起入口
-With one mouth
+the chili oil is also carried together
 
 43
 00:04:15,360 --> 00:04:19,080
 # 它这里面除了猪大肠 血旺 还加了脆哨
-“cui shao” is added in the noodle
+Besides pork intestine and blood curd, there is also “cui shao” in the noodle
 
 44
 00:04:20,040 --> 00:04:22,560
@@ -226,7 +228,7 @@ Minced pork belly
 45
 00:04:26,280 --> 00:04:28,800
 # 像油渣一样香
-As fragrant as oil residue
+As fragrant as lard residue
 
 46
 00:04:28,800 --> 00:04:31,160
@@ -236,7 +238,7 @@ In Guiyang you can find out
 47
 00:04:31,160 --> 00:04:33,920
 # 它的很多的食物当中 比如说 糯米饭
-That
+about a lot of local foods that... For example, sticky rice
 
 48
 00:04:33,920 --> 00:04:35,400
@@ -246,7 +248,7 @@ For example, other street food
 49
 00:04:35,400 --> 00:04:38,800
 # 都会加这个脆哨 它是一种神奇的食物
-They all add “cuishao”, it’s a amazing food
+They all add “cuishao”, which is an amazing food
 
 50
 00:04:38,800 --> 00:04:41,040
@@ -256,21 +258,22 @@ Pig blood curd is tender
 51
 00:04:41,040 --> 00:04:43,640
 # 猪大肠呢 就是比较筋道
-Pig intestine is
+while pig intestine is kind of chewy
 
 52
 00:04:43,640 --> 00:04:46,480
 # 还有呢 就是这个红油 看起来很红 很油
-And this red oil looks very red and oily
+And, although this chili oil looks very red and oily
 
 53
 00:04:46,480 --> 00:04:49,800
-但是吃面的时候 携带着这个汤汁
+# 但是吃面的时候 携带着这个汤汁
+it comes into your mouth together with the soup
 
 54
 00:04:49,800 --> 00:04:52,200
 # 还是觉得可以接受的
-It could be accepted
+which could still be accepted
 
 55
 00:05:16,100 --> 00:05:18,600
@@ -280,12 +283,12 @@ Aunty, is this street food made from potato?
 56
 00:05:18,620 --> 00:05:20,480
 # 没有添加其他东西吗？
-Not extra ingredients?
+No extra ingredients?
 
 57
 00:05:20,720 --> 00:05:21,360
 # 放了盐
-We add salt
+We added salt
 
 58
 00:05:21,560 --> 00:05:23,560
@@ -295,17 +298,17 @@ Oh, its salty inside
 59
 00:05:32,740 --> 00:05:34,960
 # 今天我们要买这个3元钱的土豆泥
-We gonna buy this 3 yuan mashed potatoes today
+We're gonna buy this 3 yuan mashed potato today
 
 60
 00:06:01,300 --> 00:06:03,300
 # 需要自己加料
-You need add ingredients by your own
+You need to add ingredients by yourself
 
 61
 00:06:03,420 --> 00:06:05,420
 # 酸萝卜 折耳根 这份辣椒不辣 提香的
-Sour radish, fish mint
+Sour radish, fish mint. This pepper is not spicy, only fragrant
 
 62
 00:06:05,740 --> 00:06:07,740
@@ -320,7 +323,7 @@ So we add less pepper this time
 64
 00:06:14,080 --> 00:06:16,080
 # 折耳根是调料灵魂所在
-Fish mint is the spirit seasoning
+Fish mint is the soul of the seasoning
 
 65
 00:06:19,000 --> 00:06:21,000
@@ -330,12 +333,12 @@ Put fish mint aside
 66
 00:06:21,640 --> 00:06:23,640
 # 万一吃不了它的味道
-Let’s see if we don’t like it
+Just in case we don’t like it
 
 67
 00:06:23,920 --> 00:06:25,920
 # 最后加点酸萝卜
-Add few sour radish
+Add a little sour radish
 
 68
 00:06:27,280 --> 00:06:29,280
@@ -350,12 +353,12 @@ This potato baba is 3 yuan
 70
 00:06:36,940 --> 00:06:38,940
 # 我把所有蘸料都加了一遍
-I added every ingredients
+I added every ingredient
 
 71
 00:06:39,400 --> 00:06:42,740
 # 满满的一盒 闻着好香
-Full of a box, smelled so good
+A full box, which smells so good
 
 72
 00:06:49,480 --> 00:06:51,480
@@ -365,7 +368,7 @@ This mashed taro is a little crispy
 73
 00:06:51,680 --> 00:06:53,680
 # 蘸着这个调料来吃
-Eat with dipping of seasonings
+Let's eat with this dipping sauce
 
 74
 00:06:53,920 --> 00:06:55,920
@@ -375,19 +378,19 @@ Sour and spicy
 75
 00:06:56,460 --> 00:06:58,000
 # 加上土豆的绵软口感
-And with smooth and soft texture
+And with a smooth and soft texture of potato
 
 76
 00:06:58,800 --> 00:07:02,540
 # 你看在贵阳的小吃摊上 都有至少5盆蘸水
-U can find at least 5 dipping water at every street food
+In Guiyang, you can find at least 5 different dipping sauces at every street food booth
 
 77
 00:07:02,840 --> 00:07:05,440
 # 像折耳根 辣椒这些料 才是真正主角
-Ingredients like fish mint, pepper is the main characters of street food
+Ingredients like fish mint and pepper are the main characters of street food
 
 78
 00:07:05,820 --> 00:07:08,480
 # 而芋泥只能沦为配角
-Mashed taro became co-star into those street food
+Mashed taro has to be second class only
