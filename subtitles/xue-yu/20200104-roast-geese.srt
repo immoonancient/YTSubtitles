@@ -18,17 +18,17 @@ Next to them, strings of barbecue pork.
 4
 00:00:11,960 --> 00:00:14,720
 # 它们不仅颜色好看 外皮红亮
-Not only are they eye appealing, shiny red,
+Not only are they visually appealing, shiny red,
 
 5
 00:00:14,720 --> 00:00:16,880
 # 而且还流着汤汁
-but also the juice is dripping down.
+but also dripping juice
 
 6
 00:00:17,020 --> 00:00:19,020
 # 太诱人了！
-It’s really seducing!
+It’s really tempting!
 
 7
 00:00:24,800 --> 00:00:28,320
@@ -38,7 +38,7 @@ We are now in “Da Tou Hua Roast Geese Restaurant”
 8
 00:00:28,640 --> 00:00:31,760
 # 这不是传说当中的菜单吗
-Isn’t it the menu in the legend?
+Legend has it that this is the menu
 
 9
 00:00:31,760 --> 00:00:34,160
@@ -63,12 +63,12 @@ And there are also large, medium and small portion
 13
 00:00:41,160 --> 00:00:43,760
 # 还有鹅杂三拼
-There’s also goose trio.
+There’s also goose giblets trio.
 
 14
 00:00:43,760 --> 00:00:47,480
 # 真的 鹅的全身都是宝 一样都跑不了
-The geese are really stuffed with treasure, everything.
+The geese are really stuffed with treasure, everything can be edible
 
 15
 00:00:47,480 --> 00:00:48,920
@@ -99,7 +99,7 @@ Wa! There are geese too.
 20
 00:00:57,640 --> 00:01:01,280
 # 这个是等一下 要去被风干的鹅
-These geese are to be dried.
+These geese are to be air dried.
 
 21
 00:01:01,960 --> 00:01:04,440
@@ -129,7 +129,7 @@ We now (come down and have a look)
 26
 00:01:15,120 --> 00:01:16,680
 # 大瓦缸
-It’s simple, this is a big porcelain tank.
+A big clay oven.
 
 27
 00:01:18,680 --> 00:01:21,120
@@ -154,7 +154,7 @@ The processed geese are parched in the oven.
 31
 00:01:28,240 --> 00:01:30,920
 # 在鹅的皮上 洒脆皮卤水
-On the skin of the geese, we spray some crispy master stock.
+On the skin of the geese, we spray some crispyfy-ing master stock.
 
 32
 00:01:30,920 --> 00:01:34,480
@@ -169,7 +169,7 @@ Before they’re roasted in the oven.
 34
 00:01:37,480 --> 00:01:39,240
 # 这个没有色素的
-It’s free of any colouring.
+It’s free of any food colouring.
 
 35
 00:01:39,240 --> 00:01:41,480
@@ -189,7 +189,7 @@ Eight or nine “jin” (1 “jin” = 500 grams)
 38
 00:01:47,240 --> 00:01:50,280
 # 每一只鹅都气鼓鼓的
-The geese look flattened.
+The geese look puffy.
 
 39
 00:01:54,160 --> 00:01:57,840
@@ -288,12 +288,12 @@ The temperature is really high outside.
 58
 00:03:28,080 --> 00:03:30,600
 # 你却把这个鹅皮搞干了
-But you dry the skin of the geese.
+By the time the skin of the geese is dried,
 
 59
 00:03:30,600 --> 00:03:33,120
 # 里面的肉就变了
-The meat may be rotten.
+the meat inside has deteriorated.
 
 60
 00:03:33,720 --> 00:03:37,160
@@ -348,7 +348,7 @@ Other roast geese do not go through this step.
 70
 00:04:05,840 --> 00:04:09,200
 # 没有这个流程的话 皮可能就没有那么脆
-The skin won’t be that crispy without this stel.
+The skin won’t be that crispy without this step.
 
 71
 00:04:15,960 --> 00:04:19,920
@@ -378,12 +378,12 @@ One is “Da Tou Hua oast geese”.
 76
 00:04:43,880 --> 00:04:46,880
 # 一个腊肉蒸鲮鱼干
-The other one is “cured pork steamed with dried catfish”
+The other one is “cured pork steamed with dried carp”
 
 77
 00:05:04,080 --> 00:05:09,640
 # 现在在上面 应该有北风 有太阳
-It should be up there. There’s northern wind, and sun.
+It should be up there. There’s north wind, and sun.
 
 78
 00:05:09,640 --> 00:05:12,080
@@ -403,7 +403,7 @@ More than half a thousand fish
 81
 00:05:42,160 --> 00:05:44,840
 # 叔叔 这个鱼得晒多久
-Uncle, how long does it take to dry the fish?
+Uncle, how long does it take to sun dry the fish?
 
 82
 00:05:44,840 --> 00:05:47,640
@@ -468,7 +468,7 @@ They will be ready in an hour.
 94
 00:07:48,180 --> 00:07:50,760
 # 用瓦缸做烧鹅的方法 得几百年了
-The method of using a porcelain tank is centuries old.
+The method of using a clay oven is centuries old.
 
 95
 00:07:52,960 --> 00:07:56,960
@@ -483,7 +483,7 @@ As the oven has its own strengths.
 97
 00:08:02,200 --> 00:08:04,040
 # 保温
-It keeps the moisture.
+It retains heat very well.
 
 98
 00:08:04,040 --> 00:08:07,120
@@ -504,7 +504,7 @@ The difference is the traditional, nostalgic taste.
 101
 00:08:15,800 --> 00:08:17,360
 # 鹅已经就位了
-The geese are not ready.
+The geese are now ready.
 
 102
 00:08:17,360 --> 00:08:19,520
@@ -524,12 +524,12 @@ Uncle! So your job is taking the geese here and there every day?
 105
 00:08:56,000 --> 00:08:59,200
 # 这个最厉害 这都是鹅肉原汁
-This is the most attractive one, the juice from the goose.
+This is the most impressive, the juice from the goose.
 
 106
 00:09:06,880 --> 00:09:09,200
 # 刚刚出炉的好吃
-The tastes the best when it just comes out from the oven.
+It tastes the best when it just comes out from the oven.
 
 107
 00:09:56,040 --> 00:09:58,360
@@ -584,7 +584,7 @@ It’s really, crispy outside and juicy inside.
 117
 00:10:44,920 --> 00:10:46,400
 # 还有呢 如果觉得腻
-And, if you feel greesy,
+And, if you feel greasy,
 
 118
 00:10:46,400 --> 00:10:49,640
@@ -604,7 +604,7 @@ This honey barbecue pork.
 121
 00:10:57,480 --> 00:10:59,880
 # 真的会有迷一般的魅力
-is really seducing.
+It's fascinating.
 
 122
 00:10:59,920 --> 00:11:01,640
@@ -624,7 +624,7 @@ The tastes is a bit more mild.
 125
 00:11:06,240 --> 00:11:09,160
 # 鹅肠 就是更加爽脆
-And the goose intestines are exceptionally crunchy.
+And the goose intestines are more crunchy.
 
 126
 00:11:09,160 --> 00:11:11,680
@@ -644,7 +644,7 @@ The barbecue pork is complementary.
 129
 00:11:18,040 --> 00:11:22,160
 # 好一桌的味觉体验
-What a table of experience of taste.
+What a gastronomic experience.
 
 130
 00:11:33,760 --> 00:11:37,400
