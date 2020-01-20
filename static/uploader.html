@@ -1,0 +1,242 @@
+<!doctype html>
+<title>YTSubtitles 字幕上传向导</title>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+<style>
+body {
+  --scroller-width: 60vw;
+  --scroller-height: 80vh;
+  font-family: Microsoft YaHei, Hei Regular, sans-serif;
+}
+
+.scroller {
+  width: var(--scroller-width);
+  height: var(--scroller-height);
+  outline: 1px solid black;
+  margin-top: 2vh;
+  overflow: hidden;
+}
+
+.scroller-item {
+  width: var(--scroller-width);
+  height: var(--scroller-height);
+  padding: 2vmax;
+}
+
+#next-button:not([disabled]) {
+  outline: 2px green dashed;
+  outline-offset: 2px;
+}
+</style>
+
+<div id=banner>
+<button id=prev-button disabled>
+上一步
+</button>
+
+<span id=progress-span>
+当前进度：
+<span id=current-step-span></span>
+/
+<span id=total-step-span></span>
+</span>
+
+<button id=next-button disabled>
+下一步
+</button>
+</div>
+
+<div class=scroller id=scroll-root>
+</div>
+
+<script>
+// https://gist.github.com/pirate/9298155edda679510723
+function getUrlParams(search) {
+    const hashes = search.slice(search.indexOf('?') + 1).split('&')
+    const params = {}
+    hashes.map(hash => {
+        const [key, val] = hash.split('=')
+        params[key] = decodeURIComponent(val)
+    })
+    return params
+}
+
+const params = {
+  video: undefined,
+  path: undefined,
+  subtitles: undefined,
+  name: undefined,
+  format: undefined,
+  downloaded: undefined,
+
+  setParam: function(name, value) {
+    this[name] = value;
+    document.dispatchEvent(new CustomEvent('paramschanged'));
+  }
+};
+
+class Stage {
+  constructor(ui, canProceed) {
+    let scroller = document.createElement('div');
+    scroller.classList.add('scroller-item');
+    scroller.appendChild(ui);
+    this.ui = scroller;
+    this.canProceed = canProceed;
+    
+    document.getElementById('scroll-root').appendChild(this.ui);
+  }
+}
+
+function confirmVideoIdStage() {
+  const ui = document.createElement('div');
+  ui.innerHTML = `
+    请输入或确认视频ID：<input id=video-id-input>
+    <div style="margin-top: 2vh">
+      <iframe style="width: calc(var(--scroller-width) * 0.8); height: calc(var(--scroller-width) * 0.6)" id=video-iframe frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  `;
+
+  const input = ui.querySelector('#video-id-input');
+  const iframe = ui.querySelector('#video-iframe');
+  
+  input.onchange = () => params.setParam('video', input.value);
+
+  document.addEventListener('paramschanged', () => {
+    input.value = params.video || '';
+    iframe.src = `https://www.youtube-nocookie.com/embed/${input.value}`;
+  });
+
+  return new Stage(ui, () => params.video);
+}
+
+function confirmSubtitlesStage() {
+  const ui = document.createElement('div');
+  ui.innerHTML = `
+    请输入或确认字幕文件地址：<input id=subtitles-path-input>
+    <pre id=subtitles-display-div style="margin-top: 2vh; width: calc(var(--scroller-width) * 0.8); height: calc(var(--scroller-height) * 0.8); overflow: scroll">
+    </pre>
+  `;
+  const input = ui.querySelector('input');
+  const pre = ui.querySelector('pre');
+
+  let lastPath = params.path;
+  document.addEventListener('paramschanged', () => {
+    const path = params.path || '';
+    if (lastPath === path)
+      return;
+    lastPath = path;
+    input.value = path;
+
+    if (path === '')
+      return;
+
+    const prefix = 'https://raw.githubusercontent.com/immoonancient/YTSubtitles/master/subtitles/';
+    const fullurl = prefix + path;
+    const parts = path.split('/');
+    const fullname = parts[parts.length - 1];
+    const name = fullname.split('.')[0];
+    const format = fullname.split('.')[1];
+    window.axios.get(fullurl).then(
+      result => {
+        params.setParam('subtitles', result.data);
+        params.setParam('name', name);
+        if (format === 'srt' || format === 'sbv')
+          params.setParam('format', format);
+        pre.textContent = params.subtitles;
+      },
+      () => {
+        pre.textContent = '未找到字幕文件';
+      }
+    );
+  });
+
+  input.onchange = () => params.setParam('path', input.value || '');
+
+  return new Stage(ui, () => params.subtitles && params.name && params.format);
+}
+
+function downloadUncommetedSubtitlesStage() {
+  let lastLink;
+  function updateDownloadLink(anchor) {
+    function removeComments(subtitles) {
+      return (subtitles || '')
+        .split('\n')
+        .filter(line => !line.startsWith('#'))
+        .map(line => line.split('#')[0].trim())
+        .join('\n');
+    }
+
+    anchor.href = `data:attachment/text, ${encodeURIComponent(removeComments(params.subtitles))}`;
+    anchor.download = `${params.name || 'captions'}.${params.format || 'sbv'}`;
+  }
+
+  const ui = document.createElement('div');
+  ui.innerHTML = `
+    <a id=download-link target=_blank>下载字幕文件</a>
+  `;
+  const anchor = ui.querySelector('#download-link');
+  document.addEventListener('paramschanged', () => updateDownloadLink(anchor));
+  anchor.onclick = () => params.setParam('downloaded', true);
+  return new Stage(ui, () => params.downloaded);
+}
+
+function redirectStage() {
+  function updateRedirectLink(anchor) {
+    anchor.href = `https://www.youtube.com/timedtext_editor?action_mde_edit_form=1&v=${params.video}&lang=en&tab=captions`;
+  }
+
+  const ui = document.createElement('a');
+  ui.appendChild(document.createTextNode('点击前往 YouTube 上传字幕'));
+  document.addEventListener('paramschanged', () => updateRedirectLink(ui));
+  return new Stage(ui, () => true);
+}
+
+const stages = [];
+stages.push(confirmVideoIdStage());
+stages.push(confirmSubtitlesStage());
+stages.push(downloadUncommetedSubtitlesStage());
+stages.push(redirectStage());
+
+let currentStage = 0;
+
+const prevButton = document.getElementById('prev-button');
+const nextButton = document.getElementById('next-button');
+
+function onParamsChanged(e) {
+  const stage = stages[currentStage];
+  if (currentStage + 1 === stages.length || !stage.canProceed())
+    nextButton.setAttribute('disabled', '');
+  else
+    nextButton.removeAttribute('disabled');
+}
+document.addEventListener('paramschanged', onParamsChanged);
+
+function moveStageTo(stageIndex) {
+  if (stageIndex < 0)
+    return moveStageTo(0);
+  if (stageIndex + 1 > stages.length)
+    return moveStageTo(stages.length - 1);
+    
+  const stage = stages[stageIndex];
+  document.getElementById('current-step-span').textContent = stageIndex + 1;
+  stage.ui.scrollIntoView();
+  if (stageIndex === 0)
+    prevButton.setAttribute('disabled', '');
+  else
+    prevButton.removeAttribute('disabled');
+  if (stageIndex + 1 === stages.length || !stage.canProceed())
+    nextButton.setAttribute('disabled', '');
+  else
+    nextButton.removeAttribute('disabled');
+}
+
+const urlParams = getUrlParams(location.href);
+for (let name in urlParams)
+  params.setParam(name, urlParams[name]);
+
+moveStageTo(0);
+document.getElementById('total-step-span').textContent = stages.length + 1;
+prevButton.onclick = () => moveStageTo(--currentStage);
+nextButton.onclick = () => moveStageTo(++currentStage);
+
+</script>
