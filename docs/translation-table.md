@@ -188,6 +188,7 @@
 |      拍散      |                  crush                      |
 |      定型      |               fixed shape                   |
 |      调味      |                  season                     |
+|      焯水      |                  parboil                    |
 
 ## 待分类 / To Be Classified
 
@@ -196,4 +197,3 @@
 | 豆腐皮 |        tofu skin        |
 |  鱼鳞  |      fish scale         |
 |  鱼刺  |       fishbone          |
-|  鱼鳞  |      fish scale         |
