@@ -1,0 +1,269 @@
+<!doctype html>
+<style>
+#result {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#cn-result {
+  grid-column: 1 / 1;
+}
+
+#sbv-result {
+  grid-column: 2 / 2;
+}
+
+ul > sbv-line, cn-line {
+  border: 1px solid red;
+  height: 5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+cn-line > input {
+  width: 100%;
+}
+  
+#finalresult {
+  user-select: all;
+}
+</style>
+
+<textarea id=cnsource placeholder="Insert Chinese lines here" rows=5 cols=60></textarea>
+<textarea id=sbvsource placeholder="Paste sbv file content here" rows=5 cols=60></textarea>
+<button id=generate>Generate draft</button>
+<button id=getresult>Generate merged sbv</button>
+
+<pre id=finalresult></pre>
+
+<pre id=result>
+  <div id="cn-result">
+    <ul id="cn-lines" style="list-style-type: none"></ul>
+  </div>
+  
+  <div id="sbv-result">
+    <ul id="sbv-lines" style="list-style-type: none"></ul>
+  </div>
+</pre>
+
+<script>
+class CNLine extends HTMLElement {
+  constructor() {
+    super();
+
+    this.value_ = null;
+    this.valueField = null;
+    this.upButton = null;
+    this.downButton = null;
+    this.delButton = null;
+    this.addPlaceholderButton = null;
+
+    this.splitOffset = null;
+  }
+
+  connectedCallback() {
+    this.style.display = "list-item";
+
+    this.valueField = document.createElement('input');
+    this.valueField.placeholder = '（缺失）'
+    this.valueField.value = this.value_ || '';
+    this.valueField.onchange = () => this.value_ = this.valueField.value;
+    
+    this.upButton = document.createElement('button');
+    this.upButton.innerHTML = 'up';
+    this.upButton.onclick = () => this.mergeUp();
+    this.downButton = document.createElement('button');
+    this.downButton.innerHTML = 'down';
+    this.downButton.onclick = () => this.moveDown();
+
+    this.delButton = document.createElement('button');
+    this.delButton.innerHTML = 'delete';
+    this.delButton.onclick = () => this.remove();
+
+    this.splitButton = document.createElement('button');
+    this.splitButton.innerHTML = 'split';
+    this.splitButton.onclick = () => this.splitDown(this.splitOffset);
+
+    this.addPlaceholderButton = document.createElement('button');
+    this.addPlaceholderButton.innerHTML = 'add placeholder subtitle';
+    this.addPlaceholderButton.onclick = () => this.addPlaceholder();
+    
+    this.appendChild(this.valueField);
+    this.appendChild(document.createElement('br'));
+    this.appendChild(this.upButton);
+    this.appendChild(this.downButton);
+    this.appendChild(this.splitButton);
+    this.appendChild(this.delButton);
+    this.appendChild(this.addPlaceholderButton);
+  }
+  
+  get value() {
+    return this.value_;
+  }
+  
+  set value(val) {
+    this.value_ = val;
+    if (this.valueField)
+      this.valueField.value = val;
+  }
+  
+  mergeUp() {
+    let previous = this.previousSibling;
+    if (!previous)
+      return;
+    if (!previous.value) {
+      previous.remove();
+      return;
+    }
+    previous.value = previous.value + ' ' + this.value;
+    this.remove();
+  }
+  
+  moveDown() {
+    if (!this.parentNode)
+      return;
+    let previous = new CNLine();
+    this.parentNode.insertBefore(previous, this);
+  }
+
+  setSplitOffset(offset) {
+    this.splitOffset = offset;
+  }
+  
+  splitDown(offset) {
+    if (!offset)
+      return;
+    if (!this.parentNode)
+      return;
+    if (offset <= 0 || offset >= this.value.length)
+      return;
+    let previous = new CNLine();
+    previous.value = this.value.substring(0, offset);
+    if (previous.value[offset - 1] == ' ')
+      previous.value = previous.value.substring(0, offset - 1);
+    this.parentNode.insertBefore(previous, this);
+    this.value = this.value.substring(offset);
+    if (this.value[0] == ' ')
+      this.value = this.value.substring(1);
+  }
+
+  addPlaceholder() {
+    let siblings = this.parentNode.childNodes;
+    let i = 0;
+    for (; siblings[i] !== this; ++i);
+
+    let sbvLines = document.getElementById('sbv-lines');
+    let placeholder = document.createElement('sbv-line');
+    if (i < sbvLines.childNodes.length)
+      sbvLines.insertBefore(placeholder, sbvLines.childNodes[i]);
+    else
+      sbvLines.appendChild(placeholder);
+  }
+}
+
+class SBVLine extends HTMLElement {
+  constructor() {
+    super();
+
+    this.timeline_ = null;
+    this.value_ = null;
+    this.timelineField = null;
+    this.valueField = null;
+  }
+
+  connectedCallback() {
+    this.style.display = "list-item";
+
+    this.timelineField = document.createElement('pre');
+    this.timelineField.textContent = this.timeline_ || '（缺失）';
+    this.appendChild(this.timelineField);
+
+    this.valueField = document.createElement('pre');
+    this.valueField.textContent = this.value_ || '（缺失）';
+    this.appendChild(this.valueField);
+  }
+  
+  get value() {
+    return this.value_;
+  }
+  
+  set value(val) {
+    this.value_ = val;
+    if (this.valueField)
+      this.valueField.textContent = val;
+  }
+
+  get timeline() {
+    return this.timeline_;
+  }
+
+  set timeline(val) {
+    this.timeline_ = val;
+    if (this.timelineField)
+      this.timelineField.textContent = val;
+  }
+}
+  
+customElements.define('cn-line', CNLine);
+customElements.define('sbv-line', SBVLine);
+
+function generateCNLines(lines) {
+  let cnLines = document.getElementById('cn-lines');
+  cnLines.innerHTML = '';
+  lines.split('\n').forEach(line => {
+    let element = document.createElement('cn-line');
+    element.value = line;
+    cnLines.appendChild(element);
+  })
+}
+
+function generateSBVLines(lines) {
+  let sbvLines = document.getElementById('sbv-lines');
+  sbvLines.innerHTML = '';
+  lines.split('\n\n').forEach(line => {
+    let element = document.createElement('sbv-line');
+    let split = line.split('\n');
+    element.timeline = split.shift();
+    element.value = split.join('\n');
+    sbvLines.appendChild(element);
+  });
+}
+
+generate.onclick = () => {
+  generateCNLines(cnsource.value);
+  generateSBVLines(sbvsource.value);
+}
+
+getresult.onclick = () => {
+  let result = [];
+  let cnLines = document.getElementById('cn-lines').childNodes;
+  let sbvLines = document.getElementById('sbv-lines').childNodes;
+  for (let i = 0; ; ++i) {
+    if (i >= cnLines.length && i >= sbvLines.length)
+      break;
+    if (i < sbvLines.length)
+      result.push(sbvLines[i].timeline);
+    if (i < cnLines.length)
+      result.push('# ' + cnLines[i].value);
+    if (i < sbvLines.length)
+      result.push(sbvLines[i].value);
+    result.push('');
+  }
+  finalresult.textContent = result.join('\n');
+}
+
+document.addEventListener('click', e => {
+  let range = document.caretRangeFromPoint(e.clientX, e.clientY);
+  let node = range.startContainer;
+  if (!node || node.nodeType != node.TEXT_NODE)
+    return;
+  let parent = node;
+  while (parent &&  !(parent instanceof CNLine))
+    parent = parent.parentNode;
+  if (!parent)
+    return;
+  parent.setSplitOffset(range.startOffset);
+});
+</script>
