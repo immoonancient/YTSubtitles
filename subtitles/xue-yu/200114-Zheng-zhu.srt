@@ -1,17 +1,17 @@
 # https://youtu.be/YZyB4L_xY3Y
 
 # 在广东吃蒸猪，大叔30年手艺一锅蒸一头！猪皮冒油闻着香，200人等出锅
-# Eat steamed whole pork in guangdong, 30 years cook experience uncle steamed one pig each wok,
+# Steamed whole pork in Guangdong! Uncle with 30 years experience steams one whole pig on a tray
 
 1
 00:00:01,800 --> 00:00:04,840
 # 佛山·顺德
-Fo Shan, shun de
+Shunde, Foshan
 
 2
 00:00:36,600 --> 00:00:39,360
 # 哈喽 雪鱼今天在顺德的均安镇
-Hello, xue yu at at junan town today in shunde
+Hello, Xueyu is at Junan town today in Shunde
 
 3
 00:00:39,360 --> 00:00:40,200
@@ -21,12 +21,12 @@ We came here
 4
 00:00:40,200 --> 00:00:43,480
 # 主要是为了一个当地比较特色的美食-蒸猪
-For a very specific local food - steamed whole pig
+For a very special local food - steamed whole pig
 
 5
 00:00:44,280 --> 00:00:47,080
 # 它的特别之处呢 是把一整头猪
-The specific point is steamed a whole pig
+The special point is that, a whole pig is steamed
 
 6
 00:00:47,080 --> 00:00:48,680
