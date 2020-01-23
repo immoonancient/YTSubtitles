@@ -145,7 +145,7 @@ How many characters are there?
 "Man"
 
 0:02:01.375,0:02:03.175
-# 玉吗（我没太看懂这句，为什么会出来一个玉呢2333）
+# 玉吗
 Is it "Yu"?
 
 0:02:04.775,0:02:08.375
@@ -157,8 +157,8 @@ Your memory is so bad that you even forget what character to write
 Take your time
 
 0:02:11.675,0:02:13.475
-# 不是墨供应不上（我不太确定这句小声嘟囔是正话还是反话
-We don't got enough ink here
+# 不是墨供应不上
+The ink isn't fast enough
 
 0:02:20.600,0:02:21.100
 # 慢慢写
@@ -202,6 +202,7 @@ At the sight of this I immediately thought of
 
 0:02:54.725,0:02:58.050
 # 你给老子（这里还有一点对话没有字幕，也听不出来在说啥）
+You... # 中文字幕不完整，那我们也就这样吧
 
 0:03:31.175,0:03:31.675
 # 好
@@ -328,7 +329,8 @@ He's gonna write it once again
 The bristles are somewhat split
 
 0:06:03.060,0:06:04.040
-# 笔没得好好得（?这又是什么
+# 笔没得好好得
+Not a good brush?
 
 0:06:18.520,0:06:20.080
 # 嗯 好又写了一个
@@ -368,7 +370,7 @@ Not bad
 
 0:06:40.660,0:06:42.100
 # 我害怕冒火我还是写一个
-Let me try to write one (冒火是什么？
+Let me still try to write one
 
 0:06:42.160,0:06:43.440
 # 你写来试一下嘛
