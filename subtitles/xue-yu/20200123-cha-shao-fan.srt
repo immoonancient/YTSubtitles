@@ -18,7 +18,7 @@ See, we haven't even dropped our bags yet
 4
 00:00:08,580 --> 00:00:11,260
 # 就来吃这个叉烧
-We came to this shop straight away
+We are on our way to this shop straight away
 
 5
 00:00:11,260 --> 00:00:12,540
@@ -48,7 +48,7 @@ It's opening!
 10
 00:00:32,700 --> 00:00:35,140
 # 转眼间 好多人
-So many people in a blink of an eye
+So many people in the blink of an eye
 
 11
 00:00:35,900 --> 00:00:37,340
@@ -68,7 +68,7 @@ It's managed and ran by an old couple
 14
 00:00:42,300 --> 00:00:44,620
 # 一位只负责和食材进行交流
-One of them deal with all the ingredients
+One of them deals with all the ingredients
 
 15
 00:00:44,620 --> 00:00:45,860
@@ -138,7 +138,7 @@ Uncle is more of an introvert
 28
 00:01:37,580 --> 00:01:40,740
 # 阿姨在这边就是比较活泼开朗
-whereas untie is more active and outgoing
+whereas auntie is more active and outgoing
 
 29
 00:01:40,740 --> 00:01:42,220
@@ -218,7 +218,7 @@ What's the dipping sauce?
 44
 00:03:15,220 --> 00:03:17,180
 # 不 我告诉她作料
-Nah I'll tell her (PLZ HELP HERE)
+Nah I'll tell her 
 
 45
 00:03:36,700 --> 00:03:39,260
@@ -263,7 +263,7 @@ But I think it's still worth the wait
 53
 00:04:17,180 --> 00:04:20,220
 # 我觉得这里面最诱人的就是叉烧
-Personally I think Char-siu is the most attractive one
+Personally I think Char-siu is the most appealing one
 
 54
 00:04:20,220 --> 00:04:22,460
@@ -278,7 +278,7 @@ Not only does this Char-siu look good
 56
 00:04:24,860 --> 00:04:30,100
 # 而且 你能看到流下来的蜜汁尤其诱人
-but you can see the honey glazing that's dripping down extremely attractive
+but you can also see the alluring honey glaze that's dripping down 
 
 57
 00:04:31,580 --> 00:04:36,420
@@ -298,7 +298,7 @@ Also with the Char-siu sauce that's on the rice
 60
 00:04:43,580 --> 00:04:44,780
 # 拌饭特别好
-Taste really good once stirred with rice
+Tastes really good once stirred with rice
 
 61
 00:04:47,020 --> 00:04:49,060
@@ -313,7 +313,7 @@ It doesn't taste greasy at all
 63
 00:04:51,020 --> 00:04:53,460
 # 反而是这种水分比较多一些
-In stead, it's fairly juicy
+Instead, it's fairly juicy
 
 64
 00:04:53,460 --> 00:04:54,460
@@ -323,7 +323,7 @@ You can tell by the color of it
 65
 00:04:54,460 --> 00:04:57,780
 # 它是有点嚼劲 有点脆的
-It's a little chewy and crunchy (PLZ HELP HERE)
+It's a little chewy and crispy
 
 66
 00:04:57,780 --> 00:05:00,500
@@ -338,7 +338,7 @@ has a strong smell of five-spice and meat
 68
 00:05:06,500 --> 00:05:08,300
 # 吃这个饭就是 你随便
-With this rice, you can just randomly
+In this rice,
 
 69
 00:05:08,300 --> 00:05:10,020
@@ -348,7 +348,7 @@ All you can see or find is meat
 70
 00:05:10,940 --> 00:05:15,180
 # 在这大马路上 我拿着这么一个沉甸甸的盒饭
-Standing on the street with such heavy box of rice
+Standing on the street with such a heavy box of rice
 
 71
 00:05:15,180 --> 00:05:19,940
