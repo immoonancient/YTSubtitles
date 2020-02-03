@@ -6,9 +6,9 @@
 # 我是雪鱼，带你一起踏上寻味之旅。
 # This is Xueyu, your guide on the food scouting tour.
 # 顺德有一条街叫做金榜街，街道非常窄，
-# There a very narrow street in Shunde named Jinbang Street,
+# There is a very narrow street in Shunde named Jinbang Street,
 # 3个人并排走会非常困难，
-# which doesn't even allow three people walking side by side.
+# too narrow for three people walking side by side.
 # 就是这样隐蔽的地方，聚集着很多牛乳牛奶店，而且它们都已经有几十年的历史了。
 # Yet, there are many decades-old milk restaurants hidden here.
 # 我来到的霞姐牛奶店，店铺不大，
@@ -453,7 +453,7 @@ Let's have a try
 84
 00:05:31,400 --> 00:05:34,000
 # 这一个牛奶有什么样不同的地方
-and see the difference with regular milk
+and see how it's different from cow's milk
 
 85
 00:05:39,200 --> 00:05:42,280
@@ -478,12 +478,12 @@ compared to the regular branded milk
 89
 00:05:52,320 --> 00:05:54,760
 # 不过这次买的牛奶 它的保质期很短
-However, the buffalo milk didn't stay long
+However, the buffalo milk didn't stay fresh for long
 
 90
 00:05:54,760 --> 00:05:57,800
 # 第二天早上 它就变酸了
-In the next morning, it went sour
+The next morning, it went sour
 
 91
 00:06:02,200 --> 00:06:04,680
