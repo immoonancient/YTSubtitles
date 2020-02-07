@@ -38,7 +38,7 @@ Da Ye (Zheng Xiusheng): Executive Chef of Beijing Hotel, hosted China's 50th Ann
 Er Bai (Sun Lixin): Planned dinner menus multiple times for China state banquets hosting foreign country leaders.
 San Shu (Wu Jianli):  Golden Cook of China. 3rd Generation successor of Caigoupu smoked meat. Developed 'Wu type smoky sauce'. 
 We will upload new videos every Monday, Wednesday and Friday. 
-You are welcome to comment, like and subscribe to our channel. Turn on the notification bell to receive the newest updates of the channel!
+You are welcome to comment, like and subscribe to our channel. Turn on the notification bell to receive the latest updates of the channel!
 Click the link down below to subscribe to our channel!
 https://bit.ly/30QmA1X
 *Facebook*
