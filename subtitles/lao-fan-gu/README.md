@@ -9,6 +9,8 @@ https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg
 | 大爷 | Da Ye |
 | 二伯 | Er Bai |
 | 三叔 | San Shu |
+| 师父 | master |
+| 徒弟 | disciple |
 
 ## 视频描述中的固定部分
 
@@ -30,13 +32,14 @@ https://www.facebook.com/laofangu/
 
 英文
 ```
-Hello, everyone, we are Lao Fan Gu, three old men from Beijing that can eat, cook and excel at chatting.
-Our dishes are good-looking, delicious and hardcore. All three of us used to work for Chinese National Banquet catered to government guests. Now we retire at home with old friends and want to share the dishes we studied and practiced when we were young, so everyone can try at home what country leaders are catered when they visit China. 
-Da Ye (Xiusheng Zheng): Executive Chef for Beijing Hotel, hosted China's 50th Anniversary dinner.
-Er Bai (Lixin Sun): Designed dinner menus multiple times for Chinese National Banquet hosting foreign country leaders.
-San Shu (Jianli Wu):  Golden Cook of China. 3rd Generation successor of Caigoupu smoked meat. Developed 'Wu type smoked sauce'. 
-We will upload new videos on Monday, Wednesday and Friday. 
-You are welcome to comment, like and subscribe to our channel. Turn on the notification to receive the most updated status of the channel!
+Hello everyone! We are Lao Fan Gu, three old men from Beijing that excel at eating, cooking and chit-chatting.
+Our dishes are good-looking, delicious and hardcore. All the three of us used to work as chefs of China state banquets catered to government guests. Now we are retired at home. Together with our old friends, we want to share the dishes we studied and practiced when we were young, so everyone can prepare them at home and try what country leaders are catered when they visit China.  
+Da Ye (Zheng Xiusheng): Executive Chef of Beijing Hotel, hosted China's 50th Anniversary dinner.
+Er Bai (Sun Lixin): Planned dinner menus multiple times for China state banquets hosting foreign country leaders.
+San Shu (Wu Jianli):  Golden Cook of China. 3rd Generation successor of Caigoupu smoked meat. Developed 'Wu type smoky sauce'. 
+We will upload new videos every Monday, Wednesday and Friday. 
+You are welcome to comment, like and subscribe to our channel. Turn on the notification bell to receive the newest updates of the channel!
+Click the link down below to subscribe to our channel!
 https://bit.ly/30QmA1X
 *Facebook*
 https://www.facebook.com/laofangu/
