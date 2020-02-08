@@ -12,6 +12,10 @@ https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg
 | 师父 | master |
 | 徒弟 | disciple |
 
+## 视频片尾固定部分字幕
+
+见 [ending.sbv](ending.sbv)
+
 ## 视频描述中的固定部分
 
 ### 中文
