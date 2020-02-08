@@ -3,37 +3,38 @@
 # 【国宴大师•老北京炒合菜】烙个春饼卷来吃，滑嫩爽脆溢韭香，营养美味又强身健体的菜来喽！|老饭骨
 # [Master Chefs • Beijing Style Chao He Cai] Together with wraps, it tastes very very good 
 
-# My dear friends, today we are bringing you a seasonal dish: Chao He Cai• with wraps
 # 小友们好，今天老饭骨给你们带来一个节令性强的菜品：炒合菜•卷春饼。
+# My dear friends, today we are bringing you a seasonal dish: Chao He Cai• with wraps
 
-# Chao He Cai is a Beijing's traditional dish, and also a delicate Northern dish.
 # 炒合菜，是北京市传统的特色名菜，属于京菜系，在北方也是一种讲究的菜品。
+# Chao He Cai is Beijing's traditional dish, and also a delicate Northern dish.
 
 # 这道菜有两个个特点：一是节令性强，立春日必不可少；
 # 二是吃“炒合菜”需要春饼卷食，方能品出味道。
 # This dish has two characteristics: first is that it's seasonal, a must have in Li Chun (Beginning of Spring).
-# Second is "Chao He Cai" needs to be eaten with wraps, to bring out it's intended taste.
+# Second is that it needs to be eaten with wraps, to bring out it's intended taste.
 
 # 它将胡萝卜，韭菜、肉丝、粉丝、豆芽菜、小菠菜等一起炒制，
 # 成菜肉丝滑嫩，豆芽爽脆，菠菜多汁，
 # 和粉丝一起组合成爽口多汁含有复合口感的味道，
 # 再配上蛋饼，以春饼卷食，真是妙哉啊！
-# It has carrots, chives, meat strips, vermicelli, bean sprouts, baby spinach
-# This dish combines tender meat shreds, crunchy bean sprouts and juicy baby spinach
-# together with vermicelli, form a complex layers of flavor
-# with some fried eggs, wrapped together, what a delicious dish!
+# It has carrots, chives, meat strips, vermicelli, bean sprouts and baby spinach.
+# This dish combines tender meat shreds, crunchy bean sprouts and juicy baby spinach.
+# Together with vermicelli, they form a complex layers of flavor.
+# With some fried eggs, wrapped together, what a delicious dish!
 
 # 取猪通脊切成丝状，葱姜水腌制去腥增香，
 # 加入盐，胡椒粉，蛋清，玉米淀粉，上浆刨肉，再用油封。
-# Take pork tenderloin and julienne it, marinate with ginger and scallion juice to get rid of bad smells 
-# add salt, ground peppercorn, egg white and corn starch to coat, and then seal with oil 
+# Take pork tenderloin and julienne it, marinate with ginger and scallion juice to get rid of bad smells.
+# Add salt, ground peppercorn, egg white and corn starch to coat, and then seal with oil.
 
 
 # 之后用三成热油来滑肉丝后捞出，剩下的油用花椒，姜，葱爆香，
 # 放入胡萝卜、豆芽菜，小菠菜、粉丝，
 # 肉丝、再放入肉丝炒制，先烹酒后搁盐，最后放韭菜。
-# stir fry julienned pork in 30% hot oil, drain out and rest on the side. Infuse the rest of the oil with peppercorns, ginger and scallions.
-# add in carrots, bean sprouts, baby spinach and vermicelli,
+# Stir fry julienned pork in 30% hot oil, drain out and rest on the side.
+# Infuse the rest of the oil with peppercorns, ginger and scallions.
+# Add in carrots, bean sprouts, baby spinach, vermicelli,
 # meat shreds, and then cook with wine then salt. Lastly add chives. 
 
 # 其中的知识点：切肉丝的手法为什么会像螃蟹一样？三叔为你解答疑惑。
