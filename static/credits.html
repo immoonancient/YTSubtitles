@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="zh">
+<title>YTSubtitles 字幕组贡献统计</title>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+
+<style>
+table {
+  border-collapse: collapse;
+}
+table, th, tr, td {
+  border: 1px solid grey;
+  padding: 1em;
+}
+</style>
+
+<form action='javascript:submit()'>
+  <label for=start-date>开始日期</label>
+  <input type=date name=start-date id=start-date>
+
+  <label for=end-date>结束日期</label>
+  <input type=date name=end-date id=end-date>
+
+  <select name=channel id=channel-select>
+    <option value="">正在加载频道列表...</option>
+  </select>
+
+  <input type=submit value="提交">
+</form>
+
+<div id=result-div style="margin-top: 50px">
+</div>
+
+<script>
+// https://gist.github.com/pirate/9298155edda679510723
+function getUrlParams(search) {
+    const hashes = search.slice(search.indexOf('?') + 1).split('&')
+    const params = {}
+    hashes.map(hash => {
+        const [key, val] = hash.split('=')
+        params[key] = decodeURIComponent(val)
+    })
+    return params
+}
+const urlParams = getUrlParams(location.href);
+
+const server = urlParams.istest ? 'http://localhost:3000/tools/' : 'https://ytsubtitler-adposter.appspot.com/tools/';
+
+const channelSelect = document.getElementById('channel-select');
+
+function populateChannels() {
+  axios
+    .get(server + 'list-channels')
+    .then(
+      result => {
+        channelSelect.innerHTML = '<option value="">-- 请选择频道 --</option>';
+        result.data.forEach(channel => {
+          const option = document.createElement('option');
+          option.textContent = channel.label;
+          option.value = channel.folder;
+          channelSelect.appendChild(option);
+        });
+      },
+      () => channelSelect.innerHTML = '<option value="">加载频道列表失败</option>'
+  );
+}
+populateChannels();
+
+function createContributionTableMD(channel, startDate, endDate, contributions) {
+
+  function prettyPrint(contribution) {
+    function issueLink(number) {
+      return `https://github.com/immoonancient/YTSubtitles/issues/${number}`;
+    }
+
+    function userLink(id) {
+      return `https://github.com/${id}`;
+    }
+
+    // First column: user id
+    let result = `| [@${contribution.id}](${userLink(contribution.id)}) |`;
+
+    // Second column: translations
+    for (let number of contribution.translations) {
+      let current = ` [#${number}](${issueLink(number)})`;
+      result += current;
+    }
+    result += ' |';
+
+    // Third column: reviews
+    for (let number of contribution.reviews) {
+      let current = ` [#${number}](${issueLink(number)})`;
+      result += current;
+    }
+    result += ' |';
+
+    return result;
+  }
+
+  const result = [];
+  result.push(`# ${channel} ${startDate} 至 ${endDate} 贡献统计表`);
+  result.push('');
+  result.push('| id | 投稿 | 审核 |');
+  result.push('| -- | --- | --- |');
+  for (let name in contributions)
+    result.push(prettyPrint(contributions[name]));
+  return result.join('\n');
+}
+
+const resultDiv = document.getElementById('result-div');
+let resultData = null;
+
+function submit() {
+  const startDate = document.getElementById('start-date').value;
+  const endDate = document.getElementById('end-date').value;
+  const channel = document.getElementById('channel-select').value;
+  if (!startDate || !endDate || !channel) {
+    resultDiv.textContent = '请输入开始日期、结束日期并选择频道';
+    return;
+  }
+
+  const params = {};
+  params['start-date'] = startDate;
+  params['end-date'] = endDate;
+  params['channel'] = channel;
+  resultDiv.textContent = `加载中，请稍候...`;
+
+  axios
+    .get(server + 'credits', {params: params})
+    .then(
+      result => {
+        resultData = createContributionTableMD(
+          document.getElementById('channel-select').selectedOptions[0].textContent,
+          startDate,
+          endDate,
+          result.data);
+        resultDiv.innerHTML = new showdown.Converter({tables: true}).makeHtml(resultData);
+      },
+      reason => {
+        resultDiv.innerText = '加载失败\n' + reason.message;
+      }
+    );
+}  
+</script>
+</html>
