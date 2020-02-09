@@ -16,7 +16,7 @@ https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg
 
 见 [ending.srt](ending.srt)
 
-注意：组员在制作字幕是可忽略片尾部分。只需在字幕文件末尾加上 `# import ending.srt [开始时间]`，上传时 `uploader.html` 会将其展开成片尾字幕。
+注意：组员在制作字幕时可忽略片尾部分。只需在字幕文件末尾加上 `# import ending.srt [开始时间]`，[上传工具](https://immoonancient.github.io/YTSubtitles/static/uploader.html)会将其展开成片尾字幕。
 
 样例见 [20200205-chao-he-cai.srt](20200205-chao-he-cai.srt)：
 
