@@ -60,6 +60,7 @@ function getUrlParams(search) {
     })
     return params
 }
+const urlParams = getUrlParams(location.href);
 
 const params = {
   video: undefined,
@@ -130,24 +131,137 @@ function confirmSubtitlesStage() {
     if (path === '')
       return;
 
-    const prefix = 'https://raw.githubusercontent.com/immoonancient/YTSubtitles/master/subtitles/';
+    const prefix = urlParams.istest
+      ? 'https://raw.githubusercontent.com/immoonancient/TestRepo/master/subtitles/'
+      : 'https://raw.githubusercontent.com/immoonancient/YTSubtitles/master/subtitles/';
+
     const fullurl = prefix + path;
     const parts = path.split('/');
     const fullname = parts[parts.length - 1];
     const name = fullname.split('.')[0];
     const format = fullname.split('.')[1];
-    window.axios.get(fullurl).then(
-      result => {
-        params.setParam('subtitles', result.data);
-        params.setParam('name', name);
-        if (format === 'srt' || format === 'sbv')
-          params.setParam('format', format);
-        pre.textContent = params.subtitles;
-      },
-      () => {
-        pre.textContent = '未找到字幕文件';
+
+    async function loadAndUnfold(url) {
+      function parseImportLine(line) {
+        if (!line.startsWith('# import '))
+          return [undefined, undefined];
+        let parts = line.split(' ');
+        return [parts[2], parts[3]];
       }
-    );
+
+      function computeRelativeUrl(base, relative) {
+        let parts = base.split('/');
+        parts.pop();
+        parts.push(relative);
+        return parts.join('/');
+      }
+
+      function toMilliseconds(h, m, s, ms) {
+        return (((parseInt(h) * 60) + parseInt(m)) * 60 + parseInt(s)) * 1000 + parseInt(ms);
+      }
+
+      function toTimestamp(t) {
+        const ms = t % 1000;
+        t = Math.floor(t / 1000);
+        const s = t % 60;
+        t = Math.floor(t / 60);
+        const m = t % 60;
+        t = Math.floor(t / 60);
+        const h = t;
+        return [
+          h.toString().padStart(2, '0'),
+          m.toString().padStart(2, '0'),
+          s.toString().padStart(2, '0'),
+          ms.toString().padStart(3, '0')]
+        ;
+      }
+
+      function shiftTimeline(line, timeDelta) {
+        const re = /(\d+):(\d+):(\d+)([\.\,])(\d+)(.*)(\d+):(\d+):(\d+)([\.\,])(\d+)/;
+        const match = line.match(re);
+        if (!match)
+          return line;
+
+        const start = toTimestamp(toMilliseconds(match[1], match[2], match[3], match[5]) + timeDelta);
+        const end = toTimestamp(toMilliseconds(match[7], match[8], match[9], match[11]) + timeDelta);
+
+        return [
+          start[0],  // h
+          ':',
+          start[1],  // m
+          ':',
+          start[2],  // s
+          match[4],
+          start[3],  // ms
+          match[6],  // separator
+          end[0],   // h
+          ':',
+          end[1],   // m
+          ':',
+          end[2],   // s
+          match[10],
+          end[3],   // ms
+        ].join('');
+      }
+
+      let lines = await axios.get(url);
+      lines = lines.data.split('\n');
+      let result = [];
+      for (let line of lines) {
+        let [importUrl, timeDelta] = parseImportLine(line);
+        if (!importUrl) {
+          result.push(line);
+          continue;
+        }
+
+        let absUrl = computeRelativeUrl(url, importUrl);;
+        let imported = await loadAndUnfold(absUrl);
+        imported = imported.split('\n');
+        if (timeDelta)
+          timeDelta = timeDelta.match(/(\d+):(\d+):(\d+)[\.\,](\d+)/);
+        if (timeDelta) {
+          timeDelta = toMilliseconds(timeDelta[1], timeDelta[2], timeDelta[3], timeDelta[4]);
+          imported = imported.map(line => shiftTimeline(line, timeDelta));
+        }
+
+        result.push(...imported);
+      }
+      return result.join('\n');
+    }
+
+    const formatter = urlParams.istest
+      ? 'http://localhost:3000/tools/format'
+      : 'https://ytsubtitler-adposter.appspot.com/tools/format';
+
+    let rawResult;
+    loadAndUnfold(fullurl)
+      .then(
+        result => {
+          rawResult = result;
+          return axios.post(
+            formatter,
+            {
+              format: format,
+              video: params.video || '',
+              passage: rawResult
+            });
+        },
+        () => pre.textContent = '未找到字幕文件'
+      ).then(
+        formatted => formatted.data,
+        error => {
+          console.error(error);
+          return rawResult;
+        }
+      ).then(
+        formatted => {
+          params.setParam('subtitles', formatted);
+          params.setParam('name', name);
+          if (format === 'srt' || format === 'sbv')
+            params.setParam('format', format);
+          pre.textContent = params.subtitles;
+        }
+      );
   });
 
   input.onchange = () => params.setParam('path', input.value || '');
@@ -230,7 +344,6 @@ function moveStageTo(stageIndex) {
     nextButton.removeAttribute('disabled');
 }
 
-const urlParams = getUrlParams(location.href);
 for (let name in urlParams)
   params.setParam(name, urlParams[name]);
 
