@@ -14,7 +14,25 @@ https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg
 
 ## 视频片尾固定部分字幕
 
-见 [ending.sbv](ending.sbv)
+见 [ending.srt](ending.srt)
+
+注意：组员在制作字幕是可忽略片尾部分。只需在字幕文件末尾加上 `# import ending.srt [开始时间]`，上传时 `uploader.html` 会将其展开成片尾字幕。
+
+样例见 [20200205-chao-he-cai.srt](20200205-chao-he-cai.srt)：
+
+```
+168
+00:07:12,320 --> 00:07:15,720
+# 先二伯咬一口 真好吃
+Let Er Bo have a bite of it, umm it's so good
+
+169
+00:07:16,480 --> 00:07:17,840
+# 师父来一口
+Have a bite Master
+
+# import ending.srt 0:07:31,200
+```
 
 ## 视频描述中的固定部分
 
