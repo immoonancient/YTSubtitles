@@ -947,6 +947,4 @@ How does your apprentice's work taste?
 # 正好 徒孙出徒了 谢谢师爷们
 - It's just right! Your apprenticeship is completed. - Thank you Shi Ye!
 
-193
-00:08:05.6
-# 固定结尾
+# import ending.srt 00:08:05,600
