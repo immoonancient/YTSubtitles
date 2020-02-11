@@ -138,14 +138,6 @@ Chop the dried shrimps when they have soaked up, and mix with the chopped meat
 # 师爷这打卤是创新的
 Shiye's gravy is an innovative version
 
-# 24
-# 00:00:56,880 --> 00:00:59,200
-# 为局气专门创新的一款(视频中没有，审核上传时删除即可)
-
-# 25
-# 00:00:59,200 --> 00:01:02,680
-# 最新最新的打卤面(视频中没有，审核上传时删除即可)
-
 # shift backward 00:00:05,800
 
 26
