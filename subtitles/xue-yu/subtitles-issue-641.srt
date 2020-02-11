@@ -60,7 +60,7 @@ and also hear the noise that your stomach is making
 11
 00:00:57,100 --> 00:01:01,075
 # 一进来 你就能看到10几个炭炉子在燃烧
-Once you go into the restaurant, you can see more than 10 stoves are working
+Once you go into the restaurant, you can see more than 10 stoves working
 
 12
 00:01:01,200 --> 00:01:03,500
@@ -80,12 +80,12 @@ the soup culture in Guangdong
 15
 00:01:09,100 --> 00:01:11,200
 # 正好今天的温度是12摄氏度
-Coincidentally, the weather is around 12 °C today
+Coincidentally, the temperature is around 12 °C today
 
 16
 00:01:11,500 --> 00:01:14,125
 # 温度比较低 喝汤特别合适
-It’s kinda cold today, drinking soup is extremely suitable
+It’s kinda cold today, having soup is extremely suitable
 
 17
 00:01:14,700 --> 00:01:16,875
@@ -115,7 +115,7 @@ Wow! It’s so fragrant
 22
 00:01:36,600 --> 00:01:39,050
 # 看颜色就觉得非常有食欲
-The appearance is really appetizing
+The colour is really appetizing
 
 23
 00:01:40,475 --> 00:01:42,250
@@ -135,7 +135,7 @@ However, it’s harmless to take a look
 26
 00:01:57,250 --> 00:02:00,450
 # 我们再来看一看 这个煲的是什么
-Let’s look at the ingredients in another pot of soup
+Let’s have a look at the ingredients in another pot of soup
 
 27
 00:02:03,500 --> 00:02:07,050
@@ -155,7 +155,7 @@ Wow! It’s dace fish
 30
 00:02:43,175 --> 00:02:45,792
 # 小哥说 虽然现在只有12个汤
-The waiter just told me that there are 12 soups served right now
+The waiter just told me that there are 12 soups being served right now
 
 31
 00:02:45,792 --> 00:02:47,717
@@ -165,7 +165,7 @@ But many recipes of other soups are memorized in their minds
 32
 00:02:47,717 --> 00:02:49,532
 # 摆出来的只是一部分
-Only some of it are showed
+Only some of them are showed
 
 33
 00:02:49,532 --> 00:02:51,216
@@ -200,7 +200,7 @@ We’re gonna order this later
 39
 00:03:15,900 --> 00:03:18,625
 # 咱们不能老喝汤 也得吃点菜吧
-We can’t drink soups only, we have to eat something solid too
+We can’t have soups only, we need some other dishes too
 
 40
 00:03:19,775 --> 00:03:21,025
@@ -255,7 +255,7 @@ The soup ingredients are first served
 50
 00:04:45,775 --> 00:04:47,550
 # 然后是调料
-Then the seasonings
+Then the sauce
 
 51
 00:04:49,400 --> 00:04:52,400
@@ -320,7 +320,7 @@ Surprisingly, there are also big pieces of bones and meat in it
 63
 00:05:49,625 --> 00:05:54,100
 # 其实煲汤就是无骨不浓 无肉不香
-To be honest, bones and meat are essential in cooking soup
+In fact, bone gives thickness, meat gives aroma
 
 64
 00:05:54,100 --> 00:05:56,500
