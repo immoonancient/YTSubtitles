@@ -1,5 +1,5 @@
 無敵鮮美打滷麵，非常時期，家的味道給你溫暖
-Super delicious Dalu Mian (lit. noodles with thick gravy topping), this home-made taste warms your heart in the current unusual situation.
+Super delicious Dalu Mian noodles, this home-made taste warms your heart in the unusual situation.
 
 小友們好，今天老飯骨給大家帶來壹道北方經典麵食：打滷麵！
 My dear friends, today we're bringing you this classic noodle dish from northern China:
@@ -7,10 +7,10 @@ Dalu Mian (lit. noodles with thick gravy topping)
 
 作為北方人最愛吃的麵食之壹，做法多樣，用料也不同。而老飯骨的創新版打滷麵，便是突出的是壹個“鮮”的特點。特製滷汁裡融入了香菇，海米，肉丸子，口蘑，木耳，雞蛋的復合鮮香味。拌上白水煮的麵條。壹碗色味俱佳的打滷麵就出鍋啦！
 There're various recipes with a diversity of ingredients for Dalu Mian,
-one of people's favourite in northern China.
+one of people's favourites in northern China.
 Our innovative version of Dalu Mian is gonna highlight its umami. 
-The specially-made gravy is cooked with shiitakes, dried shrimps, meatballs,
-white mushrooms, wood ears, and eggs, which gives a combo of umami flavour.
+The specially-made gravy is cooked with shiitake mushrooms, dried shrimps, meatballs,
+white mushrooms, wood ears and eggs, which give a combo of umami flavour.
 Mix our gravy with noodles cooked in boiled water,
 and a bowl of Dalu Mian with excellent colour and flavour is ready to serve!
 
@@ -31,7 +31,7 @@ The gravy is just right. Hey - you see the egg is so nice
 2
 00:00:03,600 --> 00:00:07,240
 # 初二面 打卤面
-Second day (of the Chinese New Year), noodles day, Da Lu Mian (lit. noodles with thick gravy topping)
+Second day (of the Chinese New Year), noodles' day, Da Lu Mian (lit. noodles with thick gravy topping)
 
 3
 00:00:07,240 --> 00:00:10,920
@@ -46,12 +46,12 @@ Huanzi's here, wish you a happy New Year!
 5
 00:00:15,040 --> 00:00:17,000
 # 向师爷学打卤面来啦
-You come here to learn cooking Dalu Mian, don't you?
+You came here to learn cooking Dalu Mian, didn't you?
 
 6
 00:00:17,000 --> 00:00:18,800
 # 师爷打卤面有名
-Shiye's got a name in cooking Dalu Mian
+Shiye's got a fame in cooking Dalu Mian
 
 7
 00:00:18,800 --> 00:00:21,280
@@ -61,7 +61,7 @@ This lump of meat will be enough. Let's boil it.
 8
 00:00:21,280 --> 00:00:22,760
 # 屁股蛋儿（后臀尖）坐水煮
-
+Sit in the water and boil
 
 9
 00:00:22,760 --> 00:00:24,560
@@ -71,7 +71,7 @@ You see, we first put in the side ingredients
 10
 00:00:24,560 --> 00:00:28,320
 # 葱姜加上 然后搁点花椒
-Scallions and ginger, then a little pepper corns
+Scallions and ginger, then a few peppercorns
 
 11
 00:00:28,320 --> 00:00:30,960
@@ -81,7 +81,7 @@ It has the right proportion of fat, doesn't it?
 12
 00:00:30,960 --> 00:00:32,960
 # 你要五花肉就太肥
-If you use Wuhua pork belly, it has too much fat
+If you use pork belly, it has too much fat
 
 13
 00:00:32,960 --> 00:00:35,120
@@ -101,7 +101,7 @@ scoop it out and throw it away
 16
 00:00:39,160 --> 00:00:41,080
 # 二伯煮多长时间 四十分钟
-- Er Bo, how long does it take to cook the pork? - 40 minutes.
+- Er Bai, how long does it take to cook the pork? - 40 minutes.
 
 17
 00:00:41,080 --> 00:00:42,160
@@ -111,7 +111,7 @@ to fry meatballs
 18
 00:00:42,160 --> 00:00:43,680
 # 大爷他们家海米好
-Da'ye's dried shrimps are of high quality
+Da Ye's dried shrimps are of high quality
 
 19
 00:00:43,680 --> 00:00:46,480
@@ -131,7 +131,7 @@ from what we saw previously
 22
 00:00:50,360 --> 00:00:51,880
 # 海米泡好后剁碎加到肉馅里
-*Chop the dried shrimps when they have soaked up, and mix with the chopped meat*
+Chop the dried shrimps when they have soaked up, and mix with the chopped meat
 
 23
 00:00:53,080 --> 00:00:56,880
@@ -156,12 +156,12 @@ Add some little meatballs to the gravy
 27
 00:01:06,200 --> 00:01:11,040
 # 咱就肉 我就稍微剁一点剁下筋
-Let's get the meat. I'm gonna chop it a bit to cut the chewy parts
+Let's get the meat. I'm gonna chop the tendon for a bit
 
 28
 00:01:11,040 --> 00:01:12,640
 # 这什么肉 五花肉
-- What kind of meat is it? - Wuhua pork belly
+- What kind of meat is it? - Pork belly
 
 29
 00:01:12,640 --> 00:01:14,560
@@ -200,7 +200,6 @@ Add some pepper powder
 
 36
 00:01:28,480 --> 00:01:29,040
-(并不知道这里发生了什么)
 
 37
 00:01:29,040 --> 00:01:30,320
@@ -215,7 +214,7 @@ You're right about not making the taste too heavy
 39
 00:01:32,600 --> 00:01:36,000
 # 这个是泡香菇的原汤
-This is the water used to soak shiitakes
+This is the water used to soak shiitake mushrooms
 
 40
 00:01:36,000 --> 00:01:38,960
@@ -298,7 +297,7 @@ The eldest skips the second-eldest to order the youngest
 56
 00:02:19,600 --> 00:02:21,960
 # 指使不动你
-His word has no effect on you
+His words have no effect on you
 
 57
 00:02:21,960 --> 00:02:22,320
@@ -312,7 +311,7 @@ Ok, the oil is enough
 59
 00:02:23,640 --> 00:02:28,040
 # 三叔家的油 真使啊
-San Shu's oil, you're really using it
+San Shu's oil, you're so generously using it
 
 60
 00:02:28,040 --> 00:02:31,120
@@ -355,7 +354,7 @@ fry once again, one time is fine
 68
 00:02:59,120 --> 00:03:00,720
 # 炸完了以后搁点大料
-After that add some (大料是什么?)
+After that add some spices
 
 69
 00:03:00,720 --> 00:03:03,680
@@ -385,7 +384,7 @@ This is just right, good
 74
 00:03:10,120 --> 00:03:12,800
 # 洗木耳 抓点盐洗木耳
-Wash the tree fungus. Grab some salt
+Wash the wood ears. Grab some salt
 
 75
 00:03:12,800 --> 00:03:13,680
@@ -410,7 +409,7 @@ All, all of it, okay
 79
 00:03:18,760 --> 00:03:21,400
 # 靠一边 拿手直接攥 攥是吗 对
-- Leave it (盐罐子?) aside. Grip and stir with your hands. - Grip and stir right? - Yep
+- Leave it (salt can) aside. Grip and stir with your hands. - Grip and stir right? - Yep
 
 80
 00:03:21,400 --> 00:03:23,160
@@ -440,7 +439,7 @@ And you rinse it
 85
 00:03:29,960 --> 00:03:31,400
 # 赶紧冲 就是脆的
-Rinse immediately, and the tree fungus would be crispy
+Rinse immediately, and the wood ears would be crispy
 
 86
 00:03:31,400 --> 00:03:32,640
@@ -586,7 +585,7 @@ More
 115
 00:04:46,600 --> 00:04:48,080
 大动作的是吧
-(啥意思?)
+What a movement, huh?
 
 116
 00:04:49,160 --> 00:04:51,160
@@ -666,7 +665,7 @@ This bit of meat is enough
 134
 00:05:30,120 --> 00:05:33,120
 # 颜色浅不浅啊 找颜色就行
-Have we got the right colour? (什么是找颜色?)
+Have we got the right colour?
 
 135
 00:05:33,120 --> 00:05:34,960
@@ -691,7 +690,7 @@ Should we first thicken the gravy or put in the eggs?
 140
 00:05:44,080 --> 00:05:47,720
 # 先勾芡 二伯真反应过来了
-Gravy first. Er Bo's got that
+Gravy first. Er Bai's got that
 
 141
 00:05:47,720 --> 00:05:50,840
@@ -716,7 +715,7 @@ Stir in one direction. Huanzi, you got this?
 145
 00:05:57,680 --> 00:05:59,040
 # 要不乱汤
-Otherwise the soup would be spoiled (乱汤是什么?)
+Otherwise the soup would be spoiled
 
 146
 00:05:59,040 --> 00:06:00,920
@@ -726,7 +725,7 @@ Pour out all of it
 147
 00:06:00,920 --> 00:06:04,720
 # 二伯今儿是炒肝的勾芡方法
-Today Er Bo is using the way of making gravy in Stir-fried livers
+Today Er Bai is using the way of making gravy in Stir-fried livers
 
 148
 00:06:06,800 --> 00:06:08,200
@@ -741,7 +740,7 @@ Push in a circle
 150
 00:06:09,960 --> 00:06:10,560
 # 托大片儿啊
-Ready for the eggs (我猜的)
+Ready for the eggs # (我猜的)
 
 151
 00:06:10,560 --> 00:06:11,560
@@ -786,12 +785,12 @@ Slowly
 159
 00:06:39,800 --> 00:06:43,600
 # 看见没有 一下托底啊
-Don't you see, (?) 
+Don't you see? # 看不懂什么叫“一下托底”
 
 160
 00:06:43,600 --> 00:06:44,960
 # 这回差不多了
-Now this is roughly done
+Now this should be done
 
 161
 00:06:44,960 --> 00:06:45,800
@@ -931,7 +930,8 @@ My God! It smells so good
 188
 00:07:45,120 --> 00:07:46,400
 # 今天咱们吃锅挑儿
-Today we're gonna have (?)
+Today we're gonna have "Guo Tiao'er"
+(Guo Tiao'er: noodles picked from the pot and eaten immediately with the gravy)
 
 189
 00:07:46,400 --> 00:07:48,600
@@ -946,7 +946,7 @@ San Shu, how is it?
 191
 00:07:51,200 --> 00:07:54,000
 # 您这这徒孙做的怎么样
-How does your apprentice's work taste?
+How does your grand-apprentice's work taste?
 
 192
 00:07:55,440 --> 00:07:59,240
