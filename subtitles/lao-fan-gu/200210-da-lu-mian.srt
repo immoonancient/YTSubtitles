@@ -138,17 +138,19 @@ from what we saw previously
 # 师爷这打卤是创新的
 Shiye's gravy is an innovative version
 
-24
-00:00:56,880 --> 00:00:59,200
+# 24
+# 00:00:56,880 --> 00:00:59,200
 # 为局气专门创新的一款(视频中没有，审核上传时删除即可)
 
-25
-00:00:59,200 --> 00:01:02,680
-最新最新的打卤面(视频中没有，审核上传时删除即可)
+# 25
+# 00:00:59,200 --> 00:01:02,680
+# 最新最新的打卤面(视频中没有，审核上传时删除即可)
+
+# shift backward 00:00:05,800
 
 26
 00:01:03,880 --> 00:01:06,200
-# 打卤面里边加点小丸子（*从这里开始错位，时间差比6秒少一点
+# 打卤面里边加点小丸子
 Add some little meatballs to the gravy
 
 27
@@ -950,5 +952,7 @@ How does your apprentice's work taste?
 00:07:55,440 --> 00:07:59,240
 # 正好 徒孙出徒了 谢谢师爷们
 - It's just right! Your apprenticeship is completed. - Thank you Shi Ye!
+
+# shift forward 00:00:05,800
 
 # import ending.srt 00:08:05,600
