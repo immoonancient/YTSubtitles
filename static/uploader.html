@@ -226,7 +226,35 @@ function confirmSubtitlesStage() {
 
         result.push(...imported);
       }
-      return result.join('\n');
+
+      let shiftTimeDelta = 0;
+      let multiples = [0, 3600000, 60000, 1000, 1];
+      return result
+        .map(line => {
+          // # shift {forward,backward} delta
+          if (line.startsWith('# shift')) {
+            const parts = line.split(' ');
+            if (parts.length < 4)
+              return line;
+            const dir = parts[2];
+            if (dir !== 'forward' && dir !== 'backward')
+              return line;
+            const delta = parts[3].match(/(\d+):(\d+):(\d+)[\.\,](\d+)/);
+            if (!delta)
+              return line;
+            for (let i = 1; i <= 4; ++i) {
+              if (dir === 'forward')
+                shiftTimeDelta += parseInt(delta[i]) * multiples[i];
+              else
+                shiftTimeDelta -= parseInt(delta[i]) * multiples[i];
+            }
+            return null;
+          }
+
+          return shiftTimeline(line, shiftTimeDelta);
+        })
+        .filter(line => line !== null)
+        .join('\n');
     }
 
     const formatter = urlParams.istest
