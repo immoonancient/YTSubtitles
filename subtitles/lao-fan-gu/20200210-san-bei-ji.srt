@@ -878,4 +878,4 @@ That’s why there are many different variation of this dish.
 # 好 吃吧
 Alright, let’s dig in.
 
-# 00:07:29 片尾开始
+# import ending.srt 00:07:31,400
