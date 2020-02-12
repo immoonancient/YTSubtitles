@@ -25,12 +25,19 @@
 # 那叫一个香呀！感兴趣的小友记得学呀！
 
 # Hi everyone, we present one of the most iconic dishes from Taiwan: San Bei (three-cup) Chicken.
-# Originally this is a dish was rooted in Jiangxi, and was brought to Taiwan and became an iconic dish there.
-# Story goes that this dish was a traditional dish in Jiangxi and is connected with the famous historical hero Wen Tianxiang. The name of this dish comes from its special recipe: no water needed. One cup of rice wine, one cup of pork or tea-seed oil and one cup of soy sauce, that’s all we need. There are many versions of this famous dish, we are making the one in the style of our own.
+# Originally this dish was rooted in Jiangxi. It was brought to Taiwan and became an iconic dish there.
+# Story goes that this dish was a traditional dish in Jiangxi and is connected with the famous historical hero Wen Tianxiang.
+# The name of this dish comes from its special recipe: no water needed. One cup of rice wine, one cup of lard or tea-seed oil and one cup of soy sauce, that’s all we need.
+# There are many variants of this famous dish. Today, we are making the one in the style of our own.
 
 # Chop the chicken into small pieces and clean it before marination. Cleaning is very important for the colorisation during cooking.
 
-# What’s the most important step in making the cause? What’s the best ratio between the ingredients? When do we need to add sesame the three cups of ingredients? When should you put the Thai basil leaves? What is the proper technique to add Chinese rice wine (Huangjiu)? What would happen when the clay pot meets the rice wine and the ingredients?
+# What’s the most important step in making the course?
+# What’s the best ratio between the ingredients?
+# When do we need to add sesame oil, rice wine and soy sauce, the three cups of the ingredients?
+# When should you put the Thai basil leaves, the soul of this dish?
+# What is the proper technique to add Chinese rice wine (Huangjiu)?
+# What would happen when the clay pot meets the rice wine and the ingredients?
 
 # The amazing aroma of this dish is so amazing that everyone should learn to cook it.
 
@@ -91,7 +98,7 @@ But got really popular in Taiwan
 11
 00:00:26,360 --> 00:00:28,560
 # 但是这个版本颇多
-There are many different styles of this dish.
+There are many variants of this dish.
 
 12
 00:00:28,560 --> 00:00:30,640
@@ -116,12 +123,12 @@ I will do it in totally Lao Fan Gu style
 16
 00:00:39,160 --> 00:00:43,040
 # 咱们把化好的鸡腿切了
-First, let’s chop the chicken thigh pieces
+First, let’s chop the thawed chicken thigh pieces
 
 17
 00:00:43,040 --> 00:00:44,600
 # 去骨么 不去骨
-Debone it ? No we don’t debone it.
+Debone it? No we don’t debone it.
 
 18
 00:00:44,600 --> 00:00:47,680
@@ -141,7 +148,7 @@ The bone gives extra flavour and aroma
 21
 00:00:56,200 --> 00:00:59,080
 # 这是肉鸡 这个是三黄鸡
-Is this wild chicken? This is san-huang Chicken
+Is this a broiler? This is san-huang Chicken
 
 22
 00:00:59,080 --> 00:01:01,200
@@ -166,7 +173,7 @@ Better soak it for over one hour
 26
 00:01:09,600 --> 00:01:11,960
 # 这样做出来的鸡亮
-Makes the chicken look cleaner after coocking
+It makes the chicken look cleaner after coocking
 
 27
 00:01:11,960 --> 00:01:13,880
@@ -264,7 +271,7 @@ Thirty years ago when you first started to work with me?
 46
 00:02:03,160 --> 00:02:05,360
 # 所有的菜的味道全是这个味道
-The moment you start cooking, everything smells like this.
+The moment you started cooking, everything smelled like this.
 
 47
 00:02:05,360 --> 00:02:06,760
@@ -304,7 +311,7 @@ Some red and green chilli pepper
 54
 00:02:20,960 --> 00:02:22,600
 # 主要是为了配色用
-mainly for their colour
+mainly for their colours
 
 55
 00:02:22,600 --> 00:02:24,760
@@ -324,7 +331,7 @@ Which is sesame oil
 58
 00:02:29,560 --> 00:02:33,240
 # 在台湾菜里边其实广泛用到了香油
-It is very popular in Taiwan
+It is very common in Taiwanese cuisine
 
 59
 00:02:33,240 --> 00:02:36,280
@@ -447,7 +454,7 @@ Slightly brown the ginger slices.
 83
 00:03:38,160 --> 00:03:40,560
 # 然后咱们下葱
-Leek too.
+Scallion too.
 
 84
 00:03:40,560 --> 00:03:44,560
@@ -482,7 +489,7 @@ We fry the chicken when the temperature goes up.
 90
 00:03:59,200 --> 00:04:03,240
 # 三个鸡腿放这么多的葱姜蒜
-All these for only three chicken leg pieces.
+All these for only three chicken thighs.
 
 91
 00:04:03,240 --> 00:04:06,320
@@ -597,7 +604,7 @@ Is this dish mainly featuring sweetness or saltiness?
 113
 00:05:02,480 --> 00:05:06,960
 # 咸甜 就是咸压甜 对了
-Salty, and a bit of sweetness.
+Saltiness, and a bit of sweetness.
 
 114
 00:05:06,960 --> 00:05:10,040
@@ -700,7 +707,7 @@ Liang, look at the colour of the chicken.
 134
 00:05:59,800 --> 00:06:02,800
 # 我看着呢我口水都要流出来了
-I am, and it’s making me drool.
+I am looking, and it’s making me drool.
 
 135
 00:06:02,800 --> 00:06:04,040
@@ -750,7 +757,7 @@ Smells amazing, look at it!
 144
 00:06:25,440 --> 00:06:27,040
 # 刚才加饭酒（黄酒）的味道了么
-Smell that? The rice one I just added?
+Smell that? The rice wine I just added?
 
 145
 00:06:27,040 --> 00:06:29,520
@@ -816,12 +823,12 @@ The chicken is very tender
 158
 00:06:56,600 --> 00:06:59,400
 # 有Q劲有弹性
-Tender but still has its structure
+Tender but still bouncy
 
 159
 00:06:59,400 --> 00:07:01,080
 # 有广东菜的特点
-it has the features of a dish from Guagndong
+it has the features of Cantonese cuisine
 
 160
 00:07:01,080 --> 00:07:04,880
@@ -871,7 +878,7 @@ This was such a popular dish
 169
 00:07:24,240 --> 00:07:25,600
 # 所以说版本很多
-That’s why there are many different variation of this dish.
+That’s why there are many variants of this dish.
 
 170
 00:07:25,600 --> 00:07:26,760
