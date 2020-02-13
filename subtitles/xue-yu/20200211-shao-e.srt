@@ -9,7 +9,7 @@
 1
 00:00:01,680 --> 00:00:06,720
 # 广东·中山
-1月份拍摄
+# 1月份拍摄
 Zhongshan, Guangdong. Videotaped in January.
 
 2
@@ -434,5 +434,5 @@ This place is massive.
 85
 00:07:57,760 --> 00:08:00,560
 # 关 注
-雪 鱼 探 店
+# 雪 鱼 探 店
 Please subscribe to my channel! Xue Yu
