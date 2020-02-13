@@ -1015,24 +1015,4 @@ Don’t consider it too complicated.
 # 那么还是在家亲手的操作操作
 So, you’d better practice it at home. Give it a try.
 
-# 片尾
-
-200
-00:06:31,850 --> 00:06:36,700
-I m Da ye, I m Er Bai, I m San shu. We are Lao Fan Gu.
-
-201
-00:06:37,000 --> 00:06:39,800
-Welcome to subscribe our Lao Fan Gu youtube channel.
-
-202
-00:06:40,000 --> 00:06:46,000
-Our Lao Fan Gu team is aiming to teach you how to cook. Teaching you guys some exquisite cooking skills. Hope you guys all like.
-
-203
-00:06:46,300 --> 00:06:51,900
-Hope food lovers all over the world like us, subscribe our channel, and turn on the notification.
-
-204
-00:06:52,000 --> 00:06:57,000
-At mean time, we send our greeting to Chinese friends all over the world. May everything go as you hope! May you be prosperous and wealthy.
+# import ending.srt 00:06:31,850
