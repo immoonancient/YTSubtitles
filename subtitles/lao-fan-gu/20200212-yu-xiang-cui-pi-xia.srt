@@ -1,22 +1,23 @@
 # https://youtu.be/VReHIHL4rj4
 
 # 题目
-# Master chefs of Chinese state banquet teach you how to cook fish- flavored crispy prawns, crispy shell with bouncy meat, rich taste, and low cost homemade .
+# 【国宴大师•鱼香脆皮虾】与众不同酥皮虾，超简单低成本给面儿大菜，皮酥肉嫩有弹性，蘸着吃满口鱼香味！
+# Homemade fish-flavored crispy shrimps! Crispy shell, bouncy meat, rich taste and low cost.
 # 描述
 # 小友们好，今天给大家带来一道与众不同的酥皮虾。
-# Hey, fellows. Today we are bringing you guys a unique version of crispy prawns.
+# Hello friends. Today we are bringing you guys a unique version of crispy shrimps.
 # 酥皮虾大家应该很常见，
-# Crispy prawns is a relatively ordinary dish to us,
+# Crispy shrimps is a relatively ordinary dish to us,
 # 但今天的特别之处在于两边腹开的改刀方式，
-# But today, we use a special carving method that exposes the prawns’ belly area.
+# But today, we use a special technique that cuts through the shrimps' belly area.
 # 将虾壳与虾肉完整剥离又相连，油炸后的虾壳被保留完整，
 # Separate the shell from the meat, but don’t let it totally come off. Preserve the shell after fried.
 # 颜色红亮又剔透，虾壳酥脆，虾肉鲜嫩。整个菜变得非常漂亮。
-# The prawn will have a bright color with a crystal look. Inside, the meat is fresh and tender, which covered by a layer of deep-fried crispy shell. The whole dish looks extremely wonderful.
+# The shrimps will have a bright color with a sharp clean look. Inside, the meat is fresh and tender, covered by a layer of deep-fried crispy shell. The whole dish looks extremely wonderful.
 # 还有个不同之处是鱼香味的蘸碟。
-# And another different part is its fish-flavored ingredient.
+# The fish-flavored dipping sauce is also unique.
 # 为何要做蘸碟，而不是将调料汁撒在虾面上呢？
-# Why do we choose to have ingredient after cooking instead of pre-cooking?
+# Why do we choose to make a dipping sauce instead of pouring it over the shrimps?
 # 欢迎小友们观看视频，多学一些小技巧！
 # Welcome you to watch the video and learn some skills.
 # 字幕
@@ -49,17 +50,17 @@ Excellent.
 6
 00:00:07,870 --> 00:00:09,405
 # 鱼香脆皮虾
-Fish-flavored crispy prawns.
+Fish-flavored crispy shrimps.
 
 7
 00:00:09,405 --> 00:00:11,808
 # 今天咱做一个与众不同的酥皮虾
-Today we are bringing a unique recipe of crispy prawns.
+Today we are bringing a unique recipe of crispy shrimps.
 
 8
 00:00:11,974 --> 00:00:13,910
 # 一个是它的改刀方式
-One thing different is its carving.
+One thing unique is the cutting
 
 9
 00:00:14,310 --> 00:00:15,178
@@ -69,12 +70,12 @@ Another is its taste.
 10
 00:00:15,511 --> 00:00:16,979
 # 这个一个是小焦来了
-Here is my fellow Jiao.
+Here is Xiao Jiao.
 
 11
 00:00:16,979 --> 00:00:20,016
 # 一个是你向来都是与众不同是吧
-You have always been different, right?
+You have always been unique, right?
 
 12
 00:00:20,016 --> 00:00:21,884
@@ -89,12 +90,12 @@ Small dishes I can do better.
 14
 00:00:23,686 --> 00:00:24,587
 # 诶 什么虾
-What types of prawn it is?
+What type of shrimp is it?
 
 15
 00:00:24,587 --> 00:00:25,254
 # 海白虾
-Sea white shrimp.
+White shrimp.
 
 16
 00:00:25,354 --> 00:00:27,457
@@ -119,7 +120,7 @@ In this way the shell could be peeled off thoroughly.
 20
 00:00:32,195 --> 00:00:33,262
 # 就跟虾蜕皮似的
-It’s like ecdysis mechanism of shrimps themselves.
+It’s like the moulting of shrimps themselves.
 
 21
 00:00:33,296 --> 00:00:35,832
@@ -139,7 +140,7 @@ Peeled off, good.
 24
 00:00:52,949 --> 00:00:56,385
 # 你看三叔揣着兜 检验
-Look at Wu, hands in his pocket, checking out right now, haha.
+Look at San Shu! Hands in his pocket, checking out right now. Haha!
 
 25
 00:00:56,419 --> 00:00:57,854
@@ -159,17 +160,17 @@ Done.
 28
 00:01:01,457 --> 00:01:02,859
 # 咱们是用几头虾
-How many prawns are we gonna use?
+How big are the shrimps?
 
 29
 00:01:03,292 --> 00:01:04,327
 # 八个头
-Eight.
+Eight shrimps per 500g.
 
 30
 00:01:04,327 --> 00:01:06,596
 # 八个头350克大概多少钱
-Eight prawns, about 350g, how much it would be around?
+How much is it for 350g?
 
 31
 00:01:06,596 --> 00:01:07,196
@@ -189,12 +190,12 @@ You can cook a serious dish at home with this 40 RMB.
 34
 00:01:10,166 --> 00:01:11,267
 # 值 很值
-Worthy! Very worthy!
+Worth it! Totally worth it!
 
 35
 00:01:11,267 --> 00:01:13,970
 # 咱把这个虾给他冲白了
-Wash the prawn until it turns white.
+Wash the shrimps until they turn white.
 
 36
 00:01:14,804 --> 00:01:16,672
@@ -204,17 +205,17 @@ Wash out all of the scums.
 37
 00:01:16,672 --> 00:01:19,742
 # 通过凉水这一激 它成型了
-Use the cold water to contract the meat. It gone firm now.
+Use the cold water to contract the meat. It has gone firm now.
 
 38
 00:01:19,809 --> 00:01:21,377
 # 咱把虾给它沾一下
-Let’s get rid of excess water by towel.
+Let’s get rid of excess water with a towel.
 
 39
 00:01:23,145 --> 00:01:24,347
 # 再给它腌一下
-And marinate the prawns.
+And marinate the shrimps.
 
 40
 00:01:24,614 --> 00:01:25,848
@@ -234,7 +235,7 @@ Less scallion and ginger.
 43
 00:01:31,053 --> 00:01:32,255
 # 腌多长时间啊
-How long it takes?
+How long does it take?
 
 44
 00:01:32,255 --> 00:01:34,223
@@ -249,7 +250,7 @@ Ok.
 46
 00:01:34,657 --> 00:01:36,959
 # 咱就给他蘸一下粉子
-Sprinkle the starch over the prawns.
+Let's dredge the shrimps in starch.
 
 47
 00:01:36,959 --> 00:01:37,959
@@ -259,12 +260,12 @@ This is corn starch.
 48
 00:01:38,327 --> 00:01:39,262
 # 蘸这虾的时候
-When sprinkle the starch,
+When dredging the shrimp
 
 49
 00:01:40,129 --> 00:01:41,731
 # 千万不能蘸着虾皮
-You must not touch the shell.
+Make sure the shell doesn't touch the starch
 
 50
 00:01:42,198 --> 00:01:43,933
@@ -279,32 +280,32 @@ Is it supposed to be fried later?
 52
 00:01:45,401 --> 00:01:46,669
 # 炸完以后它不打卷吗
-Aren’t they gonna roll up after fried?
+Aren’t they gonna curl up after fried?
 
 53
 00:01:46,836 --> 00:01:48,137
 # 要它打卷 就让他打卷
-We need them to roll up, so let em be.
+We need them to curl up, so let 'em be.
 
 54
 00:01:48,137 --> 00:01:48,871
 # 对 卷起来
-Yes, roll up.
+Yes, curl up.
 
 55
 00:01:48,938 --> 00:01:49,672
 # 烧油的同时
-When we heat up the oil,
+While the oil is heating up,
 
 56
 00:01:49,672 --> 00:01:51,140
 # 来 先把这鱼香汁给调出来
-Let’s make this fish-flavored ingredient at the same time.
+Let’s make this fish-flavored sauce at the same time.
 
 57
 00:01:51,240 --> 00:01:53,543
 # 绵白糖 三勺
-Three teacup of powdered sugar.
+Three spoonful of white sugar
 
 58
 00:01:53,543 --> 00:01:56,279
@@ -314,17 +315,17 @@ The ratio of vinegar to sugar is 1:1
 59
 00:01:56,279 --> 00:01:56,812
 # 黄酒
-Rice wine
+Yellow rice wine
 
 60
 00:01:56,812 --> 00:01:57,947
 # 黄酒
-Rice wine
+Yellow rice wine
 
 61
 00:01:58,114 --> 00:01:59,649
 # 少来点酱油
-A pinch of Soy sauce, slightly less than usual.
+Soy sauce, not too much.
 
 62
 00:01:59,782 --> 00:02:01,450
@@ -354,12 +355,12 @@ We have been talking about this “fish-flavored taste” for a while.
 67
 00:02:07,823 --> 00:02:09,025
 # 到底是什么口
-So what it is exactly?
+So what is it exactly?
 
 68
 00:02:09,091 --> 00:02:12,962
 # 鱼香口应该是酸甜咸鲜
-A fish-flavored taste should include vinegar, sweetness, saltiness, and umami.
+A fish-flavored taste should include acidity, sweetness, saltiness, and umami.
 
 69
 00:02:13,863 --> 00:02:14,297
@@ -374,7 +375,7 @@ How does it taste in Sichuan cuisine?
 71
 00:02:16,399 --> 00:02:22,204
 # 咸在前 咸甜酸辣香
-Saltiness ranks the first, which followed by sweetness, vinegar, spiciness and aroma.
+Saltiness ranks the first, followed by sweetness, acidity, spiciness and aroma.
 
 72
 00:02:22,305 --> 00:02:23,406
@@ -399,12 +400,12 @@ Hahhah definitely not!
 76
 00:02:28,077 --> 00:02:30,012
 # 老同志脑瓜反应快
-Old fellow got a quick reflex!
+The senior got a quick reflex!
 
 77
 00:02:30,279 --> 00:02:33,749
 # 所以说三叔你看任何菜都涉及到改良
-So, Wu, here it is, any recipes could all be improved and evolved.
+So, San Shu, here it is, any recipe could be improved and adapted.
 
 78
 00:02:33,749 --> 00:02:35,718
@@ -423,8 +424,8 @@ What is “authentic”?
 
 81
 00:02:37,853 --> 00:02:38,888
-# 三说我是这么觉得
-Bro I think it this way.
+# 三叔我是这么觉得
+I think it this way, San Shu
 
 82
 00:02:39,355 --> 00:02:41,657
@@ -449,32 +450,32 @@ Exactly.
 86
 00:02:44,694 --> 00:02:46,062
 # 真正把川菜拿过来
-If I brought you a local Sichuan food here,
+If I brought you a local Sichuan dish here,
 
 87
 00:02:46,095 --> 00:02:47,530
 # 你其实不一定能吃
-You might not get used to it.
+You might not be used to it.
 
 88
 00:02:47,563 --> 00:02:51,267
 # 我老饭骨其实也是秉承这种家庭口味
-Our Lao Fan Gu insist on the family taste meals.
+We Lao Fan Gu insist on the family taste meals.
 
 89
 00:02:51,267 --> 00:02:53,002
 # 然后让你吃着很满意的口味
-And create tastes that satisfied your taste.
+And create tastes that satisfy your tastebuds
 
 90
 00:02:53,002 --> 00:02:55,538
 # 让你自己能操作的口味来做咱们
-Our cooking instruction mainly focus on some delicious tastes,
+Our cooking instruction mainly focuses on deliciousness
 
 91
 00:02:55,838 --> 00:02:57,573
 # 在自己家里边能做的美食
-that you are able cook in your own home.
+that can be easily replicated at home
 
 92
 00:02:57,607 --> 00:02:58,407
@@ -484,12 +485,12 @@ Right?
 93
 00:02:58,741 --> 00:03:00,743
 # 所以说别拿正宗说事
-So forget about “authentic”.
+So forget about being authentic.
 
 94
 00:03:00,743 --> 00:03:03,179
 # 来先把虾头炸一下
-Let’s fry prawns’ heads first.
+Let’s fry shrimps’ heads first.
 
 95
 00:03:03,312 --> 00:03:04,780
@@ -499,7 +500,7 @@ Be cautious, don’t burn yourself.
 96
 00:03:04,780 --> 00:03:05,414
 # 得睡醒了
-Don’t you fall asleep here.
+Make sure you are awake.
 
 97
 00:03:05,414 --> 00:03:06,415
@@ -514,7 +515,7 @@ Ok
 99
 00:03:08,150 --> 00:03:09,585
 # 给自己定为梦中人
-Always falls in dreams at the middle of the day.
+He identifies himself as a man living in dreams.
 
 100
 00:03:10,119 --> 00:03:12,455
@@ -534,7 +535,7 @@ Yes.
 103
 00:03:13,689 --> 00:03:15,324
 # 要的脆劲儿
-Crispy is what we need.
+Crispiness is what we need.
 
 104
 00:03:19,562 --> 00:03:21,130
@@ -549,17 +550,17 @@ The oil temperature is perfect. Let’s do it.
 106
 00:03:25,301 --> 00:03:26,469
 # 一个一个的下
-We cook them one by one.
+We cook them one by one?
 
 107
 00:03:26,969 --> 00:03:28,304
 # 三个一块下
-Three in a time.
+Three at a time.
 
 108
 00:03:30,773 --> 00:03:32,908
 # 这虾出来绝对脆
-These prawns are definitely gonna be crispy!
+These shrimps are definitely gonna be crispy!
 
 109
 00:03:33,442 --> 00:03:34,276
@@ -574,22 +575,22 @@ piapiapia
 111
 00:03:36,012 --> 00:03:38,047
 # 这油温有200度 九成油温
-The temperature of oil is around 200 Celsius degree, nine tenths of the maximum temp.
+The temperature of oil seems to around 200 Celsius degree, 90% of the maximum temp.
 
 112
 00:03:38,214 --> 00:03:39,615
 # 没有九成油温
-Less than nine.
+Less than 90%.
 
 113
 00:03:40,149 --> 00:03:42,785
 # 这个也就是七成 七到八成
-It’s only around seven or eight.
+It’s only around 70% or 80%
 
 114
 00:03:42,785 --> 00:03:43,953
 # 九成油温快冒烟了
-Oil will be nearly vaporized if it’s at nine tenths.
+Oil would have been smoking if it’s at 90%
 
 115
 00:03:43,953 --> 00:03:44,253
@@ -599,17 +600,17 @@ Look at it.
 116
 00:03:45,054 --> 00:03:46,022
 # 还是小焦
-Still count on my little brother Jiao.
+Still count on Xiao Jiao.
 
 117
 00:03:47,456 --> 00:03:50,559
 # 所以三叔说三七二百一么
-So as Wu said, seven tenths is 210 Celsius degrees.
+So as San Shu said, 70% heat is 210 degrees Celsius.
 
 118
 00:03:51,293 --> 00:03:53,229
 # 这个脆皮虾关键皮得脆
-The key point of this “ Crispy prawns” is its’ crispness.
+The key point of this “Crispy shrimps” is its crispness.
 
 119
 00:03:53,929 --> 00:03:54,797
@@ -654,7 +655,7 @@ Perfect!
 127
 00:04:08,544 --> 00:04:11,147
 # 关键你看没有网友们 必须得洗干净了
-Hey my friends, noticed that? The key point is to wash until it absolutely clean.
+Hey my friends, did you notice that? The key point is to wash the shrimps until they are absolutely clean.
 
 128
 00:04:11,180 --> 00:04:12,281
@@ -664,12 +665,12 @@ Look, how bright it is!
 129
 00:04:12,281 --> 00:04:14,183
 # 里外晶莹剔透
-Transparent and crystal both inside and outside.
+Clear like crystal both inside and outside.
 
 130
 00:04:14,517 --> 00:04:15,685
 # 跟穿着一裙子似的
-Look like a wonderful dress on the prawn.
+Look like a wonderful dress on the shrimp.
 
 131
 00:04:15,685 --> 00:04:16,218
@@ -679,27 +680,27 @@ Exactly.
 132
 00:04:16,218 --> 00:04:17,720
 # 油倒走
-Get rid of the oil redundancy.
+Get rid of the oil.
 
 133
 00:04:17,753 --> 00:04:19,889
 # 师兄您今儿选择这是什么虾啊
-Bro what prawns you choose today?
+Bro what shrimps did you use today?
 
 134
 00:04:19,889 --> 00:04:22,058
 # 泰国的 海白虾
-Thailand, Sea white shrimp.
+White shrimps, from Thailand.
 
 135
 00:04:22,058 --> 00:04:24,093
 # 而且得用皮儿薄的
-And we select those with thin shells.
+And we selected those with thin shells.
 
 136
 00:04:24,193 --> 00:04:27,663
 # 其实我觉着一通百通
-In fact, I think if you know one method you will know all.
+In fact, I think if you know the key you will know all.
 
 137
 00:04:27,663 --> 00:04:28,564
@@ -709,7 +710,7 @@ You can cook whatever in your hands.
 138
 00:04:29,098 --> 00:04:30,833
 # 做出来按这种手法都好看
-Followed this recipe, they all gonna be excellent.
+Followed this recipe, they are all gonna be excellent.
 
 139
 00:04:30,833 --> 00:04:31,834
@@ -739,7 +740,7 @@ Thickening.
 144
 00:04:35,971 --> 00:04:37,039
 # 水淀粉
-Water starch.
+Slurry
 
 145
 00:04:37,039 --> 00:04:39,775
@@ -749,12 +750,12 @@ Now we have to use cooled oil, instead of hot oil.
 146
 00:04:39,775 --> 00:04:42,445
 # 哎 热锅凉油
-Check out, hot pot with cooled oil.
+Check out, hot wok with cool oil.
 
 147
 00:04:42,445 --> 00:04:43,612
 # 豆瓣酱得剁一下
-We mince the thick broad-bean sauce.
+We mince the doubanjiang (aka fermented broad bean paste).
 
 148
 00:04:43,779 --> 00:04:44,714
@@ -789,7 +790,7 @@ Sesame oil.
 154
 00:04:52,922 --> 00:04:56,525
 # 加点姜末 先放姜末
-Add some bruised ginger first.
+Add some minced ginger first.
 
 155
 00:04:56,859 --> 00:04:57,760
@@ -799,17 +800,17 @@ Chopped scallions.
 156
 00:04:58,127 --> 00:04:59,261
 # 蒜蓉
-Garlic sauce.
+Minced garlic
 
 157
 00:04:59,261 --> 00:05:00,830
 # 因为川菜小料必须得重
-The seasoning sauce of Sichuan cuisine has to be very thick.
+Sichuan cuisine is heavy on the aromatics
 
 158
 00:05:01,564 --> 00:05:03,332
 # 小料太重鱼香味才能出得来
-The fish-flavored taste will emerge only if the seasoning is strong.
+The fish-flavored taste will not come through without these strong aromatics
 
 159
 00:05:03,699 --> 00:05:05,367
@@ -834,7 +835,7 @@ Traditional method, thickening.
 163
 00:05:09,071 --> 00:05:11,841
 # 搅起来待会打熟了它就不混了
-Keep stirring. The mixed sauce will go clean after well cooked.
+Keep stirring. The mixed sauce will go clear after well cooked.
 
 164
 00:05:11,874 --> 00:05:14,643
@@ -849,12 +850,12 @@ Put on some oil.
 166
 00:05:17,413 --> 00:05:19,749
 # 嘿 正好热油 热油最亮
-Hey, exactly hot oil we need, looks brightest!
+Hey, exactly what we need, hot oil looks the brightest!
 
 167
 00:05:19,749 --> 00:05:22,184
 # 少来点葱花
-Slightly add some chopped scallion.
+Garnish with some chopped scallion.
 
 168
 00:05:22,618 --> 00:05:23,552
@@ -884,12 +885,12 @@ Yep, selectiveness.
 173
 00:05:28,057 --> 00:05:30,326
 # 皮酥肉嫩
-Tender prawn with crispy shell.
+Tender shrimps with crispy shell.
 
 174
 00:05:31,360 --> 00:05:32,762
 # 鱼香脆皮虾
-Fish-flavored crispy prawn.
+Fish-flavored crispy shrimps.
 
 175
 00:05:35,831 --> 00:05:38,601
@@ -899,22 +900,22 @@ Hey, the thickness of the sauce is perfect. It’s sticky.
 176
 00:05:40,169 --> 00:05:42,338
 # 诶 小魏 这汁儿盛碗里什么意思
-Hey Wei, how comes the sauce inside the bowl?
+Hey Wei, how come the sauce is inside the bowl?
 
 177
 00:05:42,338 --> 00:05:44,206
 # 盛碗里就是蘸汁吃
-You dip the prawn into the sauce.
+You dip the shrimp in the sauce.
 
 178
 00:05:44,206 --> 00:05:45,908
 # 这样它不会破坏它的形状
-This way the prawn will keep the shape.
+This way the shrimp will keep the shape.
 
 179
 00:05:45,908 --> 00:05:47,243
 # 不会破坏它的脆度
-And preserve its’ crispiness.
+And preserve its crispiness.
 
 180
 00:05:47,510 --> 00:05:49,378
@@ -958,7 +959,8 @@ Get some sauce on the shell as well.
 
 188
 00:06:02,691 --> 00:06:03,893
-汁兜多点
+# 汁兜多点
+To carry more sauce.
 
 189
 00:06:03,893 --> 00:06:05,127
@@ -993,7 +995,7 @@ This fish-flavored sauce is so delicious! Right?
 195
 00:06:17,239 --> 00:06:19,175
 # 这个虾的形式也好
-The shape of the prawns is delicate as well.
+The shape of the shrimps is delicate as well.
 
 196
 00:06:19,842 --> 00:06:20,876
