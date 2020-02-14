@@ -1188,5 +1188,4 @@ Absolutely delicious.
 240
 00:09:53,200 --> 00:09:53,560
 
-# 片尾
-# 9:59.2
+# import ending.srt 00:09:59,200
