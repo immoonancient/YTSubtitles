@@ -34,12 +34,12 @@
 1
 00:00:00,000 --> 00:00:01,480
 # 大爷教你们奇妙的招
-Da Ye is teaching some useful tips today
+Da Ye is teaching some amazing tips today
 
 2
 00:00:01,480 --> 00:00:03,560
 # 这招绝对棒
-It’s totally working.
+It's totally gonna work well.
 
 3
 00:00:03,560 --> 00:00:06,200
@@ -59,12 +59,12 @@ Fragrant Crispy Duck
 6
 00:00:10,120 --> 00:00:12,600
 # 但是今天我也改良了一下
-I’m making some improvement to this dish today.
+I’m making some improvements to this dish today.
 
 7
 00:00:12,600 --> 00:00:15,640
 # 叫香酥去骨鸭 脱骨了给
-I am going to debone it.
+It's called the Deboned Fragrant Crispy Duck. All bones in the duck will be removed. 
 
 8
 00:00:15,640 --> 00:00:17,400
@@ -79,7 +79,7 @@ We should not remove the bones
 10
 00:00:20,720 --> 00:00:21,680
 # 因为在酒店
-But in our restaurant (popular among foreigners)
+But in our restaurant
 
 11
 00:00:21,680 --> 00:00:25,160
@@ -95,7 +95,7 @@ This part smells really bad, we have to remove it.
 00:00:30,000 --> 00:00:34,120
 # 这是什么鸭 这是樱桃谷鸭小鸭子
 (What breed is this duck?)
-Small Peking Duck
+Small Pekin Duck
 
 14
 00:00:34,120 --> 00:00:36,840
@@ -105,17 +105,17 @@ Foreigners don’t like meat with bones.
 15
 00:00:36,840 --> 00:00:42,480
 # 我们在操作当中就把骨头去掉
-So let’s remove the bones already.
+We will remove the bones 
 
 16
 00:00:42,480 --> 00:00:44,960
 # 我再检查底下里头啊
-Let me check the inside
+Let me check the inside one more time.
 
 17
 00:00:44,960 --> 00:00:48,160
 # 肺啊肠子看还有没有
-Maybe the lungs and intestines are still there
+to see if the lungs and intestines are still inside
 
 18
 00:00:48,160 --> 00:00:50,240
