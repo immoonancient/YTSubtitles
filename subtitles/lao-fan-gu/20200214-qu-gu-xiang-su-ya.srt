@@ -192,7 +192,7 @@ We use to make both chicken and duck like this
 32
 00:01:27,560 --> 00:01:29,680
 # 三叔 的那一句话怎么说的
-Remember what I always say, San Shu?
+What's the famous quote of San Shu?
 
 33
 00:01:29,680 --> 00:01:31,200
@@ -228,7 +228,7 @@ Yellow Chinese cooking wine
 39
 00:01:43,760 --> 00:01:46,000
 # 如果着急有半小时就可以
-Marinate at least 30 mins if you are in a rush.
+Marinate for 30 mins if you are in a rush.
 
 40
 00:01:46,000 --> 00:01:47,560
@@ -270,8 +270,8 @@ Leave everything in when you steam or boil.
 
 48
 00:02:05,200 --> 00:02:07,800
-# 你看隋坡老师傅做老菜
-When an old master cooks a traditional dish
+# 你看，隋坡，老师傅做老菜
+Sui Po, You see? When an old master cooks a traditional dish
 
 49
 00:02:07,800 --> 00:02:08,760
@@ -361,7 +361,7 @@ So that all of our followers can learn and make this at home.
 66
 00:02:42,400 --> 00:02:44,080
 # 你看没有四十分钟
-See, in less that 40 minutes.
+See? 40 minutes.
 
 67
 00:02:44,080 --> 00:02:45,560
@@ -414,7 +414,7 @@ Flip it, and it’s almost ready for frying.
 77
 00:03:04,520 --> 00:03:07,240
 # 但是咱们说的是香酥去骨鸭
-But we promised to take the bones off.
+But we said "Deboned Fragrant Crispy Duck".
 
 78
 00:03:07,240 --> 00:03:09,600
@@ -540,7 +540,7 @@ So, Da Ye is mixing the spring onion
 103
 00:04:03,880 --> 00:04:05,760
 # 花椒大颗粒混合了
-With the large pieces of the Sichuan Pepper
+With the large pieces of the ground Sichuan Pepper
 
 104
 00:04:05,760 --> 00:04:09,880
@@ -569,7 +569,7 @@ It’s an old time seasoning mix.
 109
 00:04:22,120 --> 00:04:24,640
 # 为什么要用葱心
-Why do you only use the inner part of the spring onion?
+Why do you only use the white part of the spring onions?
 
 110
 00:04:24,640 --> 00:04:28,040
@@ -604,7 +604,7 @@ Next, we need to make a batter.
 116
 00:04:41,120 --> 00:04:44,320
 # 网友们 大爷做菜简单漂亮
-(See? Da Ye was always making it simple but beautiful)
+(See? Da Ye makes the cooking simple and neat!)
 
 117
 00:04:44,320 --> 00:04:46,200
@@ -614,7 +614,7 @@ Next, we need to make a batter.
 118
 00:04:46,200 --> 00:04:48,600
 # 面粉 还有搁点淀粉
-(Egg), Flour, and some starch
+Flour, and some starch
 
 119
 00:04:48,600 --> 00:04:51,560
@@ -642,7 +642,7 @@ Two portions of flour and one portion of starch.
 124
 00:05:00,400 --> 00:05:02,520
 # 二比一 它起什么作用呢
-Why is it 2:1 ?
+Why is it 2:1?
 
 125
 00:05:02,520 --> 00:05:08,360
@@ -719,12 +719,12 @@ And then just take it up like that, voilà!
 141
 00:05:48,040 --> 00:05:50,160
 # 全下来了
-Here it gose.
+Here it goes.
 
 142
 00:05:50,160 --> 00:05:52,240
 # 脊背的肉 大骨已经去掉了
-The bones in the back is removed.
+The bones in the back are removed.
 
 143
 00:05:52,240 --> 00:05:54,720
@@ -770,7 +770,7 @@ Well, after we have removed the bones,
 152
 00:06:11,560 --> 00:06:14,640
 # 鸭肉有的个别的可能会烂
-Some parts of the meat may fall off
+Some parts of the meat may fall apart loose
 
 153
 00:06:14,640 --> 00:06:15,840
@@ -808,7 +808,7 @@ We need to remove the excessive moisture
 160
 00:06:30,800 --> 00:06:32,400
 # 挂糊的时候挂得住
-So that the batter can stick with the meat.
+So that the batter can stick to the meat.
 
 161
 00:06:32,400 --> 00:06:35,520
@@ -851,7 +851,7 @@ Here, the pepper salt with spring onion.
 169
 00:06:51,640 --> 00:06:55,560
 # 比如说外边吃个烤羊腿
-Sometimes when you roast the leg of a lamb.
+Say, sometimes when you roast a lamb leg.
 
 170
 00:06:55,560 --> 00:07:00,600
@@ -934,7 +934,7 @@ Also, because our duck is still warm.
 186
 00:07:44,440 --> 00:07:47,040
 # 所以油温就高一点
-So, it’s alright to use a higher temperature.
+So, it’s alright to fry it in a higher temperature.
 
 187
 00:07:47,040 --> 00:07:52,200
@@ -970,12 +970,12 @@ Good, let’s fry it
 194
 00:08:04,000 --> 00:08:05,600
 # 因为家里边一个是锅小
-Sometimes you only have a small pan at home.
+If you only have a smaller wok at home.
 
 195
 00:08:05,600 --> 00:08:07,400
 # 油可能不会用这么多
-And perhaps you don’t want to use that much oil in the pan.
+or, perhaps you don’t want to use that much oil at a time
 
 196
 00:08:07,400 --> 00:08:11,520
@@ -1094,7 +1094,7 @@ I never waste anything
 219
 00:08:58,080 --> 00:09:05,960
 # 把边上先切了 小象眼刀
-(He is chopping the side parts first)
+(He trims the uneven sides off first)
 
 220
 00:09:05,960 --> 00:09:06,800
