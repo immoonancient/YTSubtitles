@@ -449,7 +449,7 @@ Let’s roast some Sichuan Peppercorns
 84
 00:03:18,280 --> 00:03:20,720
 # 这花椒一定是现磨
-We must roast it freshly.
+Sichuan peppercorns must be ground and roasted freshly.
 
 85
 00:03:20,720 --> 00:03:23,200
