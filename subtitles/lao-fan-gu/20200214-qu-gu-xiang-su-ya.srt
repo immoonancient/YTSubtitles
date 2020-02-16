@@ -8,23 +8,24 @@
 
 # 描述
 # 今天带给大家一道香酥鸭，这道菜按理说应该是带骨的，
-# 但咱大爷做的事改良去骨版的，这样有老人和小孩的家庭都能放心吃喽！
+# 但咱大爷做的是改良去骨版的，这样有老人和小孩的家庭都能放心吃喽！
 
 # 鸭处理干净无味有几个步骤？如何腌制能够去骚增香？
 # 腌制的时长和盐的用量有什么关系？
 # 今天的鸭子是电饭煲煮熟的，那么咱如何看鸭子煮烂没？
 # 鸭煮熟后应该从何处开始去骨？如何拆骨才有型？
-# 拆出的鸭肉要是烂糊了应该怎么办？
+# 拆出的鸭肉要是烂乎了应该怎么办？
 # 炸鸭之前如何挂糊？油温几成？如何才能起酥？
 # 哎哟不行了，太香啦，吃去喽！
 # Description:
 # Today we are presenting the Fragrant Crispy Duck. Traditionally this dish is made with the bones on the meat. But today Da Ye is cooking without the bones so that it is also safe for the old and young kids to enjoy.
 
 # What are the important steps in cleaning the duck? How to properly marinate the duck?
-# How long does the marination take and how much salt do you need for it?
-# We are cooking with an electronic rice cooker. How can you tell if the duck is cooked through?
+# What is the correlation between the marination time and the amount of salt?
+# We are cooking with an electronic rice cooker. How could you tell if the duck is completely cooked?
 # How to properly debone the duck without breaking the shape of it?
-# How to properly apply the batter before frying? What is the proper oil temperature? How to make the duck crispy up?
+# How to deal with the situation if the duck is out of shape after deboned? 
+# How to properly apply the batter before frying? What is the proper oil temperature? How to make the duck crispier?
 # Here we go!
 
 # import intro (稿件请保留此行，无需修改)
@@ -159,24 +160,24 @@ See? You have to leave something for your master
 26
 00:01:09,960 --> 00:01:11,960
 # 收拾干净以后我们先撮盐
-After cleaning, we need to apply some salt.
+After cleaning, we need to rub some salt on it.
 
 27
 00:01:11,960 --> 00:01:14,880
 # 今天咱鸭子是蒸 蒸煮都行
-Are we steaming it?
-(Both seaming and boiling are fine)
+Are we gonna steam it?
+(Both steaming and boiling are fine)
 
 28
 00:01:14,880 --> 00:01:17,480
 # 蒸的立整 煮的水气大 对
-It is a bit cleaner if you steam it. Boiling may make it watery.
+Steaming will be neater than boiling. Boiling may make it watery.
 (Right)
 
 29
 00:01:17,480 --> 00:01:20,160
 # 搓盐入味是吧 腌制
-Rub the salt even to marinate it
+Rub the salt evenly to marinate it
 
 30
 00:01:20,160 --> 00:01:24,000
@@ -206,12 +207,12 @@ You can use the same recipe for chicken and duck
 35
 00:01:33,560 --> 00:01:37,760
 # 搓好以后装到盆里头就要进行腌制
-After rubbing it with salt, let’s put it here to marinate.
+After rubbing it with salt, let’s put it in the bowl to marinate.
 
 36
 00:01:37,760 --> 00:01:40,480
 # 桂皮 大料 花椒
-Cinnamon, star anise, Sichuan pepper
+Cinnamon, star anise, and Sichuan pepper
 
 37
 00:01:40,480 --> 00:01:42,400
@@ -222,7 +223,7 @@ A bit fennel seeds, maybe?
 38
 00:01:42,400 --> 00:01:43,760
 # 黄酒腌上
-Yellow Chinese rice wine
+Yellow Chinese cooking wine
 
 39
 00:01:43,760 --> 00:01:46,000
@@ -237,7 +238,7 @@ You should use a bit more salt if you only marinate it for a short period of tim
 41
 00:01:47,560 --> 00:01:50,600
 # 腌一小时就腌的淡一点
-If you have one hour, then you need to reduce the amount of salt.
+Use less salt if you got a whole hour for marination. 
 
 42
 00:01:50,600 --> 00:01:54,880
@@ -265,7 +266,7 @@ Make sure you leave everything here when you steam it.
 47
 00:02:02,960 --> 00:02:05,200
 # 就原封的蒸或者煮
-Leave everything here when you steam or boil.
+Leave everything in when you steam or boil.
 
 48
 00:02:05,200 --> 00:02:07,800
@@ -285,7 +286,7 @@ Simple as that
 51
 00:02:10,720 --> 00:02:12,760
 # 所有的食材是借味
-You are supposed to elevate the flavor of the ingredients
+spices bring out the flavor of the duck
 
 52
 00:02:12,760 --> 00:02:16,920
@@ -300,22 +301,22 @@ Like, the duck should not only taste like cinnamon
 54
 00:02:20,160 --> 00:02:22,200
 # 对原来本味没有了
-Then natural flavor of the ingredient is lost.
+Then the natural flavor of the duck (main course) is lost.
 
 55
 00:02:22,200 --> 00:02:24,640
 # 鸭子也好了今天不蒸了
-OK the duck is ready. We will not steam it today.
+OK the duck is ready. We will not steam it today, though
 
 56
 00:02:24,640 --> 00:02:26,000
 # 因为咱这蒸着别的呢
-The steamer is occupied.
+The steamer is being used for some other dish.
 
 57
 00:02:26,000 --> 00:02:27,480
 # 咱们改煮
-So, let’s just boil it.
+So instead, we will boil it.
 
 58
 00:02:27,480 --> 00:02:30,040
@@ -325,7 +326,7 @@ If you were to steam it, you will need one hour on high heat.
 59
 00:02:30,040 --> 00:02:31,640
 # 这种（电）高压性质的
-This is basically an electronic pressure cooker
+If you use an electronic pressure cooker
 
 60
 00:02:31,640 --> 00:02:33,240
@@ -345,7 +346,7 @@ We need to add salt to it.
 63
 00:02:37,360 --> 00:02:38,920
 # 还得搁点酒
-And some Chines rice wine
+And some Chines cooking wine
 
 64
 00:02:38,920 --> 00:02:40,480
@@ -355,12 +356,12 @@ That was easy.
 65
 00:02:40,480 --> 00:02:42,400
 # 一教网友网友回家都能做了
-So that all of our followers can make this at home.
+So that all of our followers can learn and make this at home.
 
 66
 00:02:42,400 --> 00:02:44,080
 # 你看没有四十分钟
-See, 40 minutes.
+See, in less that 40 minutes.
 
 67
 00:02:44,080 --> 00:02:45,560
@@ -380,7 +381,7 @@ How can you tell?
 70
 00:02:49,160 --> 00:02:51,840
 # 看俩腿它缩回去了
-See how the meat on the legs start to shrink back?
+See how the legs shrank into the duck?
 
 71
 00:02:51,840 --> 00:02:53,200
@@ -443,7 +444,7 @@ In the meantime
 83
 00:03:16,520 --> 00:03:18,280
 # 咱们炒点花椒
-Let’s roast some Sichuan Pepper.
+Let’s roast some Sichuan Peppercorns
 
 84
 00:03:18,280 --> 00:03:20,720
@@ -458,7 +459,7 @@ We must roast it freshly.
 86
 00:03:23,200 --> 00:03:26,560
 # 刚开始因为锅不太热开大火
-We used high heat to bring the temperature up.
+We used high heat to bring the wok's temperature up.
 
 87
 00:03:26,560 --> 00:03:28,960
@@ -478,7 +479,7 @@ For a little while.
 90
 00:03:33,120 --> 00:03:34,440
 # 一会拿擀面杖一擀
-We will grind it with a roller.
+We will grind it with a rolling pin
 
 91
 00:03:34,440 --> 00:03:35,760
@@ -501,7 +502,7 @@ Now let’s chop the spring onion up.
 95
 00:03:40,840 --> 00:03:42,280
 # 这先搁一边
-Put it here.
+Put it aside
 
 96
 00:03:42,280 --> 00:03:44,080
@@ -545,7 +546,7 @@ With the large pieces of the Sichuan Pepper
 00:04:05,760 --> 00:04:09,880
 # 盐 这叫椒盐
 Add some salt.
-(This one is the Sichuan Pepper Salt)
+(This is called "the Sichuan Peppercorn Salt")
 
 105
 00:04:09,880 --> 00:04:10,720
@@ -553,17 +554,17 @@ Add some salt.
 106
 00:04:13,480 --> 00:04:15,720
 # 这叫葱椒盐
-This is the Sichuan Pepper Salt, with spring onion.
+This is called "the Sichuan Peppercorn Salt, with scallions"
 
 107
 00:04:15,720 --> 00:04:17,760
 # 这个很少用
-This is not used very often.
+This is not used very often nowadays
 
 108
 00:04:17,760 --> 00:04:22,120
 # 这是个老的调味方法
-It’s an old seasoning mix.
+It’s an old time seasoning mix.
 
 109
 00:04:22,120 --> 00:04:24,640
@@ -588,7 +589,7 @@ Especially if you deep fry it.
 113
 00:04:34,680 --> 00:04:35,960
 # 这俩花椒盐出来了
-OK now we have both “Pepper Salt” ready.
+OK now we have both types of “Peppercorn Salt” ready.
 
 114
 00:04:35,960 --> 00:04:39,120
@@ -608,7 +609,7 @@ Next, we need to make a batter.
 117
 00:04:44,320 --> 00:04:46,200
 # 在家容易上手
-(Easy to cook at home)
+(Easy to follow at home)
 
 118
 00:04:46,200 --> 00:04:48,600
@@ -687,7 +688,7 @@ Wipe the excess moisture out.
 134
 00:05:23,720 --> 00:05:25,240
 # 鸭子很酥烂
-The duck has been cooked through.
+The duck has been fully cooked 
 
 135
 00:05:26,760 --> 00:05:31,480
@@ -733,12 +734,12 @@ I’ll now take care of the ribs.
 144
 00:05:54,720 --> 00:05:59,600
 # 这个最好是晾凉了以后再拆有型
-It’s better to debone it when it’s cooled down, so that it can stay in its shape.
+It’s better to debone it when it’s completely cooled off, so that it can stay better in shape.
 
 145
 00:05:59,600 --> 00:06:01,760
 # 其实这小脆骨也挺好吃的
-(These soft bones also taste very nice)
+(These cartilages also taste very nice)
 
 146
 00:06:01,760 --> 00:06:03,200
@@ -764,7 +765,7 @@ Why do we need the batter?
 151
 00:06:10,360 --> 00:06:11,560
 # 你看这拆完以后
-Well, after we removed the bones,
+Well, after we have removed the bones,
 
 152
 00:06:11,560 --> 00:06:14,640
@@ -792,12 +793,12 @@ This is the wishbone.
 157
 00:06:23,360 --> 00:06:25,480
 # 你看烂乎乎的别着急
-(Don’t worry if it looks as if it’s falling apart.)
+(Don’t worry if it looks as if it’s all falling apart.)
 
 158
 00:06:25,480 --> 00:06:28,440
 # 呈现出来的最后还美
-(It will look aright at the end)
+(It will look alright at the end)
 
 159
 00:06:28,440 --> 00:06:30,800
@@ -830,7 +831,7 @@ Alright it is now all even.
 165
 00:06:44,080 --> 00:06:47,080
 # 刚才我尝尝这鸭肉稍微淡点
-I tasted it just now, it needs a bit more seasoning.
+I tasted it just now, it needs a bit more salt
 
 166
 00:06:47,080 --> 00:06:49,840
@@ -855,7 +856,7 @@ Sometimes when you roast the leg of a lamb.
 170
 00:06:55,560 --> 00:07:00,600
 # 外边焦嫩但里边没味
-Roasted crispy outside, but it may lack some flavor inside.
+Roasted nicely crispy outside, but it may lack some flavor inside.
 
 171
 00:07:00,600 --> 00:07:02,440
@@ -923,7 +924,7 @@ What is the oil temperature? 130-150 ℃?
 184
 00:07:37,920 --> 00:07:41,120
 # 得七成 上来就定型
-We need around 200 ℃, so that we can fix the shape quickly
+We need it around 200 ℃, so that the meat will keep the original shape 
 
 185
 00:07:41,120 --> 00:07:44,440
@@ -1119,7 +1120,7 @@ Especially the smell from the pepper salt and spring onion.
 225
 00:09:14,880 --> 00:09:17,840
 # 货卖一张皮是吧
-It’s all about that look!
+It’s all about the presentations！
 
 226
 00:09:18,960 --> 00:09:20,760
@@ -1142,7 +1143,7 @@ The breast is the best part of the duck.
 230
 00:09:32,200 --> 00:09:34,080
 # 您给我蘸一个椒盐的吧
-Can you dip that piece in the Sichuan pepper salt?
+Can you dip that piece in the Sichuan peppercorn salt for me?
 
 231
 00:09:34,080 --> 00:09:36,920
