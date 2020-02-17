@@ -8,13 +8,13 @@
 
 [微信群](docs/wechat.md) 灌水吐槽混脸熟打酱油皆可
 
-## 如何参与
+## 参与方式
 
-如何投稿翻译字幕
+我想参与翻译及投稿
 
-如何审核投稿
+[我想参与审核](tutorial/review-comment.md)
 
-其他工作
+我想参与更多其他工作
 
 <!--
 欢迎参与翻译[待翻译视频](https://github.com/immoonancient/YTSubtitles/issues?q=is%3Aopen+is%3Aissue+label%3A待翻译)，或其他自己喜欢的视频。
@@ -45,9 +45,9 @@ TODO(immoonancient): 添加以上文档。
 <!---->
 
 - Q: 我需要学习 GitHub 的各种复杂操作 (fork, branch, ...) 吗？
-- A: 基本不需要。普通组员掌握投稿和审核步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
+- A: 基本不需要。普通组员掌握投稿和[审核](docs/review-requirements.md)步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
 
-TODO(immoonancient): 添加上述文档，修正链接
+<!--TODO(immoonancient): 添加上述文档，修正链接-->
 
 <!---->
 
