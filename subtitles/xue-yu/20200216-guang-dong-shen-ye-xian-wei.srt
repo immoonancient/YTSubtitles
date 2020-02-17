@@ -39,7 +39,7 @@ I am gonna try it too.
 6
 00:00:21,480 --> 00:00:24,680
 # 佛山·顺德
-拍摄于1月份
+# 拍摄于1月份
 Foshan· Shunde
 Filmed in January.
 
@@ -181,7 +181,7 @@ Only for the taste of the pork offal.
 34
 00:02:27,480 --> 00:02:31,440
 # 9：30左右 大家位置进行了调整
-能拼桌的都会拼桌
+# 能拼桌的都会拼桌
 Around 9:30, the seating plan is arranged.
 Customers have to share the table.
 
@@ -383,11 +383,11 @@ The pig offal has almost sold out.
 74
 00:09:50,400 --> 00:09:53,400
 # 年纪大了
-熬不了夜了
+# 熬不了夜了
 I m too old to stay up this late.
 
 75
 00:09:56,560 --> 00:10:00,520
 # 关 注
-雪 鱼 探 店
-Remember to follow our Xue Yu Tan Dian channel ^_^
+# 雪 鱼 探 店
+(Subscribe)
