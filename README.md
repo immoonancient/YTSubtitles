@@ -35,7 +35,7 @@ TODO(immoonancient): 添加以上文档。
 
 ## 常见问题
 
-- Q: 为什么选择 GitHub 作为工作平台？为什么不用 YouTube 的原生字幕制作工具？
+- Q: 为什么选择 GitHub 作为工作平台？为什么不用 YouTube 的[原生字幕制作工具](https://support.google.com/youtube/answer/6054623)？
 - A: YouTube 原生工具不太适合我们的团队化合作模式。相比之下，GitHub 有很多很实用的功能
   * [Issue](https://github.com/immoonancient/YTSubtitles/issues) 用于进度管理
   * [Pull request](https://github.com/immoonancient/YTSubtitles/pulls) 用于投稿的审核以及反馈
