@@ -2,16 +2,21 @@
 
 为中文 YouTuber 提供英文字幕的志愿字幕组。
 
-联络方式：
-- [Issues](https://github.com/immoonancient/YTSubtitles/issues) 仅限正式工作
-- [微信群](docs/wechat.md) 灌水吐槽混脸熟打酱油皆可
+## 联络方式
 
-## GitHub 使用教程
+[Issues](https://github.com/immoonancient/YTSubtitles/issues) 仅限正式工作
 
-不熟悉 GitHub 的同学可参考 [GitHub 简易教程](tutorial/README.md)。
+[微信群](docs/wechat.md) 灌水吐槽混脸熟打酱油皆可
 
 ## 如何参与
 
+如何投稿翻译字幕
+
+如何审核投稿
+
+其他工作
+
+<!--
 欢迎参与翻译[待翻译视频](https://github.com/immoonancient/YTSubtitles/issues?q=is%3Aopen+is%3Aissue+label%3A待翻译)，或其他自己喜欢的视频。
 翻译流程：
 1. 制作中英文对照的字幕文件
@@ -23,25 +28,45 @@
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## 福利
+详见[翻译要求](docs/translation-requirements.md)和[审核要求](docs/review-requirements.md)。
 
-为鼓励更多人参与，本字幕组会向有长期合作的频道进行申请，争取组员发放一定福利。
+TODO(immoonancient): 添加以上文档。
+-->
 
-福利内容原则上为小纪念品如签名照等，发放标准参考各个组员的贡献度统计。
+## 常见问题
 
-详见 [rewards](/rewards)
+- Q: 为什么选择 GitHub 作为工作平台？为什么不用 YouTube 的原生字幕制作工具？
+- A: YouTube 原生工具不太适合我们的团队合作模式。相比之下，GitHub 有很多很实用的功能
+  * [Issue](https://github.com/immoonancient/YTSubtitles/issues) 用于进度管理
+  * [Pull request](https://github.com/immoonancient/YTSubtitles/pulls) 用于投稿的审核以及反馈
+  * 可以用作网盘管理所有[完稿的字幕](subtitles/)
+  * 可以方便地集成[自动化工具](https://github.com/apps/ytsubtitles-bot)
 
-## 校对组
+<!---->
 
-英语好且愿意进行更多校对工作的同学请发 issue 加入[校对组](subtitles/CODEOWNERS)。
+- Q: 我需要学习 GitHub 的各种复杂操作 (fork, branch, ...) 吗？
+- A: 基本不需要。普通组员掌握投稿和审核步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
 
-## 业务合作
+TODO(immoonancient): 添加上述文档，修正链接
 
-本字幕组所有业务均为志愿者业余参与。不接受商业合作。
+<!---->
 
-由于组员均为兴趣参与，受限于时间精力，不接受外来邀约。
+- Q: 我可以翻译其他频道的视频吗？
+- A: 可以。若有需要，请[发 issue ](https://github.com/immoonancient/YTSubtitles/issues)详谈。
 
-若您希望本字幕组帮忙翻译您的视频，可[在 issue 区留言](https://github.com/immoonancient/YTSubtitles/issues/new)。若有组员有兴趣则会帮您制作字幕。
+<!---->
+
+- Q: 有福利吗？
+- A: 我们会争取给组员发放一些有纪念意义的小物品，如签名照等。详见 [rewards](/rewards)。
+
+<!---->
+
+- Q: 我在YouTube有自己的频道，可以请字幕组长期合作翻译吗？
+- A: 受限于时间精力，我们不接受外来邀约或付费翻译。
+
+<!---->
+
+如有其他问题，欢迎[发 issue 提问](https://github.com/immoonancient/YTSubtitles/issues)。
 
 ## 许可
 
