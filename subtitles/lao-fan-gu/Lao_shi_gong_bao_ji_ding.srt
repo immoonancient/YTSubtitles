@@ -503,7 +503,7 @@ Rice wine (Yellow wine)
 95
 00:04:01,480 --> 00:04:03,720
 #像咱们老饭骨（黄）酒比较纯
-We are using relatively pure rice wine here        #pure还是strong?
+We are using relatively strong rice wine here  
 
 96
 00:04:03,720 --> 00:04:05,720
