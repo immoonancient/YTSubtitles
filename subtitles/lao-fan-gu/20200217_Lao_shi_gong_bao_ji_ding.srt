@@ -25,7 +25,8 @@ Answer: 10% heat means 30 degrees Celcius. You can buy a infrared thermometer if
 Answer: The oil temperature is too low.
 In the future, we will summarize your questions and answer the frequently asked ones in our videos or descriptions.
 Questions are always welcomed!
-# intro （请在稿件中保留此行不要改动）
+
+# import intro （请在稿件中保留此行不要改动）
 
 
 1
