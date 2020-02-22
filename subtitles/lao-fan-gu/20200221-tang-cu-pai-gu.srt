@@ -62,7 +62,7 @@ This is a very traditional cooking technique.
 
 2
 00:00:01,920 --> 00:00:04,320
-它非常传统
+# 它非常传统
 
 3
 00:00:04,320 --> 00:00:07,200
@@ -111,7 +111,7 @@ What I normally do in these years is braising pork ribs with sugar and vinegar.
 
 12
 00:00:26,360 --> 00:00:27,680
-糖和醋焖出来的
+# 糖和醋焖出来的
 
 13
 00:00:27,680 --> 00:00:29,760
@@ -390,7 +390,8 @@ This is my father-in-law’s favourite dish.
 68
 00:02:46,080 --> 00:02:49,200
 # 把岳父搬出来了
-So, you start using your father-in-law as a shield.  （So you quoted your father-in-law）
+So, you start using your father-in-law as a shield.
+(So you quoted your father-in-law)
 
 69
 00:02:49,200 --> 00:02:51,360
