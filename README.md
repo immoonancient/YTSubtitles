@@ -10,9 +10,9 @@
 
 ## 参与方式
 
-我想参与翻译及投稿
+我想参与翻译：[翻译及投稿步骤](tutorial/upload-subtitles-new.md) [翻译守则](docs/guidelines.md#翻译守则)
 
-[我想参与审核](tutorial/review-comment.md)
+我想参与审核：[审核操作步骤](tutorial/review-comment.md) [审核守则](docs/guidelines.md#审核守则)
 
 我想参与更多其他工作
 
