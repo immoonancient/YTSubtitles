@@ -41,18 +41,26 @@ TODO(immoonancient): 添加以上文档。
   * [Pull request](https://github.com/immoonancient/YTSubtitles/pulls) 用于投稿的审核以及反馈
   * 可以用作网盘管理所有[完稿的字幕](subtitles/)
   * 可以方便地集成[自动化工具](https://github.com/apps/ytsubtitles-bot)
+  
+  与此同时，我们可以得到频道官方提供的带时间轴的中文字幕，因而通常不需要自己制作时间轴，也就不需要使用 YouTube 原生工具。
+  因此，我们的几乎全部制作流程都是在 GitHub 完成的，只有在最终提交时才使用 YouTube 原生工具。
+  
 
 <!---->
 
 - Q: 我需要学习 GitHub 的各种复杂操作 (fork, branch, ...) 吗？
-- A: 基本不需要。普通组员掌握投稿和[审核](docs/review-requirements.md)步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
+- A: 基本不需要。普通组员掌握[投稿](tutorial/upload-subtitles-new.md)和[审核](docs/review-comment.md)步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
 
-<!--TODO(immoonancient): 添加上述文档，修正链接-->
+<!---->
+
+- Q: 什么是 bot？
+- A: [bot](https://github.com/apps/ytsubtitles-bot) ![bot avatar](https://avatars2.githubusercontent.com/in/43067?s=18) 是本字幕组开发的一套自动化工具，拥有进行日常管理（比如 issue 和 pull request 的标签管理），集成 GitHub 操作帮助组员投稿，根据[对译表](docs/translation-table.md)提示翻译关键字，修正字幕文件格式等功能。
+  如果有兴趣参与开发，欢迎前往 [repo](https://github.com/immoonancient/YTSubtitles-bot)
 
 <!---->
 
 - Q: 我可以翻译其他频道的视频吗？
-- A: 可以。若有需要，请[发 issue ](https://github.com/immoonancient/YTSubtitles/issues)详谈。
+- A: 可以。若有需要，请[发 issue](https://github.com/immoonancient/YTSubtitles/issues) 详谈。
 
 <!---->
 
