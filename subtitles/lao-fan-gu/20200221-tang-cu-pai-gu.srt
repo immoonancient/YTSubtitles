@@ -2,7 +2,7 @@
 
 # 【国宴大师•糖醋排骨】人人都能做的家庭版：为何糖醋排骨离不开蒜？这样做排骨色红味酸甜还香酥！|老饭骨
 # 描述
-# Sweet & Sour Pork Ribs – BFF with garlic
+# Family Version Sweet & Sour Pork Ribs! Why is garlic a must?
 # 小友们好，之前有朋友想要看家庭版的糖醋排骨，
 # 我们分享了川菜大师黎师傅的川味糖醋排骨的做法，
 # 这道菜其实每个菜系都有，
@@ -28,31 +28,37 @@
 # 成菜色泽枣红，口味酸甜，学这么道作拿手菜，给家人露一手吧！
 
 # import intro （请在稿件中保留此行不要改动）
-# Hi everyone, some fans would like to learn how to cook sweet and sour pork ribs at home. We are now sharing this recipe from Chef Li, who is one of the most well-known top-tier Sichuan cuisine experts. As a popular dish in all Chinese cuisines, if you can master this recipe, the rest will follow. Delicious taste is always the spirit of every dish.
+# Hi everyone, some fans would like to learn how to cook sweet and sour pork ribs at home.
+# We are now sharing this recipe from Chef Li, a grandmaster chef in Sichuan cuisine.
+# This dish is in all Chinese cuisines. If you can master it, the rest will follow.
+# Delicious taste is always the spirit of every dish.
 
-# Chef Feng (disciple of Er Bo) is going to teach us his authentic homemade sweet and sour pork ribs.
-# We will find the answers of following questions in this video.
-# What kind of chemical reaction will produce after sweet join sour?
-# Which part of ribs should we choose? When is the perfect time to cook ribs?
-# How to tell oil temperature is suitable for deep-frying? Why higher oil temperature tends to be the better way for deep frying?
-# Maybe some of you will ask: what the difference between caramel in sweet-sour ribs and normal caramel? The answer is the golden caramel is the one we want for this dish not the over-cooked one. There are various ways to produce caramel. You can stir firing sugar with oil, water or both.
-# But, this time we are going to stir sugar with oil.
-# Stir-fry sugar till golden, add in deep fried pork ribs and garlic. After pork ribs are perfectly caramelized, this is the wonderful time to add in some ginger slices to remove meat smell of the pork. And now it is the show time of spring onion. Stir fry few times until you can smell the flavour of spring onion, pour some rice vinegar.
-# Reduce the heat, season the dish with sault, soy sauce and white sugar.
-# So, what’s the difference between adding white sugar and stir-frying sugar?
-# Finally, add in some diluted Shaoxing wine, reduce the heat again and wait the meat to absorb the flavour.
-# After 15 mins, season the dish again. Reduce juice with heat on high. And Bravo!
+# Chef Feng (disciple of Er Bai) is going to teach us his homemade sweet and sour pork ribs.
+# What kind of chemical reaction will be produced after sweetness joins sourness?
+# What kind of ribs should we choose? What is the correct oil temperate for cooking ribs?
+# How to tell if the oil temperature is suitable for deep-frying? Why is a high oil temperature better for deep frying?
+# Maybe some of you will ask: what is the difference between the caramel in sweet-sour ribs and regular caramelized sugar?
+# The answer is the golden caramel is the one we want for this dish, not the over-cooked one.
+# There are various ways to produce caramel. You can stir fry sugar with oil, water or both.
+# But, this time we are going to fry sugar with oil.
+# Stir-fry sugar till golden, add in deep fried pork ribs and garlic.
+# After the pork ribs are perfectly colored, add in ginger slices for odor removal.
+# Then add in spring onion chunks, bring the flavour out, and then pour some rice vinegar.
+# Reduce the heat, season the dish with a bit of salt, soy sauce and sugar for the second time.
+# So, what is the difference between this time and the previous time we add sugar?
+# Finally, add in some diluted huangjiu (yellow rice wine), reduce the heat again and wait for flavour penetration.
+# After 15 mins, remove the aromatics, season the dish for the third time, and condense the sauce on high heat. And Bravo!
 
-# To all my fans, this is an easy to learn dish but we need to be patient with three-time seasoning process.
-# The dish should have a purplish red glaze, sweet and sour flavour！
-# Please master this dish and enjoy it with your family.
+# To all my fans, this is an easy to learn dish but we need to be patient with the triple-seasoning process.
+# The dish should have a maroon glaze, and a sweet and sour flavour！
+# Please master this dish and amaze your family with it!
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:01,920
 # 我觉得他这种烹调技法
-This is a very authentic cooking technique.
+This is a very traditional cooking technique.
 
 2
 00:00:01,920 --> 00:00:04,320
@@ -61,12 +67,12 @@ This is a very authentic cooking technique.
 3
 00:00:04,320 --> 00:00:07,200
 # 收汁
-Start reducing juice.
+Condense the sauce.
 
 4
 00:00:07,200 --> 00:00:11,080
 # 色泽枣红 口味酸甜
-This dish has sweet and sour flavour pork ribs with purplish red glazing.
+This dish has sweet and sour flavour pork ribs with maroon glazing.
 
 5
 00:00:11,080 --> 00:00:12,600
@@ -76,7 +82,7 @@ Sweet and sour pork ribs
 6
 00:00:12,600 --> 00:00:14,840
 # 糖醋排骨谁都做哪儿都做
-Sweet & sour pork rib is a beloved dish including in majority Chinese cuisines.
+Sweet & sour pork rib is a beloved dish in China.
 
 7
 00:00:14,840 --> 00:00:15,840
@@ -101,7 +107,7 @@ I have limited scope of knowledge in this area.
 11
 00:00:22,880 --> 00:00:26,360
 # 然后我这么多年是用
-What I normally do is braising pork ribs with sugar and vinegar.
+What I normally do in these years is braising pork ribs with sugar and vinegar.
 
 12
 00:00:26,360 --> 00:00:27,680
@@ -115,7 +121,7 @@ Feng style is actually the home style.
 14
 00:00:29,760 --> 00:00:30,800
 # 剩下这头干嘛用
-What should we do with scrap meat?
+What should we do with meat scraps?
 
 15
 00:00:30,800 --> 00:00:32,640
@@ -125,7 +131,7 @@ It’s your jam. Gristle.
 16
 00:00:32,640 --> 00:00:35,680
 # 留出来我给您腌好了做蒜香骨
-I saved them on purpose so I can marinade them and make deep-fried pork ribs with garlic for you.
+I saved them on purpose so I can marinade them and make deep-fried pork cartilage with garlic for you.
 
 17
 00:00:35,680 --> 00:00:36,800
@@ -144,7 +150,8 @@ This part is the most suitable ingredients for our dish.
 
 20
 00:00:43,040 --> 00:00:44,800
-一刀俩 口儿大一点吧
+# 一刀俩 口儿大一点吧
+Chop into two. A bigger chop
 
 21
 00:00:44,800 --> 00:00:47,800
@@ -167,16 +174,17 @@ Put ribs aside.
 25
 00:00:55,080 --> 00:00:57,000
 # 用水给它浸泡一下
-Dip them in clean water for half hour.
+Soak them in water.
 
 26
 00:00:57,000 --> 00:00:59,440
-泡个半个小时就行
+# 泡个半个小时就行
+For half an hour or so.
 
 27
 00:00:59,440 --> 00:01:03,000
 # 把里边有血水的给它往外拔一拔
-This process will remove blood from the meet.
+This process will draw out some blood from the meat.
 
 28
 00:01:03,000 --> 00:01:05,080
@@ -196,7 +204,7 @@ It adds more flavour into our dish.
 31
 00:01:09,880 --> 00:01:12,440
 # 然后还不容易破型
-And will stay in good shape for presentation.
+And they don't break down.
 
 32
 00:01:12,440 --> 00:01:14,640
@@ -216,17 +224,17 @@ Three pieces are enough.
 35
 00:01:18,200 --> 00:01:20,280
 # 一定要整一点这料
-We need all ingredients present similar length and good shape not crushed.
+We need the aromatics to be chunky
 
 36
 00:01:20,280 --> 00:01:22,600
 # 因为待会咱们料要挑出来的
-It will be easier for us to remove them from our dish later on.
+As we're gonna pick them out later.
 
 37
 00:01:22,600 --> 00:01:27,200
 # 我们专业叫吃其味不见其物
-We have a saying in our profession. Seasonings can be tasted but not found in the dish.
+We have a saying in our profession. Seasonings and aromatics should be tasted but not (physically) found in the dish.
 
 38
 00:01:27,200 --> 00:01:28,160
@@ -236,22 +244,22 @@ More gingers please.
 39
 00:01:28,160 --> 00:01:31,680
 # 还有黄冰糖 大料瓣
-Add some brown sugar, star anise
+Add some brown rock sugar, star anise
 
 40
 00:01:31,680 --> 00:01:34,160
 # 蒜呢 蒜在这儿
-Where is garlic? (This is the BFF of this dish, we can’t miss it)
+Where is garlic? Here is it!
 
 41
 00:01:34,160 --> 00:01:37,200
 # 我当你说做糖醋不放蒜  吓我一跳
-Gosh, I thought you mean just add some sugar and vinegar and that’s it.
+Gosh, I thought you were gonna skip the garlic. No way!
 
 42
 00:01:37,200 --> 00:01:40,200
 # 然后蒜也不用太多了一破两半吧
-We don’t need too many garlic, just chop one into two.
+We don’t need too many garlic, just cut the cloves in to halves.
 
 43
 00:01:42,200 --> 00:01:44,440
@@ -261,7 +269,7 @@ When you are producing this dish,
 44
 00:01:44,440 --> 00:01:46,080
 # 我主张你们不要去拍
-I recon not to mash the garlic,
+I suggest that you don't smash the garlic,
 
 45
 00:01:46,080 --> 00:01:48,360
@@ -271,12 +279,12 @@ but chop it.
 46
 00:01:48,360 --> 00:01:50,120
 # 刀切不损害它汁儿
-Chopping will keep garlic juice
+Chopping will keep the garlic juice
 
 47
 00:01:50,120 --> 00:01:53,520
 # 然后做出菜来显得干净
-And the presentation is much more clean.
+And the presentation is much cleaner.
 
 48
 00:01:53,520 --> 00:01:55,240
@@ -291,27 +299,27 @@ what’s the ratio between sugar and vinegar?
 50
 00:01:56,960 --> 00:01:58,600
 # 糖是三 醋是二
-3 part of sugar and 2 part of vinegar
+3 part sugar and 2 part vinegar
 
 51
 00:01:58,600 --> 00:02:01,680
 # 甜压酸 稍微偏甜一点
-We need more sugar, as sugar can neutralize sour flavour.
+We need more sugar, as sugar can neutralize the sour flavour.
 
 52
 00:02:01,680 --> 00:02:03,920
 # 半个小时以后这排骨还真白了
-Ribs turns lighter colour after half hour indeed.
+Ribs turn lighter colour after half an hour indeed.
 
 53
 00:02:03,920 --> 00:02:07,320
 # 排骨洗完了底口来一勺盐
-Wash and clean ribs. Sprinkle some sault.
+Wash and clean the ribs. Sprinkle some salt.
 
 54
 00:02:07,320 --> 00:02:10,480
 # 五克盐 给它抓一下
-5g sault. Massage ribs.
+5g salt. Massage the ribs.
 
 55
 00:02:10,480 --> 00:02:12,800
@@ -321,21 +329,23 @@ We don’t need to put this now.
 56
 00:02:12,800 --> 00:02:14,480
 # 待会儿咱们烧的时候
-We will put it when we start braising ribs.
+Later when we start braising ribs,
 
 57
 00:02:14,480 --> 00:02:18,040
 # 我得需要您一点黄油来借它的味
-I need to add some butter.
+I need to add some cooking wine (Shaoxing wine)
 
 58
 00:02:18,040 --> 00:02:20,520
-弄两块钱的 五毛钱就行
+# 弄两块钱的 五毛钱就行
+- Use the 2RMB one
+- The 0.5 RMB one is enough
 
 59
 00:02:20,520 --> 00:02:22,800
 # 这个盐抓一下起什么作用师弟
-Why we need to massage ribs with sault?
+Why do we need to massage the ribs with salt?
 
 60
 00:02:22,800 --> 00:02:25,600
@@ -355,7 +365,7 @@ Meat absorbs salt,
 63
 00:02:31,600 --> 00:02:34,000
 # 把味给它定住 定海神针
-salty flavour is locked into ribs, like a Key Stand.
+saltiness is locked into the ribs
 
 64
 00:02:34,000 --> 00:02:36,600
@@ -365,7 +375,7 @@ alright. The oil is heating up.
 65
 00:02:36,600 --> 00:02:39,280
 # 现在这里边有一个关键
-Now, there is a secret.
+Now, there is a key step.
 
 66
 00:02:39,280 --> 00:02:43,640
@@ -385,7 +395,7 @@ So, you start using your father-in-law as a shield.  （So you quoted your fathe
 69
 00:02:49,200 --> 00:02:51,360
 # 我平常给他家里边做的时候
-I cook this dish in the exact same way
+I cook this dish in exactly the same way
 
 70
 00:02:51,360 --> 00:02:52,400
@@ -395,12 +405,12 @@ as I cook for my father-in-law.
 71
 00:02:52,400 --> 00:02:56,240
 # 待会大料跟排骨跟猪肉特别配
-Star anise and pork ribs are golden couples.
+Star anise and pork ribs are a power couple.
 
 72
 00:02:56,240 --> 00:02:59,440
 # 然后烧出来肉的香味特别浓
-This is dish is going to have rich bouquet later on.
+This is dish is going to have a rich aroma later on.
 
 73
 00:02:59,440 --> 00:03:02,000
@@ -415,7 +425,7 @@ Be my guest and help yourselves.
 75
 00:03:04,040 --> 00:03:07,640
 # 其实做好一道菜 这就是细节
-Truth be told, details can determine success or failure of cooking.
+Truth be told, it's the details that determine whether a dish is successful
 
 76
 00:03:07,640 --> 00:03:08,840
@@ -430,7 +440,7 @@ Smells of star anise is spreading out.
 78
 00:03:10,720 --> 00:03:15,120
 # 搁一个排骨咱试试
-Sautee one rib in.
+Put one rib in.
 
 79
 00:03:15,120 --> 00:03:16,520
@@ -445,52 +455,52 @@ I am a non-professional player.
 81
 00:03:18,920 --> 00:03:22,240
 # 只能在家里边还能行做菜真不灵
-I can only cook from home.
+Merely a home cook
 
 82
 00:03:22,240 --> 00:03:25,160
 # 老冯从事餐饮也将近二十年了
-Lao Feng runs his hospitality business for nearly 20 years now.
+Lao Feng has been running his restaurant business for nearly 20 years now.
 
 83
 00:03:25,160 --> 00:03:28,520
 # 因为炸这排骨一定要注意观察
-We need to pay attention to ribs.
+We need to pay attention to the ribs.
 
 84
 00:03:28,520 --> 00:03:32,960
 # 外边能起一层焦焦的皮就可以了
-It is ready to dredge when there is a thin golden brunt layer on the rib.
+It is ready when there is a layer of brown crust on the rib.
 
 85
 00:03:32,960 --> 00:03:34,600
 # 咱先放在这锅里
-Just leave ribs here.
+Just leave the ribs here.
 
 86
 00:03:34,600 --> 00:03:36,440
 # 这油温还是有点低
-The oil temperature is still lower than expectation.
+The oil temperature is still a bit low.
 
 87
 00:03:36,440 --> 00:03:38,640
 # 油温你知道什么时候下么我告诉你
-Do you know when is the best time to deep fry?
+Do you know when is the best time to put in the ribs?
 
 88
 00:03:38,640 --> 00:03:41,000
 # 稍微冒有烟的时候
-Smoking on top of the wok.
+When the oil is almost smoking
 
 89
 00:03:41,000 --> 00:03:43,600
 # 油温上烟的时候合适
-The suitable time is when there is smoke on top of the oil.
+The suitable timing is when there is smoke on top of the oil.
 
 90
 00:03:43,600 --> 00:03:46,680
 # 一下抱住水分锁定
-Hot oil helps to locking hydration in the meat.
+Hot oil helps lock the moisture inside the meat.
 
 91
 00:03:46,680 --> 00:03:48,640
@@ -500,7 +510,7 @@ If the meat was deep fried in low oil temperature,
 92
 00:03:48,640 --> 00:03:51,640
 # 它就成熬了 成浸了
-it would taste oily instead of crisp and juicy.
+It becomes a stew in the oil.
 
 93
 00:03:51,640 --> 00:03:54,160
@@ -515,12 +525,12 @@ Keeping heating up.
 95
 00:03:56,720 --> 00:03:58,480
 # 因为你不是为了给它炸熟
-The purpose of deep-frying is not cook the meat
+The purpose of deep-frying is not to fully cook the meat
 
 96
 00:03:58,480 --> 00:04:01,440
 # 你为了锁住（水分）定型
-but shape them and lock meat juicy inside.
+but to set the shape and lock meat juicy inside.
 
 97
 00:04:01,440 --> 00:04:05,240
@@ -591,12 +601,12 @@ San Shu has very good strength.
 111
 00:04:40,280 --> 00:04:42,320
 # 咱们这锅 就就着这个锅
-See our wok! Admire our wok!
+And then, with the work...
 
 112
 00:04:42,320 --> 00:04:44,120
 # 然后咱们炝一下锅
-And then, we need to stir-fry ribs,
+And then, we need to stir-fry the ribs,
 
 113
 00:04:44,120 --> 00:04:47,080
@@ -626,7 +636,7 @@ Keep some of them aside, and add sugar again.
 118
 00:04:58,960 --> 00:05:02,240
 # 待会咱们调味用 小火炒糖
-These are for seasoning later on. Stir-fry sugar.
+These are for seasoning later on. Fry the sugar over low heat.
 
 119
 00:05:02,240 --> 00:05:04,240
@@ -641,27 +651,27 @@ It’s not like normal caramel.
 121
 00:05:06,640 --> 00:05:10,240
 # 就要它糖色的金黄色
-We need to stir-fry sugar to gold not brown.
+We need to cook the sugar until it's amber not brown.
 
 122
 00:05:10,240 --> 00:05:12,880
 # 这个炒法不加水么师弟
-Shi Di (a way to call junior fellow apprentice in Chinese),you are not going to add water, do you?
+Does this method require water, Shi Di (a way to call junior fellow apprentice in Chinese)?
 
 123
 00:05:12,880 --> 00:05:14,680
 # 我是从来不加的
-Never.
+Never for me.
 
 124
 00:05:14,680 --> 00:05:17,680
 # 他是油炒法
-This is stir-fry sugar with oil.
+He makes caramel with oil.
 
 125
 00:05:17,680 --> 00:05:22,200
 # 有水炒 有混合油水炒 有油炒
-We can stir-fry with water, with oil and with both.
+Different methods: caramel with water, with oil and with both.
 
 126
 00:05:22,200 --> 00:05:24,160
@@ -676,7 +686,7 @@ This is another key point.
 128
 00:05:27,960 --> 00:05:29,400
 # 这糖还不能炒过了
-Stir-frying sugar should be just right,
+Caramel should be just right,
 
 129
 00:05:29,400 --> 00:05:32,200
@@ -701,17 +711,17 @@ I think this cooking method is very traditional.
 133
 00:05:40,200 --> 00:05:42,040
 # 他等于是炒完糖色以后
-After caramel is ready,
+After the caramel is ready,
 
 134
 00:05:42,040 --> 00:05:45,360
 # 用糖跟醋去焖 焖酥了这种排骨
-ribs are being braised with sugar and vinegar.
+ribs will be braised with sugar and vinegar.
 
 135
 00:05:45,360 --> 00:05:48,720
 # 所以这个人要小心 他给咱俩埋雷呢
-We'd better keep on the right side of him, his words mean more than he says.
+We'd better keep on the right side of him, his words mean more than what he says.
 
 136
 00:05:48,720 --> 00:05:54,760
@@ -721,7 +731,7 @@ I am not professional. Gang Qiang is better.
 137
 00:05:54,760 --> 00:05:58,960
 # 其实我师弟干的全都是专业的活
-Actually my Shi Di does all professional work.
+Actually my Shi Di does all the professional work.
 
 138
 00:05:58,960 --> 00:06:01,880
@@ -736,7 +746,7 @@ If you want, you don’t need to cook them completely,
 140
 00:06:04,160 --> 00:06:06,560
 # 因为你后边翻锅的时候它还在变色
-Because it keeps changing colour when you are stir-frying them.
+Because it will continue to cook and change colour when you stir-fry the ribs later.
 
 141
 00:06:06,560 --> 00:06:10,560
@@ -744,7 +754,7 @@ Because it keeps changing colour when you are stir-frying them.
 142
 00:06:10,560 --> 00:06:13,160
 # 颜色漂亮  这个是最关键的
-Beautiful colour. This is the another key point.
+Beautiful colour. This is the key point.
 
 143
 00:06:13,160 --> 00:06:15,800
@@ -754,7 +764,7 @@ Add all garlic in.
 144
 00:06:15,800 --> 00:06:17,160
 # 糖醋排骨离不开蒜
-Sweet-sour pork ribs and garlic are perfect match.
+Sweet-sour pork ribs and garlic match perfectly.
 
 145
 00:06:17,160 --> 00:06:19,040
@@ -764,7 +774,7 @@ Pork ribs will absorb the garlic flavour.
 146
 00:06:19,040 --> 00:06:20,920
 # 这时候蒜的香味出来了
-This is the show of garlic now.
+Now the garlicky flavor is brought out.
 
 147
 00:06:20,920 --> 00:06:23,560
@@ -774,12 +784,12 @@ Add in some ginger.
 148
 00:06:23,560 --> 00:06:28,480
 # 姜是去腥 提香 增加肉的香味
-Ginger can remove meat smell, add more flavour.
+Ginger can remove meat odor, and enhance the aroma
 
 149
 00:06:28,480 --> 00:06:32,280
 # 你看姜和蒜的香味混合到一起
-Ginger and garlic are now mix up.
+Ginger and garlic are now mixed up.
 
 150
 00:06:32,280 --> 00:06:36,160
@@ -794,21 +804,22 @@ Fantastic colour.
 152
 00:06:37,760 --> 00:06:43,040
 # 葱段 先煸炒 要有耐心
-Spring onion. Stir-fry spring onion, be patient.
+Spring onion. Stir-fry the spring onion, be patient.
 
 153
 00:06:43,040 --> 00:06:45,800
 # 因为这个 你看最后咱收汁的时候
-We are going to reduce juicy at last.
+We are going to reduce the sauce at the end.
 
 154
 00:06:45,800 --> 00:06:48,920
 # 要收到 跟这个汁儿一样
-It should exactly like this one.
+The final consistency should look exactly like this.
 
 155
 00:06:48,920 --> 00:06:52,200
-叫怎么进锅 怎么出锅
+# 叫怎么进锅 怎么出锅
+We call it, "It goes out of the wok in the same way it went in"
 
 156
 00:06:52,200 --> 00:06:53,080
@@ -831,17 +842,17 @@ The most important step, vinegar.
 160
 00:06:58,600 --> 00:07:03,280
 # 烹下去 整个儿倒
-Pour it.
+Pour it in.
 
 161
 00:07:03,280 --> 00:07:06,160
 # 火稍微小点
-Turn it down a little bit.
+Turn the heat down a little bit.
 
 162
 00:07:06,160 --> 00:07:10,280
 # 要是说大火一烹 糖醋味就出来了
-Sweet and sour flavour tends to be attributed by high heat.
+Sweet and sour flavour tends to be amplified by high heat.
 
 163
 00:07:10,280 --> 00:07:12,000
@@ -861,7 +872,7 @@ Sprinkle a little bit salt.
 166
 00:07:19,680 --> 00:07:21,920
 # 因为咱们有底口了
-As we massage ribs before with salt.
+As we have massaged the ribs before with salt.
 
 167
 00:07:21,920 --> 00:07:23,200
@@ -886,12 +897,12 @@ Does everyone see how we did it?
 171
 00:07:30,760 --> 00:07:35,400
 # 二次加糖是调糖和醋的味儿
-Adding sugar again is to flavour the dish and balance sweet and sour.
+Adding sugar again is to flavour the dish and balance the sweetness and sourness.
 
 172
 00:07:35,400 --> 00:07:39,160
 # 还加水吗 我就要用您一点黄酒
-Do you need more water? I need some Shaoxing wine.
+Do you need more water? I need some yellow rice wine.
 
 173
 00:07:39,160 --> 00:07:42,400
@@ -901,7 +912,7 @@ Ribs are very tender and soft.
 174
 00:07:42,400 --> 00:07:46,080
 # 基本这收汁收完了 它也就熟了
-It will ready to serve once juicy is reduced perfectly.
+It will be ready to serve once the sauce is reduced enough.
 
 175
 00:07:46,080 --> 00:07:49,560
@@ -911,7 +922,7 @@ It would taste more delicious if you let it cool first.
 176
 00:07:49,560 --> 00:07:52,040
 # 这一步要把三叔的黄酒
-This step is to use San Shu’s Shaoxing Wine.
+This step is to use San Shu’s yellow rice wine.
 
 177
 00:07:52,040 --> 00:07:53,440
@@ -921,7 +932,7 @@ To dilute.
 178
 00:07:53,440 --> 00:07:56,000
 # 但是我做糖醋排骨我爱用镇江醋
-But I love Zhenjiang Vinegar.(Another type of vinegar)
+But I love Zhenjiang Vinegar for sweet and sour ribs.
 
 179
 00:07:56,000 --> 00:07:57,920
@@ -951,7 +962,7 @@ Lid on.
 184
 00:08:06,880 --> 00:08:10,840
 # 咱把火调的小一点 先入味后收汁
-Lower the heat. Reducing juicy should be started after dish absorb all flavour inside.
+Lower the heat. Let the flavor penetrate the meat first before reducing the sauce.
 
 185
 00:08:10,840 --> 00:08:13,600
@@ -961,12 +972,12 @@ After 15 mins,
 186
 00:08:13,600 --> 00:08:18,160
 # 然后咱们开大火 开始收汁
-Heat up to reduce juicy now.
+Heat up to reduce the sauce now.
 
 187
 00:08:18,160 --> 00:08:20,680
 # 把所有的料头取出来 出品漂亮
-Dredge all garlic, ginger and other seasoning ingredients. We need fancy presentation.
+Remove garlic, ginger and other aromatics. We need fancy presentation.
 
 188
 00:08:20,680 --> 00:08:23,280
@@ -986,27 +997,27 @@ This is the third time.
 191
 00:08:30,880 --> 00:08:33,400
 # 这回的醋香就全出来了
-And now the smelling of vinegar is spreading out completely.
+And now the aroma of vinegar is spreading out completely.
 
 192
 00:08:33,400 --> 00:08:34,960
 # 这是烹 有醋香味
-This called fry. Smell of the vinegar
+This called fry. With the smell of the vinegar
 
 193
 00:08:34,960 --> 00:08:36,120
 # 咱们就这么大火
-This is the best heat we can do.
+This is the highest heat we can get.
 
 194
 00:08:36,120 --> 00:08:38,080
 # 没办法就这么大火
-We don’t have another option.
+There's nothing else we can do
 
 195
 00:08:38,080 --> 00:08:40,000
 # 这个已经行了 你看这汁
-It’s ready. Take a look at the juice.
+It’s ready. Take a look at the sauce.
 
 196
 00:08:40,000 --> 00:08:41,760
@@ -1019,12 +1030,12 @@ No problem.
 198
 00:08:43,680 --> 00:08:47,560
 # 这汁挂得非常均匀 传统手法
-Beautiful juicy, authentic technique.
+Beautiful sauce, authentic technique.
 
 199
 00:08:47,560 --> 00:08:51,920
 # 炒糖的时候一定不要炒过了
-Do not overcook stir-fried sugar.
+Do not overcook the caramel.
 
 200
 00:08:51,920 --> 00:08:53,560
@@ -1037,7 +1048,7 @@ This is the key point.
 202
 00:08:55,720 --> 00:08:59,200
 # 色泽枣红 口味酸甜
-Purplish red glaze, sweet and sour flavour.
+Maroon glaze, sweet and sour flavour.
 
 203
 00:08:59,200 --> 00:09:02,440
@@ -1047,7 +1058,7 @@ Bravo, just perfect.
 204
 00:09:02,440 --> 00:09:05,520
 # 小柠檬配的合理 酸甜适度
-Lemon is finishing touch of this dish.
+Garnish with lime wedges for acidity
 
 205
 00:09:05,520 --> 00:09:08,480
@@ -1062,11 +1073,12 @@ Sweet and Sour pork ribs
 207
 00:09:09,840 --> 00:09:13,880
 # 真脆 漂亮漂亮
-Very crisp and very fancy presentation.
+Very crispy and very fancy presentation.
 
 208
 00:09:13,880 --> 00:09:17,000
-你看又是先手机吃饭 (没明白)
+# 你看又是先手机吃饭
+Camera eats first 
 
 209
 00:09:17,000 --> 00:09:18,560
@@ -1081,9 +1093,9 @@ I need to have on rib first and then some veggie.
 211
 00:09:21,080 --> 00:09:26,120
 # 甜酸甘香 吃的利落
-Sweet, Sour, taste and rich flavour.
+Sweet, Sour, rich flavour.
 
 212
 00:09:26,120 --> 00:09:26,960
 
-# 片尾无需翻译。仅标注“我是大爷”这句话的开始时刻即可，精确到 0.1 秒
+# import ending.srt 00:09:32,000
