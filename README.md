@@ -24,10 +24,9 @@
   * [Pull request](https://github.com/immoonancient/YTSubtitles/pulls) 用于投稿的审核以及反馈
   * 可以用作网盘管理所有[完稿的字幕](subtitles/)
   * 可以方便地集成[自动化工具](https://github.com/apps/ytsubtitles-bot)
-  
-  与此同时，我们可以得到频道官方提供的带时间轴的中文字幕，因而通常不需要自己制作时间轴，也就不需要使用 YouTube 原生工具。
+- 与此同时，我们可以得到频道官方提供的带时间轴的中文字幕，因而通常不需要自己制作时间轴，也就不需要使用 YouTube 原生工具。
   因此，我们的几乎全部制作流程都是在 GitHub 完成的，只有在最终提交时才使用 YouTube 原生工具。
-  
+ 
 
 <!---->
 
