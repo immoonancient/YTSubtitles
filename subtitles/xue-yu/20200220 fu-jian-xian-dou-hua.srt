@@ -501,12 +501,12 @@ I feel it’s a lot
 97
 00:06:56,500 --> 00:06:59,500
 # 最有特色的就是这些用糯米做的了
-Most special is those street foods that made by sticky rice
+The most special ones are those made from sticky rice
 
 98
 00:07:22,225 --> 00:07:23,925
 # 你要加绿豆吗
-Do you want to add some green beans?
+Do you want to add some mung beans?
 
 99
 00:07:24,050 --> 00:07:25,200
@@ -516,7 +516,7 @@ sure
 100
 00:07:41,375 --> 00:07:44,775
 # 这个皮很Q弹的样子
-The skin of “caitouke” is al dente
+The skin of “caitouke” is bouncy
 
 101
 00:07:44,900 --> 00:07:46,975
@@ -531,7 +531,7 @@ Made by hitting with those stone
 103
 00:08:16,650 --> 00:08:19,775
 # 这种是皮会比较Q
-The skin is al dente
+The skin is bouncy
 
 104
 00:08:19,775 --> 00:08:20,900
@@ -546,67 +546,67 @@ And we also have “caitouke” today
 106
 00:08:44,850 --> 00:08:48,150
 # 还有麻糍 这个就是黑眼睛
-And minch and this is “black eye”
+And mochi. And this is “black eye”
 
 107
 00:08:48,600 --> 00:08:52,075
 # 很柔软 但是我感觉它长得很像巧克力
-It’s soft, but i think it looks like chocolate
+It’s soft, but I think it looks like chocolate
 
 108
 00:08:52,900 --> 00:08:56,650
 # 然后是 刚才小哥送了我们两个艾草粿
-And little brother give us two “aicaoke”
+And the bro gave us two “aicaoke”
 
 109
 00:08:58,300 --> 00:09:01,450
 # 它看起来糯糯的 一定很好吃
-It looks waxy, must be delicious
+It looks mashy, must be delicious
 
 110
 00:09:02,675 --> 00:09:05,000
 # 这个菜头粿就是用米浆、萝卜混合
-This “caitouke” are mixed of rice milk and radish
+This “caitouke” is mixed of rice milk and radish
 
 111
 00:09:05,150 --> 00:09:06,675
 # 蒸出来一个半成品
-And steamed it
+It's steamed first
 
 112
 00:09:06,850 --> 00:09:09,475
 # 然后再进油锅炸出来
-Then deep fried it
+And then deep fried
 
 113
 00:09:09,675 --> 00:09:12,475
 # 最后放上蒜蓉酱 注入灵魂
-Add some garlic sauce at the end
+And finished with some garlic sauce
 
 114
 00:09:12,975 --> 00:09:15,325
 # 我想知道黑眼睛是什么样的味道
-I want to know how “black eye” taste
+I want to know how “black eye” tastes
 
 115
 00:09:20,375 --> 00:09:24,125
 # 不知道 咬一口有没有什么样的惊喜呢
-I don’t know, let’s see how it taste after one bite
+I don’t know, let’s see how it tastes after one bite
 
 116
 00:09:27,200 --> 00:09:29,200
 # 里面是包了馅的
-There are filling inside
+There's filling inside
 
 117
 00:09:35,400 --> 00:09:37,750
 # 这边的麻糍 相对来说 还是比较便宜的1元1个
-Relatively speaking minch are cheap in local, one yuan for each minch
+Relatively speaking mochis are cheap here. The cheap ones cost one yuan each
 
 118
 00:09:37,925 --> 00:09:40,800
 # 都是手工做出来的嘛
-All by handmade
+All are handmade
 
 119
 00:09:40,925 --> 00:09:43,225
@@ -616,12 +616,12 @@ Skin with filling
 120
 00:09:43,500 --> 00:09:45,750
 # 然后还在黄豆粉里 滚一圈
-And rolled it in soy flour
+And rolled in soy flour
 
 121
 00:09:46,125 --> 00:09:50,575
 # 外面摸着很柔软 但是里面很坚强（里面硬脆）
-It felt soft outer, but with a hard core(crispy and hard)
+It feels soft outside, but with a hard core (crispy and hard)
 
 122
 00:09:50,725 --> 00:09:54,750
@@ -631,16 +631,17 @@ It is affordable to eat street foods in this place
 123
 00:09:59,800 --> 00:10:02,950
 # 五颜六色的都想吃掉
-I want eat them all colorful foods
+I want to eat all these colorful foods
 
 124
 00:10:04,050 --> 00:10:08,575
 # 得赶紧走了 再不走小哥又要给我一些东西了
-Let’s go, little brother
+Let’s go. Or the bro will give us more free food
 
 125
 00:10:09,000 --> 00:10:12,850
-主要是怕吃不了 会浪费
+# 主要是怕吃不了 会浪费
+I'm afraid of wasting. I can't finish them
 
 126
 00:10:13,925 --> 00:10:16,800
