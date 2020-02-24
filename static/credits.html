@@ -102,8 +102,8 @@ function createContributionTableMD(channel, startDate, endDate, contributions) {
   result.push('');
   result.push('| id | 投稿 | 审核 |');
   result.push('| -- | --- | --- |');
-  for (let name in contributions)
-    result.push(prettyPrint(contributions[name]));
+  for (let contribution of contributions)
+    result.push(prettyPrint(contribution));
   return result.join('\n');
 }
 
