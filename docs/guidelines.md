@@ -20,6 +20,10 @@
 - 在翻译诸如如菜名、材料名、专业术语等的时候需要额外注意译名是否准确无误。如果一个中文词/术语在英文里没有已有的译法能够与之完全准确对应，则宁可零翻译。
   * 例如“豆瓣酱” 应直接译作 "doubanjiang" ，不要使用 "fermented bean paste" "broad bean paste" 之类的通行度有限、难以准确对应上的译名。
 
+另外，各个频道可能会有一些更加细节的要求。见
+- [美食作家王刚](../subtitles/wang-gang/README.md)
+- [华农兄弟](../hua-nong-brothers/README.md)
+- [老饭骨](../lao-fan-gu/README.md)
 
 # 审核守则
 
