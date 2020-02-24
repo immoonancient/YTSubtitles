@@ -8,7 +8,7 @@
 
 0. 找到视频对应的 issue ，其中应当有官方中文字幕等需要翻译的内容。
 
-![subtitle issue](resources/subtitle-issue.png)
+![subtitle issue](resources/subtitle-issue.png?s=50)
 
 - Issue 内通常也会有一些 bot 提供的翻译提示，能够对翻译有所帮助。
 
