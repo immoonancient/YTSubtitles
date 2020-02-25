@@ -10,7 +10,7 @@
 
 <img src="resources/subtitle-issue.png" width="50%" height="50%">
 
-- Issue 内通常也会有一些 bot 提供的翻译提示，能够对翻译有所帮助。
+- 这里通常也会由 bot 提供一些提示，能够对翻译有所帮助。
 
 <img src="resources/subtitle-hints.png" width="50%" height="50%">
 
