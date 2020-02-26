@@ -2,46 +2,61 @@
 
 为中文 YouTuber 提供英文字幕的志愿字幕组。
 
-联络方式：
-- [Issues](https://github.com/immoonancient/YTSubtitles/issues) 仅限正式工作
-- [微信群](docs/wechat.md) 灌水吐槽混脸熟打酱油皆可
+## 联络方式
 
-## GitHub 使用教程
+[Issues](https://github.com/immoonancient/YTSubtitles/issues) 仅限正式工作
 
-不熟悉 GitHub 的同学可参考 [GitHub 简易教程](tutorial/README.md)。
+[微信群](docs/wechat.md) 灌水吐槽混脸熟打酱油皆可
 
-## 如何参与
+## 参与方式
 
-欢迎参与翻译[待翻译视频](https://github.com/immoonancient/YTSubtitles/issues?q=is%3Aopen+is%3Aissue+label%3A待翻译)，或其他自己喜欢的视频。
-翻译流程：
-1. 制作中英文对照的字幕文件
-2. 以 pull request 的形式提交字幕供大家审核
-3. 按照审核意见修改字幕并定稿
-4. 将定稿的字幕上传至 YouTube
+我想参与翻译：[翻译及投稿步骤](tutorial/upload-subtitles-new.md) [翻译守则](docs/guidelines.md#翻译守则)
 
-亦可[参与审核校对](https://github.com/immoonancient/YTSubtitles/pulls)。
+我想参与审核：[审核操作步骤](tutorial/review-comment.md) [审核守则](docs/guidelines.md#审核守则)
 
-详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+[我想参与更多其他工作](docs/more-work.md)
 
-## 福利
+## 常见问题
 
-为鼓励更多人参与，本字幕组会向有长期合作的频道进行申请，争取组员发放一定福利。
+- Q: 为什么选择 GitHub 作为工作平台？为什么不用 YouTube 的[原生字幕制作工具](https://support.google.com/youtube/answer/6054623)？
+- A: YouTube 原生工具不太适合我们的团队化合作模式。相比之下，GitHub 有很多很实用的功能
+  * [Issue](https://github.com/immoonancient/YTSubtitles/issues) 用于进度管理
+  * [Pull request](https://github.com/immoonancient/YTSubtitles/pulls) 用于投稿的审核以及反馈
+  * 可以用作网盘管理所有[完稿的字幕](subtitles/)
+  * 可以方便地集成[自动化工具](https://github.com/apps/ytsubtitles-bot)
+- 与此同时，我们可以得到频道官方提供的带时间轴的中文字幕，因而通常不需要自己制作时间轴，也就不需要使用 YouTube 原生工具。
+  因此，我们的几乎全部制作流程都是在 GitHub 完成的，只有在最终提交时才使用 YouTube 原生工具。
+ 
 
-福利内容原则上为小纪念品如签名照等，发放标准参考各个组员的贡献度统计。
+<!---->
 
-详见 [rewards](/rewards)
+- Q: 我需要学习 GitHub 的各种复杂操作 (fork, branch, ...) 吗？
+- A: 基本不需要。普通组员掌握[投稿](tutorial/upload-subtitles-new.md)和[审核](docs/review-comment.md)步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
 
-## 校对组
+<!---->
 
-英语好且愿意进行更多校对工作的同学请发 issue 加入[校对组](subtitles/CODEOWNERS)。
+- Q: 什么是 bot？
+- A: [bot](https://github.com/apps/ytsubtitles-bot) ![bot avatar](https://avatars2.githubusercontent.com/in/43067?s=18) 是本字幕组开发的一套自动化工具，拥有进行日常管理（比如 issue 和 pull request 的标签管理），集成 GitHub 操作帮助组员投稿，根据[对译表](docs/translation-table.md)提示翻译关键字，修正字幕文件格式等功能。
+  如果有兴趣参与开发，欢迎前往 [repo](https://github.com/immoonancient/YTSubtitles-bot)
 
-## 业务合作
+<!---->
 
-本字幕组所有业务均为志愿者业余参与。不接受商业合作。
+- Q: 我可以翻译其他频道的视频吗？
+- A: 可以。若有需要，请[发 issue](https://github.com/immoonancient/YTSubtitles/issues) 详谈。
 
-由于组员均为兴趣参与，受限于时间精力，不接受外来邀约。
+<!---->
 
-若您希望本字幕组帮忙翻译您的视频，可[在 issue 区留言](https://github.com/immoonancient/YTSubtitles/issues/new)。若有组员有兴趣则会帮您制作字幕。
+- Q: 有福利吗？
+- A: 我们会争取给组员发放一些有纪念意义的小物品，如签名照等。详见 [rewards](/rewards)。
+
+<!---->
+
+- Q: 我在YouTube有自己的频道，可以请字幕组长期合作翻译吗？
+- A: 受限于时间精力，我们不接受外来邀约或付费翻译。
+
+<!---->
+
+如有其他问题，欢迎[发 issue 提问](https://github.com/immoonancient/YTSubtitles/issues)。
 
 ## 许可
 
