@@ -1,27 +1,27 @@
 # https://www.youtube.com/watch?v=tb0h3GJ4ciY
 
 # 【国宴大师•老北京炸酱面】老北京小碗儿干炸，吃得出的颗颗分明的肉粒，就是这个味儿，真爽！|老饭骨
-# 「The State Banquet Chef's Pork Noodles with Soybean Paste」 Deep-fried sauce in small bowls - Old Beijing Style. Mouthful of individual pork pieces - that’s what I’m talking about! Mind-blowing!
+# State Banquet Chefs' Zhajiangmian (Noodles with Soybean Paste and Pork) - Mind Blowing Old Beijing Style
 
 # 小友们好，今天三叔带给大家一道老北京炸酱面！
-# Hello everyone! Today, Uncle #3 will present an authentic Old Beijing Pork Noodles with Soybean Paste!
+# Hello everyone! Today, Sanshu will present an authentic Old Beijing Zhajiangmian (noodles with soybean paste)!
 
 # 真正的炸酱面还是在北京，其实并没有标准，但每家都好吃，今天呢，就是三叔平时做的方法，希望大家能够喜欢。
-# The real pork noodles are only available in Beijing. There is no standard, but every Beijinger can make it right. Today Uncle #3 will bring his version which he makes every time, and we hope you like it.
+# The real authentic Zhajiangmian is only found in Beijing. There are no rules, and every Beijinger has their own recipe. Today Sanshu will share his version and we hope you like it.
 # 今天的做炸酱面的小诀窍以字幕的形式被嵌入视频中喽，爱吃炸酱面的朋友们仔细学习哦！
-# Tips and tricks of making the noodles have been embedded in captions. Watch and learn carefully if you love to eat pork noodles!
+# Tips and tricks of making the noodles have been embedded in captions. Watch and learn carefully if you love to eat Zhajiangmian!
 
 # import intro
 
 1
 00:00:00,000 --> 00:00:02,240
 # 真正炸酱面还是在北京
-The real pork noodles with soybean paste are only available in Beijing
+The real Zhajiangmian can only be found in Beijing
 
 2
 00:00:02,240 --> 00:00:03,400
 # 它没有标准
-There is no standard
+There are no rules 
 
 3
 00:00:03,400 --> 00:00:04,720
@@ -41,7 +41,7 @@ They all have their own versions
 6
 00:00:08,560 --> 00:00:11,360
 # 但是你去谁家吃都好吃
-But every single of them is tasty
+But they are all tasty
 
 7
 00:00:11,360 --> 00:00:14,560
@@ -76,7 +76,7 @@ They are quite watery
 13
 00:00:22,960 --> 00:00:24,720
 # 北京黄酱多香啊
-This soybean paste is so aromatic
+This yellow soybean paste is so aromatic
 
 14
 00:00:24,720 --> 00:00:27,600
@@ -114,12 +114,12 @@ You must render the fat out
 21
 00:00:47,120 --> 00:00:49,680
 # 把那肉稍微要有焦感
-Pork pieces should be slightly brown and crispy
+Pork pieces should be slightly browned and crispy
 
 22
 00:00:49,680 --> 00:00:52,000
 # 它才会有焦香味 对
-So they can develop that fragrance from caramelisation
+So they can develop that aroma from Maillard reaction
 
 23
 00:00:52,000 --> 00:00:53,160
@@ -152,7 +152,7 @@ If you pour all of the paste into the pan, it will become boiled
 29
 00:01:05,840 --> 00:01:08,720
 # 做饭手法很重要 程序
-The steps in cooking are important (or procedures)
+It's important to use the proper technique
 
 30
 00:01:08,720 --> 00:01:10,480
@@ -162,7 +162,7 @@ A lot of dishes are not as tasty
 31
 00:01:10,480 --> 00:01:13,920
 # 程序弄错 香味提不出来
-Because they messed up the procedures, so the fragrance was not lifted
+Because they messed up the procedures, and the flavour is not fully developed
 
 32
 00:01:13,920 --> 00:01:15,920
@@ -217,7 +217,7 @@ It would be tasteless and weird if you put pork mince in this dish
 42
 00:01:39,480 --> 00:01:41,320
 # 色香味俱全
-Now it’s colourful, fragrant and tasty
+Now it’s colourful, aromatic and tasty
 
 43
 00:01:41,320 --> 00:01:44,000
@@ -240,7 +240,7 @@ If you are patient, the sauce will be perfect in return
 47
 00:01:48,600 --> 00:01:50,720
 # 你要态度不好着急
-On the contrary, if you have a bad temper
+On the contrary, if you are to rush it
 
 48
 00:01:50,720 --> 00:01:53,520
@@ -281,7 +281,7 @@ Now turn down to low heat
 56
 00:02:13,440 --> 00:02:17,120
 # 慢慢慢慢的㸆
-Braise the sauce really slowly
+Reduce the sauce really slowly
 
 57
 00:02:17,120 --> 00:02:19,640
@@ -304,7 +304,7 @@ These meat pieces are bigger than what we usually use
 61
 00:02:27,240 --> 00:02:29,200
 # 对你们家不舍得
-Yes, because your family are not willing to spend too much on those things
+Yes, because your family are frugal
 
 62
 00:02:29,200 --> 00:02:32,040
@@ -314,7 +314,7 @@ Your father always says that you need to be particular about the spending
 63
 00:02:32,040 --> 00:02:34,880
 # 大块吃着多过瘾
-It feels so satisfied to eat these big pieces
+It feels so satisfied to bite on these big pieces
 
 64
 00:02:34,880 --> 00:02:39,360
@@ -334,12 +334,12 @@ We Beijingers had a saying called
 67
 00:02:43,800 --> 00:02:45,440
 # 想长寿吃肥肉
-Eat fats if you want to live longer
+Eat fatty meat if you want to live longer
 
 68
 00:02:45,440 --> 00:02:48,880
 # 不是肥肉不好 一定要吃肥肉
-Fatty meats are not evil, and you must eat them
+Fatty meats are not evil, and you should eat them
 
 69
 00:02:50,680 --> 00:02:52,720
@@ -427,7 +427,7 @@ Toppings and sauce are the centrepiece of this dish
 86
 00:03:36,600 --> 00:03:41,680
 # 萝卜丝 咱北京是心儿里美
-Radish juliennes. We Beijingers use this sweet pink-fleshed radish
+Radish juliennes. We Beijingers use this watermelon radish
 
 87
 00:03:41,680 --> 00:03:42,400
@@ -448,7 +448,7 @@ Don’t be afraid of the oil
 91
 00:03:48,160 --> 00:03:51,320
 # 咱讲的是什么 猪油是这样
-We have a saying for the pork fat
+We have a saying for lard
 
 92
 00:03:51,320 --> 00:03:53,840
@@ -473,12 +473,12 @@ It’s absolutely fine to eat fatty meats as long as you also drink tea
 96
 00:04:05,480 --> 00:04:08,280
 # 这个大蒜真棒来一口
-These garlics are fantastic
+The garlic tastes fantastic
 
 97
 00:04:08,280 --> 00:04:10,360
 # 一口面一口大蒜
-One mouthful of noodles and one bite of garlics
+One mouthful of noodles and one bite of garlic
 
 98
 00:04:10,360 --> 00:04:12,040
@@ -498,7 +498,7 @@ The noodles will become jujube red after mixing up
 101
 00:04:18,280 --> 00:04:21,280
 # 酱红色特别感觉有食欲的
-Such red colour lifts the appetite so much
+Such an appetising red colour
 
 102
 00:04:21,280 --> 00:04:23,280
@@ -511,7 +511,7 @@ What do you think of the dish?
 104
 00:04:25,360 --> 00:04:28,000
 # 武大师亲手做的
-Hand made by Shifu Wu
+Hand made by Master Wu
 
 105
 00:04:28,000 --> 00:04:29,960
