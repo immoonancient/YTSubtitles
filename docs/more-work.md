@@ -5,3 +5,5 @@
 - 维护 [FAQ](../README.md#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)：整理常见问题，扩充 FAQ
 - 维护[对译表](translation-table.md)：在其中添加新的翻译，更正错误翻译等
 - 开发/维护 [bot](https://github.com/immoonancient/YTSubtitles-bot)
+
+有意参与者请进[微信群](wechat.md)与字幕组组长详谈。
