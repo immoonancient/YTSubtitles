@@ -10,28 +10,8 @@
 # The real pork noodles are only available in Beijing. There is no standard, but every Beijinger can make it right. Today Uncle #3 will bring his version which he makes every time, and we hope you like it.
 # 今天的做炸酱面的小诀窍以字幕的形式被嵌入视频中喽，爱吃炸酱面的朋友们仔细学习哦！
 # Tips and tricks of making the noodles have been embedded in captions. Watch and learn carefully if you love to eat pork noodles!
-# 大家好，我们是老饭骨！三个能吃、会做、擅长侃大山的北京大爷。
-# Hello, everyone, we are LaoFanGu, three old men from Beijing that can eat, cook and chill.
-# 我们的菜好看好吃又硬核，过去我们都是做国宴打美食外交的，如今退休在家和老朋友一起想把我们年轻时研究操练的菜品分享给大家，让大家在家里学着做真正儿的大菜，尝尝国宴菜品和中外领导人吃过的美食。
-# Our dishes look good and taste even better. All three of us used to work for Chinese National Banquet catered to government guests. Now we are all retired, and we want to share the dishes we developed when we were young to all of you, so everyone can try at home what country leaders are served when they visit China.
-# 我们分别是大爷郑秀生 国宴大师北京饭店行政总厨，亲自主理建国五十周年，开国第一宴工作；
-# Grandpa #1 (Xiusheng Zheng): Executive Chef for Beijing Hotel, hosted China's 50th Anniversary Banquet.
-# 二伯孙立新；多次担任多位国家领导人宴请中外贵宾的菜单主设计者，
-# Uncle #2 (Lixin Sun): Designed menus for Chinese National Banquet for foreign leaders when they visit China multiple times.
-# 三叔武剑利，国际高级烹饪技师，中华金厨，是著名的“熏肉之乡”柴沟铺的第三代传人，研发了“武式熏酱”大招。
-# Uncle #3 (Jianli Wu): Internationally renowned ‘Golden Chef of China’. 3rd Generation successor of Chaigoupu smoked meat. Developed 'Wu type smoked sauce'.
-# 三位老饭骨（吃货）合体教你做地道美味的家常菜，最正宗的北方菜，还有几乎失传的老菜，家传秘方通通倾囊相授！
-# All three of us (foodies) will bring together to teach you the most delicious everyday plates, most authentic Northern China Cuisine, most forgotten dishes from old generations and most secret recipes from our own families!
-# 我们会每周一三五更新视频，教你做菜，和你唠嗑，与你分享家的味道。
-# We will upload new videos every Monday, Wednesday and Friday, bringing new dishes, chilling out, and sharing the taste of family with you.
-# 喜欢我们的朋友欢迎评论，点赞和订阅，打开小铃铛不会错过我们的最新动态哦！
-# You are welcome to comment, like and subscribe to our channel. Turn on the notification to receive the latest news of the channel!
-# 点击下面的链接可以直接订阅哦！
-# Click the link below to subsribe:
-# https://bit.ly/30QmA1X
 
-# *Facebook*
-# https://www.facebook.com/laofangu/
+# import intro
 
 1
 00:00:00,000 --> 00:00:02,240
@@ -545,3 +525,5 @@ It tastes even better than my parents-in-law’s version
 00:04:32,200 --> 00:04:34,520
 # 行了充电去吧
 Alright guys, give it a go
+
+# import ending.srt 00:04:37,500
