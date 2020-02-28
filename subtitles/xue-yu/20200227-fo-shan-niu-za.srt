@@ -76,7 +76,7 @@ Yes?
 13
 00:00:43,575 --> 00:00:46,125
 # 我说不同部位的肉都是一样价吗
-I mean, does the meat from different parts have the same price?
+I mean, do different cuts have the same price?
 
 14
 00:00:46,225 --> 00:00:47,925
