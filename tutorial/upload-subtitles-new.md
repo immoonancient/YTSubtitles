@@ -24,6 +24,7 @@
 
 3. **交稿**：翻译完后，将整个文件全选复制，然后粘贴到 issue 内并回复。注意：
    - 提交的是文件内容，不是文件本身。不要把整个 docx 文件作为附件提交上来
+   - 从 Word 粘贴过来的时候请使用 Ctrl+V，不要使用 Ctrl+Shift+V，否则可能出现[格式错乱](https://github.com/immoonancient/YTSubtitles/issues/735#issuecomment-593049182)导致上传失败
    - 只有 assignee 有权限以此方法交稿
 
 <img src="resources/upload-with-bot.png" width="50%" height="50%">
