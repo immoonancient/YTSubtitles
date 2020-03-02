@@ -12,6 +12,9 @@
 # We want to apologize that, the audio in the source file got damaged around 2 min. Therefore there is about a minute of silence in the video.
 # 欢迎大家与我们交流！
 # We welcome everyone to reach out to us!
+
+# import intro
+
 # 字幕
 
 0:00:00.000,0:00:02.960
@@ -490,4 +493,4 @@ Happy Lunar New Year!
 # 新年快樂
 Happy Lunar New Year!
 
-# import ending.srt 0:05:43.700
+# import ending.sbv 0:05:43.700
