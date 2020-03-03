@@ -12,6 +12,14 @@ https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg
 | 师父 | master |
 | 徒弟 | disciple |
 
+## 子栏目
+
+| 名称 | 翻译 |
+| ------- | ---- |
+| 国宴大师 | State Banquet Master Chef |
+| 老饭骨家宴 | Lao Fan Gu's Family Dinner |
+|  三叔盘道 | San Shu's Guest Chef |
+
 ## 视频片尾固定部分字幕
 
 见 [ending.srt](ending.srt)
