@@ -29,6 +29,8 @@
 # This dish comes with a pleasant red color, features a spicy and numbing taste without being too overwhelming or bitter. It will surely satisfy your desire for spiciness. Get your gears going if you are feeling hungry!
 # Maybe you do not have all those spices we used, that’s fine, just improvise a bit and use whatever you have in stock.
 
+# import intro
+
 # 字幕：
 
 1
@@ -1059,5 +1061,4 @@ Spot-on!
 # 绝了
 Amazing.
 
-# “我是大爷”这句开始时间：
-# 00:08:23,01
+# import ending.sbv 00:08:24,100
