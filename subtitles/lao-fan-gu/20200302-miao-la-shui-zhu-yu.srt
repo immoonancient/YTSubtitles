@@ -1,7 +1,7 @@
 # https://www.youtube.com/watch?v=UvDvRipKsNA
 
 # 标题：【国宴大师•妙辣水煮鱼】绝妙家常菜：辣而不燥，麻而不苦，香气四溢的水煮鱼，在家吃得就得过瘾！
-# Title: [State Banquet Master Chef-Fish Boiled with Special Spicy Soup]
+# Title: State Banquet Master Chefs' Special "Shuizhuyu" (Spicy Boiled Fish Slices)
 
 # 简介：
 # 小友们好！几位小饭骨趁我们哥仨不在，终于大展身手了回儿，准备教大家做个热门家常菜，一家子都能吃过瘾的妙辣水煮鱼。
@@ -18,16 +18,16 @@
 # 此刻你们的胃有没有很寂寞？赶快起锅开灶，盘它…
 # 最后，有小友或许会说，调料用得太多了，但我们一直鼓励大家一通百通，所以小友们家里有什么就用什么哦！
 # Intro
-# Hi everyone. As all the masters are not home, we finally got the chance to show our special skills. Today we are preparing a “special” spicy fish dish to satisfy a whole family of chili lovers.
+# Hi everyone. As all the masters are not home, we finally got the chance to show our special skills. Today we are preparing a popular dish, a special "Shuizhuyu" (spicy boiled fish slices) to satisfy a whole family of chili lovers.
 # What’s so special about this dish? According to chef Jiao, it’s special when you have a lot of flavors going on. In other words, we need A LOT of ingredients for this dish.
 # It’s quite easy to prepare. We use grass carp, which is commonly available. We need to wipe off the excess water after cleaning the fish (why?), then we will remove the bones (how) and the cut the fish into slices. Then we will marinate it for about 20 minutes with salt, ginger, spring onion, yellow Chinese rice wine, and starch.
-# Then, we heat up the wok and pour some cold oil in. We even used some pork fat to intensify the aroma. Fry the spring onion, garlic and ginger in the wok with some Doubanjiang (Sichuan chili bean paste), some star anise, and nutmeg. Then, we put cloves, tsao-ko, dried mandarin peels, bay leaves, cinnamon, baizhi (Angelica dahurica) in and fry for a while, then we add chili pepper and water to cook for about 20 minutes on low heat. After 10 minutes we need to add chili flakes and Sichuan pepper.
-# Why do we add them in the middle of the boiling process? To prevent the chili flakes to get burned, also to keep the numbing taste of the Sichuan pepper.
+# Then, we heat up the wok and pour some cold oil in. We even use some lard to intensify the aroma. Fry the spring onion, garlic and ginger in the wok with some Doubanjiang (Sichuan chili bean paste), some star anise, and nutmeg. Then, we put cloves, tsao-ko, dried mandarin peels, bay leaves, cinnamon, white cardamom in and fry for a while, then we add regular chili pepper (for the aroma) and water to cook for about 20 minutes on low heat. After 10 minutes we need to add chili flakes and Sichuan pepper.
+# Why do we add them in the middle of the boiling process? To prevent the chili flakes to get burned, and also to keep the numbing taste of the Sichuan pepper.
 # Also, remember there are different types of Sichuan pepper and we use them for different purposes.
-# Also, we will let you know why you should soak the chili peppers before frying tiem.
+# Also, we will let you know why you should blanch the chili peppers before frying them.
 # Pay attention and learn about all the details in our video.
-# This dish comes with a pleasant red color, features a spicy and numbing taste without being too overwhelming or bitter. It will surely satisfy your desire for spiciness. Get your gears going if you are feeling hungry!
-# Maybe you do not have all those spices we used, that’s fine, just improvise a bit and use whatever you have in stock.
+# This dish comes with a pleasant red color, features a spicy and numbing taste without being overwhelming or bitter. It will surely satisfy your desire for numbness and spiciness. Get your gears going if you are feeling hungry!
+# Maybe you do not have all those spices we used. That’s fine. We've always been encouraging everyone to master the key techniques. So just improvise a bit and use whatever you have in stock.
 
 # import intro
 
@@ -71,7 +71,7 @@ One of the most popular dishes for home kitchen
 8
 00:00:17,400 --> 00:00:19,880
 # 什么呢 水煮鱼
-That is: water-boiled spicy fish
+That is: "Shuizhuyu" (aka "water-boiled spicy fish")
 
 9
 00:00:19,880 --> 00:00:21,800
@@ -200,12 +200,12 @@ Spring onion, ginger
 35
 00:01:12,680 --> 00:01:15,120
 # 搁里边一样出水 一样
-There are moistures coming out of it (这句我真不知道他们指的是什么)
+The juice comes out anyways
 
 36
 00:01:15,120 --> 00:01:16,840
 # 来点水淀粉
-Here, some starch mixed with water
+Here, some starch slurry
 
 37
 00:01:16,840 --> 00:01:18,680
@@ -228,7 +228,7 @@ We mixed it with some water
 41
 00:01:25,000 --> 00:01:27,200
 # 主要是生粉
-It was potato or corn starch
+It was potato starch
 
 42
 00:01:27,200 --> 00:01:30,320
@@ -238,7 +238,7 @@ We need to marinate it for about 10-20 minutes
 43
 00:01:30,320 --> 00:01:34,240
 # 我这个水煮鱼叫妙辣水煮鱼
-I call this dish Fish Boiled with “Special” Spicy Soup
+I call this dish a “Special Spicy” Shuizhuyu
 
 44
 00:01:34,240 --> 00:01:36,560
@@ -273,7 +273,7 @@ In addition to that
 50
 00:01:49,360 --> 00:01:52,520
 # 加一点猪油 这样更香
-Let’s put some pork fat in it to intensify the aroma.
+Let’s put some lard in it to intensify the aroma.
 
 51
 00:01:53,800 --> 00:01:58,560
@@ -283,12 +283,12 @@ Fry the spring onion, ginger and garlic
 52
 00:01:58,560 --> 00:02:00,680
 # 豆瓣酱 郫县豆瓣
-Doubanjiang (Sichuan chili bean paste)
+Doubanjiang (Sichuan chili bean paste), from Pixian County
 
 53
 00:02:00,680 --> 00:02:03,360
 # 三成热 慢慢把这香味
-Cook it slowly on low heat
+Cook it slowly at around 90°C
 
 54
 00:02:03,360 --> 00:02:04,880
@@ -328,7 +328,7 @@ Why?
 61
 00:02:16,480 --> 00:02:18,120
 # 硬的原材料禁熬
-Because they can handle more cooking time
+Because they can be cooked for longer time
 
 62
 00:02:18,120 --> 00:02:20,120
@@ -358,7 +358,7 @@ A bit of cinnamon
 67
 00:02:29,200 --> 00:02:31,480
 # 白芷 三片
-baizhi (Angelica dahurica), three pieces
+White cardamom, three pieces
 
 68
 00:02:31,480 --> 00:02:34,400
@@ -368,7 +368,7 @@ Alright we are almost done with the frying
 69
 00:02:34,400 --> 00:02:36,040
 # 咱们该放什么呢 辣椒
-What’s next? Chili pepers
+What’s next? Chili peppers
 
 70
 00:02:36,040 --> 00:02:37,560
@@ -378,7 +378,7 @@ We have here the common dried chili peppers
 71
 00:02:37,560 --> 00:02:40,440
 # 整颗放就行 有十五个
-We need about 15 pieces.
+We need about 15 whole pieces.
 
 72
 00:02:40,440 --> 00:02:41,760
@@ -408,7 +408,7 @@ We really don’t need to argue about that between us
 77
 00:02:49,960 --> 00:02:52,280
 # 怎么着也得斗起来了
-Not like the masters.
+You want to argue like the masters, huh?
 
 78
 00:02:52,280 --> 00:02:54,960
@@ -441,7 +441,7 @@ And let it boil for a while
 84
 00:03:06,080 --> 00:03:07,480
 # 大约熬几分钟
-A few minutes
+What's the cooking time?
 
 85
 00:03:07,480 --> 00:03:09,360
@@ -491,7 +491,7 @@ If you add the chili flakes too early,
 94
 00:03:24,240 --> 00:03:25,360
 # 辣椒面就糊了
-It might become soggy. (这里我觉得他说的糊应该是煮的时间太长了糊了？)
+It will be overcooked.
 
 95
 00:03:25,360 --> 00:03:28,920
@@ -586,7 +586,7 @@ Ginger again, shallots, and dried chili pepper
 113
 00:04:06,840 --> 00:04:09,960
 # 青笋 大白菜 黑木耳
-Celtuce, Chinese cabbage, black mushroom
+Celtuce, Chinese cabbage, black wood ears
 
 114
 00:04:09,960 --> 00:04:13,880
@@ -606,7 +606,7 @@ But the vegetables in it are also delicious
 117
 00:04:19,520 --> 00:04:22,160
 # 有的在家说愿意把菜焯水
-Some prefer to first cook the vegetables with boiling water.
+Some prefer to first blanch the vegetables.
 
 118
 00:04:22,160 --> 00:04:23,520
@@ -651,7 +651,7 @@ Vegetables in.
 126
 00:04:45,280 --> 00:04:46,400
 # 小锅翻的溜
-Your pan flipping skills is pretty good!
+Your pan tossing skills is pretty good!
 
 127
 00:04:46,400 --> 00:04:48,480
@@ -676,7 +676,7 @@ Sugar goes well with spicy dishes
 131
 00:04:53,600 --> 00:04:55,760
 # 加糖才有复合味
-It adds complicity to the flavor
+It adds complexity to the flavor
 
 132
 00:04:55,760 --> 00:04:57,640
@@ -691,7 +691,7 @@ OK the vegetables are cooked
 134
 00:05:00,280 --> 00:05:03,880
 # 咱们给它倒到碗里 垫底儿的菜
-Let’s put them at the bottom of the bowl
+Let’s put them in the bowl as the bottom
 
 135
 00:05:03,880 --> 00:05:06,840
@@ -721,7 +721,7 @@ You should not put all of them in at once.
 140
 00:05:17,160 --> 00:05:19,640
 # 都煮到一起了就 分开下
-The slices will stick to each other. You must do it one by one.
+Otherwise the slices will stick to each other. You must do it one by one.
 
 141
 00:05:19,640 --> 00:05:21,720
@@ -731,7 +731,7 @@ See? The slices are nicely thick
 142
 00:05:21,720 --> 00:05:25,720
 # 鱼片的表面淀粉遇热会凝结
-The starch around the fish will form a layer when heated
+The starch on the fish will form a layer when heated
 
 143
 00:05:25,720 --> 00:05:27,640
@@ -784,7 +784,7 @@ Perfect for family dinners, satisfying!
 153
 00:06:00,960 --> 00:06:03,200
 # 看这鱼片 特别的整
-The slices are still in one piece.
+Look at the slices! Still in good shapes.
 
 154
 00:06:03,200 --> 00:06:07,720
@@ -804,7 +804,7 @@ Used mainly for its aroma.
 157
 00:06:11,600 --> 00:06:13,160
 # 灯笼椒要焯遍水
-We need to boil it first
+We need to blanch it first
 
 158
 00:06:13,160 --> 00:06:14,760
@@ -814,7 +814,7 @@ Why do we do that?
 159
 00:06:14,760 --> 00:06:16,880
 # 所有的辣椒你在炸之前
-You need to boil the dried chilies peppers
+You need to blanch the dried chilies peppers
 
 160
 00:06:16,880 --> 00:06:18,440
@@ -834,7 +834,7 @@ They will get burned very easily and become bitter.
 163
 00:06:22,400 --> 00:06:24,280
 # 花椒 焯一下水
-We boil some Sichuan pepper too
+We blanch some Sichuan pepper too
 
 164
 00:06:24,280 --> 00:06:30,320
@@ -842,7 +842,7 @@ We boil some Sichuan pepper too
 165
 00:06:30,320 --> 00:06:32,640
 # 蒜末 姜末
-Garlic and ginger
+Garlic and ginger mince
 
 166
 00:06:32,640 --> 00:06:33,600
@@ -867,7 +867,7 @@ How?
 170
 00:06:38,800 --> 00:06:43,280
 # 辣椒 色拉油 猪油 花椒
-We used dried chili pepper, cooking oil, pork fat, Sichuan pepper
+We used dried chili pepper, cooking oil, lard, Sichuan pepper
 
 171
 00:06:43,280 --> 00:06:46,440
@@ -902,7 +902,7 @@ The boiled chili pepper and Sichuan pepper
 177
 00:07:00,640 --> 00:07:01,480
 # 味道会更香
-Give a stronger aroma
+To give a stronger aroma
 
 178
 00:07:01,480 --> 00:07:02,640
