@@ -40,7 +40,7 @@ Sometimes I like
 7
 00:00:15,000 --> 00:00:17,280
 # 别出心裁做的一些食物
-To cook food out of the ordinary
+To cook food in an innovative way
 
 8
 00:00:25,040 --> 00:00:28,280
@@ -55,7 +55,7 @@ The ingredients for the next dish
 10
 00:00:31,040 --> 00:00:33,160
 # 我呢 已经把肉切成了大块儿
-I have chopped the meat into big chunks
+I have chopped the meat into big lumps
 
 11
 00:00:33,160 --> 00:00:34,880
@@ -65,12 +65,12 @@ Here are cut scallions and ginger (without garlic)
 12
 00:00:34,880 --> 00:00:38,880
 # 把肉馅放在搅拌机里 搅拌起来
-Put the ground meat into the blender, starts to mix
+Put the meat into the blender, start grinding
 
 13
 00:00:39,440 --> 00:00:41,320
 # 调肉馅 我倒是没有什么样的心得
-I don’t have special experience with concocting grand meat
+I don’t have special tips on making meat mince
 
 14
 00:00:41,320 --> 00:00:44,280
@@ -95,7 +95,7 @@ I will add some cilantro when it’s almost well mixed
 18
 00:00:53,520 --> 00:00:56,360
 # 因为香菜再不吃 它就老了
-Because if I don’t eat them now, they will be too old to enjoy
+Because if I don’t eat them now, they will lose the best taste and texture soon
 
 19
 00:01:01,880 --> 00:01:03,840
@@ -110,11 +110,12 @@ Then, in the pot...
 21
 00:01:05,320 --> 00:01:07,840
 # 然后在锅...
-Then the pot...
+Then the pot... *suddenly forgets how to describe*
 
 22
 00:01:07,840 --> 00:01:10,520
 # 然后在这上面 锅里抹点油
+"Never mind that"
 Then on top of that, wipe the steamer pot with some oil
 
 23
@@ -130,7 +131,7 @@ Then put the meatball in there
 25
 00:01:19,040 --> 00:01:22,920
 # 我也不知道能够挤多大
-I don’t know how big I can squeeze
+I don’t know how big (a meatball) I can squeeze
 
 26
 00:01:41,480 --> 00:01:43,560
@@ -165,7 +166,7 @@ Start cooking
 32
 00:01:55,440 --> 00:01:58,760
 # 水开后 二三十分钟就可以吃了
-20-30 minutes after the water starts to boil, it’s ready to be eaten
+20-30 minutes after the water starts to boil, it’s ready to eat
 
 33
 00:03:04,320 --> 00:03:07,440
@@ -175,12 +176,12 @@ For today’s lunch, I’m going to eat shredded potato salad
 34
 00:03:07,440 --> 00:03:08,760
 # 这个就是自己想的
-This is my idea
+This one is my idea
 
 35
 00:03:08,760 --> 00:03:11,080
 # 因为早上起来 我是吃的黄金炒饭
-Because this morning, I ate golden fried rice
+Because this morning, I ate "golden stir-fried rice" (Stir-fried rice with egg yolks)
 
 36
 00:03:11,080 --> 00:03:14,600
@@ -205,17 +206,17 @@ I’m going to eat now
 40
 00:03:42,840 --> 00:03:46,560
 # 休息了这么久 其实也会想
-After taking a long break, it comes to mind that
+After taking a long break, it comes to my mind that
 
 41
 00:03:46,560 --> 00:03:49,960
 # 除了继续到各地去吃好吃的
-Besides continue to have delicious food from different places
+Besides continue to have delicious food in different places
 
 42
 00:03:49,960 --> 00:03:53,480
 # 可能也会做一些其它的视频 比如说
-Maybe I will make some other videos, for example
+Maybe I will make some other kinds of videos, for example
 
 43
 00:03:53,480 --> 00:03:55,120
@@ -235,7 +236,7 @@ I would be happy
 46
 00:04:00,520 --> 00:04:02,160
 # 好吧 走一步算一步
-OK, one step at a time
+Anyway, I will see what's gonna happen in the future
 
 47
 00:04:02,160 --> 00:04:05,680
@@ -245,6 +246,5 @@ It’s pretty much for today’s video. See you
 48
 00:04:09,720 --> 00:04:12,640
 # 关 注
-雪 鱼 探 店
-
-# Subscribe
+# 雪 鱼 探 店
+Subscribe
