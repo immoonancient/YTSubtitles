@@ -18,7 +18,7 @@ https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg
 | ------- | ---- |
 | 国宴大师 | State Banquet Master Chef |
 | 老饭骨家宴 | Lao Fan Gu's Family Dinner |
-|  三叔盘道 | San Shu's Guest Chef |
+|  三叔盘道 | Panning out with San Shu |
 
 ## 视频片尾固定部分字幕
 
