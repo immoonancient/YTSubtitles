@@ -1,25 +1,30 @@
 # https://www.youtube.com/watch?v=al193-q0Ljw
-标题：【三叔盘道•烙饼摊鸡蛋】不粘锅的秘诀！口感筋道却不硬的千层烙饼，卷上鸡蛋，再来点葱丝和酱，绝了！|老饭骨
-San Shu's Guest Chef making Flatbread with Fried Eggs: the key to non-sticky and al dente flatbread with layers. Absolutely delicious with eggs, scallion shreds, and sauce!
-简介：
-小友们好！三叔的新节目又与大家见面了—— 三叔盘道，带你走进盘中味道！
-Hello my friends! San Shu's new session again: San Shu's Guest Chef taking to you the taste of dishes
-今天我们国宝级面点师要教给大家的是一道北京传统面食，烙饼摊鸡蛋。
-Today our treasure chef's gonna teach you traditional Peking flatbread with fried eggs
-咱老北京有这样一个习俗：头伏饺子二伏面，三伏烙饼摊鸡蛋。
-We old Pekingers have a custom that the third day of Chinese New Year is the day of flatbread
-可别小瞧这烙饼，里面门道可不少！
-Don't take it simple! We've used lots of tips in cooking this dish
-如何烙出不放油也不粘锅，口感筋道却不硬呢？传统半烫面就能做到！
-Do you know how to produce the perfect texture of doughs not sticking to the pan even without oil? It can be achieved by our traditional technique of Ban Tang Mian, making a half dough with hot water and a half with cold water.
-按照老师傅的教法做出来的烙饼口感筋道不粘，层次分明。千层烙饼的诀窍可都在这视频里头喽！
-The al dente and not sticky flatbread made according to our chef's teaching has clear and beautiful layers. All the tips are included in this video!
-千层烙饼配上这金黄鲜嫩的鸡蛋，再来上点喜欢的配菜，老少皆宜，简单易学！
-Flatbread with this tender and golden fried egg, accompanied by veges you like, fits the taste of young and old, and is easy to learn.
-最后，再跟三叔一起喊上口号：要想手艺学的全，烙饼必须擀得圆。
-At last, say with San Shu and remember: to learn in full all our skills, you should be able to roll out a perfectly round flatbread.
-小友们，都学会了吗？
-My friends, have you got these?
+
+# 标题：【三叔盘道•烙饼摊鸡蛋】不粘锅的秘诀！口感筋道却不硬的千层烙饼，卷上鸡蛋，再来点葱丝和酱，绝了！|老饭骨
+# San Shu's Guest Chef making Flatbread with Fried Eggs: the key to non-sticky and al dente flatbread with layers. Absolutely delicious with eggs, scallion shreds, and sauce!
+
+# 简介：
+# 小友们好！三叔的新节目又与大家见面了—— 三叔盘道，带你走进盘中味道！
+# Hello my friends! San Shu's new session again: San Shu's Guest Chef taking to you the taste of dishes
+# 今天我们国宝级面点师要教给大家的是一道北京传统面食，烙饼摊鸡蛋。
+# Today our treasure chef's gonna teach you traditional Peking flatbread with fried eggs
+# 咱老北京有这样一个习俗：头伏饺子二伏面，三伏烙饼摊鸡蛋。
+# We old Pekingers have a custom that the third day of Chinese New Year is the day of flatbread
+# 可别小瞧这烙饼，里面门道可不少！
+# Don't take it simple! We've used lots of tips in cooking this dish
+# 如何烙出不放油也不粘锅，口感筋道却不硬呢？传统半烫面就能做到！
+# Do you know how to produce the perfect texture of doughs not sticking to the pan even without oil? It can be achieved by our traditional technique of Ban Tang Mian, making a half dough with hot water and a half with cold water.
+# 按照老师傅的教法做出来的烙饼口感筋道不粘，层次分明。千层烙饼的诀窍可都在这视频里头喽！
+# The al dente and not sticky flatbread made according to our chef's teaching has clear and beautiful layers. All the tips are included in this video!
+# 千层烙饼配上这金黄鲜嫩的鸡蛋，再来上点喜欢的配菜，老少皆宜，简单易学！
+# Flatbread with this tender and golden fried egg, accompanied by veges you like, fits the taste of young and old, and is easy to learn.
+# 最后，再跟三叔一起喊上口号：要想手艺学的全，烙饼必须擀得圆。
+# At last, say with San Shu and remember: to learn in full all our skills, you should be able to roll out a perfectly round flatbread.
+# 小友们，都学会了吗？
+# My friends, have you got these?
+
+# import intro
+
 1
 00:00:00,000 --> 00:00:00,600
 # 初几
@@ -460,4 +465,4 @@ The forth day, stuffed flatbread day
 # 明天见
 See you tomorrow!
 
-# “我是大爷” 00:04:46,15
+# import ending.srt 00:04:46,150
