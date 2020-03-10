@@ -6,9 +6,9 @@
 # Panning out with San shu – Beef Pie (thin and crisp pastry with tasty and tender meat, sharp aroma and very juicy. Amazing!
 # 简介
 # 小友们好，这顿初四的牛肉馅饼，咱们的国宝级面点大师可是准备了一早上。
-# Hi my friends! Our treasure chef has been preparing this Forth Beef Pie for a whole morning.
+# Hi my friends! It's the fourth day of the lunar new year. Our master chef has been preparing this Beef Pie for the whole morning.
 # 都说牛肉馅饼要想做得好，成不成全在这打馅儿上了。
-# Seasoning and blending beef mince tend to be crucial step of amazing beef pie.
+# As the saying goes, it's the filling that makes a beef pie.
 # 牛肉最好是2分肥，8分瘦，肥瘦相间吃起来才更鲜嫩多汁。
 # Mixture of 20% fat and 80% lean will give you a juicy and tender mouthfeel.
 # 面饼要擀得比饺子皮稍微薄一点，烙的时候记得刷几层菜籽油。
@@ -16,7 +16,7 @@
 # 这样做出来的牛肉馅饼焦黄里嫩，馅大皮薄，一刀切下去都在流汁儿呢！
 # Follow our recipe to make this crispy, golden and tender beef pie with a thin shell and lots of filing. See how juicy it is when we cut it!
 # 老爷子为了传承记忆中的味道，都是毫无保留地教给大家他的秘方。
-# Lao Ye Zi (Beijing Slang - to call elder gentleman who is very close to you) unreservedly pass on to everyone his secrets in the memory of inherited taste.
+# Our old pal unreservedly shares his secret recipe to pass on the taste in memory.
 # 各位小友们馋了吗，赶紧学起来吧！
 # Are you drooling already? Let's get started!
 
@@ -32,7 +32,7 @@ San Shu, today is the fourth day of the lunar new year.
 2
 00:00:06,133 --> 00:00:10,100
 # 为了咱吃这顿馅儿饼 老爷子准备了一早上
-Lao Ye Zi (Beijing Slang - to call elder gentleman who is very close to you) was preparing ingredients whole morning so as we can have this pie.
+Our old pal has been busy for the whole morning so as we can have this pie.
 
 3
 00:00:10,100 --> 00:00:12,400
@@ -167,7 +167,7 @@ Lao Feng starts to be serious. The filling starts to get a bit resistant.
 29
 00:01:25,900 --> 00:01:27,900
 # 我觉得行了老爷子
-I think it is okay now. Lao Ye Zi (Beijing slang – call an elder gentleman when you have a very close relationship with him)
+I think it is good now, old pal
 
 30
 00:01:27,900 --> 00:01:28,733
@@ -457,7 +457,7 @@ Now the pie is fully cooked.
 87
 00:04:33,933 --> 00:04:36,366
 # 老爷子最高之处你知道在哪吗
-Do you know what is the brilliant method from Lao Ye Zi?
+Do you know what our old pal's mojo?
 
 88
 00:04:36,366 --> 00:04:38,166
@@ -467,7 +467,7 @@ Sprinkle some sesame oil before taking it out from the pan.
 89
 00:04:38,166 --> 00:04:40,666
 # 老爷子一伸手就变成人间美味了
-Delicious dishes are born with these hands of Lao Ye Zi.
+Delicious dishes are born with these hands of our old pal.
 
 90
 00:04:40,666 --> 00:04:44,600
@@ -532,7 +532,7 @@ This is the most tasty and best beef pie I've ever had.
 102
 00:05:21,600 --> 00:05:22,600
 # 老爷子哭了啊
-Lao Ye Zi bursts into tears.
+Our old pal has burst into tears.
 
 103
 00:05:22,600 --> 00:05:24,900
