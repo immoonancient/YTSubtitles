@@ -1,0 +1,562 @@
+# https://www.youtube.com/watch?v=4qCMXhi-3Wo
+
+# .
+# 标题
+# 【三叔盘道•牛肉馅饼】皮薄酥脆，味浓肉嫩的牛肉馅饼！香气冲天，一刀切下去还在流汁儿！简直赞！|老饭骨
+# Panning out with San shu - Beef Pie! Crispy thin skin with tender juicy filling, simply amazing!
+# 简介
+# 小友们好，这顿初四的牛肉馅饼，咱们的国宝级面点大师可是准备了一早上。
+# Hi my friends! It's the fourth day of the lunar new year. Our master chef has been preparing this Beef Pie for the whole morning.
+# 都说牛肉馅饼要想做得好，成不成全在这打馅儿上了。
+# As the saying goes, it's the filling that makes a beef pie.
+# 牛肉最好是2分肥，8分瘦，肥瘦相间吃起来才更鲜嫩多汁。
+# Mixture of 20% fat and 80% lean will give you a juicy and tender mouthfeel.
+# 面饼要擀得比饺子皮稍微薄一点，烙的时候记得刷几层菜籽油。
+# Rolling out the dough thinner than dumpling wrappers, and brush a few layers of canola oil while cooking.
+# 这样做出来的牛肉馅饼焦黄里嫩，馅大皮薄，一刀切下去都在流汁儿呢！
+# Follow our recipe to make this crispy, golden and tender beef pie with a thin shell and lots of filing. See how juicy it is when we cut it!
+# 老爷子为了传承记忆中的味道，都是毫无保留地教给大家他的秘方。
+# Our old pal unreservedly shares his secret recipe to pass on the taste in memory.
+# 各位小友们馋了吗，赶紧学起来吧！
+# Are you drooling already? Let's get started!
+
+# import intro
+
+# 字幕
+
+1
+00:00:04,131 --> 00:00:06,133
+# 三叔 今儿初四了
+San Shu, today is the fourth day of the lunar new year.
+
+2
+00:00:06,133 --> 00:00:10,100
+# 为了咱吃这顿馅儿饼 老爷子准备了一早上
+Our old pal has been busy for the whole morning so as we can have this pie.
+
+3
+00:00:10,100 --> 00:00:12,400
+# 这牛肉馅儿很鲜 肥瘦相间
+The beef mince is very fresh and marbled (fat and thin).
+
+4
+00:00:12,400 --> 00:00:15,866
+# 他今天做的二八 二是肥八是瘦
+He is using 20% fat and 80% lean today.
+
+5
+00:00:15,866 --> 00:00:19,266
+# 现在我和面呢  这面比饺子面呢稍微软点
+I am making the dough right now. The dough should be a little bit softer than dumpling wrappers’ dough.
+
+6
+00:00:19,266 --> 00:00:20,566
+# 要薄皮大馅
+We need thin skin and lots of filling.
+
+7
+00:00:20,566 --> 00:00:24,833
+# 皮要讲究焦黄外焦
+The skin of the pie needs to be golden outside,
+
+8
+00:00:24,833 --> 00:00:28,100
+# 肉馅是里嫩 要吃这牛肉的香味
+and the filling is tender inside. The richness of the beef should stand out.
+
+9
+00:00:28,100 --> 00:00:31,333
+# 来点姜鲜姜
+(I) need some ginger, fresh ginger.
+
+10
+00:00:31,333 --> 00:00:33,166
+# 盐 四克盐别太咸
+Salt, 4g of salt. Not too salty.
+
+11
+00:00:33,166 --> 00:00:34,500
+# 搁点熟酱
+Add more Shu Jiang (cooked soybean paste)
+
+12
+00:00:34,500 --> 00:00:36,000
+# 这熟酱是蒸熟的吗
+Is this one steamed?
+
+13
+00:00:36,000 --> 00:00:38,433
+# 这是买来的 处理好的
+I bought it. It had been cooked beforehand.
+
+14
+00:00:38,433 --> 00:00:40,233
+# 然后先上劲儿
+Mix and toss the beef until it's glutenous 
+
+15
+00:00:40,233 --> 00:00:41,833
+# 一个方向啊 顺时针
+towards one direction, clockwise.
+
+16
+00:00:41,833 --> 00:00:44,133
+# 一定要粘
+It needs to be sticky.
+
+17
+00:00:44,466 --> 00:00:48,800
+# 已经有点抱团了 直说咱不加鸡蛋 知道吧
+It starts to stick together. We always say we don’t need to add eggs, you know?
+
+18
+00:00:48,800 --> 00:00:52,033
+# 好吃不好吃成不成肉饼都在这打馅儿上
+The filling makes the dish.
+
+19
+00:00:52,033 --> 00:00:53,400
+# 机器能替代吗
+Can we use machine to do the job?
+
+20
+00:00:53,400 --> 00:00:58,900
+# 可以啊 但是手工香
+Sure. But the hand-made version tastes better.
+
+21
+00:00:58,900 --> 00:01:03,433
+# 今天都是手打 他管我叫武手长
+It is all hand-made today. He called me Wu Shou Zhang (pun, hand / commander)
+
+22
+00:01:03,433 --> 00:01:04,733
+# 手长好
+Greetings, sir!
+
+23
+00:01:04,733 --> 00:01:06,033
+# 同志们辛苦了
+Comrades, thank you for your hard work!
+
+24
+00:01:06,033 --> 00:01:07,166
+# 为人民服务
+Serve the people!
+
+25
+00:01:07,166 --> 00:01:08,166
+# 好好干
+Keep your good work!
+
+26
+00:01:08,166 --> 00:01:10,633
+# 这牛肉馅儿真不能凑合
+We can’t make do with beef filling.
+
+27
+00:01:10,633 --> 00:01:12,166
+# 直接上手吧
+Just use your hand.
+
+28
+00:01:15,100 --> 00:01:18,533
+# 老冯开始玩真的了 陆续开始有点劲儿了
+Lao Feng starts to be serious. The filling starts to get a bit resistant.
+
+29
+00:01:25,900 --> 00:01:27,900
+# 我觉得行了老爷子
+I think it is good now, old pal
+
+30
+00:01:27,900 --> 00:01:28,733
+# 下油了
+Add oil
+
+31
+00:01:28,733 --> 00:01:30,200
+# 油得倒多少
+How much?
+
+32
+00:01:30,200 --> 00:01:32,200
+# 一两 要不不出油
+One Liang (50 grams), otherwise the filling won't be juicy
+
+33
+00:01:32,200 --> 00:01:33,800
+# 酱油 好嘞
+Soy Sauce. Here we go!
+
+34
+00:01:37,833 --> 00:01:41,933
+# 我看一眼 好 冰箱里冻一下
+Let me have a look. Perfect. Put in the fridge to freeze a little bit.
+
+35
+00:01:41,966 --> 00:01:46,633
+# 因为打的待会要出汁 所以要冻一下
+The juicy will separate from the meat if we don't keep it cold.
+
+36
+00:01:46,633 --> 00:01:49,500
+# 牛肉馅儿和好了之后放大葱
+When the filling is ready, add in some spring onions.
+
+37
+00:01:49,500 --> 00:01:52,000
+# 这个馅儿里放四分之一
+Put a quarter in to the filling.
+
+38
+00:01:52,000 --> 00:01:54,933
+# 放点香油 主要是借味
+Add some sesame oil, just for the flavour.
+
+39
+00:01:54,966 --> 00:01:56,233
+# OK 好啦
+OK.
+
+40
+00:01:56,233 --> 00:01:58,233
+# 老头还OK了现在
+Our old pal starts to say OK now.
+
+41
+00:01:58,233 --> 00:02:00,000
+# 再来点胡椒粉
+Add some pepper powder.
+
+42
+00:02:02,533 --> 00:02:04,433
+# 差不多了吧
+Should be right.
+
+43
+00:02:04,433 --> 00:02:06,333
+# 跟擀饺子皮一样吗
+Should I roll the dough like dumpling wrappers?
+
+44
+00:02:06,333 --> 00:02:08,400
+# 擀薄点
+Thinner.
+
+45
+00:02:08,400 --> 00:02:11,033
+# 差不多了
+Almost.
+
+46
+00:02:11,033 --> 00:02:13,266
+# 一定要这压住 蹭一下
+This part needs to be pressed.
+
+47
+00:02:13,266 --> 00:02:15,133
+# 圈上 一会儿就会
+Circle it. You can learn how to do it very fast.
+
+48
+00:02:15,233 --> 00:02:17,366
+# 要不拿擀面杖敲两下
+Should we punch it with the rolling pin?
+
+49
+00:02:17,366 --> 00:02:20,100
+# 严肃点别乐
+Be serious, don’t laugh.
+
+50
+00:02:20,133 --> 00:02:22,466
+# 你看一弄打卷
+Look this, you can make a roll.
+
+51
+00:02:23,666 --> 00:02:28,400
+# 进步大了 都会转了
+Great improvement, you can twirl it.
+
+52
+00:02:28,400 --> 00:02:29,200
+# 我给你擀一个
+Let me show you.
+
+53
+00:02:31,900 --> 00:02:38,133
+# 你看见没有 他手是圈的 这手一定要圈上
+Do you see it? His hand is twirling it. Make sure to use a circular motion.
+
+54
+00:02:42,800 --> 00:02:43,466
+# 看见没有
+Do you see it?
+
+55
+00:02:48,866 --> 00:02:52,933
+# 三叔什么都会 我有点骄傲
+San Shu can make everything. I am proud of him (myself).
+
+56
+00:02:52,933 --> 00:02:55,466
+# 有点膨胀怎么什么都会呢
+I am a bit conceited that I can do everything.
+
+57
+00:02:55,466 --> 00:02:57,300
+# 怎没人夸我啊
+Why is no one complimenting me?
+
+58
+00:02:57,300 --> 00:02:59,600
+# 特别好 不是一般的
+Excellent! Not just fine.
+
+59
+00:02:59,600 --> 00:03:00,900
+# 包了啊
+Let’s start.
+
+60
+00:03:00,933 --> 00:03:03,433
+# 别擀了 赶紧学 看看怎么包
+Stop rolling, hurry up to learn, learn how to make pies.
+
+61
+00:03:03,433 --> 00:03:06,166
+# 这是关键了
+This is the key point.
+
+62
+00:03:06,166 --> 00:03:08,600
+# 我这大拇哥是不进去的看见没有
+My thumb is not inside, see?
+
+63
+00:03:08,600 --> 00:03:10,333
+# 他兜出来一小碗
+He make the dough like a small bowl.
+
+64
+00:03:10,333 --> 00:03:11,466
+# 看见没有
+See?
+
+65
+00:03:19,966 --> 00:03:23,433
+# 烙馅饼之前先给它捏成提褶包子
+The pie was actually Bao Zi (bun with wrinkles) before it becomes a pie
+
+66
+00:03:23,433 --> 00:03:25,133
+# 忌讳什么 半路出汤
+What’s our taboo? Leakage at halfway.
+
+67
+00:03:25,133 --> 00:03:26,533
+# 坚决不能出汤
+Leaking is not acceptable.
+
+68
+00:03:26,766 --> 00:03:28,400
+# 不是这种动 要搓
+Not like this, twisting (rubbing with hands)
+
+69
+00:03:28,433 --> 00:03:30,600
+# 底下动 上面不动
+Move the bottom not upside.
+
+70
+00:03:30,600 --> 00:03:34,133
+# 你看见没有 他是底下动
+Don't you see? He only moves the bottom
+
+71
+00:03:34,433 --> 00:03:35,966
+# 我来一个
+Let me make one.
+
+72
+00:03:35,966 --> 00:03:38,100
+# 我是直接就封口了
+I’ll cover it up directly.
+
+73
+00:03:38,100 --> 00:03:43,533
+# 但是他大拇哥要搁里边儿 他是这样我是这样
+But his thumb is inside, he is like this. My way is like this.
+
+74
+00:03:43,566 --> 00:03:45,766
+# 这是馅饼 看见没有
+This is pie. See?
+
+75
+00:03:45,766 --> 00:03:48,200
+# 三叔什么不会啊
+Is there anything San Shu couldn’t make?
+
+76
+00:03:48,200 --> 00:03:50,566
+# 怎么了这小褶 二十三个褶啊
+What’s wrong with these pleats/wrinkles? 23 in total.
+
+77
+00:03:50,566 --> 00:03:54,600
+# 大家伙互相学习 互相进步
+We are learning from each other so we can all improve.
+
+78
+00:03:54,600 --> 00:03:57,733
+# 一定不能拿掌心去拍 反面
+Never pat it with palm. The other side.
+
+79
+00:03:57,733 --> 00:04:01,200
+# 烙饼其实很讲究 烙饼需要一口好的饼铛
+We need to devote particular care to pie and flatbread. We need a good frying pan.
+
+80
+00:04:01,200 --> 00:04:06,266
+# 底要厚 加热的温度好掌握
+The base should be thick. Easier to master temperature.
+
+81
+00:04:06,266 --> 00:04:08,133
+# 这什么油啊 怎么这么黄啊
+What kind of oil is this? So yellow.
+
+82
+00:04:08,133 --> 00:04:10,066
+# 最好的菜籽油
+Best canola oil.
+
+83
+00:04:10,066 --> 00:04:11,833
+# 放点水
+Add some water.
+
+84
+00:04:11,833 --> 00:04:15,866
+# 因为咱们的肉饼比较厚 咱们让熟的更透一点
+As our beef pie is thicker, we are cooking it well-done.
+
+85
+00:04:15,866 --> 00:04:18,900
+# 这水呀一没 饼就得了
+The pie is done once water is evaporated
+
+86
+00:04:31,600 --> 00:04:33,933
+# 今天咱们这馅饼已经做熟了
+Now the pie is fully cooked.
+
+87
+00:04:33,933 --> 00:04:36,366
+# 老爷子最高之处你知道在哪吗
+Do you know what our old pal's mojo?
+
+88
+00:04:36,366 --> 00:04:38,166
+# 出锅前点的几滴香油
+Sprinkle some sesame oil before taking it out from the pan.
+
+89
+00:04:38,166 --> 00:04:40,666
+# 老爷子一伸手就变成人间美味了
+Delicious dishes are born with these hands of our old pal.
+
+90
+00:04:40,666 --> 00:04:44,600
+# 咱们切开一个 看看这汁儿
+Let’s cut one, take a look at this juicy filling.
+
+91
+00:04:44,600 --> 00:04:49,533
+# 这样切看见没有 拉着走
+See how I slice it? Pull it.
+
+92
+00:04:49,866 --> 00:04:54,000
+# 看这汁儿 好不好
+Look at this juice. Nice or not?
+
+93
+00:04:54,000 --> 00:04:56,500
+# 有点像吃意大利肉饼的感觉
+It tastes like Italian meat pie.
+
+94
+00:04:56,500 --> 00:04:58,400
+# 你看里头牛肉
+Take a look at the beef inside.
+
+95
+00:05:01,200 --> 00:05:06,000
+# 皮薄馅儿大味厚而不咸
+Thin skin, rich and tasty but not too salty.
+
+96
+00:05:06,000 --> 00:05:09,066
+# 牛肉的香味冲上天
+The aroma of the beef is so sharp.
+
+97
+00:05:09,066 --> 00:05:10,233
+# 照一百岁活
+Live for 100 years.
+
+98
+00:05:10,400 --> 00:05:11,400
+# 我努力
+I’ll try.
+
+99
+00:05:11,400 --> 00:05:13,833
+# 瞧瞧我的吧 看
+Look at mine! Take a look!
+
+100
+00:05:15,733 --> 00:05:17,366
+# 肉颗粒感很强
+Meat particle can be tasted.
+
+101
+00:05:17,366 --> 00:05:19,933
+# 牛肉馅儿饼第一次吃这么香的
+This is the most tasty and best beef pie I've ever had.
+
+102
+00:05:21,600 --> 00:05:22,600
+# 老爷子哭了啊
+Our old pal has burst into tears.
+
+103
+00:05:22,600 --> 00:05:24,900
+# 要传承 咱们就没有保守
+To pass on our technique, we should not be reserved
+
+104
+00:05:24,900 --> 00:05:27,033
+# 一定要找出老的味道
+We want to find the traditional taste.
+
+105
+00:05:27,033 --> 00:05:28,633
+# 希望您常出手
+Wish you can cook more often.
+
+106
+00:05:28,633 --> 00:05:29,266
+# 继续努力
+Keep making great efforts.
+
+107
+00:05:29,266 --> 00:05:33,733
+# 祝我们的新春佳节大家快乐高兴美食第一
+Wish a happy lunar new year with a delicious tasty feast to us!
+
+# import ending.srt 00:05:32,120
