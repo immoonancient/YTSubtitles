@@ -3,7 +3,7 @@
 # .
 # 标题
 # 【三叔盘道•牛肉馅饼】皮薄酥脆，味浓肉嫩的牛肉馅饼！香气冲天，一刀切下去还在流汁儿！简直赞！|老饭骨
-# Panning out with San shu – Beef Pie (thin and crisp pastry with tasty and tender meat, sharp aroma and very juicy. Amazing!
+# Panning out with San shu - Beef Pie! Crispy thin skin with tender juicy filling, simply amazing!
 # 简介
 # 小友们好，这顿初四的牛肉馅饼，咱们的国宝级面点大师可是准备了一早上。
 # Hi my friends! It's the fourth day of the lunar new year. Our master chef has been preparing this Beef Pie for the whole morning.
@@ -302,7 +302,7 @@ San Shu can make everything. I am proud of him (myself).
 56
 00:02:52,933 --> 00:02:55,466
 # 有点膨胀怎么什么都会呢
-I am conceited that I can do everything.
+I am a bit conceited that I can do everything.
 
 57
 00:02:55,466 --> 00:02:57,300
