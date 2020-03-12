@@ -44,27 +44,28 @@ Shiny and brownish
 3
 00:00:04,840 --> 00:00:06,800
 # 虾仁爆鳝片
-The Asian swamp eel flakes fried with prawns
+Asian swamp eel flakes fried with prawns
 
 4
 00:00:06,800 --> 00:00:08,480
 # 虾爆鳝
-The Asian swamp eel flakes fried with prawns
+Asian swamp eel flakes fried with prawns
 
 5
 00:00:08,480 --> 00:00:10,880
 # 刚才大爷讲了说
-Grandpa was just saying
+Da Ye was just saying
 
 6
 00:00:10,880 --> 00:00:13,480
 # 这个菜淮扬菜也有 对老菜
-‘This dish belongs to Huaiyang Cuisine as well’. ‘Yes, really traditional.’
+- This dish is also in Huaiyang Cuisine.
+- Yes, traditional.
 
 7
 00:00:13,480 --> 00:00:15,360
 # 这个是杭帮菜
-This is originally belonging to Hangzhou Cuisine.
+This originally comes from Hangzhou Cuisine.
 
 8
 00:00:15,360 --> 00:00:17,560
@@ -74,22 +75,22 @@ Well ‘Hangzhou Cuisine’ was actually
 9
 00:00:17,560 --> 00:00:19,400
 # 过去淮扬菜的一列
-Part of ‘Huaiyang cuisine’.
+A part of ‘Huaiyang Cuisine’.
 
 10
 00:00:19,400 --> 00:00:22,560
 # 归属于淮扬菜“管辖”
-One type of ‘Huaiyang Cuisine’.
+Falls under the category of ‘Huaiyang Cuisine’.
 
 11
 00:00:22,560 --> 00:00:25,040
 # 因为有大爷做淮扬菜
-Since Grandpa is the master of ‘Huaiyang cuisine’
+Since Da Ye is the master of ‘Huaiyang cuisine’
 
 12
 00:00:25,040 --> 00:00:26,320
 # 我就让大爷看看
-I’ll show what I can do
+I’ll show him what I can do
 
 13
 00:00:26,320 --> 00:00:29,040
@@ -99,7 +100,8 @@ To prove myself. ‘Very well’.
 14
 00:00:29,040 --> 00:00:32,520
 # 是炒是爆 爆
-‘fried or deep fried?’ ‘Deep fried.’
+- Stir fried or deep fried?
+- Deep fried.
 
 15
 00:00:32,520 --> 00:00:35,040
@@ -109,12 +111,12 @@ First we have to make the sauce. It is necessary.
 16
 00:00:35,040 --> 00:00:39,800
 # 一勺两勺 糖 放糖 两勺半
-One or two spoons of sugar, about two and half.
+One, two. Two and a half spoons of sugar.
 
 17
 00:00:39,800 --> 00:00:43,200
 # 小糖醋口 不是大糖醋口
-‘You going to make it taste sour and sweet?’ ‘Definitely’
+‘Are you going to make it taste sour and sweet just enough?’ ‘Definitely’
 
 18
 00:00:43,200 --> 00:00:44,800
@@ -129,27 +131,29 @@ It’s OK if the color looks a bit dark. It should be dark.
 20
 00:00:48,200 --> 00:00:53,800
 # 搁点盐 盐是本 盐还不少呢
-‘Add some salt. The salt is the based flavor.’ ‘Quite a lot.’
+- Add some salt. The salt is the base flavor.
+- That's quite a lot.
 
 21
 00:00:53,800 --> 00:00:54,640
 # （白）胡椒粉要大
-‘Also needs a lot of white pepper’
+Also needs a lot of white pepper
 
 22
 00:00:54,640 --> 00:00:57,200
 # 炒鳝鱼胡椒粉要大 必须得大
-‘You need to make the flavor of pepper quite heavy if you are cooking this dish.’ ‘It has to be.’
+- You need to make the flavor of pepper quite heavy if you are cooking this dish.
+- We have to.
 
 23
 00:00:57,200 --> 00:00:59,280
 # 大也不能说太大
-‘But not too heavy.’
+But not too heavy.
 
 24
 00:00:59,280 --> 00:01:02,360
 # 来点老抽 调调色
-‘Dark soy sauce helps to tone the color’.
+Dark soy sauce helps to tone the color.
 
 25
 00:01:02,360 --> 00:01:04,680
@@ -167,27 +171,29 @@ Light Soy sauce.
 28
 00:01:08,160 --> 00:01:10,600
 # 香油要不要 必须要
-‘Do we need sesame oil’ ‘Absolutely.’
+- Do we need sesame oil?
+- Absolutely.
 
 29
 00:01:10,600 --> 00:01:12,640
 # 这手还直哆嗦
-why your hands are shaking
+Why are your hands shaking?
 
 30
 00:01:12,640 --> 00:01:16,240
 # 紧张了吧 这眼睛还看不见
-‘I’m too nervous. My eyes can barely see.’
+- You're too nervous.
+- My eyes can barely see.
 
 31
 00:01:16,240 --> 00:01:17,320
 # 盖不上盖儿了还
-Can’t even close this thing.
+Can’t even put the lid back.
 
 32
 00:01:17,320 --> 00:01:19,920
 # 酒 酒最后 黄酒
-‘At the end, rice wine.’
+At the end, rice wine.
 
 33
 00:01:23,440 --> 00:01:25,800
@@ -197,57 +203,57 @@ Can’t even close this thing.
 34
 00:01:25,800 --> 00:01:30,440
 # 咱们是这样 来点水来点汤
-‘All right then, add some water’
+All right then, add some water.
 
 35
 00:01:30,440 --> 00:01:32,360
 # 这粉子（淀粉）这是技巧
-‘Now this is an important thing’
+Now this is an important thing.
 
 36
 00:01:32,360 --> 00:01:36,240
 # 少搁点粉子靠火收
-‘Don’t put too much starch in it.’
+‘Don’t put too much starch in it. Let the heat reduce it.’
 
 37
 00:01:36,240 --> 00:01:38,240
 # 粉子大了赶紧出 对
-‘let the sauce reduced by the natural heat.’
+‘If you put too much starch, put the wok away and let it simmer.’
 
 38
 00:01:39,280 --> 00:01:40,840
 # 你说对了
-‘you are right’
+You are right
 
 39
 00:01:42,080 --> 00:01:46,280
 # 小汁儿兑好 这颜色是不浅点儿啊
-‘Is this color too light’
+Here's the sauce. Is this color too light?
 
 40
 00:01:46,280 --> 00:01:48,160
 # 我认为稍微浅点
-‘I think so.’
+I think so.
 
 41
 00:01:48,160 --> 00:01:50,280
 # 再搁点老抽吧
-‘let’s put some more dark soy sauce.’
+Let’s put some more dark soy sauce.
 
 42
 00:01:50,280 --> 00:01:52,160
 # 这回行了
-‘Now it’s good.’
+Now it’s good.
 
 43
 00:01:54,040 --> 00:01:55,680
 # 浆这个吧 很简单
-‘Let’s marinate the prawns’
+Let’s marinate the prawns. Nothing fancy.
 
 44
 00:01:55,680 --> 00:01:57,200
 # 还是酒先
-‘still you need the wine first’
+Still, you need rice wine first
 
 45
 00:01:57,200 --> 00:02:01,520
@@ -255,7 +261,7 @@ Can’t even close this thing.
 46
 00:02:01,520 --> 00:02:05,680
 # 多了 葫芦 口小肚子大
-A little bit too much. The bottle has large body.
+A little bit too much. The bottle has a large body.
 
 47
 00:02:05,680 --> 00:02:07,600
@@ -265,7 +271,7 @@ And the chopsticks.
 48
 00:02:07,600 --> 00:02:09,320
 # 说一声我给你拿
-Just tell me to get them for you
+Tell me and I'll get them for you
 
 49
 00:02:09,320 --> 00:02:10,440
@@ -275,12 +281,12 @@ Don’t bother, I’m worried about your back.
 50
 00:02:10,440 --> 00:02:12,680
 # 三叔你家这个（酒）没了
-Brother third, you are running off the wine.
+San Shu, you are running out of the wine.
 
 51
 00:02:13,200 --> 00:02:15,720
 # 三叔 我给你放油怎么样
-Shall I pour the oil for you?
+San Shu, shall I pour the oil for you?
 
 52
 00:02:16,840 --> 00:02:18,160
@@ -293,27 +299,27 @@ Just turn off the fire first.
 54
 00:02:21,160 --> 00:02:22,880
 # 盐 底口
-Salt, the based flavor.
+Salt, the base flavor.
 
 55
 00:02:24,120 --> 00:02:26,960
 # 您说现在为什么虾仁进不去水
-Why the prawns today cannot absorb the water
+Why don't the prawns today absorb any water?
 
 56
 00:02:26,960 --> 00:02:29,600
 # 它本身就含水量就大 真大
-It contains lots of water though.
+They contain a lot of water in themselves already.
 
 57
 00:02:29,600 --> 00:02:33,160
 # 你看 越打越出
-Exactly. You stir heavier, the water comes out more
+Exactly. The heavier you stir, the more water comes out
 
 58
 00:02:33,160 --> 00:02:35,080
 # 没事就拿纸蘸一下
-Take piece of tissue to wipe it.
+Take some paper towel to wipe it.
 
 59
 00:02:35,960 --> 00:02:40,400
@@ -336,7 +342,7 @@ Normally we should add some egg white as well, but we won’t do it today.
 63
 00:02:46,840 --> 00:02:50,720
 # 搁不了 再搁就澥了
-Right, otherwise the prawns will not be chewy.
+Right, otherwise the prawns will be too watery.
 
 64
 00:02:51,400 --> 00:02:56,720
@@ -351,27 +357,27 @@ Wow, the eel has already been sliced.
 66
 00:02:58,280 --> 00:03:00,560
 # 切好了 趁您没在
-Yeah, it been done while you were not here.
+Yeah, done while you were not here.
 
 67
 00:03:00,560 --> 00:03:03,080
 # 你知道他买回来就是斜刀片
-He bought it as slant-cut.
+You know he bought the slant-cut eel.
 
 68
 00:03:03,080 --> 00:03:05,160
 # 买的就是去骨的人都给切好了的
-It is boneless when you buy it.
+It is boneless when you bought it.
 
 69
 00:03:05,160 --> 00:03:07,000
 # 现在超市真方便
-The market now is super convenience.
+The market now is super convenient.
 
 70
 00:03:07,000 --> 00:03:09,800
 # 二伯你愿意干活 你搅匀了
-Would you like to stir it for me please?
+Er Bai, you must wanna work. Stir it please
 
 71
 00:03:09,800 --> 00:03:11,400
@@ -391,12 +397,12 @@ Why you don’t rinse the blood from the swamp eel?
 74
 00:03:18,320 --> 00:03:19,560
 # 都带着血吃
-Cooked with the blood.
+We always cook it with the blood.
 
 75
 00:03:19,560 --> 00:03:22,120
 # 鳝鱼的血是有营养的
-The blood of the fish is full of the nutrients.
+Its blood is full of nutrients.
 
 76
 00:03:22,120 --> 00:03:26,280
@@ -406,7 +412,7 @@ However you definitely cannot use
 77
 00:03:26,280 --> 00:03:29,720
 # S鳝鱼不能用 存放的鳝鱼不能用
-The dead eel and those have been stored for long time.
+Dead eels or those have been stored for a long time.
 
 78
 00:03:29,720 --> 00:03:31,360
@@ -416,27 +422,27 @@ The blood has deteriorated.
 79
 00:03:31,360 --> 00:03:35,240
 # 头天的血是鲜红的 第二天血是黑色的
-First day you see the red blood, then it turns into black on the next day.
+First day you see the red blood, then it turns black on the next day.
 
 80
 00:03:35,240 --> 00:03:37,280
 # 所以那（第二天的）血就得把它洗了
-That’s why you need to clean the blood (if its from the second day)
+That’s why you need to clean the blood (on the second day)
 
 81
 00:03:37,280 --> 00:03:39,440
 # 鳝鱼这血只要一变色
-As long as the blood’s color changed
+As long as the blood color has changed
 
 82
 00:03:39,440 --> 00:03:43,440
 # 它的鲜味就没了 而且还腥了
-It will lose its’ umami taste and taste badly.
+It will lose its umami taste and taste really bad.
 
 83
 00:03:43,440 --> 00:03:44,880
 # 而且也没有营养了
-By the way there won’t be any nutrition contained neither.
+And no nutrition, neither.
 
 84
 00:03:44,880 --> 00:03:47,040
@@ -446,32 +452,32 @@ Because the Asian swamp eel is too easy to get deteriorated.
 85
 00:03:47,040 --> 00:03:48,720
 # 所以我们鳝鱼一定是
-Therefore we need to make sure that the eel fish
+Therefore we need to make sure that the eel
 
 86
 00:03:48,720 --> 00:03:51,160
 # 当天买 当天吃 当天用
-Is bought by today, used and ate by today.
+Is bought, used and eaten on the same day.
 
 87
 00:03:51,160 --> 00:03:55,560
 # S甲鱼 S鳝鱼 S螃蟹都不能吃
-Such as dead soft- shelled turtles, dead swamp eel, dead crabs are all not able to cooked.
+Anything dead - soft-shelled turtles, swamp eels, crabs - are not edible.
 
 88
 00:03:55,560 --> 00:03:58,000
 # 咱们先把虾仁滑出来大爷
-Okay let’s put the prawns first
+Okay let’s pan-fry the prawns first
 
 89
 00:03:58,000 --> 00:04:01,400
 # 为什么先滑虾仁
-Why we put the prawns first?
+Why do we prepare the prawns first?
 
 90
 00:04:01,400 --> 00:04:05,200
 # 虾仁干净 给染了 这个有序
-Otherwise the color will be mixed.
+Otherwise the colors will be mixed. The order matters.
 
 91
 00:04:05,200 --> 00:04:07,520
@@ -484,17 +490,17 @@ Turn the heat higher
 93
 00:04:10,640 --> 00:04:11,800
 # 油温还是差点
-The temperature of the oil still needs some time
+The oil is not hot enough.
 
 94
 00:04:11,800 --> 00:04:13,320
 # 虾仁水分太大 太大了
-The prawn contained so much water.
+The prawns contain so much water.
 
 95
 00:04:13,320 --> 00:04:15,160
 # 还不敢动 你想想
-Don’t move yet.
+Can't even move. Think about it.
 
 96
 00:04:15,160 --> 00:04:16,720
@@ -517,7 +523,7 @@ You know what I do with the prawns
 100
 00:04:22,160 --> 00:04:23,040
 # 在家里怎么炒么
-At home?
+when cooking at home?
 
 101
 00:04:23,040 --> 00:04:25,640
@@ -527,12 +533,12 @@ I don’t even use the oil, I only use water.
 102
 00:04:25,640 --> 00:04:26,680
 # 大家感觉这虾仁
-People might feel that the prawns are really crispy
+People might feel that the prawns
 
 103
 00:04:26,680 --> 00:04:29,680
 # 吃起来这虾仁特别的脆
-When you bite it.
+taste really crispy.
 
 104
 00:04:29,680 --> 00:04:31,880
@@ -547,12 +553,12 @@ They are full of water
 106
 00:04:33,320 --> 00:04:37,000
 # 上浆起来效果不会太好
-So, the prawns are not easy to thicken the sauce.
+So, the prawns are not easy to starch well.
 
 107
 00:04:37,000 --> 00:04:39,640
 # 所以我就直接拿水就直接汆了
-That’s why I only use the water to boil them.
+That’s why I only use water to boil them.
 
 108
 00:04:39,640 --> 00:04:41,800
@@ -562,11 +568,12 @@ It works though.
 109
 00:04:41,800 --> 00:04:45,360
 # 但是老觉得跟油滑的
-But still a bit different from the oil way
+But, compared to the oil method
 
 110
 00:04:45,360 --> 00:04:46,880
 # 还是相对有点区别
+there's still some difference.
 
 111
 00:04:46,880 --> 00:04:48,400
@@ -576,17 +583,18 @@ Still a bit difference
 112
 00:04:48,400 --> 00:04:50,320
 # 油滑的香
-The oil provides aroma.
+Oil gives the aroma.
 
 113
 00:04:50,320 --> 00:04:52,080
 # 好了这油温可以慢慢去炸
-Right now the temperature is enough for the deep fried.
+Right now the temperature is enough for the deep frying.
 
 114
 00:04:52,080 --> 00:04:56,600
 # 这油温多少 五成了
-What’s the temperature now? About half boiled.
+- What’s the temperature now?
+- About 150°C.
 
 115
 00:04:56,600 --> 00:04:58,000
@@ -594,7 +602,8 @@ What’s the temperature now? About half boiled.
 116
 00:04:58,000 --> 00:05:00,040
 # 这鳝鱼切的条啊 他切的大长条
-The eel sliced into slices, they make the slices really big.
+- The eel has been sliced already.
+- They make the slices really big.
 
 117
 00:05:00,040 --> 00:05:02,600
@@ -604,37 +613,38 @@ He bought directly from the market
 118
 00:05:02,600 --> 00:05:07,360
 # 我怕大爷还得（收拾）少下少下
-Saving Grandpa’s time
+I wanted to save some time for Da Ye
 
 119
 00:05:07,360 --> 00:05:11,400
 # 网友直接就买去了 还省事儿呢
-Yeah people now usually do the same way.
+Yeah people now usually do the same way. It's easier.
 
 120
 00:05:11,400 --> 00:05:14,840
 # 就炸这种颜色 因为它有血
-This how the color looks like, because it has blood in it.
+This how the color should be, because it has blood in it.
 
 121
 00:05:14,840 --> 00:05:16,760
 # 三叔是太聪明了
-Brother third is really smart
+San Shu is really smart
 
 122
 00:05:16,760 --> 00:05:18,240
 # 还复油（炸）么 不用复油
-Do you need to put them back to the oil? No needs.
+- Do you need to re-fry?
+- No needs.
 
 123
 00:05:18,240 --> 00:05:20,800
 # 鳝鱼嫩 你一炸就小了
-The fish cannot be overcooked, it will turn smaller.
+The eel is so tender that it cannot be overcooked, it will shrink.
 
 124
 00:05:20,800 --> 00:05:23,280
 # 把它的肉炸硬了 一次成活
-Deep fried the fish only once.
+Deep fry the eel only once.
 
 125
 00:05:23,280 --> 00:05:25,240
@@ -652,27 +662,27 @@ Now the dish is already finished
 128
 00:05:29,640 --> 00:05:31,240
 # 留一点底油
-Left some oil
+Leave some base oil.
 
 129
 00:05:31,240 --> 00:05:34,960
 # 你看看亮子 把它倒回来了
-Look, now we put it back
+Look, Liangzi. Now we put it back.
 
 130
 00:05:34,960 --> 00:05:36,760
 # 一烹汁 齐活
-Finished with the sauce
+Finish it with the sauce
 
 131
 00:05:36,760 --> 00:05:38,760
 # 瞧这碗儿好使
-check this bowl
+See how nice this bowl is
 
 132
 00:05:38,760 --> 00:05:41,760
 # 开火 看见没有 烹汁儿
-Turn the heat on, making the sauce now
+Turn the heat on, adding the sauce now
 
 133
 00:05:41,760 --> 00:05:42,960
@@ -680,12 +690,13 @@ Turn the heat on, making the sauce now
 134
 00:05:46,480 --> 00:05:48,840
 # 明汁亮芡 把盘拿过来
-The sauce is so shiny and brownish, pass me the plate please
+The sauce is so shiny and thick, pass me the plate please
 
 135
 00:05:48,840 --> 00:05:51,200
 # 这盘儿小点儿 小点儿就是它了
-‘Is this plate too small’  ‘No problem’
+- Is this plate too small?
+- It should work.
 
 136
 00:05:52,120 --> 00:05:53,600
@@ -706,12 +717,12 @@ Check this color
 140
 00:06:01,800 --> 00:06:06,120
 # 星星点点 好漂亮
-How beautiful
+How beautiful it is!
 
 141
 00:06:06,120 --> 00:06:08,400
 # 真蹿啊 漂亮漂亮
-The dish is
+Yeah really good and pretty
 
 142
 00:06:09,560 --> 00:06:12,440
@@ -731,21 +742,23 @@ White pepper. Drop the white pepper
 145
 00:06:17,200 --> 00:06:20,280
 # 炒的里边还有 里外两次
-Remember to put the pepper twice
+Remember to add the pepper twice
 
 146
 00:06:20,280 --> 00:06:22,520
 # 所以胡椒粉用的量非常大
-The pepper would been used a lot
+So we'll use quite a lot of it
 
 147
 00:06:22,520 --> 00:06:25,240
 # 大爷你自己尝吧 来了
-Grandpa come to taste it. Coming
+- Da Ye, come and taste it.
+- Will do!
 
 148
 00:06:25,240 --> 00:06:26,120
 # 我就不
+I don't.
 
 149
 00:06:26,120 --> 00:06:27,480
@@ -753,12 +766,12 @@ Grandpa come to taste it. Coming
 150
 00:06:27,600 --> 00:06:28,760
 # 快接着亮子
-Come on, liangzi
+Come on, Liangzi
 
 151
 00:06:29,800 --> 00:06:31,680
 # 你看像不像红烧海参那样子
-You see isn’t this look like the braised sea cucumber
+Look! Doesn't this look like the braised sea cucumber?
 
 152
 00:06:31,680 --> 00:06:32,560
@@ -768,7 +781,7 @@ Smells so good
 153
 00:06:32,560 --> 00:06:34,720
 # 怎么样这菜做的 确实够意思吧
-How’s my dish? Good ?
+How’s my dish? Quite a classic right?
 
 154
 00:06:34,720 --> 00:06:37,360
@@ -776,12 +789,12 @@ How’s my dish? Good ?
 155
 00:06:37,360 --> 00:06:38,200
 # 三叔聪明
-Brother third is really smart indeed.
+San Shu is really smart indeed.
 
 156
 00:06:38,960 --> 00:06:43,200
 # 过去鳝鱼它是上浆滑油
-In the past days we used the fried way.
+In the past days we cooked it by starching and then stir-frying.
 
 157
 00:06:43,200 --> 00:06:45,600
@@ -791,17 +804,17 @@ But he changed it to the deep-fried way.
 158
 00:06:46,560 --> 00:06:49,160
 # 炸的方法呢鳝鱼更加滑嫩
-This method makes the swamp eel taste more smoothly
+This method makes the swamp eel taste more smooth
 
 159
 00:06:49,160 --> 00:06:52,440
 # 而且它就特别丰满
-And chewy as well
+And it didn't shrink
 
 160
 00:06:52,440 --> 00:06:53,880
 # 有一个保护层
-It therefore has a protected layer.
+It has a protection layer.
 
 161
 00:06:53,880 --> 00:06:55,320
@@ -811,22 +824,22 @@ Just like with ‘clothes’
 162
 00:06:55,320 --> 00:07:00,520
 # 另外挂汁着味 覆味覆的好
-Plus the sauce taste so yummy
+Plus the sauce covers and stays on the eel.
 
 163
 00:07:00,520 --> 00:07:03,800
 # 再加上他拿汁拿芡拿的挺准
-He controlled the fire to make the starch thicken perfectly.
+He controlled the heat to make the starch thicken perfectly.
 
 164
 00:07:03,800 --> 00:07:06,680
 # 所以你看特别亮
-That’s why the color so bright
+That’s why it looks so shiny
 
 165
 00:07:06,680 --> 00:07:10,560
 # 出锅的时候再点点香油 更显着亮
-It’ll looks brighter if you add some sesame oil when you take it to the table
+It’ll looks brighter if you add some sesame oil when you bring it to the table
 
 166
 00:07:10,560 --> 00:07:14,400
@@ -860,17 +873,17 @@ One more please
 173
 00:07:26,200 --> 00:07:28,160
 # 谢谢小亮默默的付出
-Thanks for Liang’s helping
+Thanks for Liangzi, for your help.
 
 174
 00:07:28,160 --> 00:07:30,200
 # 谢谢三叔辛苦了
-Thank you Brother third.
+Thank you San Shu for the hard work.
 
 175
 00:07:30,200 --> 00:07:32,560
 # 谢谢大爷精彩的点评
-Thanks for Grandpa’s comments.
+Thank you Da Ye, for your great comments.
 
 176
 00:07:32,560 --> 00:07:33,320
@@ -883,7 +896,7 @@ And what else?
 178
 00:07:35,680 --> 00:07:39,320
 # 大爷 三叔 小亮子
-Grandpa, Brother Third, Liangzi
+Da Ye, San Shu, Liangzi
 
 179
 00:07:39,320 --> 00:07:41,040
@@ -892,5 +905,5 @@ Sorry I’ll just take them all
 
 180
 00:07:41,040 --> 00:07:41,960
-# “我是大爷” 00:07:52,19
-I’m the grandpa
+
+# import ending.srt 00:07:52,190
