@@ -31,6 +31,8 @@
 # Wish everyone can learn some tips and feel better in cooking.
 # Of course, we've always been talking about "master the principles to master all". Don't forget it!
 
+# import intro
+
 1
 00:00:00,000 --> 00:00:02,480
 # 烹汁
@@ -906,4 +908,3 @@ Sorry I’ll just take them all
 180
 00:07:41,040 --> 00:07:41,960
 
-# import ending.srt 00:07:52,190
