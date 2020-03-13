@@ -457,7 +457,7 @@ we have to cool it down to around 40 degree Celcius.
 87
 00:03:31,160 --> 00:03:32,920
 # 它已经粘稠了再往上挂
-We have to wait until the sauce is sticky enough.
+We have to wait until the sauce is thick enough.
 
 88
 00:03:32,920 --> 00:03:34,200
