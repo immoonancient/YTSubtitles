@@ -97,7 +97,7 @@ For how long?
 15
 00:00:27,120 --> 00:00:29,280
 # 今天您看 就已经煮了三十分钟了
-Today we have already boiled for 30min.
+This has been boiling for 30 minutes.
 
 16
 00:00:29,280 --> 00:00:31,720
