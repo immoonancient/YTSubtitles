@@ -347,7 +347,7 @@ Like lunch box, or throw-away lunchbox.
 65
 00:02:30,120 --> 00:02:31,920
 # 给它拍平了之后
-After we make this flat,
+After we flatten this,
 
 66
 00:02:31,920 --> 00:02:35,160
