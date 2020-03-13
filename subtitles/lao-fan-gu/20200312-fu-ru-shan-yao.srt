@@ -462,7 +462,7 @@ We have to wait until the sauce is thick enough.
 88
 00:03:32,920 --> 00:03:34,200
 # 热着挂不上
-Otherwise it won't sticky to the yam.
+Otherwise it won't stick to the yam.
 
 89
 00:03:34,200 --> 00:03:37,360
