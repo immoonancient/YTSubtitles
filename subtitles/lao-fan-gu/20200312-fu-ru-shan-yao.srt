@@ -492,7 +492,7 @@ Sticky, it is good.
 94
 00:03:51,440 --> 00:03:53,280
 # 咱们这菜说话就完了
-This is dish is compelte while we are chatting.
+This is dish is complete while we are chatting.
 
 95
 00:03:53,280 --> 00:03:56,480
