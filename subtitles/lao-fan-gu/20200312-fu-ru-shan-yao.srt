@@ -242,7 +242,7 @@ Honey works as well, but we cannot add too much.
 44
 00:01:32,920 --> 00:01:35,200
 # 一定不能影响它的凝结
-Otherwise it will solidify the yams.
+Otherwise it will affect the texture
 
 45
 00:01:35,200 --> 00:01:38,760
