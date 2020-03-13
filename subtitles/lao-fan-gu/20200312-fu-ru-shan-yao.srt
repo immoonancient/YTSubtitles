@@ -232,7 +232,7 @@ But if you like sweet food,
 42
 00:01:30,240 --> 00:01:31,280
 # 加点糖没问题
-you certainly can add more sugar at your own preference.
+you certainly can add more sugar as you prefer.
 
 43
 00:01:31,280 --> 00:01:32,920
