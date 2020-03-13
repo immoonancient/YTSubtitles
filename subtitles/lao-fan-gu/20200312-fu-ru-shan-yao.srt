@@ -82,7 +82,7 @@ This is natural food coloring.
 12
 00:00:23,400 --> 00:00:25,200
 # 把脏的皮只要洗干净可以了
-We have to clean the dirty skins.
+We have to clean the dirty skin.
 
 13
 00:00:25,200 --> 00:00:26,040
