@@ -307,7 +307,7 @@ We will see later after coloring it.
 57
 00:02:05,520 --> 00:02:08,240
 # 下边铺一张锡纸或者保鲜膜
-We can pave a layer of plastic or aluminum foil on the bottom.
+We can pave a layer of plastic wrap or aluminum foil on the bottom.
 
 58
 00:02:08,240 --> 00:02:10,320
