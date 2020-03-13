@@ -372,7 +372,7 @@ We won't waste your time.
 70
 00:02:41,560 --> 00:02:43,320
 # 我提前冻好了一块
-I have already frozen one.
+I have prepared one in advance
 
 71
 00:02:43,320 --> 00:02:44,560
