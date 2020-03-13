@@ -352,7 +352,7 @@ After we flatten this,
 66
 00:02:31,920 --> 00:02:35,160
 # 要放冰箱给它（冷藏）一下
-we need to freeze it
+we need to refrigerate it
 
 67
 00:02:35,160 --> 00:02:37,840
