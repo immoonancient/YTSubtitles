@@ -561,4 +561,6 @@ Keep making great efforts.
 # 祝我们的新春佳节大家快乐高兴美食第一
 Wish a happy lunar new year with a delicious tasty feast to us!
 
-# import ending.srt 00:05:32,120
+# shift forward 00:00:04,131
+
+# import ending.srt 00:05:31,700
