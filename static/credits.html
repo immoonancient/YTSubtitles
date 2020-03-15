@@ -49,12 +49,11 @@ const server = urlParams.istest ? 'http://localhost:3000/tools/' : 'https://ytsu
 const channelSelect = document.getElementById('channel-select');
 
 function populateChannels() {
-  axios
-    .get(server + 'list-channels')
-    .then(
-      result => {
+  fetch('./data/channels.json')
+    .then(r => r.json())
+    .then(result => {
         channelSelect.innerHTML = '<option value="">-- 请选择频道 --</option>';
-        result.data.forEach(channel => {
+        result.forEach(channel => {
           const option = document.createElement('option');
           option.textContent = channel.label;
           option.value = channel.folder;
@@ -127,8 +126,7 @@ function submit() {
 
   axios
     .get(server + 'credits', {params: params})
-    .then(
-      result => {
+    .then(result => {
         resultData = createContributionTableMD(
           document.getElementById('channel-select').selectedOptions[0].textContent,
           startDate,
