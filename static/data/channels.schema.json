@@ -1,0 +1,29 @@
+{
+  "$id": "channels.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "uniqueItems": true,
+  "items": { "$ref": "#/definitions/channel"},
+
+  "definitions": {
+    "channel": {
+      "type": "object",
+      "required": ["folder", "label"],
+      "properties": {
+        "folder": {
+          "description": "channel folder under subtitles/, e.g., \"wang-gang\"",
+          "type": "string"
+        },
+        "label": {
+          "description": "GitHub issue label for the channel, e.g., \"美食作家王刚\"",
+          "type": "string"
+        },
+        "nicknames": {
+          "description": "Common nicknames of the channel and/or vlogger",
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

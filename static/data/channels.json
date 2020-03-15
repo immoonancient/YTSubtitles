@@ -1,0 +1,21 @@
+[
+  {
+    "folder": "wang-gang",
+    "label": "美食作家王刚",
+    "nicknames": ["王刚", "刚哥"]
+  },
+  {
+    "folder": "xue-yu",
+    "label": "雪鱼探店",
+    "nicknames": ["雪鱼", "胖鱼", "胖头鱼"]
+  },
+  {
+    "folder": "hua-nong-brothers",
+    "label": "华农兄弟",
+    "nicknames": ["华农", "村霸"]
+  },
+  {
+    "folder": "lao-fan-gu",
+    "label": "老饭骨"
+  }
+]
