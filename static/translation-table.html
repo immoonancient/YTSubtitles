@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="zh-cn">
+<meta charset="UTF-8">
+<title>对译表 | YTSubtitles</title>
+<script>
+let tableJson;
+const dataFetcher = fetch('./data/translation-table.json').then(r => r.json()).then(r => tableJson = r);
+
+let channelsJson;
+const channelFetcher = fetch('./data/channels.json').then(r => r.json()).then(r => channelsJson = r);
+
+function createTables(tableJson, channelsJson) {
+  const channels = {};
+  channelsJson.forEach(channel => channels[channel.folder] = channel);
+
+  const aggregated = {};
+  const categories = tableJson.categories;
+  const terms = tableJson.terms;
+  for (let term of terms) {
+    let cat = term.category;
+    if (!categories[cat]) {
+      console.log(`Undefined category ${cat} in term ${term.toString()}`);
+      continue;
+    }
+
+    if (aggregated[cat] === undefined)
+      aggregated[cat] = [];
+    aggregated[cat].push(term); 
+  }
+
+  const result = Object.keys(aggregated).map(categoryId => {
+    const table = document.createElement('table');
+
+    const caption = document.createElement('caption');
+    const category = categories[categoryId];
+    caption.textContent = `${category.cn} / ${category.en}`;
+    table.appendChild(caption);
+
+    const columns = ['cn', 'en', 'channel', 'notes'];
+    const cnColumns = ['中文', 'English', '频道', '备注'];
+
+    {
+      const thead = document.createElement('thead');
+      const tr = document.createElement('tr');
+
+      cnColumns.forEach((col, i) => {
+        const th = document.createElement('th');
+        th.classList.add(columns[i]);
+        th.textContent = col;
+        tr.appendChild(th);
+      });
+
+      thead.appendChild(tr);
+      table.appendChild(thead);
+    }
+
+    const emptyColumns = {};
+    columns.forEach(col => emptyColumns[col] = true);
+    for (let term of aggregated[categoryId]) {
+      const tr = document.createElement('tr');
+      
+      columns.forEach(col => {
+        const td = document.createElement('td');
+        td.classList.add(col);
+        if (term[col]) {
+          td.textContent = col == 'channel' ? channels[term[col]].label : term[col];
+          emptyColumns[col] = false;
+        }
+        tr.appendChild(td);
+      });
+
+      table.appendChild(tr);
+    }
+
+    for (let col in emptyColumns) {
+      if (emptyColumns[col]) {
+        table
+          .querySelectorAll(`.${col}`)
+          .forEach(cell => cell.remove());
+      }
+    }
+
+    return table;
+  });
+
+  console.log(result);
+  return result;
+}
+
+</script> 
+<style>
+body {
+  margin: 0;
+  padding: 16px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1.5em;
+  width: 100%;
+}
+
+caption {
+  font-size: 1.5em;
+  font-weight: 600;
+  width: max-content;
+  margin-bottom: 0.5em;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+th, td {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+</style>
+<body>
+  <h1>对译表</h1>
+
+  <hr>
+
+  <p>本表为本字幕组所整理的中英词汇对译表。</p>
+  <p>参考：<a href="../docs/guidelines.html">翻译守则</a></p>
+  <p>修改对译表请点击<a href="https://github.com/immoonancient/YTSubtitles/edit/master/static/data/translation-table.json">此链接</a>。</p>
+
+  <hr>
+
+  <div id="result-div"></div>
+
+  <script>
+    const resultDiv = document.getElementById('result-div');
+    const promises = [dataFetcher, channelFetcher];
+    Promise.all(promises).then(() =>
+      createTables(tableJson, channelsJson).forEach(table => resultDiv.appendChild(table)));
+  </script>
+</body>
+</html>

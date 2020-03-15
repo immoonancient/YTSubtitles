@@ -1,5 +1,7 @@
 # 对译表
 
+**已弃用**：本表已经弃用，请参考[新版对译表](https://immoonancient.github.io/YTSubtitles/static/translation-table.html)。
+
 本表为 美食作家王刚 视频中常见词汇及句式的翻译对照表
 
 基本原则：

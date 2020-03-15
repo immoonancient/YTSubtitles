@@ -1,0 +1,906 @@
+{
+  "categories": {
+    "meat": {
+      "cn": "新鲜肉类",
+      "en": "Meat, Poultry, Fish & Seafood"
+    },
+    "vegetable": {
+      "cn": "新鲜蔬菜",
+      "en": "Fresh Vegetables"
+    },
+    "mushroom": {
+      "cn": "菌菇类",
+      "en": "Mushrooms"
+    },
+    "oil": {
+      "cn": "油类",
+      "en": "Oils"
+    },
+    "preserved": {
+      "cn": "腌制&干货",
+      "en": "Preserved Foods"
+    },
+    "nut": {
+      "cn": "坚果",
+      "en": "Nuts"
+    },
+    "spice": {
+      "cn": "香料",
+      "en": "Spices"
+    },
+    "condiment": {
+      "cn": "调味品",
+      "en": "Condiments"
+    },
+    "technical": {
+      "cn": "术语",
+      "en": "Technical Terms"
+    },
+    "noun": {
+      "cn": "固定称呼 & 专有名词",
+      "en": "Names & Proper Nouns"
+    },
+    "misc": {
+      "cn": "待分类",
+      "en": "To Be Classified"
+    }
+  },
+  "terms": [
+    {
+      "cn": "猪肉",
+      "en": "pork",
+      "category": "meat"
+    },
+    {
+      "cn": "五花肉",
+      "en": "pork belly",
+      "category": "meat"
+    },
+    {
+      "cn": "二刀肉",
+      "en": "Erdao Rou (pork hind leg top cut)",
+      "category": "meat"
+    },
+    {
+      "cn": "里脊肉",
+      "en": "pork tenderloin",
+      "category": "meat"
+    },
+    {
+      "cn": "猪脚",
+      "en": "pork leg",
+      "category": "meat"
+    },
+    {
+      "cn": "猪后腿",
+      "en": "pork hind leg",
+      "category": "meat"
+    },
+    {
+      "cn": "猪脑花",
+      "en": "pork brain",
+      "category": "meat"
+    },
+    {
+      "cn": "肥肠",
+      "en": "pork intestine",
+      "category": "meat"
+    },
+    {
+      "cn": "牛柳",
+      "en": "beef tenderloin",
+      "category": "meat"
+    },
+    {
+      "cn": "牛腩",
+      "en": "beef brisket",
+      "category": "meat"
+    },
+    {
+      "cn": "毛肚",
+      "en": "beef tripe",
+      "category": "meat"
+    },
+    {
+      "cn": "牛鞭",
+      "en": "bull pizzle",
+      "category": "meat"
+    },
+    {
+      "cn": "羊肉",
+      "en": "lamb",
+      "category": "meat"
+    },
+    {
+      "cn": "羊腿肉",
+      "en": "lamb leg",
+      "category": "meat"
+    },
+    {
+      "cn": "童子鸡",
+      "en": "young chicken",
+      "category": "meat"
+    },
+    {
+      "cn": "土鸡",
+      "en": "free range chicken",
+      "category": "meat"
+    },
+    {
+      "cn": "肉鸡",
+      "en": "broiler chicken",
+      "category": "meat"
+    },
+    {
+      "cn": "鸭掌",
+      "en": "duck feet",
+      "category": "meat"
+    },
+    {
+      "cn": "牛蛙",
+      "en": "bullfrog",
+      "category": "meat"
+    },
+    {
+      "cn": "鲤鱼",
+      "en": "carp",
+      "category": "meat"
+    },
+    {
+      "cn": "草鱼",
+      "en": "grass carp",
+      "category": "meat"
+    },
+    {
+      "cn": "花鲢",
+      "en": "bighead carp",
+      "category": "meat"
+    },
+    {
+      "cn": "鲈鱼",
+      "en": "bass",
+      "category": "meat"
+    },
+    {
+      "cn": "笋壳鱼",
+      "en": "marble goby",
+      "category": "meat"
+    },
+    {
+      "cn": "黄鳝",
+      "en": "Asian swamp eel",
+      "category": "meat"
+    },
+    {
+      "cn": "黄鳝",
+      "en": "ricefield eel",
+      "category": "meat"
+    },
+    {
+      "cn": "小葱",
+      "en": "scallion",
+      "category": "vegetable"
+    },
+    {
+      "cn": "小葱",
+      "en": "green onion",
+      "category": "vegetable"
+    },
+    {
+      "cn": "大葱",
+      "en": "spring onions",
+      "category": "vegetable"
+    },
+    {
+      "cn": "韭菜",
+      "en": "chinese chive",
+      "category": "vegetable"
+    },
+    {
+      "cn": "洋葱",
+      "en": "onion",
+      "category": "vegetable"
+    },
+    {
+      "cn": "西芹",
+      "en": "celery",
+      "category": "vegetable"
+    },
+    {
+      "cn": "芹菜",
+      "en": "leaf celery",
+      "category": "vegetable"
+    },
+    {
+      "cn": "青江菜",
+      "en": "baby bok choy",
+      "category": "vegetable"
+    },
+    {
+      "cn": "空心菜",
+      "en": "water spinach",
+      "category": "vegetable"
+    },
+    {
+      "cn": "包菜",
+      "en": "cabbage",
+      "category": "vegetable"
+    },
+    {
+      "cn": "白菜",
+      "en": "napa cabbage",
+      "category": "vegetable"
+    },
+    {
+      "cn": "甜椒",
+      "en": "bell pepper",
+      "category": "vegetable"
+    },
+    {
+      "cn": "菜椒",
+      "en": "bell pepper",
+      "category": "vegetable"
+    },
+    {
+      "cn": "大红椒",
+      "en": "red bell pepper",
+      "category": "vegetable"
+    },
+    {
+      "cn": "灯笼椒",
+      "en": "red bell pepper",
+      "category": "vegetable"
+    },
+    {
+      "cn": "黄椒",
+      "en": "yellow bell pepper",
+      "category": "vegetable"
+    },
+    {
+      "cn": "马蹄",
+      "en": "water chestnut",
+      "category": "vegetable"
+    },
+    {
+      "cn": "紫菜",
+      "en": "nori",
+      "category": "vegetable"
+    },
+    {
+      "cn": "海带",
+      "en": "kelp",
+      "category": "vegetable"
+    },
+    {
+      "cn": "土豆",
+      "en": "potato",
+      "category": "vegetable"
+    },
+    {
+      "cn": "豆芽",
+      "en": "bean sprout",
+      "category": "vegetable"
+    },
+    {
+      "cn": "玉米粒",
+      "en": "corn kernel",
+      "category": "vegetable"
+    },
+    {
+      "cn": "苦瓜",
+      "en": "bitter gourd",
+      "category": "vegetable"
+    },
+    {
+      "cn": "莲藕",
+      "en": "lotus root",
+      "category": "vegetable"
+    },
+    {
+      "cn": "香菜",
+      "en": "coriander",
+      "category": "vegetable"
+    },
+    {
+      "cn": "蒜苗",
+      "en": "garlic sprouts",
+      "category": "vegetable"
+    },
+    {
+      "cn": "豇豆",
+      "en": "cowpea",
+      "category": "vegetable"
+    },
+    {
+      "cn": "豆角",
+      "en": "cowpea",
+      "category": "vegetable"
+    },
+    {
+      "cn": "泡豇豆",
+      "en": "pickled cowpea",
+      "category": "vegetable"
+    },
+    {
+      "cn": "香菇",
+      "en": "shiitake mushroom",
+      "category": "mushroom"
+    },
+    {
+      "cn": "金针菇",
+      "en": "enoki mushroom",
+      "category": "mushroom"
+    },
+    {
+      "cn": "杏鲍菇",
+      "en": "king oyster mushroom",
+      "category": "mushroom"
+    },
+    {
+      "cn": "植物油",
+      "en": "vegetable oil",
+      "category": "oil"
+    },
+    {
+      "cn": "熟菜籽油",
+      "en": "cooked rapeseed oil",
+      "category": "oil"
+    },
+    {
+      "cn": "红油",
+      "en": "red oil (chilli and spice infused vegetable oil)",
+      "category": "oil"
+    },
+    {
+      "cn": "芽菜",
+      "en": "\"Ya Cai\" Sichuan preserved mustard greens",
+      "category": "preserved"
+    },
+    {
+      "cn": "酸菜",
+      "en": "\"Suan Cai\" Chinese pickled napa cabbage",
+      "category": "preserved"
+    },
+    {
+      "cn": "榨菜",
+      "en": "\"Zha Cai\" Chinese pickled mustard plant stem",
+      "category": "preserved"
+    },
+    {
+      "cn": "泡椒",
+      "en": "pickled chili",
+      "category": "preserved"
+    },
+    {
+      "cn": "腐乳",
+      "en": "fermented bean curd",
+      "category": "preserved"
+    },
+    {
+      "cn": "瑶柱",
+      "en": "dried scallop",
+      "category": "preserved"
+    },
+    {
+      "cn": "花生",
+      "en": "peanut",
+      "category": "preserved"
+    },
+    {
+      "cn": "核桃",
+      "en": "walnut",
+      "category": "preserved"
+    },
+    {
+      "cn": "生姜",
+      "en": "ginger",
+      "category": "spice"
+    },
+    {
+      "cn": "仔姜",
+      "en": "young ginger",
+      "category": "spice"
+    },
+    {
+      "cn": "良姜",
+      "en": "galangal",
+      "category": "spice"
+    },
+    {
+      "cn": "沙姜",
+      "en": "sand ginger",
+      "category": "spice"
+    },
+    {
+      "cn": "山奈",
+      "en": "sand ginger",
+      "category": "spice"
+    },
+    {
+      "cn": "大蒜",
+      "en": "garlic",
+      "category": "spice"
+    },
+    {
+      "cn": "花椒",
+      "en": "Sichuan peppercorn",
+      "category": "spice"
+    },
+    {
+      "cn": "青花椒",
+      "en": "Sichuan green peppercorn",
+      "category": "spice"
+    },
+    {
+      "cn": "八角",
+      "en": "star anise",
+      "category": "spice"
+    },
+    {
+      "cn": "草果",
+      "en": "tsao-ko",
+      "category": "spice"
+    },
+    {
+      "cn": "小茴香",
+      "en": "fennel seed",
+      "category": "spice"
+    },
+    {
+      "cn": "白蔻",
+      "en": "white cardamom",
+      "category": "spice"
+    },
+    {
+      "cn": "桂皮",
+      "en": "cinnamon",
+      "category": "spice"
+    },
+    {
+      "cn": "丁香",
+      "en": "clove",
+      "category": "spice"
+    },
+    {
+      "cn": "香叶",
+      "en": "bay leaf",
+      "category": "spice"
+    },
+    {
+      "cn": "孜然",
+      "en": "cumin seed",
+      "category": "spice"
+    },
+    {
+      "cn": "芝麻",
+      "en": "sesame",
+      "category": "spice"
+    },
+    {
+      "cn": "干辣椒",
+      "en": "dried chili pepper",
+      "category": "spice"
+    },
+    {
+      "cn": "子弹头",
+      "en": "\"Zidantou\" chili pepper",
+      "category": "spice"
+    },
+    {
+      "cn": "朝天椒",
+      "en": "\"Chaotianjiao\" chili pepper",
+      "category": "spice"
+    },
+    {
+      "cn": "小米辣",
+      "en": "\"Xiaomila\" chili pepper",
+      "category": "spice"
+    },
+    {
+      "cn": "二荆条",
+      "en": "\"Erjingtiao\" chili pepper",
+      "category": "spice"
+    },
+    {
+      "cn": "七星椒",
+      "en": "\"Qixingjiao\" chili pepper",
+      "category": "spice"
+    },
+    {
+      "cn": "陈皮",
+      "en": "(dried) mandarin peel",
+      "category": "spice"
+    },
+    {
+      "cn": "料酒",
+      "en": "Chinese cooking wine",
+      "category": "condiment"
+    },
+    {
+      "cn": "生抽",
+      "en": "light soy sauce",
+      "category": "condiment"
+    },
+    {
+      "cn": "老抽",
+      "en": "dark soy sauce",
+      "category": "condiment"
+    },
+    {
+      "cn": "香醋",
+      "en": "Zhenjiang vinegar",
+      "category": "condiment"
+    },
+    {
+      "cn": "鲜露",
+      "en": "\"Xian Lu\" Chinese liquid seasoning",
+      "category": "condiment"
+    },
+    {
+      "cn": "白酒",
+      "en": "baijiu",
+      "category": "condiment"
+    },
+    {
+      "cn": "鸡精",
+      "en": "chicken broth powder",
+      "category": "condiment"
+    },
+    {
+      "cn": "糖色",
+      "en": "caramelized sugar",
+      "category": "condiment"
+    },
+    {
+      "cn": "豆瓣酱",
+      "en": "doubanjiang",
+      "category": "condiment"
+    },
+    {
+      "cn": "红油豆瓣",
+      "en": "chilli oil doubanjiang",
+      "category": "condiment"
+    },
+    {
+      "cn": "豆豉",
+      "en": "\"Dou Chi\" fermented bean",
+      "category": "condiment"
+    },
+    {
+      "cn": "酒糟",
+      "en": "\"Jiu Zao\" rice wine distiller grain",
+      "category": "condiment"
+    },
+    {
+      "cn": "冰糖",
+      "en": "white rock sugar",
+      "category": "condiment"
+    },
+    {
+      "cn": "甜面酱",
+      "en": "\"Tian Mian Jiang\" sweet bean paste",
+      "category": "condiment"
+    },
+    {
+      "cn": "卤水",
+      "en": "master stock",
+      "category": "condiment"
+    },
+    {
+      "cn": "香油",
+      "en": "sesame oil",
+      "category": "condiment"
+    },
+    {
+      "cn": "蚝油",
+      "en": "oyster sauce",
+      "category": "condiment"
+    },
+    {
+      "cn": "点缀",
+      "en": "garnish",
+      "category": "technical"
+    },
+    {
+      "cn": "凉拌",
+      "en": "salad",
+      "category": "technical"
+    },
+    {
+      "cn": "辅料",
+      "en": "minor ingredient",
+      "category": "technical"
+    },
+    {
+      "cn": "刀工",
+      "en": "knife skill",
+      "category": "technical"
+    },
+    {
+      "cn": "切块",
+      "en": "dice / cut ... into dice",
+      "category": "technical"
+    },
+    {
+      "cn": "切末",
+      "en": "shred / cut ... into shreds",
+      "category": "technical"
+    },
+    {
+      "cn": "切片",
+      "en": "slice / cut ... into slices",
+      "category": "technical"
+    },
+    {
+      "cn": "斜刀切",
+      "en": "slant-cut",
+      "category": "technical"
+    },
+    {
+      "cn": "顺着纹路（切）",
+      "en": "with the grain",
+      "category": "technical"
+    },
+    {
+      "cn": "逆着纹路（切）",
+      "en": "against the grain",
+      "category": "technical"
+    },
+    {
+      "cn": "切粒",
+      "en": "fine dice / grain-sized dice",
+      "category": "technical"
+    },
+    {
+      "cn": "切丝",
+      "en": "julienne / shred",
+      "category": "technical"
+    },
+    {
+      "cn": "明油",
+      "en": "Ming You (literally \"brightening oil\")",
+      "category": "technical",
+      "channel": "wang-gang"
+    },
+    {
+      "cn": "宽油",
+      "en": "Kuan You (literally \"broad oil\")",
+      "category": "technical",
+      "channel": "wang-gang"
+    },
+    {
+      "cn": "底油",
+      "en": "base oil",
+      "category": "technical"
+    },
+    {
+      "cn": "断生",
+      "en": "softened",
+      "category": "technical"
+    },
+    {
+      "cn": "香味",
+      "en": "aroma",
+      "category": "technical"
+    },
+    {
+      "cn": "鲜味",
+      "en": "umami taste",
+      "category": "technical"
+    },
+    {
+      "cn": "麻味",
+      "en": "numbing",
+      "category": "technical"
+    },
+    {
+      "cn": "爆香",
+      "en": "bring out the aroma",
+      "category": "technical"
+    },
+    {
+      "cn": "爆炒",
+      "en": "fry on high heat",
+      "category": "technical"
+    },
+    {
+      "cn": "入味",
+      "en": "flavor penetration",
+      "category": "technical"
+    },
+    {
+      "cn": "腌",
+      "en": "marinate",
+      "category": "technical",
+      "notes": "仅限烹饪前对食材的腌泡；不是腌腊 (cure)"
+    },
+    {
+      "cn": "腌",
+      "en": "cure",
+      "category": "technical",
+      "notes": "仅限制作可长期保存的腌腊食物；不是腌泡 (marinate)"
+    },
+    {
+      "cn": "层次感",
+      "en": "layering of ...",
+      "category": "technical"
+    },
+    {
+      "cn": "锅烧热",
+      "en": "heat up the wok",
+      "category": "technical"
+    },
+    {
+      "cn": "拍散",
+      "en": "crush",
+      "category": "technical"
+    },
+    {
+      "cn": "定型",
+      "en": "fixed shape",
+      "category": "technical"
+    },
+    {
+      "cn": "调味",
+      "en": "season",
+      "category": "technical"
+    },
+    {
+      "cn": "焯水",
+      "en": "parboil",
+      "category": "technical"
+    },
+    {
+      "cn": "豆腐皮",
+      "en": "tofu skin",
+      "category": "misc"
+    },
+    {
+      "cn": "鱼鳞",
+      "en": "fish scale",
+      "category": "misc"
+    },
+    {
+      "cn": "鱼刺",
+      "en": "fishbone",
+      "category": "misc"
+    },
+    {
+      "cn": "王刚",
+      "en": "Wang Gang",
+      "category": "noun",
+      "channel": "wang-gang"
+    },
+    {
+      "cn": "四伯",
+      "en": "uncle",
+      "category": "noun",
+      "channel": "wang-gang"
+    },
+    {
+      "cn": "漆二娃",
+      "en": "Qi Erwa",
+      "category": "noun",
+      "channel": "wang-gang"
+    },
+    {
+      "cn": "雪鱼",
+      "en": "Xueyu",
+      "category": "noun",
+      "channel": "xue-yu"
+    },
+    {
+      "cn": "大爷",
+      "en": "Da Ye",
+      "category": "noun",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "二伯",
+      "en": "Er Bai",
+      "category": "noun",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "三叔",
+      "en": "San Shu",
+      "category": "noun",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "国宴大师",
+      "en": "State Banquet Master Chef",
+      "category": "noun",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "老饭骨家宴",
+      "en": "Lao Fan Gu's Family Dinner",
+      "category": "noun",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "三叔盘道",
+      "en": "Panning our with San Shu",
+      "category": "noun",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "师父",
+      "en": "master",
+      "category": "noun",
+      "notes": "注意不是\"师傅\""
+    },
+    {
+      "cn": "徒弟",
+      "en": "disciple",
+      "category": "noun",
+      "notes": "指已经出师的徒弟"
+    },
+    {
+      "cn": "徒弟",
+      "en": "apprentice",
+      "category": "noun",
+      "notes": "指学徒，尚未出师的徒弟"
+    },
+    {
+      "cn": "学徒",
+      "en": "apprentice",
+      "category": "noun"
+    },
+    {
+      "cn": "摄影小哥",
+      "en": "Mr Cameraman",
+      "category": "noun",
+      "channel": "hua-nong-brothers"
+    },
+    {
+      "cn": "村霸",
+      "en": "The Overlord",
+      "category": "noun",
+      "channel": "hua-nong-brothers"
+    },
+    {
+      "cn": "兄弟",
+      "en": "buddy",
+      "category": "noun",
+      "channel": "hua-nong-brothers",
+      "notes": "非亲兄弟，不包含金洋兄弟两人"
+    },
+    {
+      "cn": "小白",
+      "en": "Whitey",
+      "category": "noun",
+      "channel": "hua-nong-brothers",
+      "notes": "竹鼠"
+    },
+    {
+      "cn": "小黑",
+      "en": "Whitey",
+      "category": "noun",
+      "channel": "hua-nong-brothers",
+      "notes": "狗"
+    },
+    {
+      "cn": "小花",
+      "en": "Tinty",
+      "category": "noun",
+      "channel": "hua-nong-brothers",
+      "notes": "竹鼠"
+    },
+    {
+      "cn": "漂亮",
+      "en": "pretty",
+      "category": "noun",
+      "channel": "hua-nong-brothers",
+      "notes": "刘苏良口癖，不分语境一律译作 pretty"
+    },
+    {
+      "cn": "安逸",
+      "en": "nice",
+      "category": "noun",
+      "channel": "wang-gang",
+      "notes": "四伯口癖，不分语境一律译作 nice"
+    }
+  ]
+}

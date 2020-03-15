@@ -1,0 +1,43 @@
+{
+  "$id": "translation-table.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["categories", "terms"],
+  "properties": {
+    "categories": {
+      "type": "object",
+      "patternProperties": {
+        "^.*$": { "$ref": "#/definitions/category" }
+      }
+    },
+    "terms": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/term" }
+    }
+  },
+
+  "definitions": {
+    "category": {
+      "type": "object",
+      "required": ["cn", "en"],
+      "properties": {
+        "cn": { "type": "string" },
+        "en": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+
+    "term": {
+      "type": "object",
+      "required": ["cn", "en", "category"],
+      "properties": {
+        "cn": { "type": "string" },
+        "en": { "type": "string" },
+        "category": { "type": "string" },
+        "channel": { "type": "string" },
+        "notes": { "type": "string" }
+      },
+      "additionalProperties": false
+    }
+  }
+}

@@ -11,12 +11,5 @@ https://www.youtube.com/channel/UCg0m_Ah8P_MQbnn77-vYnYw
   - 知名度极高、有通行译法的不在此列，比如麻婆豆腐 (Mapo Tofu)、宫保鸡丁 (Kung Pao Chicken) 等
 - 各种食材的名称应当使用俗名，不要用拉丁学名。例如：
   - 竹鼠应译作 "bamboo rat"，不要译作 "Rhizomys"
-- 具体各种材料、术语等等的翻译参考[对译表](/docs/translation-table.md)。
 
-## 固定句式
-
-视频中常见的固定句式应当采用固定译法。参考[固定句式翻译模版](/docs/template.md)。
-
-## 登场人物
-
-参考视频中常见登场[人物关系和英文称呼(TODO)](docs/characters.md)。
+详细的词汇对译请参考[对译表](https://immoonancient.github.io/YTSubtitles/static/translation-table.html)。

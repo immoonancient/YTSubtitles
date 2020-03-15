@@ -36,7 +36,7 @@
 <!---->
 
 - Q: 什么是 bot？
-- A: [bot](https://github.com/apps/ytsubtitles-bot) ![bot avatar](https://avatars2.githubusercontent.com/in/43067?s=18) 是本字幕组开发的一套自动化工具，拥有进行日常管理（比如 issue 和 pull request 的标签管理），集成 GitHub 操作帮助组员投稿，根据[对译表](docs/translation-table.md)提示翻译关键字，修正字幕文件格式等功能。
+- A: [bot](https://github.com/apps/ytsubtitles-bot) ![bot avatar](https://avatars2.githubusercontent.com/in/43067?s=18) 是本字幕组开发的一套自动化工具，拥有进行日常管理（比如 issue 和 pull request 的标签管理），集成 GitHub 操作帮助组员投稿，根据[对译表](https://immoonancient.github.io/YTSubtitles/static/translation-table.html)提示翻译关键字，修正字幕文件格式等功能。
   如果有兴趣参与开发，欢迎前往 [repo](https://github.com/immoonancient/YTSubtitles-bot)
 
 <!---->
