@@ -180,11 +180,13 @@
       "cn": "小葱",
       "en": "scallion",
       "category": "vegetable"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "小葱",
       "en": "green onion",
       "category": "vegetable"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "大葱",
@@ -235,21 +237,25 @@
       "cn": "甜椒",
       "en": "bell pepper",
       "category": "vegetable"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "菜椒",
       "en": "bell pepper",
       "category": "vegetable"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "大红椒",
       "en": "red bell pepper",
       "category": "vegetable"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "灯笼椒",
       "en": "red bell pepper",
       "category": "vegetable"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "黄椒",
@@ -382,14 +388,24 @@
       "category": "preserved"
     },
     {
+      "cn": "腊肠",
+      "en": "lap cheong",
+      "category": "preserved"
+    },
+    {
+      "cn": "腊肉",
+      "en": "chinese cured meat",
+      "category": "preserved"
+    },
+    {
       "cn": "花生",
       "en": "peanut",
-      "category": "preserved"
+      "category": "nut"
     },
     {
       "cn": "核桃",
       "en": "walnut",
-      "category": "preserved"
+      "category": "nut"
     },
     {
       "cn": "生姜",
@@ -410,11 +426,14 @@
       "cn": "沙姜",
       "en": "sand ginger",
       "category": "spice"
+      "notes": "两种称呼皆可"
+      
     },
     {
       "cn": "山奈",
       "en": "sand ginger",
       "category": "spice"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "大蒜",
@@ -821,7 +840,7 @@
     },
     {
       "cn": "三叔盘道",
-      "en": "Panning our with San Shu",
+      "en": "Panning out with San Shu",
       "category": "noun",
       "channel": "lao-fan-gu"
     },
@@ -876,7 +895,7 @@
     },
     {
       "cn": "小黑",
-      "en": "Whitey",
+      "en": "Blacky",
       "category": "noun",
       "channel": "hua-nong-brothers",
       "notes": "狗"
