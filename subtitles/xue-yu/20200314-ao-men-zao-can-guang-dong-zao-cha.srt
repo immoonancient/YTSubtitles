@@ -358,7 +358,7 @@ There're over 10 tables of guests out there
 72
 00:05:04,150 --> 00:05:06,400
 # 我们进去看一看 里面是什么样子吧
-Let's come in and see what it's like inside
+Let's go in and see what it's like inside.
 
 73
 00:05:07,625 --> 00:05:09,000
