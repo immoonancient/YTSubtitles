@@ -183,7 +183,7 @@ Can have such a reputation
 37
 00:02:25,575 --> 00:02:27,650
 # 这个粥看上去就很美味
-You feel its good taste just by looking at it
+You feel it tastes good just by looking at it.
 
 38
 00:02:28,475 --> 00:02:32,300
