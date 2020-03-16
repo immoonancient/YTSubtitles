@@ -1,0 +1,967 @@
+# https://www.youtube.com/watch?v=9EEI9DWwlqs
+
+# .
+# 标题（翻译在100字以内）：
+# 【国宴大师•黑醋带鱼卷】香酥无骨、酸甜可口，咬下去汁水四溢的黑醋带鱼卷要怎么做？老饭骨重聚欢乐多！
+
+# Master chefs of Chinese state banquet teach you how to cook balsamic vinegar hairtail roll, crispy, boneless, juicy and delicious. Reunion of Lao Fan Gu!
+# 简介：
+# 小友们好，最近是不是很久没看到我们老饭骨哥仨一起出现了？大家想我们吗？
+# 今天是由三叔的徒弟小东北给大家带来一道中西融合菜——黑醋带鱼卷。
+# 我们用的是意大利黑醋，家里没有黑醋的小友们用自己本地的醋就可以了。
+# 带鱼呢，它本身也是一味中药材，具有补虚，解毒，止血之功效。
+# 吃带鱼对我们的身体大有好处，但是带鱼就怕处理不好腥味重。
+# 带鱼要先进行腌制去除腥味，然后放进油锅里炸至金黄脆嫩。
+# 最后还要淋上熬制许久的黑醋，酸甜可口！
+# 这道菜得到了我们的一致好评，不仅味道好，在成菜形式上也接轨国际，
+# 真正做到了融会贯通。看这摆盘，多美！
+# 各位小友们在观看视频的时候也要活学活用，一起把这些好的技法传承下去！
+
+# Hi, fellows. Do you think it’s been very long time since last time you guys see three of us in front of the camera altogether?  Do you miss us? Today, we invite Xiao Dongbei, San shu’s student, to present a special dish that combines both eastern and western style -- balsamic vinegar hair tail roll.
+# The vinegar we used here is balsamic vinegar. If you don’t have it in home, you can cook with local brands of vinegars.
+# As for the hairtail, it’s also categorized as a type of traditional Chinese herbs. Its function includes restoration, detoxification, and hemostasis.
+# Having hairtail as food will bring significant benefits to our health. But you have to cook it properly, otherwise the fishy and stinky taste will ruin it.
+# Firstly, hairtail needs to be marinated to remove the unwanted smell. Then deep-fry it in the wok until it turns golden-yellow.
+# At last, we dip the fried hairtails into the well-cooked balsamic vinegar sauce. Not only it tastes wonderful, but also the plating looks international.
+# By this way it truly achieves mastery of cook. Check out the plating, beautiful!
+# I hope you guys could apply these technics you learnt from the video flexibly. And carry the torch of these delicate technics.
+
+# import intro 请原样保留此行
+# 字幕：
+
+1
+00:00:00,120 --> 00:00:02,200
+# 今天用带鱼做凉菜
+Today we use hairtail to cook a cold dish.
+
+2
+00:00:02,200 --> 00:00:05,120
+# 搅拌一下 巧克力色
+Mix it a little, chocolate color.
+
+3
+00:00:05,120 --> 00:00:06,440
+# 黑醋带鱼卷
+balsamic vinegar hairtail roll
+
+4
+00:00:06,440 --> 00:00:07,800
+# 绝对好吃
+It’s absolutely gonna be taste good!
+
+5
+00:00:07,800 --> 00:00:11,320
+# 小东北 来自于东北 东北人
+Xiao Dong Bei, comes from Dong Bei, a Dongbeier.
+
+6
+00:00:11,320 --> 00:00:13,960
+# 今天我发现这个带鱼有点奇怪
+I found today’s hairtail a little awkward.
+
+7
+00:00:13,960 --> 00:00:17,200
+# 这么大眼 有点像三叔的眼
+The eyes are so huge. They look like San Shu’s eyes.
+
+8
+00:00:18,400 --> 00:00:19,520
+# 大眼瞪小眼
+Uneven eyes.
+
+9
+00:00:19,520 --> 00:00:23,320
+# 东海带鱼 一看这带鱼就不错
+The hairtail from the east china sea. You can tell how good the quality is from its appearance.
+
+10
+00:00:23,320 --> 00:00:24,840
+# 咱就开始吧
+Let’s start.
+
+11
+00:00:24,840 --> 00:00:28,600
+# 鲜带鱼 来的时候要把鳞
+Fresh hair tail. At first you need to
+
+12
+00:00:28,600 --> 00:00:30,280
+# 给刮干净了
+Scale the hairtail.
+
+13
+00:00:30,280 --> 00:00:33,120
+# (带鱼去头尾)
+(Cut off the head and tail)
+
+14
+00:00:33,120 --> 00:00:35,960
+# 它算无鳞鱼的一部分
+It is a type of scaleless-fish
+
+15
+00:00:35,960 --> 00:00:41,440
+# 其实它外边这种白膜 就算它的鳞
+Actually, this layer of membrane out there, is it’s scale.
+
+16
+00:00:41,440 --> 00:00:44,040
+# 有的进口带鱼又肥又大
+Some of the import hairtails are big and juicy.
+
+17
+00:00:44,040 --> 00:00:48,640
+# 但是它脊背上有两个疙瘩 石骨
+But there are two knots on backside of its spine, which are called Shi Gu.
+
+18
+00:00:48,640 --> 00:00:49,640
+# 你看这是石骨
+Check out the knots.
+
+19
+00:00:49,640 --> 00:00:52,440
+# 一般正宗舟山带鱼里边是没有石骨的
+Normally, authentic hairtails from Zhou Shan do not have Shi Gu.
+
+20
+00:00:52,440 --> 00:00:53,880
+# 你看一眼这石骨
+Have a look on it.
+
+21
+00:00:55,880 --> 00:00:58,480
+# 它这肉比较肥大
+The meat is rich of fat.
+
+22
+00:00:58,480 --> 00:01:01,320
+# 但是它有一个不好的地方 有点腥
+But there is a defect. A little bit fishy.
+
+23
+00:01:01,320 --> 00:01:04,320
+# 尤其在石骨那位置 特别腥
+Especially at its Shi gu area, extremely fishy.
+
+24
+00:01:04,320 --> 00:01:07,840
+
+25
+00:01:07,840 --> 00:01:10,920
+# 葱姜水 倒点黄酒
+Scallion and ginger juices, a little bit rice wine.
+
+26
+00:01:12,160 --> 00:01:16,560
+# 葱姜水放好了 来点底味 来点盐
+After that, add on some base taste, a little bit salt.
+
+27
+00:01:16,560 --> 00:01:18,560
+# 黄酒有了 盐
+Rice wine is good, so as salt.
+
+28
+00:01:18,560 --> 00:01:20,080
+# 要腌制 很简单
+It’s simple to marinate.
+
+29
+00:01:20,080 --> 00:01:21,680
+# 这个鱼葱姜水 黄酒腌完之后
+After hairtail is marinated with ginger juice, scallion juice, and rice wine,
+
+30
+00:01:21,680 --> 00:01:24,200
+# 然后咱们用厨房用纸
+We use kitchen tissue
+
+31
+00:01:24,200 --> 00:01:28,240
+# 把它的水分蘸干
+to extract the water inside the meat.
+
+32
+00:01:28,240 --> 00:01:29,880
+# 然后再卷
+And then roll up the hairtail.
+
+33
+00:01:29,880 --> 00:01:31,840
+# 刚才闻这鱼还真有点腥
+The hairtail was fishy back then,
+
+34
+00:01:31,840 --> 00:01:35,400
+# 通过他腌制以后这腥味你看 没了
+Now the odor is removed by the marination.
+
+35
+00:01:35,400 --> 00:01:36,800
+# 你闻闻 一点都没了
+Smell it, its odorless now.
+
+36
+00:01:36,800 --> 00:01:39,840
+# 就剩盆味了 他处理的很好
+Only the smell of the pot remains. He did a really good job.
+
+37
+00:01:39,840 --> 00:01:41,200
+# 开始卷了师父
+Now I start to roll the fish, master.
+
+38
+00:01:41,200 --> 00:01:42,840
+# 这一条卷几个
+How many rolls can a single fish make?
+
+39
+00:01:42,840 --> 00:01:44,840
+# 一条相当于四卷吧
+Four.
+
+40
+00:01:44,840 --> 00:01:46,560
+
+41
+00:01:46,560 --> 00:01:47,800
+# 这么大就行了
+the size is good by now.
+
+42
+00:01:47,800 --> 00:01:51,720
+# 咱们家里边根据个人的喜好
+You can adjust the size by your personal preference.
+
+43
+00:01:51,720 --> 00:01:55,120
+
+44
+00:01:55,120 --> 00:01:57,960
+# 一条卷四卷 这卷真不小
+Four roll per fish. The size is massive.
+
+45
+00:01:57,960 --> 00:01:59,960
+# 半条鱼下去了
+Half of the fish is used.
+
+46
+00:01:59,960 --> 00:02:01,520
+# 知道大爷能吃
+I know Da ye has a good appetite.
+
+47
+00:02:01,520 --> 00:02:05,160
+# 用牙签咱们给它固定上 这方法好
+Toothpick is used to fix the roll. This is a smart method.
+
+48
+00:02:05,160 --> 00:02:08,480
+# 然后等一下就插好就风干
+After this, get the fish air dried.
+
+49
+00:02:08,480 --> 00:02:10,600
+# 风干多长时间 风干一小时吧
+How long is the air drying? Around a hour.
+
+50
+00:02:10,600 --> 00:02:12,080
+# 你看见没还得修一下
+You should trim the edges as well.
+
+51
+00:02:13,200 --> 00:02:17,000
+# 讲究 还跟花似的 你看多美
+Exquisite! Like gardening flowers. Look how beautiful it is!
+
+52
+00:02:17,000 --> 00:02:18,920
+# 你看如果说我们家里要是自己做
+If you cook at home,
+
+53
+00:02:18,920 --> 00:02:19,960
+# 就不用这样了 没必要
+It’s not necessary to do this step.
+
+54
+00:02:19,960 --> 00:02:21,680
+# 我要喜欢吃这些怕浪费
+In this way you won’t waste any of the food.
+
+55
+00:02:21,680 --> 00:02:25,720
+# 直接改成段 也一样吃是吧
+If you cut the fish into segments, it is still the same way to eat.
+
+56
+00:02:25,720 --> 00:02:28,520
+# 我拿去风干 然后咱们熬个醋
+I’ll take it to air-drying. Now we prepare the vinegar sauce.
+
+57
+00:02:28,520 --> 00:02:32,160
+# 就放自己家窗边风干个一小时就行
+You can put it under the window for air-drying. For an hour.
+
+58
+00:02:32,160 --> 00:02:33,720
+# 熬醋的时间就可以了
+It will be good after we finish cooking vinegar sauce.
+
+59
+00:02:33,720 --> 00:02:37,320
+# 然后拿电扇吹行不行 那最好了
+Can you use a fan for air-drying? Best in that way.
+
+60
+00:02:37,320 --> 00:02:39,640
+# 最好家里熬醋用铝锅是最好的
+You’d better use an aluminium wok to prepare the vinegar sauce.
+
+61
+00:02:39,640 --> 00:02:40,920
+# 铁锅跟醋熬出来之后
+If you use an iron wok,
+
+62
+00:02:40,920 --> 00:02:42,800
+# 它有股铁生锈的味道
+The sauce would have a rusty taste.
+
+63
+00:02:42,800 --> 00:02:44,880
+# 什么醋 这是意大利黑醋
+What vinegar it is? It’s balsamic vinegar.
+
+64
+00:02:44,880 --> 00:02:48,080
+# 但是咱们在家做根据个人的喜好
+But as always, you can choose different vinegars according to your personal preferences.
+
+65
+00:02:48,080 --> 00:02:49,320
+# 比如你是山西人
+If you are a ShanXier,
+
+66
+00:02:49,320 --> 00:02:51,920
+# 可以用陈醋 用香醋
+You can use mature vinegar, or Zhejiang vinegar.
+
+67
+00:02:51,920 --> 00:02:53,080
+
+68
+00:02:53,880 --> 00:02:57,000
+# 你是哪的人用哪的醋
+You can always choose your local brands of vinegars.
+
+69
+00:02:57,000 --> 00:03:01,320
+# 其实黑醋它一般的酸味不容易走
+Normally, the acidity taste of balsamic vinegar is deep-set.
+
+70
+00:03:01,320 --> 00:03:04,480
+# 这是冰片糖 两块
+This is golden slab sugar. Two pieces.
+
+71
+00:03:04,480 --> 00:03:07,320
+# 过去粤菜常用的 很容易买到
+It was widely used in Guangdong cuisine. You can easily get access to it.
+
+72
+00:03:07,320 --> 00:03:09,600
+# 冰糖 半瓶醋的话
+Crystal sugar, and half bottom of vinegar.
+
+73
+00:03:09,600 --> 00:03:11,520
+# 也就是二百五十克
+It’s around 250g.
+
+74
+00:03:12,760 --> 00:03:16,040
+# 熬醋的时候必须放点姜
+Ginger is necessary for cooking vinegar sauce.
+
+75
+00:03:16,040 --> 00:03:19,920
+# 为啥 它有一股果香的味道
+Way? Because it has a fruitful taste.
+
+76
+00:03:19,920 --> 00:03:24,920
+# 意大利醋它的酸味是稳定的
+The taste of balsamic vinegar is steady.
+
+77
+00:03:24,920 --> 00:03:29,360
+# 因为它是果蔬酿造出来的
+Because it is made of fruit and vegetable.
+
+78
+00:03:29,360 --> 00:03:31,360
+# 就是它不易挥发
+In other words, it’s less-volatile.
+
+79
+00:03:31,360 --> 00:03:33,680
+# 镇江香醋就完全可以
+Zhenjiang vinegar is a good alternative choice here as well.
+
+80
+00:03:33,680 --> 00:03:36,000
+# 米醋就差点 颜色不行
+Rice vinegar is not qualified here. The color is not strong enough.
+
+81
+00:03:36,000 --> 00:03:37,360
+# 米醋熏醋都差点
+So as for smoked vinegar.
+
+82
+00:03:37,360 --> 00:03:39,720
+# 家里边就冰糖 冰糖就可以
+Crystal sugar can be used for home cook.
+
+83
+00:03:39,720 --> 00:03:42,480
+# 放点姜 没那么多要求
+Put in some ginger. It’s not that strict.
+
+84
+00:03:42,480 --> 00:03:45,640
+# 酒店他对出品要求严格一点
+The hotel will have a higher standard of the food quality.
+
+85
+00:03:46,920 --> 00:03:49,640
+# 熬多长时间 熬二十分钟吧
+How long for decocting? Around 20 mins.
+
+86
+00:03:49,640 --> 00:03:54,040
+# 熬化了它 然后让醋有粘稠度
+Until the crystal sugar is melt, which will add on some thickness to the vinegar.
+
+87
+00:03:54,040 --> 00:03:56,960
+# 咱们家里燃气灶这是最大的火了
+It is the highest level of the heat at home.
+
+88
+00:03:56,960 --> 00:03:58,200
+# 大火烧就行
+It’s good.
+
+89
+00:03:58,200 --> 00:03:59,480
+# 带鱼炸么 炸
+Do we fry the hairtails? Yes.
+
+90
+00:03:59,480 --> 00:04:01,720
+# 必须的 不炸还行
+It is necessary to fry the fish.
+
+91
+00:04:01,720 --> 00:04:04,880
+# 这熬醋的时间咱就可以炸带鱼了
+We can make full use of the waiting time during preparing the vinegar sauce.
+
+92
+00:04:04,880 --> 00:04:08,280
+# 熬黑醋的时候火不用降
+Keep the heat
+
+93
+00:04:08,280 --> 00:04:09,280
+# 一直大火就行了
+At the high level all the time.
+
+94
+00:04:09,280 --> 00:04:12,280
+# 收到自己的想要的粘稠度就ok了
+Choose the level of the thickness according to your preference.
+
+95
+00:04:12,280 --> 00:04:15,480
+# 带鱼刚才咱们风干了一个小时
+Now the hairtail has been air dried for an hour.
+
+96
+00:04:15,480 --> 00:04:17,400
+# 就成这种颜色
+The color turns into this.
+
+97
+00:04:17,400 --> 00:04:20,600
+# 然后外皮干了
+And skin is dry.
+
+98
+00:04:20,600 --> 00:04:24,520
+# 干的炸出来颜色更好看  更金黄色
+The color of a dry-skin fish roll is more attractive after been fried. More golden yellow.
+
+99
+00:04:24,520 --> 00:04:28,160
+# 你看慢慢拉黏了 开始粘稠了
+Check out the sauce. It’s getting thick now.
+
+100
+00:04:28,160 --> 00:04:28,960
+# 这颜色挺漂亮的
+The color looks wonderful.
+
+101
+00:04:28,960 --> 00:04:31,320
+# 发亮了 发红发亮了
+It’s getting brighter. And it turns red.
+
+102
+00:04:31,320 --> 00:04:34,720
+# 二伯您看黑醋跟姜的结合
+Er Bai, check the combination of the balsamic vinegar and ginger.
+
+103
+00:04:34,720 --> 00:04:38,520
+# 出来一种可乐的味道 果香的味道
+They come out with a smell of Coke, a smell of fruits.
+
+104
+00:04:38,520 --> 00:04:39,640
+# 让人一闻
+An adorable smell.
+
+105
+00:04:39,640 --> 00:04:41,440
+
+106
+00:04:41,440 --> 00:04:42,720
+# 二伯陶醉了
+Er Bai is enjoying in it.
+
+107
+00:04:42,720 --> 00:04:46,680
+# 可以了 油温六成 开始炸了
+It’s ready. 60 percent of the maximum oil temperature. Now we start to fry.
+
+108
+00:04:46,680 --> 00:04:48,800
+# 炸完这鱼的油 能用么还
+Is the oil reusable after frying the fish?
+
+109
+00:04:48,800 --> 00:04:51,440
+# 能用啊 然后我们加点葱姜 再熬一个
+Absolutely. Then we can put in some scallion and ginger.
+
+110
+00:04:51,440 --> 00:04:53,080
+# 这不就成葱油了么 没错
+Does that come out as scallion oil? Exactly.
+
+111
+00:04:53,080 --> 00:04:53,960
+# 所以二伯说了
+As Er Bai said,
+
+112
+00:04:53,960 --> 00:04:57,040
+# 剩下的油可以熬葱油 可以炒菜
+the rest of the oil can be used for cooking scallion oil. It can be used for the future cooks.
+
+113
+00:04:57,040 --> 00:04:58,200
+# 炸带鱼这东西
+When frying the hairtail,
+
+114
+00:04:58,200 --> 00:05:00,560
+# 搁进锅里就不要动它 不要理它
+Don’t move it in the pan. Leave it alone.
+
+115
+00:05:00,560 --> 00:05:03,640
+# 它什么时候壳挺了以后再动
+You can move it until the skin turns hard.
+
+116
+00:05:03,640 --> 00:05:06,040
+# 否则的话它容易碎
+Otherwise the meat would be easily crashed.
+
+117
+00:05:06,040 --> 00:05:07,880
+# 看见没有开始粘稠了
+Check out, it’s getting thick.
+
+118
+00:05:07,880 --> 00:05:10,160
+
+119
+00:05:10,160 --> 00:05:12,480
+# 一看就地道 带鱼的香味出来了
+Authentic! The aroma of the hairtail comes out.
+
+120
+00:05:12,480 --> 00:05:14,000
+# 咱炸到这个程度就捞出来
+Pan-fry the fish rolls till this level, and get them out.
+
+121
+00:05:14,000 --> 00:05:15,560
+# 然后还得复炸一遍
+And fry them one more time.
+
+122
+00:05:15,560 --> 00:05:17,800
+# 完了把牙签取下来
+After that, pull off the toothpicks.
+
+123
+00:05:17,800 --> 00:05:18,680
+# 漂亮
+Beautiful.
+
+124
+00:05:18,680 --> 00:05:21,080
+# 大爷讲话好漂亮
+As Da ye said, it’s beautiful.
+
+125
+00:05:21,080 --> 00:05:22,360
+# 好漂亮啊
+Surely.
+
+126
+00:05:22,360 --> 00:05:23,760
+# 你看这油炸完以后多新
+Look how fresh the oil is even after the frying.
+
+127
+00:05:23,760 --> 00:05:25,360
+# 吹干吹的好
+Because we did a good job in air-drying.
+
+128
+00:05:25,360 --> 00:05:27,120
+# 把牙签去掉
+Remove the toothpicks.
+
+129
+00:05:27,120 --> 00:05:29,520
+# 因为你要是直接炸定型
+Because if you leave those toothpicks all the way till the end,
+
+130
+00:05:29,520 --> 00:05:32,600
+# 牙签不好取了 扎在里头了
+It would be difficult to remove those toothpicks.
+
+131
+00:05:32,600 --> 00:05:35,080
+# 这次油温就是七成热的油温下
+Now the temperature is 70% (of the maximum oil temperature).
+
+132
+00:05:35,080 --> 00:05:37,360
+# 复炸的时候油温要升高一些
+The second time, the oil temperature is higher.
+
+133
+00:05:38,360 --> 00:05:39,840
+# 差不多了吧
+Is it good?
+
+134
+00:05:39,840 --> 00:05:41,280
+# 现在就可以搁冰箱了
+Now put it into the fridge.
+
+135
+00:05:41,280 --> 00:05:42,560
+
+136
+00:05:42,560 --> 00:05:47,320
+# 黏度起来了 （醋）关火
+The thickness of the vinegar is prefect. Turn off the heat.
+
+137
+00:05:47,320 --> 00:05:49,200
+# 盛出来搁冰箱里边
+Put it into the fridge.
+
+138
+00:05:49,200 --> 00:05:51,000
+# 上窗户那吹去吧
+Put it under the window.
+
+139
+00:05:51,000 --> 00:05:53,760
+# 黑醋得凉一下才能挂住带鱼
+Reduce the temperature of the vinegar to increase the thickness. Only in this way the vinegar sauce could stick onto the surface of the fish roll.
+
+140
+00:05:53,760 --> 00:05:55,280
+# 因为它加了很多糖
+Because it is rich of sugar.
+
+141
+00:05:55,280 --> 00:05:57,840
+# 让它沉淀晾凉以后它更黏
+The viscosity is higher when temperature reduced.
+
+142
+00:05:57,840 --> 00:06:00,520
+# 达到这种金黄色就ok了
+It’s good until it turns golden yellow.
+
+143
+00:06:00,520 --> 00:06:01,840
+
+144
+00:06:01,840 --> 00:06:03,640
+# 这个需要晾么
+Air cooling?
+
+145
+00:06:03,640 --> 00:06:08,840
+# 这个需要晾一下 更脆
+Yes. It will be crispier.
+
+146
+00:06:08,840 --> 00:06:10,440
+# 晾凉了 然后熬好的黑醋
+After the vinegar cooled down,
+
+147
+00:06:10,440 --> 00:06:12,480
+# 你看看 色重粘稠
+it is getting thicker and darker.
+
+148
+00:06:12,480 --> 00:06:15,960
+# 开始制作了 倒进去
+Now we pour it in.
+
+149
+00:06:15,960 --> 00:06:22,040
+# 拌匀 搅拌一下 巧克力色
+Mix them altogether. A chocolate color.
+
+150
+00:06:22,040 --> 00:06:24,240
+# 漂亮漂亮
+Beautiful!
+
+151
+00:06:24,240 --> 00:06:26,240
+# 这就可以出盘了
+Now we can plate the dish.
+
+152
+00:06:26,240 --> 00:06:28,760
+# 油亮黑黑 有点像三叔的脸
+Black and shiny. It’s like San shu’s face.
+
+153
+00:06:28,760 --> 00:06:30,080
+
+154
+00:06:30,400 --> 00:06:33,440
+# 留白 甩汁留白
+Leave some space.
+
+155
+00:06:33,440 --> 00:06:35,160
+
+156
+00:06:35,160 --> 00:06:37,360
+# 芝麻
+Sesame.
+
+157
+00:06:37,360 --> 00:06:39,600
+# 来点小绿草
+Little bit of green.
+
+158
+00:06:39,600 --> 00:06:41,960
+
+159
+00:06:41,960 --> 00:06:45,960
+# 这句话说的有点像东北人 小绿草
+You speak like a Dongbeier. Green.
+
+160
+00:06:45,960 --> 00:06:47,240
+
+161
+00:06:47,240 --> 00:06:48,040
+# OK
+Ok
+
+162
+00:06:48,040 --> 00:06:49,880
+# 意大利黑醋带鱼卷
+Balsamic vinegar hairtail roll.
+
+163
+00:06:49,880 --> 00:06:52,520
+# 意大利黑醋带鱼卷
+Balsamic vinegar hairtail roll.
+
+164
+00:06:52,520 --> 00:06:55,920
+# 就这么成功了 顺利的完成了
+Now we finished the dish successfully.
+
+165
+00:06:55,920 --> 00:06:56,800
+# 绝对好吃
+It’s gonna be taste good!
+
+166
+00:06:56,800 --> 00:06:58,520
+# 二伯怎么样
+How does it taste, Er Bai?
+
+167
+00:06:58,520 --> 00:07:00,800
+# 这道菜是最早师父教我的
+This is the first dish that my master taught me before.
+
+168
+00:07:00,800 --> 00:07:03,520
+# 今天给师父交作业
+Today I present the dish to my master.
+
+169
+00:07:03,520 --> 00:07:04,920
+# 让师父先尝一下
+Let the master taste first.
+
+170
+00:07:04,920 --> 00:07:07,360
+# 你看看 好太好了
+Good. It’s great.
+
+171
+00:07:07,360 --> 00:07:08,720
+
+172
+00:07:08,720 --> 00:07:10,920
+# 师父嘴小了点
+Master has a small mouth.
+
+173
+00:07:10,920 --> 00:07:12,280
+
+174
+00:07:12,280 --> 00:07:14,560
+# 有点像大眼带鱼
+Looks like the hairtail we cooked today.
+
+175
+00:07:14,560 --> 00:07:16,240
+# 真酥啊 二伯
+It’s so crispy, Er Bai.
+
+176
+00:07:16,240 --> 00:07:16,960
+
+177
+00:07:20,000 --> 00:07:21,000
+# 真好吃
+Delicious.
+
+178
+00:07:21,000 --> 00:07:24,160
+# 吃到意大利味儿没有
+Are there any Italian taste?
+
+179
+00:07:24,160 --> 00:07:25,960
+
+180
+00:07:25,960 --> 00:07:27,480
+# 感觉有女朋友的感觉
+It has a taste just like my girlfriend.
+
+181
+00:07:27,480 --> 00:07:29,720
+# 酥劲儿脆劲儿
+Crispiness.
+
+182
+00:07:29,720 --> 00:07:32,440
+# 做中国菜的境界是什么 是融合
+What is the highest level of cooking Chinese cuisine? It’s the fusion.
+
+183
+00:07:32,440 --> 00:07:34,920
+# 最高境界融合 他融合的好
+The highest level, fusion. He fused them very well.
+
+184
+00:07:34,920 --> 00:07:36,520
+# 这孩子把中国菜
+This kid combined the Chinese food
+
+185
+00:07:36,520 --> 00:07:40,800
+# 和世界的调味品加以融合
+With condiments worldwide very well.
+
+186
+00:07:40,800 --> 00:07:43,760
+# 又成为中国菜的另一个口味
+And it becomes an another cuisine of Chinese food.
+
+187
+00:07:43,760 --> 00:07:46,400
+# 按照三叔的一句话一通百通
+According to San Shu’s words, “ You know the key you know them all.”
+
+188
+00:07:46,400 --> 00:07:49,720
+
+189
+00:07:49,720 --> 00:07:52,880
+# 海纳百川 融汇贯通
+The sea embraces all rivers and streams.
+
+190
+00:07:52,880 --> 00:07:54,000
+# 其实最重要的是什么
+The most important thing is,
+
+191
+00:07:54,000 --> 00:07:58,080
+# 使我们的中餐在成菜形式下
+Adjusting the plating of Chinese food
+
+192
+00:07:58,080 --> 00:08:00,040
+# 跟国际上接轨了
+To be dovetailed with international standards.
+
+193
+00:08:01,720 --> 00:08:02,520
+# 就是这样
+Exactly.
+
+194
+00:08:02,520 --> 00:08:05,520
+# 烹小鲜治大国 走
+Cooking a small delicacy is just like governing a large country.
+import ending.srt 00:08:14,150 请原样保留此行
