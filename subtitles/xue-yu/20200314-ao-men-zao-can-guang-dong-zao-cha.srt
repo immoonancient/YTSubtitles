@@ -128,7 +128,7 @@ Nevertheless, no matter how fast they can cook the congee
 26
 00:01:48,275 --> 00:01:51,400
 # 饭点的时候 也赶不上顾客点的速度
-During the breakfast time, they could not do as fast as customers' ordering
+During breakfast, they cannot keep up with the customers' orderings.
 
 27
 00:01:51,900 --> 00:01:54,350
