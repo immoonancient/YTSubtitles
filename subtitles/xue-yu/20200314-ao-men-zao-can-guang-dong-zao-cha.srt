@@ -133,7 +133,7 @@ During breakfast, they cannot keep up with the customers' orderings.
 27
 00:01:51,900 --> 00:01:54,350
 # 于是 我们决定 打包带走
-So we decide to take away
+So we decide to order take out
 
 28
 00:01:54,975 --> 00:01:56,425
