@@ -343,7 +343,7 @@ you barely see any decoration
 69
 00:04:58,150 --> 00:05:00,225
 # 就是很多人 围坐在一起
-Just plenty of people sitting around together
+Just plenty of people sitting around tables.
 
 70
 00:05:00,300 --> 00:05:01,950
