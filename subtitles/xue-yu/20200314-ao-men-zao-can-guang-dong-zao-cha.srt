@@ -98,7 +98,7 @@ using ingredients that we often see - pork offal, fish slices, meatballs
 20
 00:01:12,425 --> 00:01:13,650
 # 这边都有
-They have all here
+They have them all here.
 
 21
 00:01:17,675 --> 00:01:19,375
