@@ -548,7 +548,7 @@ It's just fine to take one tray
 110
 00:08:14,600 --> 00:08:15,975
 # 这个就是牛仔骨
-This is the beef on the bone
+This is the short ribs.
 
 111
 00:08:16,300 --> 00:08:18,025
