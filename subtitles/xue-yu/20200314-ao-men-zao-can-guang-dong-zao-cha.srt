@@ -363,7 +363,7 @@ Let's go in and see what it's like inside.
 73
 00:05:07,625 --> 00:05:09,000
 # 这家店 别看门脸不大
-This restaurant don't have a large facade
+This restaurant doesn't look spacious from outside.
 
 74
 00:05:09,225 --> 00:05:11,075
