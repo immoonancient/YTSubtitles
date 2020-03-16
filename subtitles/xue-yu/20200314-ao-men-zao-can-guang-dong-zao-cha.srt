@@ -273,7 +273,7 @@ Imitating others, I bought a cup of coffee brewed with clay pot
 55
 00:03:44,100 --> 00:03:46,025
 # 我忘了 我要的是烫的
-I forget it! I've asked for a hot one
+I forgot that I had ordered hot coffee.
 
 56
 00:03:46,925 --> 00:03:49,925
