@@ -73,7 +73,7 @@ Believe it or not, such a hidden breakfast place
 15
 00:00:53,000 --> 00:00:54,475
 # 里面喝粥的人
-The guests in side
+the number of guests inside
 
 16
 00:00:54,475 --> 00:00:56,500
