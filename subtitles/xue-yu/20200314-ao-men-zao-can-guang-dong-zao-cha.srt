@@ -378,7 +378,7 @@ The place is extremely spacious with lots of tables
 76
 00:05:14,217 --> 00:05:17,167
 # 而且感觉每一桌 都是在吃酒席一样
-and it seems that guests at each table are having an exuberant banquet
+and it seems that the guests at each table are having a pleasant banquet.
 
 77
 00:05:22,475 --> 00:05:24,425
