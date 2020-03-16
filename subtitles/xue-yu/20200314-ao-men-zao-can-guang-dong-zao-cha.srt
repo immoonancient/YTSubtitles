@@ -28,7 +28,7 @@ This congee shop looks small
 6
 00:00:19,600 --> 00:00:21,800
 # 只是在一个几米的走廊里
-Located in a narrow alley of a few metres wide
+Located in a narrow alley that's only a few meters deep
 
 7
 00:00:22,050 --> 00:00:24,050
