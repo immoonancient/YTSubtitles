@@ -93,7 +93,7 @@ The congee sold here is not uncommon
 19
 00:01:08,700 --> 00:01:12,425
 # 像我们以前经常能够看到的猪杂 鱼片 肉丸
-Using those that we can often see - pork offal, fish slices, meatballs
+using ingredients that we often see - pork offal, fish slices, meatballs
 
 20
 00:01:12,425 --> 00:01:13,650
