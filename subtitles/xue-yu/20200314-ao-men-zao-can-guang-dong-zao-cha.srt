@@ -63,7 +63,7 @@ If I didn't see it
 13
 00:00:48,450 --> 00:00:50,550
 # 今天早上 我可能连饭都吃不着了
-I would probably lose my breakfast this morning
+I would probably miss my breakfast this morning
 
 14
 00:00:51,150 --> 00:00:53,000
