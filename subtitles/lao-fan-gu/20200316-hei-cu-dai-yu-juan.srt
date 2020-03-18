@@ -4,7 +4,7 @@
 # 标题（翻译在100字以内）：
 # 【国宴大师•黑醋带鱼卷】香酥无骨、酸甜可口，咬下去汁水四溢的黑醋带鱼卷要怎么做？老饭骨重聚欢乐多！
 
-# Master chefs of Chinese state banquet teach you how to cook balsamic vinegar hairtail roll, crispy, boneless, juicy and delicious. Reunion of Lao Fan Gu!
+# State Banquet Master Chefs' Balsamic Vinegar Beltfish Roll. Crispy, boneless, juicy and tasty
 # 简介：
 # 小友们好，最近是不是很久没看到我们老饭骨哥仨一起出现了？大家想我们吗？
 # 今天是由三叔的徒弟小东北给大家带来一道中西融合菜——黑醋带鱼卷。
@@ -17,14 +17,14 @@
 # 真正做到了融会贯通。看这摆盘，多美！
 # 各位小友们在观看视频的时候也要活学活用，一起把这些好的技法传承下去！
 
-# Hi, fellows. Do you think it’s been very long time since last time you guys see three of us in front of the camera altogether?  Do you miss us? Today, we invite Xiao Dongbei, San shu’s student, to present a special dish that combines both eastern and western style -- balsamic vinegar hair tail roll.
-# The vinegar we used here is balsamic vinegar. If you don’t have it in home, you can cook with local brands of vinegars.
-# As for the hairtail, it’s also categorized as a type of traditional Chinese herbs. Its function includes restoration, detoxification, and hemostasis.
+# Hi folks. Don't you think it’s been a long time since the last time you guys saw all three of us in front of the camera?  Do you miss us? Today, we invite Xiao Dongbei, San Shu’s student, to present a fusion dish -- Balsamic Vinegar Beltfish Roll.
+# The vinegar we use here is balsamic vinegar. If you don’t have it in your home, you can cook with local brands of vinegars.
+# As for the beltfish, it’s considered a Chinese medicine that may help with restoration, detoxification, and hemostasis.
 # Having hairtail as food will bring significant benefits to our health. But you have to cook it properly, otherwise the fishy and stinky taste will ruin it.
 # Firstly, hairtail needs to be marinated to remove the unwanted smell. Then deep-fry it in the wok until it turns golden-yellow.
 # At last, we dip the fried hairtails into the well-cooked balsamic vinegar sauce. Not only it tastes wonderful, but also the plating looks international.
-# By this way it truly achieves mastery of cook. Check out the plating, beautiful!
-# I hope you guys could apply these technics you learnt from the video flexibly. And carry the torch of these delicate technics.
+# By this way it truly achieves mastery of cooking. Check out the presentation, beautiful!
+# I hope you guys could apply these techniques you learnt from the video flexibly and pass them on.
 
 # import intro 请原样保留此行
 # 字幕：
@@ -32,7 +32,7 @@
 1
 00:00:00,120 --> 00:00:02,200
 # 今天用带鱼做凉菜
-Today we use hairtail to cook a cold dish.
+Today we use beltfish to cook a cold dish.
 
 2
 00:00:02,200 --> 00:00:05,120
@@ -42,22 +42,22 @@ Mix it a little, chocolate color.
 3
 00:00:05,120 --> 00:00:06,440
 # 黑醋带鱼卷
-balsamic vinegar hairtail roll
+balsamic vinegar beltfish roll
 
 4
 00:00:06,440 --> 00:00:07,800
 # 绝对好吃
-It’s absolutely gonna be taste good!
+Absolutely tasty!
 
 5
 00:00:07,800 --> 00:00:11,320
 # 小东北 来自于东北 东北人
-Xiao Dong Bei, comes from Dong Bei, a Dongbeier.
+Xiao Dongbei comes from Northeast China
 
 6
 00:00:11,320 --> 00:00:13,960
 # 今天我发现这个带鱼有点奇怪
-I found today’s hairtail a little awkward.
+I found today’s hairtail a little strange.
 
 7
 00:00:13,960 --> 00:00:17,200
@@ -72,7 +72,7 @@ Uneven eyes.
 9
 00:00:19,520 --> 00:00:23,320
 # 东海带鱼 一看这带鱼就不错
-The hairtail from the east china sea. You can tell how good the quality is from its appearance.
+Today's beltfish is from the East China Sea. You can tell how good the quality is from its appearance.
 
 10
 00:00:23,320 --> 00:00:24,840
@@ -87,7 +87,7 @@ Fresh hair tail. At first you need to
 12
 00:00:28,600 --> 00:00:30,280
 # 给刮干净了
-Scale the hairtail.
+Scale the beltfish.
 
 13
 00:00:30,280 --> 00:00:33,120
@@ -102,17 +102,17 @@ It is a type of scaleless-fish
 15
 00:00:35,960 --> 00:00:41,440
 # 其实它外边这种白膜 就算它的鳞
-Actually, this layer of membrane out there, is it’s scale.
+Actually, this layer of membrane out there, is its scale.
 
 16
 00:00:41,440 --> 00:00:44,040
 # 有的进口带鱼又肥又大
-Some of the import hairtails are big and juicy.
+Some of the imported hairtails are big and juicy.
 
 17
 00:00:44,040 --> 00:00:48,640
 # 但是它脊背上有两个疙瘩 石骨
-But there are two knots on backside of its spine, which are called Shi Gu.
+But there are two knots on its spine, which are called Shi Gu (rock bone).
 
 18
 00:00:48,640 --> 00:00:49,640
@@ -122,7 +122,7 @@ Check out the knots.
 19
 00:00:49,640 --> 00:00:52,440
 # 一般正宗舟山带鱼里边是没有石骨的
-Normally, authentic hairtails from Zhou Shan do not have Shi Gu.
+Normally, authentic beltfish from Zhoushan do not have Shi Gu.
 
 20
 00:00:52,440 --> 00:00:53,880
@@ -132,17 +132,17 @@ Have a look on it.
 21
 00:00:55,880 --> 00:00:58,480
 # 它这肉比较肥大
-The meat is rich of fat.
+The meat is thick.
 
 22
 00:00:58,480 --> 00:01:01,320
 # 但是它有一个不好的地方 有点腥
-But there is a defect. A little bit fishy.
+But there is a downside. It's a little bit fishy.
 
 23
 00:01:01,320 --> 00:01:04,320
 # 尤其在石骨那位置 特别腥
-Especially at its Shi gu area, extremely fishy.
+Especially at its Shi Gu area, extremely fishy.
 
 24
 00:01:04,320 --> 00:01:07,840
@@ -170,27 +170,27 @@ It’s simple to marinate.
 29
 00:01:20,080 --> 00:01:21,680
 # 这个鱼葱姜水 黄酒腌完之后
-After hairtail is marinated with ginger juice, scallion juice, and rice wine,
+After beltfish is marinated with ginger juice, scallion juice, and rice wine,
 
 30
 00:01:21,680 --> 00:01:24,200
 # 然后咱们用厨房用纸
-We use kitchen tissue
+We use kitchen towel
 
 31
 00:01:24,200 --> 00:01:28,240
 # 把它的水分蘸干
-to extract the water inside the meat.
+to dry the fish
 
 32
 00:01:28,240 --> 00:01:29,880
 # 然后再卷
-And then roll up the hairtail.
+And then roll up the beltfish.
 
 33
 00:01:29,880 --> 00:01:31,840
 # 刚才闻这鱼还真有点腥
-The hairtail was fishy back then,
+The beltfish was fishy a moment ago
 
 34
 00:01:31,840 --> 00:01:35,400
@@ -215,7 +215,7 @@ Now I start to roll the fish, master.
 38
 00:01:41,200 --> 00:01:42,840
 # 这一条卷几个
-How many rolls can a single fish make?
+How many rolls can a fish filet make?
 
 39
 00:01:42,840 --> 00:01:44,840
@@ -228,12 +228,12 @@ Four.
 41
 00:01:46,560 --> 00:01:47,800
 # 这么大就行了
-the size is good by now.
+This is the right size.
 
 42
 00:01:47,800 --> 00:01:51,720
 # 咱们家里边根据个人的喜好
-You can adjust the size by your personal preference.
+You can adjust the size as you like.
 
 43
 00:01:51,720 --> 00:01:55,120
@@ -251,12 +251,12 @@ Half of the fish is used.
 46
 00:01:59,960 --> 00:02:01,520
 # 知道大爷能吃
-I know Da ye has a good appetite.
+I know Da Ye has a good appetite.
 
 47
 00:02:01,520 --> 00:02:05,160
 # 用牙签咱们给它固定上 这方法好
-Toothpick is used to fix the roll. This is a smart method.
+Secure the roll with a toothpick. This is a smart method.
 
 48
 00:02:05,160 --> 00:02:08,480
@@ -266,7 +266,7 @@ After this, get the fish air dried.
 49
 00:02:08,480 --> 00:02:10,600
 # 风干多长时间 风干一小时吧
-How long is the air drying? Around a hour.
+How long does it take? Around a hour.
 
 50
 00:02:10,600 --> 00:02:12,080
@@ -291,37 +291,37 @@ It’s not necessary to do this step.
 54
 00:02:19,960 --> 00:02:21,680
 # 我要喜欢吃这些怕浪费
-In this way you won’t waste any of the food.
+In this way, you won't waste any of the fish.
 
 55
 00:02:21,680 --> 00:02:25,720
 # 直接改成段 也一样吃是吧
-If you cut the fish into segments, it is still the same way to eat.
+You don't even have to roll it up. Just cut it into chunks and it would taste the same
 
 56
 00:02:25,720 --> 00:02:28,520
 # 我拿去风干 然后咱们熬个醋
-I’ll take it to air-drying. Now we prepare the vinegar sauce.
+I’ll take it to air-drying. Now we prepare the balsamic glaze.
 
 57
 00:02:28,520 --> 00:02:32,160
 # 就放自己家窗边风干个一小时就行
-You can put it under the window for air-drying. For an hour.
+You can put it near the window for air-drying. For an hour.
 
 58
 00:02:32,160 --> 00:02:33,720
 # 熬醋的时间就可以了
-It will be good after we finish cooking vinegar sauce.
+It will be good after we finish cooking balsamic glaze.
 
 59
 00:02:33,720 --> 00:02:37,320
 # 然后拿电扇吹行不行 那最好了
-Can you use a fan for air-drying? Best in that way.
+Can you use a fan for air-drying? That will be the best.
 
 60
 00:02:37,320 --> 00:02:39,640
 # 最好家里熬醋用铝锅是最好的
-You’d better use an aluminium wok to prepare the vinegar sauce.
+It is best to use an aluminium wok to prepare the vinegar sauce.
 
 61
 00:02:39,640 --> 00:02:40,920
@@ -331,7 +331,7 @@ If you use an iron wok,
 62
 00:02:40,920 --> 00:02:42,800
 # 它有股铁生锈的味道
-The sauce would have a rusty taste.
+The sauce would have a metallic taste.
 
 63
 00:02:42,800 --> 00:02:44,880
@@ -341,7 +341,7 @@ What vinegar it is? It’s balsamic vinegar.
 64
 00:02:44,880 --> 00:02:48,080
 # 但是咱们在家做根据个人的喜好
-But as always, you can choose different vinegars according to your personal preferences.
+But as always, you can choose any vinegar you like.
 
 65
 00:02:48,080 --> 00:02:49,320
