@@ -964,4 +964,5 @@ Exactly.
 00:08:02,520 --> 00:08:05,520
 # 烹小鲜治大国 走
 Cooking a small delicacy is just like governing a large country.
-import ending.srt 00:08:14,150 请原样保留此行
+
+# import ending.srt 00:08:14,150 请原样保留此行
