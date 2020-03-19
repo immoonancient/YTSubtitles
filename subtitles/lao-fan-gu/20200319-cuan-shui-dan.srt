@@ -578,5 +578,5 @@ the flavor would change immediately.
 00:04:54,480 --> 00:04:59,160
 # 它必须香油 味精 酱油不能着热
 sesame oil, MSG, soy sauce are sensitive to heat
-“我是大爷”00:05:02,
-I am Da Ye.
+
+# import ending.srt 00:05:02,000
