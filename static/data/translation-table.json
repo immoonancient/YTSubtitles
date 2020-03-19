@@ -803,6 +803,20 @@
       "channel": "wang-gang"
     },
     {
+      "cn": "厨师长教你",
+      "en": "Chef Wang teaches you: ...",
+      "category": "noun",
+      "channel": "wang-gang",
+      "notes": "王刚频道子栏目"
+    },
+    {
+      "cn": "厨师长分享",
+      "en": "Chef Wang shares with you: ...",
+      "category": "noun",
+      "channel": "wang-gang",
+      "notes": "王刚频道子栏目"
+    },
+    {
       "cn": "雪鱼",
       "en": "Xueyu",
       "category": "noun",
@@ -830,19 +844,22 @@
       "cn": "国宴大师",
       "en": "State Banquet Master Chef",
       "category": "noun",
-      "channel": "lao-fan-gu"
+      "channel": "lao-fan-gu",
+      "notes": "老饭骨频道子栏目"
     },
     {
       "cn": "老饭骨家宴",
       "en": "Lao Fan Gu's Family Dinner",
       "category": "noun",
-      "channel": "lao-fan-gu"
+      "channel": "lao-fan-gu",
+      "notes": "老饭骨频道子栏目"
     },
     {
       "cn": "三叔盘道",
       "en": "Panning out with San Shu",
       "category": "noun",
-      "channel": "lao-fan-gu"
+      "channel": "lao-fan-gu",
+      "notes": "老饭骨频道子栏目"
     },
     {
       "cn": "师父",
