@@ -11,6 +11,8 @@
 # This recipe is a heritage of Er Bai’s grandma. It looks simple but not easy. One tiny step missing then the whole flavor will be wrong. The ingredients are simple, using only Chinese Chives, eggs, soy sauce, MSG and sesame oil. However, the technique is tricky that the eggs are simmered, watch out for that, friends.
 # About the secret recipe, Er Bai hesitated for a long time to announce it, come find the answer in the video, friends!
 
+# import intro
+
 1
 00:00:00,120 --> 00:00:01,800
 # 我跟你说这个菜 我告诉你
