@@ -40,6 +40,10 @@
       "cn": "固定称呼 & 专有名词",
       "en": "Names & Proper Nouns"
     },
+    "dish": {
+      "cn": "菜名",
+      "en": "Dish and Recipe Names"
+    },
     "misc": {
       "cn": "待分类",
       "en": "To Be Classified"
@@ -944,6 +948,11 @@
       "category": "technical",
       "channel": "lao-fan-gu",
       "notes": "老饭骨经常强调这句话，因此采用固定译法"
+    },
+    {
+      "cn": "蛋花汤",
+      "en": "egg drop soup",
+      "category": "dish"
     }
   ]
 }
