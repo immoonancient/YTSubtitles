@@ -1,7 +1,7 @@
 # https://www.youtube.com/watch?v=jTImkHK-l3I
 
 # 标题：【国宴大师•佛跳墙】软嫩柔润，荤而不腻，大厨教你做家庭版佛跳墙，终于能在家做天下第一菜了! |老饭骨
-# Title: State Banquet Master Chefs' "Buddha Jumps Over the Wall" Soft and tender, meaty yet clean, master chefs teach you how to cook home style Buddha Jumps Over the Wall, finally you get to cook the first dish in the world at your home.
+# Title: State Banquet Master Chefs' "Buddha Jumps Over the Wall": Soft and tender, meaty yet clean, master chefs teach you how to cook home style Buddha Jumps Over the Wall, finally you get to cook "the best dish in the world" at home.
 
 # 简介：
 # 小友们好，今天咱大爷教大家做一道有「天下第一菜」的美誉的中华名菜— 佛跳墙。
@@ -9,12 +9,14 @@
 # 正统的佛跳墙味道虽极其鲜美，但其复杂耗时的做法让许多厨艺爱好者却步。
 # 今天咱大爷就教给大家简单的家庭做法，如何利用现有的食材也能做出美味的佛跳墙，
 # 一通百通，意义在此啊！小友们有时间一定学学这道菜！
-# Hello dear friends, today Da Ye will teach us so called "First dish in the world" - Buddha Jumps Over the Wall also known as Buddha's Temptation.
-# This name was originated from a folklore which describes this dish as "Aroma spreads across neighbour once the pot is opened, even Buddha jumps over the wall to chase the smell".
+# Hello dear friends, today Da Ye will teach us so called "Best Dish in the World" - Buddha Jumps Over the Wall also known as Buddha's Temptation.
+# This name was originated from a folklore which describes this dish as "Aroma spreads across the neighborhood upon taking off the lid, even Buddha stops meditation and jumps over the wall to chase the smell".
 # The original dish is extremely delicious, however, the complicated and time consuming processes have intimidated many from cooking this dish.
 # Today DaYe will teach us a simply homemade way to cook this dish, using existing ingredients to make delicious dish,
-# once you learn this, you can transfer the same skill to cook hundreds of other dished.
+# once you learn this, you can transfer the same skill to cook hundreds of other dishes.
 # This is a dish you all need to learn if you have time.
+
+# import intro
 
 # 字幕：
 
@@ -26,7 +28,7 @@ Today, as requested by many fans,
 2
 00:00:02,680 --> 00:00:04,800
 # 做一家庭版的佛跳墙
-We are going to make a home style Buddha's temptation
+We are going to make a home style Buddha's Temptation
 
 3
 00:00:04,800 --> 00:00:06,840
@@ -41,12 +43,12 @@ The original version has
 5
 00:00:09,200 --> 00:00:11,760
 # 鲍鱼 海参 鱼翅 裙边 干贝
-abalone, sea cucumber, shark fin, turtle rim, dry scallop
+abalone, sea cucumber, shark fin, softshell turtle shell, dried scallop
 
 6
 00:00:11,760 --> 00:00:13,680
 # 鸽蛋等等 基本上都是好料
-Pigeon eggs. Basically all the good ingredients.
+Pigeon eggs. Basically all the fancy ingredients.
 
 7
 00:00:13,680 --> 00:00:15,160
@@ -56,12 +58,12 @@ A not-so-fancy version of this dish is
 8
 00:00:15,160 --> 00:00:18,240
 # 海鲜佛跳墙 虾球 扇贝 大瑶柱
-The sea food version. It has shrimps, scallops and large scallops
+The seafood version. It has shrimps, scallops and large scallops
 
 9
 00:00:18,240 --> 00:00:19,480
 # 全是海鲜品
-Basically the sea foods
+All seafood
 
 10
 00:00:19,480 --> 00:00:22,160
@@ -76,7 +78,7 @@ They have mushroom version of Buddha's temptation
 12
 00:00:23,560 --> 00:00:26,320
 # 黄耳 银耳 竹荪 羊肚菌 松茸等等
-Yellow tree fungus, tremella, bamboo fungus, Yang Du fungus, matsutake and so on.
+Yellow Ear, snow fungus, bamboo mushrooms, true morels, matsutake and so on.
 
 13
 00:00:26,320 --> 00:00:28,480
@@ -91,12 +93,12 @@ No matter which version of Buddha's temptation
 15
 00:00:29,640 --> 00:00:31,640
 # 还得吊好汤的 对
-A great broth is a must have, yep.
+A great stock is essential, yep.
 
 16
 00:00:31,640 --> 00:00:34,200
 # 没好汤其他不能聊
-Nothing else matters without a great broth.
+Nothing else matters without a great stock
 
 17
 00:00:34,200 --> 00:00:36,480
@@ -106,22 +108,22 @@ Pork leg bone, hen, pork knuckle
 18
 00:00:36,480 --> 00:00:38,320
 # 现在熬汤有讲究
-Nowadays we get a little picky with making broth
+Nowadays we get a little fastidious when making stock
 
 19
 00:00:38,320 --> 00:00:40,920
 # 过去我们都用自来水
-We used to use the water straight from the tap
+We used to use tap water
 
 20
 00:00:40,920 --> 00:00:44,720
 # 现在就得用点矿泉水
-Now we gotta use some spring mineral water
+Now we gotta use mineral spring water
 
 21
 00:00:44,720 --> 00:00:46,880
 # 好东西了 矿泉水
-Good stuff, spring mineral water
+Good stuff, mineral spring water
 
 22
 00:00:46,880 --> 00:00:50,040
@@ -150,12 +152,12 @@ Look at this water it's sticky
 27
 00:01:03,320 --> 00:01:06,720
 # 咱那个矿泉水就跟水似的
-Our mineral water is just like water
+Our mineral water is too watery
 
 28
 00:01:06,720 --> 00:01:09,080
 # 不是你喝那矿泉水是兑水的
-Nah your mineral water is made from water
+Nah your mineral water is diluted
 
 29
 00:01:09,080 --> 00:01:12,800
@@ -178,7 +180,7 @@ We will use this from now on
 33
 00:01:23,320 --> 00:01:25,600
 # 熬这汤还是凉水下锅
-Still use cold water to make this broth
+Start with cold water
 
 34
 00:01:25,600 --> 00:01:27,480
@@ -188,7 +190,7 @@ Let it slowly boil
 35
 00:01:27,480 --> 00:01:30,200
 # 开了以后把沫子打净
-Then clear out the froth on the top
+Then skim off the scum and foam 
 
 36
 00:01:30,200 --> 00:01:33,480
@@ -198,12 +200,12 @@ Do we Diao or Za today? Or we do both?
 37
 00:01:33,480 --> 00:01:36,040
 # 不吊 今天用的是浓汤
-Nope we are using broth today
+Nope we are using a thick stock today
 
 38
 00:01:36,040 --> 00:01:39,240
 # 汤先炖着 咱们准备点食材
-Let the broth simmer on the side, let prep the ingredients
+Let the stock simmer on the side. Let's prep the ingredients
 
 39
 00:01:39,240 --> 00:01:41,240
@@ -218,12 +220,12 @@ Use everything you could find at home
 41
 00:01:43,880 --> 00:01:48,000
 # 把这个虾线去掉
-Get rid of this shrimp guts
+Devein the shrimp
 
 42
 00:01:48,000 --> 00:01:50,240
 # 一通百通叫大家学得会
-The same skills can be transferred to many other dishes
+You can apply the same technique to other dishes
 
 43
 00:01:50,240 --> 00:01:52,040
@@ -258,12 +260,12 @@ Live abalone, this could cost a fortune
 49
 00:02:09,960 --> 00:02:11,920
 # 不便宜 二十五
-Not cheap, 25 (per 500g)
+Not cheap, 25 Yuan
 
 50
 00:02:11,920 --> 00:02:15,960
 # 洗鲍鱼呢 你看有层黑膜
-Washing abalone, you can see there's a black skin
+Washing abalone, you can see there's a black membrane 
 
 51
 00:02:15,960 --> 00:02:18,080
@@ -303,7 +305,7 @@ They say your hands are the cleanest part
 58
 00:02:44,960 --> 00:02:50,480
 # 我们在这个背面打小十字花刀
-Lets score Dimond shapes at the back
+Lets score diagonal cuts in a crisscross pattern
 
 59
 00:02:50,480 --> 00:02:53,680
@@ -311,7 +313,7 @@ Lets score Dimond shapes at the back
 60
 00:02:53,680 --> 00:02:55,760
 # 宽细均匀你看看
-Look how they are evenly distributed
+Look how they are uniformly cut
 
 61
 00:02:55,760 --> 00:02:58,480
@@ -334,7 +336,7 @@ Now lets talk about the sea cucumber just as I remembered
 65
 00:03:09,000 --> 00:03:14,440
 # 中国人讲究吃海参要吃刺参
-In China we prefer sea cucumbers with spikes
+In China we prefer spiky sea cucumbers
 
 66
 00:03:14,440 --> 00:03:15,840
@@ -344,7 +346,7 @@ Gotta have spikes
 67
 00:03:15,840 --> 00:03:17,920
 # 要不带刺感觉就不像参似的
-It doesn't feel like sea cucumber without spikes
+It doesn't feel like a sea cucumber without the spikes
 
 68
 00:03:17,920 --> 00:03:21,160
@@ -354,7 +356,7 @@ These sea cucumbers we picked today are
 69
 00:03:21,160 --> 00:03:25,120
 # 葫芦岛野生六年的海参
-Six-year harvested from Hu Lu island
+Six-year, harvested in Huludao
 
 70
 00:03:25,120 --> 00:03:29,240
@@ -414,7 +416,7 @@ Here, haha here it is
 81
 00:04:01,840 --> 00:04:03,080
 # 黄酒
-Yellow wine
+Huangjiu (Yellow wine)
 
 82
 00:04:03,080 --> 00:04:05,160
@@ -444,7 +446,7 @@ Was mainly cooked with yellow wine
 87
 00:04:17,240 --> 00:04:21,560
 # 你看这汤啊 把这个沫子要打干净
-Look at the broth, froth must be cleaned throughly
+Look at the stock, froth must be cleaned throughly
 
 88
 00:04:21,560 --> 00:04:23,680
@@ -529,7 +531,7 @@ Ditch the chicken head
 104
 00:05:05,200 --> 00:05:09,680
 # 还有一些浮在肉上的浮沫
-And some froth on the top
+And some scum on the top
 
 105
 00:05:09,680 --> 00:05:16,400
@@ -569,7 +571,7 @@ We can use pressure cooker
 112
 00:05:39,600 --> 00:05:43,560
 # 这个汤你看没有沫子了
-Now you don't see any froth on the top
+Now you don't see any foam on the top
 
 113
 00:05:43,560 --> 00:05:46,200
@@ -597,7 +599,7 @@ What do you do now
 118
 00:05:59,600 --> 00:06:03,160
 # 现在这活儿接着就来啦
-Here it comes other jobs
+Here come other jobs
 
 119
 00:06:03,160 --> 00:06:09,640
@@ -607,7 +609,7 @@ Add some spring onion, ginger, yellow wine
 120
 00:06:09,640 --> 00:06:12,800
 # 我们鲍鱼海参要飞水
-We need to slightly boil the abalone
+We need to blanch the abalone
 
 121
 00:06:12,800 --> 00:06:15,400
@@ -672,7 +674,7 @@ Look at these spikes, round and pointy
 133
 00:06:54,840 --> 00:06:55,840
 # 把虾仁烫一下
-Slightly boils the shrimps
+Slightly cook the shrimps
 
 134
 00:06:55,840 --> 00:06:58,040
@@ -687,7 +689,7 @@ This is called
 136
 00:07:02,040 --> 00:07:05,920
 # 进行前期的热处理
-Heat treatment for each ingredients
+Heat treatment for each ingredient
 
 137
 00:07:05,920 --> 00:07:08,120
@@ -712,12 +714,12 @@ Shrimps, abalones and sea cucumbers
 141
 00:07:25,000 --> 00:07:28,040
 # 还有鸽蛋
-pigeon eggs
+"pigeon" eggs
 
 142
 00:07:28,040 --> 00:07:31,040
 # 大爷说应该是鸽子蛋
-Da Ye says it should be pigeon eggs
+Da Ye says it's supposed to be pigeon eggs
 
 143
 00:07:31,040 --> 00:07:33,120
@@ -757,7 +759,7 @@ My master had never mentioned these to me
 150
 00:07:55,680 --> 00:07:56,840
 # 提意见了啊
-Someone has some complains
+Someone has some complaints
 
 151
 00:07:56,840 --> 00:07:59,280
@@ -902,12 +904,12 @@ Add some mushrooms, what are these
 179
 00:09:31,920 --> 00:09:35,400
 # 白玉菇 蟹腿菇
-Baiyu mushroom and crab leg mushroom
+Shimeji mushrooms
 
 180
 00:09:35,400 --> 00:09:38,400
 # 把这个蘑菇出出水
-Let water come out of these mushrooms
+Wilt these mushrooms
 
 181
 00:09:39,240 --> 00:09:42,120
@@ -917,7 +919,7 @@ Add a bit of salt to set the base tone
 182
 00:09:42,120 --> 00:09:49,000
 # 来点鸡汤 鸡汤开始下了啊
-Some chicken broth, add some chicken broth
+Some chicken stock, add some chicken stock
 
 183
 00:09:49,000 --> 00:09:52,440
@@ -997,7 +999,7 @@ For the buddha's temptation, shrimps go in first
 198
 00:10:58,560 --> 00:11:00,240
 # 翠绿翠绿的小菜心
-Green bak-choy hearts
+Green bok choy hearts
 
 199
 00:11:00,240 --> 00:11:04,880
@@ -1047,7 +1049,7 @@ A drizzle of dark soy sauce
 208
 00:11:27,960 --> 00:11:30,320
 # 原则上一般的不勾芡
-Normally we don't add starchy water
+Normally we don't thicken it (with slurry)
 
 209
 00:11:30,320 --> 00:11:33,640
@@ -1062,7 +1064,7 @@ Which contains plenty of collagen
 211
 00:11:39,760 --> 00:11:41,560
 # 那就不勾芡
-Then we don't add starchy water
+Then we don't add slurry
 
 212
 00:11:41,560 --> 00:11:44,360
@@ -1072,7 +1074,7 @@ Because we are making home style version
 213
 00:11:44,360 --> 00:11:46,760
 # 让它有浓厚的的味道
-To give it a thick taste
+To give it a fuller mouthfeel
 
 214
 00:11:46,760 --> 00:11:50,040
@@ -1092,7 +1094,7 @@ Anytime, look at the sauce
 217
 00:11:57,880 --> 00:11:59,880
 # 这粉劲儿有点小
-The starchy water don't thicken so well
+This starch doesn't thicken very well
 
 218
 00:11:59,880 --> 00:12:03,400
@@ -1161,7 +1163,7 @@ But that was to soak up these dried ingredients
 232
 00:12:52,520 --> 00:12:54,760
 # 就是那些海味品
-Those sea food
+Those seafood
 
 233
 00:12:54,760 --> 00:12:56,920
@@ -1191,7 +1193,7 @@ This pot is just the right amount for us three
 238
 00:13:19,960 --> 00:13:21,560
 # 咱们吃的时候别叫四弟
-Don't tell brother Is
+Don't tell brother Si
 
 239
 00:13:21,560 --> 00:13:26,240
@@ -1216,7 +1218,7 @@ Beside the taste, just look at the sea cucumbers
 243
 00:13:39,760 --> 00:13:44,320
 # 前后掌握的火候特别好
-The cook time is managed really well
+The cooking time is managed really well
 
 244
 00:13:44,320 --> 00:13:47,480
@@ -1226,7 +1228,7 @@ You don't taste any fishy smells right? It's cleaned so well
 245
 00:13:47,480 --> 00:13:53,000
 # 处理太好了 让我们徒弟尝尝
-It's done so well, let our apprentices to have a taste
+It's done so well, let our apprentices have a taste
 
 246
 00:13:54,960 --> 00:13:56,440
@@ -1281,7 +1283,7 @@ Master's nephew come
 256
 00:14:23,240 --> 00:14:26,080
 # 浓郁 唇齿留香
-Thick flavour and the taste lingers around your moth
+Rich flavour and the taste lingers around your mouth
 
 257
 00:14:26,080 --> 00:14:28,880
@@ -1291,7 +1293,7 @@ Artisans spirits can never be industrialised
 258
 00:14:28,880 --> 00:14:32,520
 # 这真的是传承啊 匠心啊
-This is real inherit, artisans sprit
+This is real heritage, artisans' craftsmanship 
 
 259
 00:14:32,520 --> 00:14:34,200
