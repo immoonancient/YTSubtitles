@@ -2,13 +2,13 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 厦门最好的姜母鸭+漳州奢华早餐面条，18盆卤味任选
-# The best JiangMuYa (Ginger Duck Stew) in Xiamen and luxurious Zhangzhou breakfast noodles with eighteen pot-stewed dishes
+# The best JiangMuYa (Ginger Duck Stew) in Xiamen and luxurious Zhangzhou breakfast noodles with eighteen braised goods 
 
 # 简介
 # 本期视频继续分享福建美食。在厦门同安隐藏着一家23年的盐鸭店，据说是厦门公认第一的盐鸭，来到这里正是上午，老板的伙计们正在将鸭子下入砂锅中，锅底是姜片，上部分是整只鸭子；一排排的砂锅很是壮观，足足摆了2间屋子，还有一间屋用来将鸭肉剪成大块，3间屋子都没有座位，一只姜母鸭66元，所有来的客人都必须打包带走吃！即使这样生意依然火爆！++第二家店是漳州的特色早餐卤面，18盆卤味摆一桌任选，猪皮、豆腐、猪脚、肉、卤蛋等等，早上吃这么一大碗，不长胖都没有道理！
 
-# Continuing sharing Fujian cuisine. There’s a salt duck restaurant with 23 years of history hidden in Tongan, Xiamen. It is said that they have the best salt duck in the whole Xiamen area. I arrived at brunch hours, just as the cooks dumping the ducks into the casserole. The bottom of the casseroles was filled with sliced gingers and the upper part of the casserole contained whole ducks. The lined casseroles filled two rooms. There’s another room used to dismembering the cooked ducks into pieces. No seats can be found in any of the three rooms. The ginger duck stew was sold at 66 yuan per portion and the guests can only order carry-outs. But still, the restaurant is always filled with customers waiting for a bite of the duck.
-# The second restaurant serves special breakfast heavy-grave noodles with eighteen kinds of pot-stewed sides to add as you like --- pig skins, tofu, pig feet, meat, eggs, etc. With a big bowl of noodles every morning, there’s no chance to not get fat.
+# Continuing sharing Fujian cuisine. There’s a salt duck restaurant with 23 years of history hidden in Tongan, Xiamen. It is said that they have the best salt duck in the whole Xiamen area. I arrived at brunch hours, just as the cooks dumping the ducks into clay pots. The bottom of the pots was filled with sliced gingers and the upper part of the pot contained whole ducks. The lined pots filled two rooms. There’s another room used to cut the cooked ducks into pieces. No seats can be found in any of the three rooms. The ginger duck stew was sold at 66 yuan per duck and the guests can only order takeouts. But still, the restaurant is always filled with customers waiting for a bite of the duck.
+# The second restaurant serves a special breakfast: noodles in gravy with eighteen kinds of braised toppings to add as you like --- pig skins, tofu, pig feet, meat, eggs, etc. With a big bowl of noodles every morning, there’s no chance to not get fat.
 
 # 字幕
 
@@ -20,7 +20,7 @@ Fujian, Xiamen
 2
 00:00:05,841 --> 00:00:07,616
 # 一炉炉的都是 鸭子
-Look at the casseroles! These are all ducks.
+Look at the clay pots! These are all ducks.
 
 3
 00:00:21,425 --> 00:00:22,925
@@ -40,12 +40,12 @@ You can even smell it over here
 6
 00:00:32,800 --> 00:00:34,700
 # 鸭油和姜片的这种混合香味
-The mixed aroma of duck oil and sliced ginger
+The mixed aroma of duck fat and sliced ginger
 
 7
 00:00:34,950 --> 00:00:37,000
 # 感觉在这儿都要流口水了
-I feel that I’m gonna drool myself here
+I feel that I’m gonna drool here
 
 8
 00:00:38,250 --> 00:00:40,975
@@ -95,7 +95,7 @@ If it’s the holidays
 17
 00:01:26,500 --> 00:01:29,875
 # 人不休息 炉子也甭想休息
-cooks can’t rest, so as the casseroles
+cooks can’t rest, nor do the stoves
 
 18
 00:01:29,875 --> 00:01:32,250
@@ -105,7 +105,7 @@ The cook just told me, the busiest time here
 19
 00:01:32,250 --> 00:01:33,929
 # 一天能够做七八百只鸭子
-they cooked seven or eight hundred ducks in a day
+they could cook 700-800 ducks in a day
 
 20
 00:01:34,225 --> 00:01:36,900
@@ -130,17 +130,17 @@ The equipment used to cook the Jiangmu Ya(Ginger duck stew) or salt duck is spec
 24
 00:01:44,100 --> 00:01:47,075
 # 下面是炉火 中间有一层隔热的（盐）
-There’s a layer of salt used to prevent direct contact with fire in between of the fire
+There’s a layer of salt used to insulate heat between the stove and the pot
 
 25
 00:01:47,075 --> 00:01:48,450
 # 上面才是砂锅
-and the casseroles
+and clay pots on top
 
 26
 00:01:50,000 --> 00:01:51,225
 # 鸭子放进砂锅之前
-Before putting into the casseroles
+Before putting into the pots
 
 27
 00:01:51,300 --> 00:01:53,000
@@ -150,7 +150,7 @@ the ducks have to be marinated
 28
 00:01:53,200 --> 00:01:56,650
 # 然后才是一整只鸭子和姜母放在砂锅里
-then they were put into the casseroles with the gingers
+then they were put into the pots with the gingers
 
 29
 00:01:57,000 --> 00:02:00,125
@@ -170,7 +170,7 @@ Sure.
 32
 00:03:38,825 --> 00:03:43,350
 # 透过袋子 你能隐隐约约看到鸭油和鸭汤
-You can vaguely see the duck oil and soup through the plastic bag
+You can vaguely see the duck fat and juice through the plastic bag
 
 33
 00:03:43,475 --> 00:03:48,175
@@ -190,7 +190,7 @@ The duck has been stewed for a very long time
 36
 00:04:05,400 --> 00:04:07,950
 # 压在下面的姜片都被炖没型了
-The ginger slices underneath have stewed a part
+The ginger slices underneath have turned into mush
 
 37
 00:04:09,050 --> 00:04:10,500
@@ -200,17 +200,17 @@ Meat is really soft
 38
 00:04:10,700 --> 00:04:13,700
 # 鸭肉很容易从骨头上撕扯下来
-It’s really easy to sperate duck meat from the bones
+The meat easily falls off the bones
 
 39
 00:04:18,225 --> 00:04:20,625
 # 它这个鸭子吃起来 干香干香的
-This duck is cooked thoroughly with the oils out on the surface, and tastes very nice!
+It tastes so good, so rich.
 
 40
 00:04:21,875 --> 00:04:24,125
 # 吃的时候呢 米饭上还会粘些鸭油
-The rice has duck oil on it when you eat it
+The duck fat sticks to the rice when you eat it
 
 41
 00:04:24,425 --> 00:04:28,200
@@ -240,7 +240,7 @@ They are still continuing their nightlife.
 46
 00:05:06,825 --> 00:05:08,800
 # 走了10多分钟 总算来到了卤面店
-Over 10 minutes walking, We’ve finally arrived at the heavy-gravy noodle restaurant
+Over 10 minutes of walking, we’ve finally arrived at the heavy-gravy noodle restaurant
 
 47
 00:05:09,100 --> 00:05:10,798
@@ -250,7 +250,7 @@ We are going in now
 48
 00:05:10,798 --> 00:05:12,998
 # 点一碗热气腾腾的面来吃
-to order a bowl of hot noodle
+to order a bowl of hot noodles
 
 49
 00:05:15,975 --> 00:05:17,200
@@ -260,7 +260,7 @@ Do you know why we are here so early?
 50
 00:05:17,325 --> 00:05:20,375
 # 因为来得早 料多丰富
-Because if you come early, there will be more choices of sides
+Because if you come early, the sides are still in stock
 
 51
 00:05:21,025 --> 00:05:23,375
@@ -280,7 +280,7 @@ Do you want bean sprouts and cilantro
 54
 00:05:39,225 --> 00:05:41,575
 # 我这边刚说完 阿姨就揪了一把碱面
-She grabs a handful of base noodle just as I’m finishing the sentence
+I barely finished my sentence, and she had already grabbed a handful of alkaline noodles
 
 55
 00:05:41,825 --> 00:05:43,700
@@ -300,12 +300,12 @@ Cooked noodles
 58
 00:05:50,825 --> 00:05:53,525
 # 浇上猪骨熬出来的浓郁的卤汁来调味
-Pour the heavy-gravy which was decocted from pork bones
+Pour in the rich braising broth made from pork bones
 
 59
 00:05:54,125 --> 00:05:56,475
 # 再按自己的心意 选一些配菜
-Then choose the sides as you want
+Then choose the sides you want
 
 60
 00:05:56,800 --> 00:06:00,050
@@ -325,7 +325,7 @@ It will really improve the flavor of the noodles
 63
 00:06:37,125 --> 00:06:39,650
 # 卤煮  剪肉时候也是这样咔嚓咔嚓
-Pot-stewed meat are also chopped like this
+Braised dishes. Meat is also chopped like this
 
 64
 00:06:43,500 --> 00:06:45,300
@@ -340,7 +340,7 @@ My taste is a mystery
 66
 00:07:40,200 --> 00:07:42,025
 # 它的面条也是这种碱水面
-This noodle is also base noodle
+This noodle is also alkaline noodle
 
 67
 00:07:42,200 --> 00:07:43,975
@@ -390,7 +390,7 @@ Tofu can absorb the soup
 76
 00:08:07,825 --> 00:08:10,250
 # 这样会让豆腐更饱满一些
-This will make the tofu more supple
+This will make the tofu taste fuller
 
 77
 00:08:11,450 --> 00:08:12,350
@@ -430,7 +430,7 @@ The most important reason that I choose pigskin is that
 84
 00:08:27,125 --> 00:08:29,850
 # 它刚拿出来 看着让人很有食欲
-It’s freshly cooked, looks very attractive
+It’s freshly cooked, looks very tempting 
 
 85
 00:08:40,075 --> 00:08:42,525
@@ -440,7 +440,7 @@ Think back to the noodles when it’s just served
 86
 00:08:42,550 --> 00:08:44,250
 # 汤汁还是很浓郁的
-The soup was very heavy
+The soup was very thick
 
 87
 00:08:44,400 --> 00:08:45,650
@@ -460,12 +460,12 @@ The umami and sweetness of the seafood are still here
 90
 00:08:59,550 --> 00:09:02,075
 # 现在满屋子都是吸溜面条的声音
-Now the whole room is filled with the sounds of people eating the noodles
+Now the whole room is filled with the sound of noodle slurping
 
 91
 00:09:02,300 --> 00:09:03,825
 # 但这个声音再大
-But no matter how big the sounds are
+But no matter how loud it is
 
 92
 00:09:03,825 --> 00:09:05,825
@@ -495,7 +495,7 @@ If we come earlier, there won’t be this many people
 97
 00:09:40,400 --> 00:09:44,075
 # 但是晚几分钟 人都会挤在早餐店的门口
-But just a few minutes late, everyone will be crowded at the entrance of the restaurant
+But just a few minutes later, the entrance will be packed
 
 98
 00:09:45,250 --> 00:09:48,250
@@ -545,4 +545,4 @@ growing in this speed
 107
 00:10:27,875 --> 00:10:30,175
 # 也重不少呢
-I’m gonna put up with too much weight
+I’m gonna put on too much weight
