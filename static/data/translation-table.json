@@ -535,6 +535,16 @@
       "category": "spice"
     },
     {
+      "cn": "调料",
+      "en": "seasoning",
+      "category": "condiment"
+    },
+    {
+      "cn": "调味料",
+      "en": "seasoning",
+      "category": "condiment"
+    },
+    {
       "cn": "料酒",
       "en": "Chinese cooking wine",
       "category": "condiment"
@@ -586,12 +596,12 @@
     },
     {
       "cn": "豆豉",
-      "en": "\"Dou Chi\" fermented bean",
+      "en": "\"Douchi\" fermented soybeans",
       "category": "condiment"
     },
     {
       "cn": "酒糟",
-      "en": "\"Jiu Zao\" rice wine distiller grain",
+      "en": "\"Jiuzao\" rice wine distiller grain",
       "category": "condiment"
     },
     {
@@ -607,6 +617,11 @@
     {
       "cn": "卤水",
       "en": "master stock",
+      "category": "condiment"
+    },
+    {
+      "cn": "淀粉",
+      "en": "starch",
       "category": "condiment"
     },
     {
@@ -631,7 +646,7 @@
     },
     {
       "cn": "辅料",
-      "en": "minor ingredient",
+      "en": "complementary ingredient",
       "category": "technical"
     },
     {
@@ -698,7 +713,7 @@
     },
     {
       "cn": "断生",
-      "en": "softened",
+      "en": "half cook",
       "category": "technical"
     },
     {
