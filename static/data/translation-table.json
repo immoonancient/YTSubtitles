@@ -214,7 +214,8 @@
     },
     {
       "cn": "芹菜",
-      "en": "leaf celery",
+      "en": "Chinese celery",
+      note: 芹菜分西芹和唐芹，唐 就是形容词 中国的 Chinese,
       "category": "vegetable"
     },
     {
@@ -308,7 +309,7 @@
     },
     {
       "cn": "香菜",
-      "en": "coriander",
+      "en": "cilantro",
       "category": "vegetable"
     },
     {
@@ -318,7 +319,7 @@
     },
     {
       "cn": "豇豆",
-      "en": "cowpea",
+      "en": "Chinese long string bean",
       "category": "vegetable"
     },
     {
@@ -328,7 +329,7 @@
     },
     {
       "cn": "泡豇豆",
-      "en": "pickled cowpea",
+      "en": "pickled Chinese long string bean",
       "category": "vegetable"
     },
     {
@@ -398,7 +399,8 @@
     },
     {
       "cn": "腊肉",
-      "en": "chinese cured meat",
+      "en": "chinese cured pork",
+      note: 腊肉绝大多数是猪肉做的 pork 此处也可以写作 ham 不过腊肉用五花肉做的为正宗质高 用腿肉做的比较便宜,
       "category": "preserved"
     },
     {
@@ -576,18 +578,19 @@
     },
     {
       "cn": "鸡精",
-      "en": "chicken broth powder",
+      "en": "chicken bouillon",
       "category": "condiment"
     },
     {
       "cn": "糖色",
-      "en": "caramelized sugar",
+      "en": "caramel color",
+      note: 这个对 原来那个好像是 焦化糖? 意思与颜色无关,
       "category": "condiment"
     },
     {
       "cn": "豆瓣酱",
       "en": "doubanjiang",
-      "category": "condiment"
+      "category": "condiment
     },
     {
       "cn": "红油豆瓣",
@@ -601,7 +604,8 @@
     },
     {
       "cn": "酒糟",
-      "en": "\"Jiuzao\" rice wine distiller grain",
+      "en": "\"Jiuzao\" rice wine distilled from grain",
+      note: 原来的不记得了,
       "category": "condiment"
     },
     {
@@ -646,7 +650,8 @@
     },
     {
       "cn": "辅料",
-      "en": "complementary ingredient",
+      "en": "other ingredient",
+      notes: supplement不贴切 比如青椒肉丝里，青椒跟肉丝没有主从关系, 
       "category": "technical"
     },
     {
@@ -661,7 +666,8 @@
     },
     {
       "cn": "切末",
-      "en": "shred / cut ... into shreds",
+      "en": "mince / cut ... into shreds",
+      note: shred 比末要大块 
       "category": "technical"
     },
     {
@@ -676,7 +682,8 @@
     },
     {
       "cn": "顺着纹路（切）",
-      "en": "with the grain",
+      "en": "with the texture"?
+      note: grain 感觉不是用于吃的,
       "category": "technical"
     },
     {
@@ -691,7 +698,8 @@
     },
     {
       "cn": "切丝",
-      "en": "julienne / shred",
+      "en": "julienne / french cut",
+      note: shred 是切碎,
       "category": "technical"
     },
     {
@@ -702,6 +710,7 @@
     {
       "cn": "明油",
       "en": "Ming You (literally \"brightening oil\")",
+      note: 从烹调说，应该就是 冷油，普通油。可以问一下王刚团队,
       "category": "technical",
       "channel": "wang-gang"
     },
@@ -714,6 +723,7 @@
     {
       "cn": "底油",
       "en": "base oil",
+      note: some oil? 字面译doesn't make sense,
       "category": "technical"
     },
     {
@@ -728,7 +738,8 @@
     },
     {
       "cn": "鲜味",
-      "en": "umami taste",
+      "en": "umami", 
+      note: umami 就是一种味道，yellow 就是一种颜色，不需翻译为 yellow color,
       "category": "technical"
     },
     {
@@ -758,8 +769,9 @@
       "notes": "仅限烹饪前对食材的腌泡；不是腌腊 (cure)"
     },
     {
-      "cn": "腌",
+      "cn": "盐腌",
       "en": "cure",
+      note: cure 专指用盐腌制后放干,
       "category": "technical",
       "notes": "仅限制作可长期保存的腌腊食物；不是腌泡 (marinate)"
     },
@@ -895,11 +907,12 @@
       "cn": "徒弟",
       "en": "disciple",
       "category": "noun",
-      "notes": "指已经出师的徒弟"
+      "notes": "指已经出师的徒弟
     },
     {
-      "cn": "徒弟",
+      "cn": "学徒",
       "en": "apprentice",
+      note: 还在学习中,
       "category": "noun",
       "notes": "指学徒，尚未出师的徒弟"
     },
