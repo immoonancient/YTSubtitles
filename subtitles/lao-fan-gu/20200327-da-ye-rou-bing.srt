@@ -1,7 +1,5 @@
 # https://www.youtube.com/watch?v=085dZmraG4M
 
-# Bot, please upload.
-
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•大爷肉饼】大爷烙了个爱心肉饼，大妈可劲捧哏，这碗狗粮我先干了 |老饭骨
 # 【State Banquet•Da ye burger】Da ye made homemade burger, Da Ma kept complementing, (这碗狗粮我干了不知道怎么翻译）
