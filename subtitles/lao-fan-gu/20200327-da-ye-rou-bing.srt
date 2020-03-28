@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•大爷肉饼】大爷烙了个爱心肉饼，大妈可劲捧哏，这碗狗粮我先干了 |老饭骨
-# 【State Banquet•Da ye burger】Da ye made homemade burger, Da Ma kept complementing, (这碗狗粮我干了不知道怎么翻译）
+# State Banquet Master Chef - Da Ye's meat pie and wife's compliments
 
 # 简介
 # 【国宴大师•大爷肉饼】大爷烙了个爱心肉饼，大妈可劲捧哏，这碗狗粮我先干了 |老饭骨
@@ -11,8 +11,10 @@
 # 原来因为这一期，是咱大妈捧哏、掌镜。大爷大妈一来一回，甜丝丝的幸福都要溢出屏幕喽！
 # 而且这期超长待机，大爷大妈一边唠嗑话家常，一边和面揉馅，真是有滋有味的幸福生活，狗粮都要吃饱了！
 # 特殊时期，大爷二伯三叔不串门、不聚会。小友们也要尽量避免去人多的地方哦，大家伙儿可以借此机会在家多多练习自己的厨艺！
-# Hello friends, Da Ye has been quarantined for about forty days, really missed you guys! The burger Da Ye is going to make today is a family edition, with a shy smile, he did some good work. Because this video is shot by Da Ma. And this episode is extra long because of the back and forth conversation be tween them
-# while Da Ye prep the dough and fillings, really happy life. Because of the quarantine, Da Ye, Er Bai and San Shu didn’t visit each other. You should avoid social contact and crowds as well, maybe use this period to practice your cooking skills!
+# Hello friends, Da Ye has been staying at home for about forty days. Really miss you guys!
+# Today Da Ye is going to make a family edition meat pie. With a shy smile, he does some good work.
+# Because this video is shot by his wife Da Ma, this episode is extra long because of the back and forth conversation between them while Da Ye prepares the dough and fillings. What a happy life. 
+# Because of the epidemic, Da Ye, Er Bai and San Shu do not visit each other or gather. You should avoid social contact and crowds as well, and can maybe use this period to practice your cooking skills!
 
 # import intro (请原样保留此行)
 
@@ -24,7 +26,7 @@
 2
 00:00:04,120 --> 00:00:10,120
 # 瞧瞧 焦黄 脆脆的
-Look Golden and crunchy
+Look! Golden and crispy
 
 3
 00:00:10,120 --> 00:00:11,760
@@ -39,7 +41,7 @@ Hello friends and fans
 5
 00:00:14,080 --> 00:00:16,960
 # 因为YQ的发生
-Because of the virus
+Because of the epidemic
 
 6
 00:00:16,960 --> 00:00:18,960
@@ -54,17 +56,17 @@ I really miss you guys
 8
 00:00:20,080 --> 00:00:24,560
 # 今天给大家做一个家庭版的肉饼
-Today I’m gonna show you how to make homemade burgers
+Today I’m gonna show you how to make homemade meat pies
 
 9
 00:00:24,560 --> 00:00:27,600
 # 拍摄的人是我们老伴儿 成老师
-My pattern Teacher Cheng is shooting today’s video
+My wife, Shifu Cheng, is shooting today’s video
 
 10
 00:00:27,600 --> 00:00:29,280
 # 也是你们大妈
-Which is Da Ma as well
+You may refer to her as "Da Ma" as well
 
 11
 00:00:30,440 --> 00:00:31,600
@@ -89,12 +91,12 @@ We often say
 15
 00:00:36,600 --> 00:00:38,000
 # 软面饺子硬面汤
-Soft dough dumpling hard dough noodles
+Soft dough for dumplings, hard dough for noodles
 
 16
 00:00:38,000 --> 00:00:40,000
 # 烙饼的面 肉饼的面
-dough for flapjack dough for burger
+When preparing flatbread or meat pie
 
 17
 00:00:40,000 --> 00:00:42,720
@@ -104,23 +106,22 @@ The dough has to be soft
 18
 00:00:42,720 --> 00:00:45,320
 # 我今天和这个大约有二斤面
-I have about 1 kilograms of flour
+I'm using about 1 kilogram of flour
 
 19
 00:00:45,320 --> 00:00:47,840
 # 大约一斤面 大约六两水左右
-You need 300ml for a kilogram of flour
+You need about 600ml water for a kilogram of flour
 
 20
 00:00:47,840 --> 00:00:50,520
 # 就用凉水和就行了 和的要软
-Just mix with cold water but make the dough
-soft
+Just mix with cold water. The dough must be soft
 
 21
 00:00:50,520 --> 00:00:52,640
 # 多软啊 有的说拿不起个儿来
-How soft, some said soft that you can’t pick it up
+How soft? Some said so soft that you can’t pick it up
 
 22
 00:00:52,640 --> 00:00:54,880
@@ -135,22 +136,22 @@ Still the softer the better
 24
 00:00:56,280 --> 00:01:00,520
 # 你和面用的是什么面 标准粉
-What flour do you use for the dough? Standard flour
+What flour do you use for the dough? All-purpose flour
 
 25
 00:01:00,520 --> 00:01:01,720
 # 一定要用标准粉
-You have to use standard flour
+You have to use all-purpose flour
 
 26
 00:01:01,720 --> 00:01:03,000
 # 用高筋粉不行
-Strong flour won’t work
+High gluten flour won’t work
 
 27
 00:01:03,000 --> 00:01:06,600
 # 高筋粉烙出面有劲儿
-Strong flour would make the dough too tender
+High gluten flour would make the dough too tough
 
 28
 00:01:06,600 --> 00:01:09,880
@@ -165,7 +166,7 @@ Not quite smooth
 30
 00:01:11,440 --> 00:01:15,240
 # 等让它和好以后 让它饧一会
-Let it ferment for a bit after done kneading
+Let it rest for a bit after done kneading
 
 31
 00:01:15,240 --> 00:01:17,600
@@ -185,18 +186,17 @@ And the dough is ready
 34
 00:01:23,080 --> 00:01:28,160
 # 找块布给它盖上 饧着
-Find a piece of cloth and put on it and let itferment
+Cover it with a piece of cloth and let it rest
 
 35
 00:01:28,160 --> 00:01:31,400
 # 饧面这个环节大约得二十来分钟
-the process of fermentation is going to take
-about minutes
+It's going to rest for about 20 minutes
 
 36
 00:01:31,400 --> 00:01:33,200
 # 下一步咱就开始打馅儿
-Next we are going to start making the fillings
+Next we are going to start making the filling
 
 37
 00:01:33,200 --> 00:01:35,280
@@ -206,8 +206,7 @@ Put in some salt and here’s pork
 38
 00:01:35,280 --> 00:01:41,400
 # 大约在十二克 根据肉的多少
-About twelve grams depends on the amount of
-meat
+About twelve grams. It depends on the amount of meat
 
 39
 00:01:41,400 --> 00:01:43,760
@@ -227,8 +226,7 @@ There are many kinds of soy sauce
 42
 00:01:48,000 --> 00:01:51,840
 # 你随便 你喜欢吃哪种酱油都可以
-Whatever Whatever kind of soy sauce that you
-kind
+Put whatever kind of soy sauce that you like
 
 43
 00:01:51,840 --> 00:01:53,800
@@ -238,17 +236,17 @@ Putting in some dark soy sauce
 44
 00:01:53,800 --> 00:01:55,280
 # 放点黄酒
-Put in some rice wine
+Put in some yellow rice wine
 
 45
 00:01:55,280 --> 00:01:57,520
 # 黄酒有绍兴黄酒
-there are ShaoXing rice wine
+Typically it's Shaoxing rice wine
 
 46
 00:01:57,520 --> 00:02:00,080
 # 我今天用的是福建黄酒
-But what I’m using today is Fu Joan rice wine
+But what I’m using today is Fujian rice wine
 
 47
 00:02:00,080 --> 00:02:01,720
@@ -258,7 +256,7 @@ Usually when we make fillings at home
 48
 00:02:01,720 --> 00:02:03,920
 # 都习惯用筷子用尺板
-We use chopsticks as ruler
+We use chopsticks or stir sticks
 
 49
 00:02:03,920 --> 00:02:06,280
@@ -268,7 +266,7 @@ In order to make the meat more moist
 50
 00:02:06,280 --> 00:02:08,160
 # 我就用手打馅
-But I will just use my head to mix the filling
+But I will just use my hand to mix the filling
 
 51
 00:02:08,160 --> 00:02:10,040
@@ -283,13 +281,12 @@ The oil should be put in at last
 53
 00:02:13,080 --> 00:02:15,440
 # 这颜色还不太行
-The color of it is not right yet
+The color is not there yet
 
 54
 00:02:15,440 --> 00:02:19,160
 # 北方吃馅 都要搁酱油
-The north people put soy sauce when they eat
-the filling
+Northerners always put soy sauce in their fillings
 
 55
 00:02:19,160 --> 00:02:20,640
@@ -304,7 +301,7 @@ Fillings from the south
 57
 00:02:22,000 --> 00:02:23,760
 # 你像包子馅 饺子馅
-Like dim sum filling and dumpling filling
+Like baozi filling and dumpling filling
 
 58
 00:02:23,760 --> 00:02:25,280
@@ -314,7 +311,7 @@ They rarely put in soy sauce
 59
 00:02:25,280 --> 00:02:28,800
 # 所以北方和南方在做馅当中
-So in north and south while making fillings
+So between northern and southern filling recipes
 
 60
 00:02:28,800 --> 00:02:29,960
@@ -329,13 +326,12 @@ Only in one direction
 62
 00:02:31,720 --> 00:02:33,760
 # 你看这馅越摔越紧实
-See the filling is coming more tense after
-throwing it
+See the filling is becoming tenser after throwing it
 
 63
 00:02:33,760 --> 00:02:36,320
 # 越摔越有劲
-Throw it more to be more chewy
+Throw it more to be tenser
 
 64
 00:02:36,320 --> 00:02:36,840
@@ -363,8 +359,7 @@ You can also put in some water
 69
 00:02:45,440 --> 00:02:48,400
 # 打水可以打葱姜酒水
-You can put in some ginger and green onion
-wine
+You can put in some ginger and green onion wine
 
 70
 00:02:48,400 --> 00:02:53,040
@@ -399,13 +394,12 @@ But you can’t make it too lean
 76
 00:03:02,600 --> 00:03:04,760
 # 太瘦这个馅打出来又硬
-If there’s too many lean meat, the filling
-will be too tough
+If it's too lean, the filling will be too tough
 
 77
 00:03:04,760 --> 00:03:07,320
 # 干 不香
-Dry and doesnt smell good
+Dry and doesn't smell good
 
 78
 00:03:07,320 --> 00:03:08,600
@@ -420,17 +414,17 @@ Check out the filling
 80
 00:03:11,960 --> 00:03:15,240
 # 这个大家可能见的少 这叫尺板
-You probably haven’t seen this before, this isa dim sum ruler
+You probably haven’t seen this before. This is a "Chi Ban" ("ruler")
 
 81
 00:03:15,240 --> 00:03:17,400
 # 有的管它叫馅尺子
-Some would call it filling ruler
+Some would call it a filling ruler
 
 82
 00:03:17,400 --> 00:03:19,080
 # 包饺子 包包子
-While making dumpling or bao zi
+While making dumpling or baozi
 
 83
 00:03:19,080 --> 00:03:21,360
@@ -440,7 +434,7 @@ This is very helpful
 84
 00:03:21,360 --> 00:03:22,760
 # 使筷子不得劲
-Chopsticks doesn’t work very well
+Chopsticks don't work very well
 
 85
 00:03:22,760 --> 00:03:24,360
@@ -465,7 +459,7 @@ Now mix it well
 89
 00:03:30,640 --> 00:03:33,000
 # 大爷不是做面食的
-Da Ye doesn’t specialize in making dim sums
+Da Ye doesn’t specialize in pastries
 
 90
 00:03:33,000 --> 00:03:35,400
@@ -475,29 +469,27 @@ He doesn’t do it like the professionals
 91
 00:03:35,400 --> 00:03:37,400
 # 主要是家庭版的
-Mainly just homemake
+Only homemade editions
 
 92
 00:03:37,400 --> 00:03:41,520
 # 这边放点姜 切好了 放在上面
-Now put in some ginger cut it and put on top of it
+Now put in some ginger. Cut it and put it on the top
 
 93
 00:03:41,520 --> 00:03:44,240
 # 下边切葱 按照我个人体会
-And now cut the onion, as in my personal
-experience
+And now cut the green onion. As in my personal experience
 
 94
 00:03:44,240 --> 00:03:46,040
 # 这葱在我们拌馅的时候
-The green onion while we are mixing the
-fillings
+When we make the filling
 
 95
 00:03:46,040 --> 00:03:47,720
 # 什么时候开始烙饼
-Whenever you start bake the flapjack
+The moment you start cooking the pie
 
 96
 00:03:47,720 --> 00:03:51,880
@@ -507,12 +499,12 @@ You mix in the green onion
 97
 00:03:51,880 --> 00:03:54,120
 # 不要过早的拌 过早的拌
-Don’t do it too early if you do it too early
+Don’t do it too early. If you do it too early
 
 98
 00:03:54,120 --> 00:03:56,600
 # 这葱经过和肉馅的接触
-The green onion while getting contact with thefilling
+The green onion is in contact with the filling
 
 99
 00:03:56,600 --> 00:04:00,600
@@ -532,7 +524,7 @@ Once that happen, the smell will be all over
 102
 00:04:09,000 --> 00:04:11,000
 # 这葱最有味的是哪儿啊
-The parts of onion that has the strongest smell are
+What's the part of a green onion with the strongest smell?
 
 103
 00:04:11,000 --> 00:04:13,720
@@ -547,7 +539,7 @@ Because it has more juice so the smell is stronger
 105
 00:04:19,320 --> 00:04:21,560
 # 甭管是吃包子 吃饺子
-No matter having bao zi or dumpling
+Regardless of baozi or dumpling
 
 106
 00:04:21,560 --> 00:04:23,560
@@ -557,22 +549,22 @@ We will use some green onion’s insides
 107
 00:04:23,560 --> 00:04:25,760
 # 大爷在家猫了有四十天了
-Da Ye has been staying in home for about fortydays
+Da Ye has been staying at home for about forty days
 
 108
 00:04:25,760 --> 00:04:27,960
 # 四十天干什么呢
-What did he do in forty days
+What did I in the forty days
 
 109
 00:04:27,960 --> 00:04:32,080
 # 净做饭了 变着样儿的做
-Just cooking Kept making different dishes
+Just cooking. Making all the different dishes
 
 110
 00:04:32,080 --> 00:04:33,320
 # 这一变着样儿的做
-Once he changes it a lot
+Making all the variations
 
 111
 00:04:33,320 --> 00:04:36,680
@@ -582,7 +574,8 @@ We are really touched
 112
 00:04:36,680 --> 00:04:38,360
 # 感动吧 好吃
-Touched So good
+- Really touched?
+- So tasty
 
 113
 00:04:38,360 --> 00:04:40,240
@@ -597,7 +590,7 @@ Not just I’m touched, our whole family is touched
 115
 00:04:44,320 --> 00:04:47,640
 # 葱啊别剁得太碎 太碎了
-Don’t chop the green onion into too small piece
+Don’t chop the green onion too fine. If it's too fine
 
 116
 00:04:47,640 --> 00:04:51,360
@@ -617,12 +610,12 @@ Let’s mix the filling again later while cooking
 119
 00:05:00,480 --> 00:05:04,960
 # 现在都弄好了 咱们休息一会儿
-now everything’s ready Let’s rest a little
+Now everything’s ready. Let’s rest a little
 
 120
 00:05:04,960 --> 00:05:08,720
 # 等会儿那个面饧好了 就开始烙
-When the fermentation is done, we will get started
+When the dough is ready, we will get started
 
 121
 00:05:08,720 --> 00:05:10,280
@@ -637,7 +630,7 @@ Press that, press the red one
 123
 00:05:15,600 --> 00:05:16,920
 # 大爷开始烙饼了
-Da Ye is making flapjacks now
+Da Ye is making the meat pies now
 
 124
 00:05:16,920 --> 00:05:19,200
@@ -652,12 +645,12 @@ The dough has to be like this
 126
 00:05:23,120 --> 00:05:24,880
 # 因为它饧到家了
-Because the fermentation was done well
+Because it has rested really well
 
 127
 00:05:24,880 --> 00:05:28,040
 # 饧到家以后 一揉 它就润了
-Once it was fermented well, only need to knead a little
+Once it has rested well, we only need to knead a little
 
 128
 00:05:28,040 --> 00:05:30,840
@@ -702,22 +695,22 @@ When you put in the greens
 136
 00:05:50,520 --> 00:05:54,080
 # 它马上就会软 就塌下去了
-It sinks
+It softens, and collapses immediately
 
 137
 00:05:54,080 --> 00:05:57,240
 # 就说明什么啊 盐够了
-And that means the salt is enough
+And that means it's salty enough
 
 138
 00:05:57,240 --> 00:06:00,800
 # 有的时候韭菜搁半天也不塌
-Sometimes when Chinese chives doesn’t sinks
+Sometimes the Chinese chives don't collapse even after a long time
 
 139
 00:06:00,800 --> 00:06:03,760
 # 说明这盐不够 再补点盐
-That’s means the salt is not enough and you need to add some
+That means it's not salty enough and you need to add some more
 
 140
 00:06:03,760 --> 00:06:07,840
@@ -727,7 +720,7 @@ Smells good right? The smell has come out
 141
 00:06:07,840 --> 00:06:11,640
 # 馅和好了啊 开始出剂儿
-Filling is ready, let’s spit it
+Filling is ready, let’s roll it
 
 142
 00:06:11,640 --> 00:06:14,560
@@ -742,12 +735,12 @@ Today Da Ye is going to make long ones
 144
 00:06:19,640 --> 00:06:23,240
 # 擀出这个剂儿是长条的
-Spit out long ones
+Rolling out long ones
 
 145
 00:06:23,240 --> 00:06:27,720
 # 这面活得好三下两下的 就推开了
-If you did a good job peeping the dough, it’s easy to roll it
+If you did a good job kneading the dough, it’s easy to roll it
 
 146
 00:06:27,720 --> 00:06:30,280
@@ -757,12 +750,13 @@ Let’s put in a lot of filling since it’s for our own family
 147
 00:06:31,440 --> 00:06:33,880
 # 好像别的时候不舍得似的
-Sound like you willing to put in a lot of fillings other times
+Sound like you are not willing to put in a lot other times
 
 148
 00:06:35,200 --> 00:06:38,320
 # 别太多了 不多
-Don’t put in too much It is not
+- Don’t put in too much
+- It is not
 
 149
 00:06:38,320 --> 00:06:39,920
@@ -777,7 +771,8 @@ Check it out! Fold
 151
 00:06:42,160 --> 00:06:46,360
 # 这边没有 往上折
-Not here but fold upwards
+- No filling at this part?
+- Fold upwards
 
 152
 00:06:46,360 --> 00:06:49,280
@@ -802,7 +797,7 @@ Fold while sealing
 156
 00:06:54,880 --> 00:06:58,040
 # 再折 四折了啊
-Fold again, this is forth time now
+Fold again, this is the fourth time now
 
 157
 00:06:58,040 --> 00:07:02,440
@@ -812,12 +807,13 @@ The last point is important, fifth fold
 158
 00:07:02,440 --> 00:07:04,160
 # 大爷这肉饼啊 不擀
-Da He’s flapjack, doesn’t roll it
+Da Ye doesn't roll his meat pies
 
 159
 00:07:04,160 --> 00:07:07,200
 # 就拿手按 为什么不擀
-Only use hand to push Why not roll it?
+- Only pressing with the hands
+- Why not rolling it?
 
 160
 00:07:07,200 --> 00:07:09,120
@@ -827,12 +823,12 @@ Once you roll it, the filling would come out
 161
 00:07:09,120 --> 00:07:11,440
 # 有的我们在外边吃肉饼啊
-Sometimes when we eat meat flapjacks in restaurants
+Sometimes when we eat meat pies in restaurants
 
 162
 00:07:11,440 --> 00:07:14,160
 # 中间有时候没肉 肉跑哪去
-There’s no meat in the middle, where did all the meat go
+There’s no meat in the middle. Where did all the meat go?
 
 163
 00:07:14,160 --> 00:07:16,360
@@ -857,7 +853,7 @@ To make it a little thinner
 167
 00:07:30,640 --> 00:07:33,040
 # 你看 没有漏的吧 盖盖儿
-See no filling has leaked out, put on the lid now
+See no filling has leaked out. Put on the lid now
 
 168
 00:07:34,960 --> 00:07:37,200
@@ -867,7 +863,7 @@ Lets start with the first one
 169
 00:07:37,200 --> 00:07:40,640
 # 比平时烙饼的时间要长一些
-take a little longer then the normal flapjacks
+It takes a little longer than usual
 
 170
 00:07:40,640 --> 00:07:42,800
@@ -877,7 +873,7 @@ about six minutes
 171
 00:07:42,800 --> 00:07:47,000
 # 闻着香味了吧 真好
-you smell it？ so good
+You smell it? so good
 
 172
 00:07:49,600 --> 00:07:52,240
@@ -887,12 +883,12 @@ Bake here a little and there as well
 173
 00:07:52,240 --> 00:07:54,440
 # 这个饼就齐了 焦黄焦黄的
-The flapjack is ready and golden
+Then the meat pie is ready. Golden and crispy
 
 174
 00:07:54,440 --> 00:07:58,200
 # 一看肉就多
-So much fillings
+So much filling
 
 175
 00:07:58,200 --> 00:08:00,840
@@ -902,12 +898,13 @@ Also check out the dough it’s so moist
 176
 00:08:00,840 --> 00:08:07,000
 # 大爷真行 不光会红案白案也行
-Da Ye is so good, not just good at meat dishes but dim sum as well
+Da Ye is so good, not just good at meat dishes but pastries as well
 
 177
 00:08:07,000 --> 00:08:11,840
 # 白案也凑合 真是大显身手啊
-Pretty good at making dim sum as well
+- Not too bad at pastries
+- What a marvelous job!
 
 178
 00:08:11,840 --> 00:08:13,120
@@ -917,8 +914,7 @@ According to Da Ma’s request
 179
 00:08:13,120 --> 00:08:15,200
 # 咱们想办法做点好吃的
-We are gonna try to make some good stuff to
-eat
+We are gonna try to make some good stuff to eat
 
 180
 00:08:15,200 --> 00:08:18,920
@@ -938,17 +934,18 @@ Isn’t it prefect? So good
 183
 00:08:23,800 --> 00:08:27,160
 # 改下刀 切成块
-Change up the knife and cut into piece
+- Chop it up
+- Cut it into pieces
 
 184
 00:08:27,160 --> 00:08:30,280
 # 看看层啊 都切完了
-See the layers finished cutting
+Check the layers. Done
 
 185
 00:08:34,440 --> 00:08:37,480
 # 焦黄焦黄的 哎呀太棒了
-Golden so good
+Golden and crispy. Wow it's so good
 
 186
 00:08:37,480 --> 00:08:38,520
@@ -958,7 +955,7 @@ Da Ma take a picture
 187
 00:08:38,520 --> 00:08:41,560
 # 照一个照一个 必须照一个
-Take a picture have to take one
+Take a picture. Have to take one
 
 188
 00:08:41,560 --> 00:08:44,200
@@ -968,22 +965,23 @@ How is it, let’s have a look
 189
 00:08:44,200 --> 00:08:49,680
 # 不同角度 多棒啊 太棒了
-Different angles How good So great
+Different angles. How good! So great!
 
 190
 00:08:49,680 --> 00:08:53,600
 # 瞧瞧 焦黄
-See Golden
+See? Golden brown
 
 191
 00:08:53,600 --> 00:08:58,040
 # 脆脆的 真好
-Crunchy So good
+Crispy. So good
 
 192
 00:08:58,040 --> 00:09:01,000
 # 我先尝尝 大爷先尝一口
-Let me try it, Da Ye gets a bit first
+- Let me try it
+- Da Ye get a bite first
 
 193
 00:09:01,000 --> 00:09:05,360
@@ -1013,6 +1011,6 @@ Having a chef at home is awesome
 198
 00:09:18,240 --> 00:09:19,680
 # 走你
-Bye
+Let's go!
 
 import ending.srt 00:09:22,000 (请原样保留此行)
