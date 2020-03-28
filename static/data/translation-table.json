@@ -214,7 +214,8 @@
     },
     {
       "cn": "芹菜",
-      "en": "leaf celery",
+      "en": "Chinese celery",
+      "notes": "芹菜分西芹和唐芹，唐 就是形容词 中国的 Chinese",
       "category": "vegetable"
     },
     {
@@ -308,7 +309,7 @@
     },
     {
       "cn": "香菜",
-      "en": "coriander",
+      "en": "cilantro",
       "category": "vegetable"
     },
     {
@@ -398,7 +399,8 @@
     },
     {
       "cn": "腊肉",
-      "en": "chinese cured meat",
+      "en": "chinese cured pork",
+      "notes": "腊肉绝大多数是猪肉做的 pork 此处也可以写作 ham 不过腊肉用五花肉做的为正宗质高 用腿肉做的比较便宜",
       "category": "preserved"
     },
     {
@@ -576,7 +578,7 @@
     },
     {
       "cn": "鸡精",
-      "en": "chicken broth powder",
+      "en": "chicken bouillon",
       "category": "condiment"
     },
     {
@@ -646,7 +648,8 @@
     },
     {
       "cn": "辅料",
-      "en": "complementary ingredient",
+      "en": "other ingredient",
+      "notes": "这里是相对\"主料\"而言的，但并不是次要的材料。没有太好的译法",
       "category": "technical"
     },
     {
@@ -661,7 +664,7 @@
     },
     {
       "cn": "切末",
-      "en": "shred / cut ... into shreds",
+      "en": "mince / cut ... into mince",
       "category": "technical"
     },
     {
@@ -691,7 +694,7 @@
     },
     {
       "cn": "切丝",
-      "en": "julienne / shred",
+      "en": "julienne / french cut",
       "category": "technical"
     },
     {
@@ -701,7 +704,7 @@
     },
     {
       "cn": "明油",
-      "en": "Ming You (literally \"brightening oil\")",
+      "en": "Ming You (literally \"oil for a shiny presence\")",
       "category": "technical",
       "channel": "wang-gang"
     },
@@ -761,7 +764,7 @@
       "cn": "腌",
       "en": "cure",
       "category": "technical",
-      "notes": "仅限制作可长期保存的腌腊食物；不是腌泡 (marinate)"
+      "notes": "专指用盐腌制后放干；不是腌泡 (marinate)"
     },
     {
       "cn": "层次感",
@@ -902,6 +905,11 @@
       "en": "apprentice",
       "category": "noun",
       "notes": "指学徒，尚未出师的徒弟"
+    },
+    {
+      "cn": "学徒",
+      "en": "apprentice",
+      "category": "noun"
     },
     {
       "cn": "学徒",
