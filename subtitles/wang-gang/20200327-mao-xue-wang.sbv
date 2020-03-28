@@ -5,22 +5,22 @@
 # 简介
 # Introduction
 # 同学们好，今天和大家介绍一道重庆特色菜“毛血旺”，此菜为江湖菜的鼻祖，最初诞生于市井码头中，人们用屠夫每天剩下的杂碎下料，无意间创作出了现在深受大家喜欢的菜品。并且这道菜不局限于食材，喜欢什么就放什么，大家有机会可以在家尝试。
-# Hi friends, today I’ll share with you a special dish of Chongqing, “Mao Xue Wang”. This dish is the first when “Jiang Hu” cuisine (a Chongqing cuisine mainly consists of home-cooking dishes) started, it was first created in local marketplace where people would use the leftovers of butchers and they accidentally created a dish that was everyone’s favourite. Moreover, the ingredients in this dish is unlimited, you can use whatever you want and I hope you guys can try this at home if you have the chance.
+# Hi friends, today I’ll share with you a special dish of Chongqing, “Mao Xue Wang”. It is the origin of “Jiang Hu” cuisine (a Chongqing cuisine mainly consists of home-cooking dishes), and was first created in local street markets. People utilized cheap meat off-cuts and accidentally created a dish that soon became everyone’s favourite. The recipe is flexible and you can add whatever you want. I hope you guys can try this at home when you have the chance.
 
 # 本期菜品：【毛血旺】
 # Dish of the issue: 【Mao Xue Wang】
 # 【主料】
 # 【Main ingredients】
 # 鸭血（约500克）
-# Duck blood (about 500g)
+# Duck blood curd (about 500g)
 # 鲜毛肚（500克）
-# Beef tripes (about 500g)
+# Beef blanket tripe (about 500g)
 # 猪黄喉（2条）
 # Pork Aorta (2 strips)
 # 鳝鱼（300克）
 # Asian swamp eels (about 300g)
 # 火腿肠（1根）
-# Sausage ( 1 )
+# Luncheon meat / SPAM
 
 # 【辅料】
 # 【Complementary ingredient】
@@ -37,13 +37,13 @@
 # 干辣椒（20克）
 # Dried chili pepper ( 20g )
 # 凤尾（2颗）
-# You Mai lettuce ( 2 heads )
+# Sword leaf lettuce ( 2 heads )
 # 黄豆芽（适量）
-# Yellow bean sprouts ( appropriate amount )
+# Soybean sprouts 
 # 植物油（适量）
 # Vegetable oil ( appropriate amount )
 # 青花椒（适量）
-# Sichuan green peppercorn ( appropriate amount )
+# Green Sichuan peppercorns ( appropriate amount )
 # 蒜蓉末（适量）
 # Minced garlic ( appropriate amount )
 # 菜籽油（适量）
@@ -51,9 +51,9 @@
 # 刀口辣椒面（适量）
 # Daokou chili powder ( appropriate amount )
 # 白芝麻（适量）
-# White sesame ( appropriate amount )
+# White sesame seeds ( appropriate amount )
 # 芹菜叶（少许）
-# Parsley leaves ( A few )
+# Chinese celery leaves ( A few )
 # 【调味料】
 # 【Seasoning】
 # 食用盐（适量）
@@ -85,7 +85,7 @@ Mao Xue Wang
 
 0:00:05.720,0:00:07.700
 # 首先我们准备鸭血1大块（约500克）
-First, let’s prepare a big piece of duck blood ( about 500g )
+First, let’s prepare a big chunk of duck blood curd( about 500g )
 
 0:00:07.775,0:00:10.425
 # 不喜欢鸭血的同学可以用猪血代替
@@ -93,11 +93,11 @@ Those who dislike duck blood can replace it with pork blood
 
 0:00:13.725,0:00:16.600
 # 准备新鲜毛肚500克改刀切成小块备用
-Prepare 500g of fresh beef tripes, and cut it into smaller pieces
+Prepare 500g of fresh beef blanket tripe, and cut it into smaller pieces
 
 0:00:16.600,0:00:19.125
 # 同学们最好选择未加工的原始毛肚
-It’s better to choose unprocessed natural beef tripes
+It’s better to choose unprocessed, unbleached blanket tripe
 
 0:00:19.125,0:00:20.575
 # 这样成菜更香
@@ -117,7 +117,7 @@ Friends, this is not pork oesophagus or pork trachea
 
 0:00:39.943,0:00:43.734
 # 黄喉属于连接心脏的一条主动脉俗称心血管
-It is the main blood vessel for the pig’s heart
+It is the largest artery and is connected to the heart
 
 0:00:47.949,0:00:51.202
 # 准备现宰杀去骨鳝鱼300克切成小段备用
@@ -125,15 +125,15 @@ Prepare 300g of fresh killed deboned Asian swamp eels and cut them into small pi
 
 0:00:51.202,0:00:55.728
 # 同学们毛血旺的四大件就是鸭血毛肚鳝鱼片黄喉
-Friends, the 4 main ingredients for Mao Xue Wang are duck blood, beef tripes, Asian swamp eels and pork aorta
+Friends, the 4 main ingredients for Mao Xue Wang are duck blood, beef blanket tripe, Asian swamp eels and pork aorta
 
 0:00:55.728,0:00:58.217
 # 当然也可以加入其它喜欢的食材
-Of course, you can add in other food ingredients that you like
+Of course, you can add in other ingredients that you like
 
 0:01:04.158,0:01:06.647
 # 最后准备火腿肠1根切成片备用
-Lastly, prepare one sausage and cut it into thin slices
+Lastly, some sliced luncheon meat
 
 0:01:11.570,0:01:13.408
 # 下一步开始准备辅料
@@ -141,7 +141,7 @@ Next, let’s prepare complementary ingredient
 
 0:01:13.861,0:01:17.340
 # 准备大蒜生姜小米辣各20克切成小颗粒备用
-Dice 20g of garlic, ginger and "Xiaomila" chili pepper respectively
+Dice up garlic, ginger and "Xiaomila" chili pepper, 20g each
 
 0:01:17.340,0:01:20.141
 # 也可以加入泡姜和红泡椒增加风味
@@ -153,7 +153,7 @@ Prepare a big chunk of beef fat Sichuan hotpot soup base and cut it into pieces
 
 0:01:27.949,0:01:31.315
 # 不喜欢牛油味的同学可以用清油火锅底料代替
-If you dislike beef fat flavour you can use plant-based fat hotpot soup base
+If you dislike beef fat flavour you can use rapeseed oil hotpot soup base
 
 0:01:34.936,0:01:37.850
 # 准备小米辣干辣椒20克剪成小节备用
@@ -161,19 +161,19 @@ Prepare 20g of "Xiaomila" dried chili pepper and cut it into smaller pieces
 
 0:01:39.971,0:01:42.065
 # 下一步开始准备垫底的配菜
-Then, let’s prepare vegetable to put at the bottom of the dish
+Then, let’s prepare the vegetables to put at the bottom of the dish
 
 0:01:42.291,0:01:45.572
 # 准备凤尾2颗从中间破开之后切成小段备用
-Prepare 2 You Mai lettuce and cut it into smaller pieces after cutting it in the middle
+Prepare 2 stems of sword leaf lettuce. Cut it in half lengthwise then into smaller pieces 
 
 0:01:51.513,0:01:53.578
 # 最后加入适量的黄豆芽备用
-Last, prepare an appropriate amount of yellow bean sprouts
+Lastly, some soybean sprouts
 
 0:01:53.578,0:01:56.096
 # 同学们垫底配菜可自行选择不受限制
-You can choose whatever vegetables you like, the choices are unlimited
+You can choose whatever vegetables you like. There's no limit.
 
 0:01:56.096,0:01:57.454
 # 下一步开始制作
@@ -185,15 +185,15 @@ First heat up the wok
 
 0:01:59.745,0:02:01.867
 # 锅烧热之后加入适量的底油
-After the wok is hot enough add an appropriate amount of base oil
+After the wok is hot enough add some base oil
 
 0:02:06.364,0:02:09.504
 # 然后加入适量的青花椒干辣椒和蒜蓉炝锅
-Then add some Sichuan green peppercorn, dried chili pepper and garlic to bring out the aroma
+Then add some green Sichuan peppercorns, dried chili pepper and garlic and bring out the aroma
 
 0:02:09.957,0:02:13.267
 # 再加入准备好的配菜下锅翻炒1分钟炒至断生
-Then add the prepared vegetables and stir fry for 1 min until half cooked
+Then add the prepared vegetables and stir fry for 1 min until softened
 
 0:02:24.526,0:02:27.299
 # 中途加入适量的食用盐和白糖调底味
@@ -201,11 +201,11 @@ Add some salt and white sugar halfway through to have a better flavour base
 
 0:02:34.540,0:02:36.775
 # 翻炒均匀之后盛出垫底备用
-After stir-frying it, ladle out the vegetables into the bottom of the dish
+After stir-frying it, ladle out the vegetables and transfer to the bottom of the dish
 
 0:02:42.687,0:02:44.639
 # 锅中重新加入适量的清水
-Add some distilled water into the wok
+Add some water into the wok
 
 0:02:47.722,0:02:51.400
 # 加入食用盐1小勺之后将切好的鸭血焯水30秒钟
@@ -213,11 +213,11 @@ Add a teaspoon of salt and parboil the duck blood for 30 seconds
 
 0:02:51.400,0:02:54.115
 # 加盐焯水可以让鸭血更加的嫩滑
-Parboiling in salted water can result in a more tender duck blood
+Parboiling in salted water can result in a more tender texture
 
 0:02:54.115,0:02:57.369
 # 前提是鸭血不能切得太小块否则很容易碎
-But we must not cut the duck blood into tiny pieces or they will fall apart easily
+But the cut shouldn't be too small or they will fall apart easily
 
 0:03:02.263,0:03:04.215
 # 30秒钟之后将鸭血捞出
@@ -229,11 +229,11 @@ Then add the pork aorta and beef tripes to boil for 10 seconds
 
 0:03:19.830,0:03:24.158
 # 将黄喉和毛肚倒出之后锅中再次加入适量的清水开大火烧开
-After draining out the pork aorta and beef tripes, add some water and boil it with high heat
+After draining the pork aorta and beef tripe, add some water and bring to a boil over high heat
 
 0:03:30.806,0:03:32.446
 # 中途加入适量的料酒
-Add an appropriate amount of Chinese cooking wine in the middle
+Add an appropriate amount of Chinese cooking wine
 
 0:03:33.125,0:03:36.011
 # 水开之后将切好的鳝鱼下锅焯水30秒
@@ -241,7 +241,7 @@ Once the water boils, add the eel pieces to parboil for 30 seconds
 
 0:03:36.011,0:03:38.755
 # 这一步的目的是去除鳝鱼的一些泥腥味
-The purpose of this step is to remove the muddy taste of the fish
+The purpose of this step is to remove some of the muddy, fishy taste
 
 0:03:50.693,0:03:52.786
 # 焯好水之后再冲洗几遍
@@ -253,7 +253,7 @@ Next let’s start cooking
 
 0:04:06.364,0:04:09.080
 # 首先我们把锅烧热烧至冒青烟
-First heat up the wok until some smoke is seen
+First heat up the wok until it smokes
 
 0:04:10.466,0:04:12.333
 # 然后加入适量的菜籽油
@@ -261,7 +261,7 @@ Then add some rapeseed oil
 
 0:04:21.329,0:04:24.158
 # 油温7成热之后加入适量的青花椒炝锅
-When the oil has reached 210°C, add some	 Sichuan green peppercorn to enhance the flavour
+When the oil has reached 210°C, add some green Sichuan peppercorns to enhance the flavour
 
 0:04:24.158,0:04:27.185
 # 再加入准备好的所有料头和底料炒香炒化
@@ -273,11 +273,11 @@ Add 20g of doubanjiang and fry it until fragrant
 
 0:04:45.912,0:04:48.769
 # 底料炒香之后加入适量的清水开大火烧开
-Then add some distilled water and boil it with high heat
+Then add some water and boil over high heat
 
 0:04:48.769,0:04:51.456
 # 同学们清水的量既不能多也不能少
-Friends, the amount of the water has to be exact
+Friends, the amount of the water has to be precise
 
 0:04:51.456,0:04:53.267
 # 大约是所有底料的4倍
@@ -305,7 +305,7 @@ Add a little bit of white sugar to enhance the umami taste
 
 0:05:08.910,0:05:11.470
 # 调好味之后加入焯好水的原料和火腿
-After seasoning, add in the parboiled ingredients and the sausage
+After seasoning, add in the parboiled ingredients and the luncheon meat
 
 0:05:11.470,0:05:13.748
 # 然后转小火烧1分钟烧至入味
@@ -317,7 +317,7 @@ After cooking for 1 minute, pour the dish into the bowl
 
 0:05:37.963,0:05:40.028
 # 下一步开始准备撒料泼油
-Next step is to season and pour some hot oil into the bowl
+Next step is to pour some hot oil over the dish
 
 0:05:40.028,0:05:44.073
 # 盆中撒入适量的蒜蓉末刀口辣椒面和炒香的白芝麻
@@ -333,15 +333,15 @@ Next step is the pouring of hot oil
 
 0:05:49.024,0:05:52.107
 # 锅烧热之后加入1满勺植物油烧至7成热
-After the wok is heated up , add a ladle of vegetable oil and heat it until 210°C
+After the wok is heated up , add a ladle of vegetable oil and heat it to 210°C
 
 0:05:56.916,0:05:59.971
 # 油温烧至7成热之后均匀的泼在盆中即可
-Then pour the hot oil into the bowl evenly
+Then pour the hot oil over the dish evenly
 
 0:06:06.534,0:06:09.533
 # 最后撒上芹菜叶或者葱花香菜即可上菜
-Lastly, sprinkle some parsley leaves or scallions and you can serve it
+Lastly, sprinkle some celery leaves / scallions / cilantro and you can serve it
 
 0:06:10.440,0:06:12.920
 # 一道非常美味的毛血旺就制作完成
@@ -351,11 +351,11 @@ A delicious Mao Xue Wang is served!
 # 下面开始技术总结
 Technical summary below
 第一，毛血旺是 指配料粗狂食材杂乱，是重庆江湖菜的鼻祖之一，选料上只遵循一个原则即喜欢吃什么就加什么
-First, Mao Xue Wang indicates the limitless ingredients you can use and it’s the earliest created dish in the Jiang Hu cuisine, the only principle for this dish is that you can add whatever ingredients you like
+First, Mao Xue Wang indicates the limitless ingredients you can use and it’s the earliest created dish of Jiang Hu cuisine. The only principle for this dish is that you can add whatever ingredients you like
 第二，一般 餐厅出菜必须有以下四大件，鸭血，毛肚，黄喉，鳝鱼片
-Secondly, restaurants serving this dish must include duck blood, beef tripes, pork aorta and Asian swamp eels
+Secondly, restaurants serving this dish must include duck blood, beef blanket tripe, pork aorta and Asian swamp eels
 第三，此菜属于重油重味类型的菜，因为油多所以很适合冬天长时间保温
-Thirdly, this dish is extremely rich in flavour and has a lot of oil, thus it is suitable to keep warm for a long time in the winter season
+Thirdly, this dish is extremely rich in flavour and has a lot of oil, thus it stays warm for a long time in the winter
 第四，底料可以选择火锅底料或者自制底料，又或者只用红油豆瓣酱
 Fourthly, for the hotpot soup base, you can use store bought ones or you can make it yourself, using red oil and doubanjiang only is acceptable too
 家常毛血旺的技术总结完毕
