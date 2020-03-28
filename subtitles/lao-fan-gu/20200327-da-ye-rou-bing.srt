@@ -15,7 +15,9 @@
 # 特殊时期，大爷二伯三叔不串门、不聚会。小友们也要尽量避免去人多的地方哦，大家伙儿可以借此机会在家多多练习自己的厨艺！
 # Hello friends, Da Ye has been quarantined for about forty days, really missed you guys! The burger Da Ye is going to make today is a family edition, with a shy smile, he did some good work. Because this video is shot by Da Ma. And this episode is extra long because of the back and forth conversation be tween them
 # while Da Ye prep the dough and fillings, really happy life. Because of the quarantine, Da Ye, Er Bai and San Shu didn’t visit each other. You should avoid social contact and crowds as well, maybe use this period to practice your cooking skills!
+
 # import intro (请原样保留此行)
+
 # 字幕
 
 1
@@ -1014,4 +1016,5 @@ Having a chef at home is awesome
 00:09:18,240 --> 00:09:19,680
 # 走你
 Bye
+
 import ending.srt 00:09:22,000 (请原样保留此行)
