@@ -2,11 +2,12 @@
 <html lang="zh-cn">
 <title>对译表 | YTSubtitles</title>
 <script>
+const fetchInit = { cache: 'no-cache' };
 let tableJson;
-const dataFetcher = fetch('./data/translation-table.json').then(r => r.json()).then(r => tableJson = r);
+const dataFetcher = fetch('./data/translation-table.json', fetchInit).then(r => r.json()).then(r => tableJson = r);
 
 let channelsJson;
-const channelFetcher = fetch('./data/channels.json').then(r => r.json()).then(r => channelsJson = r);
+const channelFetcher = fetch('./data/channels.json', fetchInit).then(r => r.json()).then(r => channelsJson = r);
 
 function createTables(tableJson, channelsJson) {
   const channels = {};
@@ -114,6 +115,10 @@ th, td {
   padding: 6px 13px;
   border: 1px solid #dfe2e5;
   text-align: left;
+}
+
+.cn, .en {
+  white-space: nowrap;
 }
 
 </style>
