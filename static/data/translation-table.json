@@ -86,6 +86,11 @@
       "category": "meat"
     },
     {
+      "cn": "猪肝",
+      "en": "pork liver",
+      "category": "meat"
+    },
+    {
       "cn": "肥肠",
       "en": "pork intestine",
       "category": "meat"
@@ -178,6 +183,34 @@
     {
       "cn": "黄鳝",
       "en": "ricefield eel",
+      "category": "meat"
+    },
+    {
+      "cn": "龙虾",
+      "en": "lobster",
+      "category": "meat",
+      "notes": "注意不能和 crawfish/crayfish 混用"
+    },
+    {
+      "cn": "小龙虾",
+      "en": "crawfish",
+      "category": "meat",
+      "notes": "两种称呼皆可；注意不能和 lobster 混用"
+    },
+    {
+      "cn": "小龙虾",
+      "en": "crayfish",
+      "category": "meat",
+      "notes": "两种称呼皆可；注意不能和 lobster 混用"
+    },
+    {
+      "cn": "带鱼",
+      "en": "beltfish",
+      "category": "meat"
+    },
+    {
+      "cn": "猪杂",
+      "en": "pork offal",
       "category": "meat"
     },
     {
@@ -462,6 +495,12 @@
       "category": "spice"
     },
     {
+      "cn": "大料",
+      "en": "star anise",
+      "category": "spice",
+      "notes": "指八角"
+    },
+    {
       "cn": "草果",
       "en": "tsao-ko",
       "category": "spice"
@@ -537,6 +576,16 @@
       "category": "spice"
     },
     {
+      "cn": "五香",
+      "en": "five-spices",
+      "category": "spice"
+    },
+    {
+      "cn": "十三香",
+      "en": "thirtheen-spices",
+      "category": "spice"
+    },
+    {
       "cn": "调料",
       "en": "seasoning",
       "category": "condiment"
@@ -549,6 +598,11 @@
     {
       "cn": "料酒",
       "en": "Chinese cooking wine",
+      "category": "condiment"
+    },
+    {
+      "cn": "花雕",
+      "en": "\"Huadiao\" rice wine",
       "category": "condiment"
     },
     {
@@ -565,6 +619,11 @@
       "cn": "香醋",
       "en": "Zhenjiang vinegar",
       "category": "condiment"
+    },
+    {
+      "cn": "黑醋",
+      "en": "balsamic vinegar",
+      "category": "指意大利黑醋，不要用于中式陈醋"
     },
     {
       "cn": "鲜露",
@@ -627,6 +686,11 @@
       "category": "condiment"
     },
     {
+      "cn": "吉士粉",
+      "en": "custard powder",
+      "category": "condiment"
+    },
+    {
       "cn": "香油",
       "en": "sesame oil",
       "category": "condiment"
@@ -678,14 +742,16 @@
       "category": "technical"
     },
     {
-      "cn": "顺着纹路（切）",
-      "en": "with the grain",
-      "category": "technical"
+      "cn": "顺着纹路",
+      "en": "(cut) with the grain",
+      "category": "technical",
+      "notes": "指切肉的方向"
     },
     {
-      "cn": "逆着纹路（切）",
-      "en": "against the grain",
-      "category": "technical"
+      "cn": "逆着纹路",
+      "en": "(cut) against the grain",
+      "category": "technical",
+      "notes": "指切肉的方向"
     },
     {
       "cn": "切粒",
@@ -712,7 +778,8 @@
       "cn": "宽油",
       "en": "Kuan You (literally \"broad oil\")",
       "category": "technical",
-      "channel": "wang-gang"
+      "channel": "wang-gang",
+      "notes": "宽油既是术语也是王刚频道的梗，必须当作专有名词处理"
     },
     {
       "cn": "底油",
@@ -794,11 +861,87 @@
     {
       "cn": "焯水",
       "en": "parboil",
+      "category": "technical",
+      "notes": "主要用于生肉焯水去除异味血水"
+    },
+    {
+      "cn": "焯水",
+      "en": "blanch",
+      "category": "technical",
+      "notes": "主要用于蔬菜等快速烫熟"
+    },
+    {
+      "cn": "面食",
+      "en": "pastry",
       "category": "technical"
+    },
+    {
+      "cn": "白案",
+      "en": "pastry",
+      "category": "technical",
+      "notes": "与\"红案\"相对，指面食"
+    },
+    {
+      "cn": "面团",
+      "en": "dough",
+      "category": "misc"
+    },
+    {
+      "cn": "碱面",
+      "en": "alkaline noodles",
+      "category": "misc"
+    },
+    {
+      "cn": "碱水面",
+      "en": "alkaline noodles",
+      "category": "misc"
+    },
+    {
+      "cn": "水淀粉",
+      "en": "slurry",
+      "category": "technical"
+    },
+    {
+      "cn": "勾芡",
+      "en": "add slurry",
+      "category": "technical"
+    },
+    {
+      "cn": "面糊",
+      "en": "batter",
+      "category": "technical",
+      "notes": "指油炸时裹在食物表面的面糊"
+    },
+    {
+      "cn": "醒面",
+      "en": "(let the dough) rest",
+      "category": "technical"
+    },
+    {
+      "cn": "脆",
+      "en": "crispy",
+      "category": "technical",
+      "notes": "指物理性质上的容易碎裂，例如煎/烤后食物的酥脆；注意不要和 crunchy 混用"
+    },
+    {
+      "cn": "脆",
+      "en": "crunchy",
+      "category": "technical",
+      "notes": "指口感上的爽脆，可以用于形容多汁或有一定韧性的物体；注意不要和 crispy 混用"
     },
     {
       "cn": "豆腐皮",
       "en": "tofu skin",
+      "category": "misc"
+    },
+    {
+      "cn": "猪血",
+      "en": "pork blood curd",
+      "category": "misc"
+    },
+    {
+      "cn": "鸭血",
+      "en": "duck blood curd",
       "category": "misc"
     },
     {
@@ -809,6 +952,16 @@
     {
       "cn": "鱼刺",
       "en": "fishbone",
+      "category": "misc"
+    },
+    {
+      "cn": "酵母",
+      "en": "yeast",
+      "category": "misc"
+    },
+    {
+      "cn": "油烟机",
+      "en": "range hood",
       "category": "misc"
     },
     {
@@ -980,6 +1133,23 @@
     {
       "cn": "螺蛳粉",
       "en": "luosifen rice noodles",
+      "category": "dish"
+    },
+    {
+      "cn": "粥",
+      "en": "congee",
+      "category": "dish",
+      "notes": "指中式米粥；不要和 porridge 混用"
+    },
+    {
+      "cn": "粥",
+      "en": "porridge",
+      "category": "dish",
+      "notes": "指西式粥如燕麦粥等；不要和 congee 混用"
+    },
+    {
+      "cn": "皮冻",
+      "en": "pork skin jelly",
       "category": "dish"
     }
   ]
