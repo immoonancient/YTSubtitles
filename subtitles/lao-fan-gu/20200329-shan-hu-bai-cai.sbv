@@ -21,8 +21,9 @@
 # 黄金白菜卷：https://www.youtube.com/watch?v=QHQB-GNjcLA
 # Golden Napa Cabbage Roll: https://www.youtube.com/watch?v=QHQB-GNjcLA
 
+# import intro
+
 # 字幕
-# 本期视频需自行制作时间轴及中文对照稿
 
 0:00:00.000,0:00:02.880
 # 您又做大白菜？我來個珊瑚白菜。
@@ -276,4 +277,4 @@ Okay, so beautiful.
 # 珊瑚白菜 又是一個菜
 Coral Napa Cabbage.
 
-# import ending.srt 00:03:47,000
+# import ending.sbv 00:03:47,000
