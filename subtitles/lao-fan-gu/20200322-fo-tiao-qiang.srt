@@ -1230,4 +1230,4 @@ Take a bow to Da Ye
 # 我给大爷点个赞
 I'll give Da Ye a thumbs up
 
-# import ending.sbv 0:11:50.300
+# import ending.srt 00:11:50,300
