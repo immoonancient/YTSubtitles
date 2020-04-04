@@ -4,7 +4,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•二伯红烧肉】二伯创新版红烧肉，入口即化，晶莹剔透！知识点满满，必须学起来！|老饭骨
-# 【State Banquet Master Chef· Er Bai’s Braised Pork】Br Bai’s creative braised pork is soft and transparent. This video is full of technique that you have to learn!
+# State Banquet Master Chef - Er Bai’s Innovative Red Braised Pork, with flavors and techniques!
 
 # 简介
 # 小友们好，之前看过咱大爷做的高压锅版红烧肉，简单易学，酱香软糯。
@@ -12,7 +12,16 @@
 # 做红烧肉的时候，先炸一下，这样的红烧肉更香。加入橘子皮，能祛除肉的腥味。
 # 除了这些本期视频还讲了超多的细节，知识点满满的，小友们赶紧学起来！一通百通，可以灵活运用到我们平时做菜的时候！
 # 你还找到了哪些知识点呢，快来评论区告诉二伯！
-# Hi friends, we’ve seen Da Ye’s Braised Pork in an instant pot. It was easy and flavorful. Today, Er Bai brings us his creative version of braised pork. In this version, we will be using radish, fried pork and Tangerine skin, which will make it delicious.
+# Hi friends, we’ve seen Da Ye’s Red Braised Pork in a pressure cooker. It was easy and flavorful.
+# Today, Er Bai brings us his innovative version of red braised pork.
+# In this version, we will be using radish to absorb the flavor of pork, which is super tasty!
+# We slightly fry the pork before braising for a better flavor. We also add tangerine peels to remove the bad odors.
+# Besides that, this video also gives many techniques in details.
+# Friends, please get started! Master the one to master all, and apply it in our everyday cooking!
+# What are the other techniques you spot in the video? Leave a comment and let Er Bai know!
+
+# import intro
+
 # 字幕
 
 1
@@ -21,27 +30,27 @@
 2
 00:00:03,960 --> 00:00:06,760
 # 看看晶莹剃透
-look, It’s transparent.
+Look, it’s crystal clear.
 
 3
 00:00:06,760 --> 00:00:09,800
 # 今天终于见面了
-We finally meet each other.
+Today, finally we are on the stage.
 
 4
 00:00:09,800 --> 00:00:10,960
 # 本来老饭骨
-Orignlly, LaoFanGu
+Originally, Lao Fan Gu
 
 5
 00:00:10,960 --> 00:00:12,520
 # 应该我们哥仨在一块
-should be we three brothers.
+should be the three old brothers of us together.
 
 6
 00:00:12,520 --> 00:00:13,640
 # 特殊的非常时期
-But it’s during lockdown,
+But it is in a special situation,
 
 7
 00:00:13,640 --> 00:00:14,360
@@ -61,7 +70,7 @@ a fan left a message,
 10
 00:00:18,560 --> 00:00:21,240
 # 要求红烧肉 五花三层
-that he required to cook Braised Pork.
+that he requested Red Braised Pork with pork belly.
 
 11
 00:00:21,240 --> 00:00:22,640
@@ -75,14 +84,13 @@ we also use radish.
 
 13
 00:00:23,760 --> 00:00:25,160
-
 # 这红萝卜的作用
-# The purpose of radish is that
+You know what
 
 14
 00:00:25,160 --> 00:00:27,080
 # 这个季节是正当时
-bear radish is in season now.
+It's the season for enjoying radish now.
 
 15
 00:00:27,080 --> 00:00:29,640
@@ -92,7 +100,7 @@ We use green onion and ginger water to soak the meat over night.
 16
 00:00:29,640 --> 00:00:32,320
 # 泡一宿冲干净把水空完了之后
-Then, clean and dry the meat on the next day.
+Then, clean and drain the meat on the next day.
 
 17
 00:00:32,320 --> 00:00:34,040
@@ -102,7 +110,7 @@ And then we will fry it.
 18
 00:00:34,040 --> 00:00:39,440
 # 这样就把肉的脏腥味全部拿掉了
-This way helps to dissolve all the fishy flavor in the meat.
+This way helps to remove all the bad odors in the meat.
 
 19
 00:00:39,440 --> 00:00:41,000
@@ -112,17 +120,17 @@ Mater, for this dish,
 20
 00:00:41,000 --> 00:00:42,960
 # 是传统的红烧肉
-are you going to make traditional braised pork
+are you going to make a traditional red braised pork
 
 21
 00:00:42,960 --> 00:00:45,840
 # 还是有创新点的红烧肉
-or creative Braised Pork?
+or an innovative red braised Pork?
 
 22
 00:00:45,840 --> 00:00:46,920
 # 我们这有点创新点
-There are some creative ideas in it.
+There are some innovative ideas in it.
 
 23
 00:00:46,920 --> 00:00:48,680
@@ -132,12 +140,12 @@ Wei, what do you think the final result is?
 24
 00:00:48,680 --> 00:00:52,200
 # 最终的结果就是好吃好看好玩
-The final version? Should be delicious, good looking and fun!
+The final result? Should be delicious, good looking and fun!
 
 25
 00:00:52,200 --> 00:00:54,320
 # 第一步 肉咱改工完了
-First step is to cut the meat.
+First step, we've done cutting the meat.
 
 26
 00:00:54,320 --> 00:00:56,720
@@ -147,12 +155,12 @@ And cut the root of radish.
 27
 00:00:56,720 --> 00:00:59,280
 # 小樱桃萝卜漂亮 水分足
-These radishs are beautiful, hydrated.
+These radishes are beautiful, hydrated.
 
 28
 00:00:59,280 --> 00:01:01,160
 # 你别瞧看似一个普通的菜
-Although it’s a normal dish,
+Although it’s a common dish,
 
 29
 00:01:01,160 --> 00:01:04,360
@@ -172,12 +180,12 @@ It will taste so good.
 32
 00:01:07,640 --> 00:01:10,480
 # 萝卜喜荤
-Radish and meat are a good paring,
+Radish and meat are a good pairing,
 
 33
 00:01:10,480 --> 00:01:13,040
 # 比方说广东菜的萝卜牛腩
-like radish burdock from Guangdong dish.
+like the Cantonese dish "Luobo Niunan" (beef brisket with radish).
 
 34
 00:01:13,040 --> 00:01:14,720
@@ -192,12 +200,12 @@ we slightly smash it.
 36
 00:01:17,520 --> 00:01:18,800
 # 拍裂就行
-As long as you see the crack.
+As long as you see the cracks.
 
 37
 00:01:18,800 --> 00:01:20,600
 # 还不能变形 不能拍开了是吧
-You still need to see the original shape, don’t smash it over.
+You still need to keep the original shape, don’t smash it over.
 
 38
 00:01:20,600 --> 00:01:22,720
@@ -212,22 +220,22 @@ Let’s see the spices:
 40
 00:01:24,120 --> 00:01:26,480
 # 八角 桂皮
-star anise,cinnamon;
+star anise, cinnamon;
 
 41
 00:01:26,480 --> 00:01:28,720
 # 用这料不要特别多 淡淡的就够了
-don’t over use these spices, just leave a little flavor;
+don’t use too much of these spices, just leave a mild flavor;
 
 42
 00:01:28,720 --> 00:01:31,360
 # 一个白蔻一点香叶
-one white cardamom, some bay leaf,
+one white cardamom, some bay leaves,
 
 43
 00:01:31,360 --> 00:01:32,400
 # 一个葱一个姜
-one green onion, one ginger,
+one green onion, one piece of ginger,
 
 44
 00:01:32,400 --> 00:01:34,400
@@ -242,7 +250,7 @@ Fry some onion oil, right?
 46
 00:01:36,280 --> 00:01:40,520
 # 叫它充分的能给它吸收了
-Make sure the oil is fully flavored by green onion.
+Make sure the green onion is infused into the oil.
 
 47
 00:01:40,520 --> 00:01:41,920
@@ -267,12 +275,12 @@ so the flavor of ginger comes out first.
 51
 00:01:46,840 --> 00:01:48,360
 # 你要做红烧肉怎么个做法
-How would you cook braised pork?
+How would you cook the red braised pork?
 
 52
 00:01:48,360 --> 00:01:50,720
 # 没做过葱烧红烧肉
-I’ve never use onion oil to make braised pork.
+I’ve never use onion oil to make red braised pork.
 
 53
 00:01:50,720 --> 00:01:52,720
@@ -282,7 +290,7 @@ It’s my first time to make onion oil first.
 54
 00:01:52,720 --> 00:01:54,240
 # 创新的目的是为了什么
-what's the purpose of innovation?
+What's the purpose of innovation?
 
 55
 00:01:54,240 --> 00:01:56,080
@@ -297,7 +305,7 @@ Because it’s different from the past now.
 57
 00:01:58,640 --> 00:02:00,960
 # 过去原材料它非常好
-The raw material was organic in the past.
+The raw materials were too good in the past.
 
 58
 00:02:00,960 --> 00:02:03,760
@@ -307,17 +315,17 @@ That’s why we need to make sure that,
 59
 00:02:03,760 --> 00:02:05,200
 # 比如肉也好鱼也好
-like meat or fish,
+like when preparing meat or fish,
 
 60
 00:02:05,200 --> 00:02:08,440
 # 可能异味的东西比较重一些
-the ones may taste fishy
+or those with stronger odors
 
 61
 00:02:08,440 --> 00:02:10,080
 # 处理掉 让它更加香
-unfishy, but tasty.
+Get rid of the odors, make it more tasty.
 
 62
 00:02:10,080 --> 00:02:12,600
@@ -332,7 +340,7 @@ Flavor is most important.
 64
 00:02:14,200 --> 00:02:17,920
 # 油温上来了 葱放里边
-It gets the heat, put green onion in it.
+The oil is hot, put green onion in it.
 
 65
 00:02:17,920 --> 00:02:20,000
@@ -342,7 +350,7 @@ Slowly fry them.
 66
 00:02:20,000 --> 00:02:22,440
 # 小葱油你看 香气出来了
-Onion oil, look，the smells get out.
+Onion oil. Look, the aroma gets out.
 
 67
 00:02:22,440 --> 00:02:26,240
@@ -362,17 +370,17 @@ Master, we should fry until the color changes to golden yellow, right?
 70
 00:02:30,040 --> 00:02:33,440
 # 过去做红烧肉基本不飞水
-The meat wasn’t so watery in the past.
+In the past, we basically didn't parboil for red braised pork
 
 71
 00:02:33,440 --> 00:02:36,960
 # 炒糖色之后 用糖直接裹直接粘
-The Caramelized sugar used to cover the meat directly.
+We just used caramelized sugar to cover the meat directly.
 
 72
 00:02:36,960 --> 00:02:38,400
 # 粘上糖其实它有什么
-the purpose of using caramelized sugar,
+The purpose of using caramelized sugar are,
 
 73
 00:02:38,400 --> 00:02:39,920
@@ -387,7 +395,7 @@ during the covering process, it shrinks the meat.
 75
 00:02:42,440 --> 00:02:44,000
 # 还有一种去腥的作用
-the other one is unfishy it.
+the other one is remove the bad odors.
 
 76
 00:02:44,000 --> 00:02:45,240
@@ -407,7 +415,7 @@ What are the details?
 79
 00:02:47,840 --> 00:02:50,920
 # 当年在酒店来的第一件事干嘛
-The first thing to do in a hotel...
+When I first worked in a restaurant, the first thing I did was...
 
 80
 00:02:50,920 --> 00:02:52,600
@@ -417,12 +425,12 @@ Master, this is good right?
 81
 00:02:53,520 --> 00:02:55,200
 # 上料 上汤
-Yes, leak the oil.
+Prepare the aromatics. The sauce.
 
 82
 00:02:55,200 --> 00:03:00,120
 # 所有的油 必须拿葱炸香给我炸出来
-the oil has to fry the onions first,
+All the oil has to fry the onions first,
 
 83
 00:03:00,120 --> 00:03:02,760
@@ -442,21 +450,22 @@ The room is full of the aroma from fried onion.
 86
 00:03:10,560 --> 00:03:12,240
 # 其实你通过气味的变化
-In fact, you can judge if the dish is good or not
+In fact, through the changes in the aroma,
 
 87
 00:03:12,240 --> 00:03:15,920
 # 你就能明白这个菜香不香
-through the changes in the aroma.
+you can judge if the dish is flavor or not,
 
 88
 00:03:15,920 --> 00:03:17,400
 # 出来好不好
+if it will be good or not.
 
 89
 00:03:17,400 --> 00:03:20,480
 # 慢慢的煸  肉就收缩了
-Slowly stir them, the meat will shrink.
+Slowly stir-fry it, the meat will shrink.
 
 90
 00:03:20,480 --> 00:03:23,840
@@ -466,7 +475,7 @@ The fat goes out so the meat will not be greasy.
 91
 00:03:23,840 --> 00:03:24,720
 # 现在就很有食欲了
-They look tasty.
+It looks tasty.
 
 92
 00:03:24,720 --> 00:03:26,400
@@ -481,7 +490,7 @@ Which do you think is more flavorful?
 94
 00:03:29,400 --> 00:03:31,800
 # 你是不炸 你直接炖
-The chicken pieces you fried first,
+The chicken pieces you have fried first,
 
 95
 00:03:31,800 --> 00:03:33,000
@@ -501,7 +510,7 @@ Everyone look at it.
 98
 00:03:36,320 --> 00:03:38,520
 # 多余的油不要了
-Leave the left oil alone.
+We don't need the excess oil.
 
 99
 00:03:38,520 --> 00:03:41,720
@@ -549,7 +558,7 @@ Not yet.
 108
 00:03:58,160 --> 00:04:00,960
 # 等会颜色还不到 不到时候
-It’s not the right color.
+It’s not the right color yet.
 
 109
 00:04:00,960 --> 00:04:03,840
@@ -572,7 +581,7 @@ Wei, that’s good.
 113
 00:04:14,200 --> 00:04:15,240
 # 小魏可以了
-Wei,It’s enough.
+Wei, it’s enough.
 
 114
 00:04:15,240 --> 00:04:18,360
@@ -605,7 +614,7 @@ Add some onion oil.
 120
 00:04:29,840 --> 00:04:31,720
 # 这两块（大料）够么 够了
-Two star asises? Yeah.
+Two star anises? Yeah.
 
 121
 00:04:31,720 --> 00:04:34,680
@@ -620,12 +629,13 @@ Restir the meat.
 123
 00:04:36,360 --> 00:04:38,160
 # 二次回锅煸炒
-Stir the meat again.
+Stir-fry the meat again.
 
 124
 00:04:38,160 --> 00:04:42,640
 # 黄酒 来一瓶啊师父 来一瓶都没事
-Rice wine. Using one bottle of it, master? It’s okay to use one bottle.
+- Rice wine. The whole bottle, master?
+- That's fine.
 
 125
 00:04:42,640 --> 00:04:45,360
@@ -665,7 +675,7 @@ What’s the purpose of adding sugar?
 132
 00:04:57,560 --> 00:04:59,360
 # 主要提鲜又平衡味道
-Mainly to refresh and balance the flavor.
+Mainly to enhance the umami taste and balance the flavor.
 
 133
 00:04:59,360 --> 00:05:02,520
@@ -715,12 +725,12 @@ Fry radish, Brother I can do it.
 142
 00:05:20,560 --> 00:05:21,640
 # 说说油温
-speak about oil temperature,
+Speaking about oil temperature,
 
 143
 00:05:21,640 --> 00:05:23,840
 # 九十到一百三十度 这是一个温度
-90 to 130 degree is a range,
+90 to 130 degrees is a range,
 
 144
 00:05:23,840 --> 00:05:27,080
@@ -770,37 +780,37 @@ what is this temperature good for?
 153
 00:05:41,560 --> 00:05:44,760
 # 像滑溜肉片 滑炒的东西
-Like Hua Liu Meat, those cook with frying.
+Like Hua Liu Meat, those kind of things.
 
 154
 00:05:44,760 --> 00:05:47,600
 # 滑炒非常之嫩 入口即化
-the food is soft using Huachao, it melts in the mouth.
+With that technique, the food is so tender that it melts in the mouth.
 
 155
 00:05:47,600 --> 00:05:49,280
 # 最高点一百七到二百三
-the highest range is 170 to 230 degree.
+the highest range is 170 to 230 degrees.
 
 156
 00:05:49,280 --> 00:05:50,400
 # 这温度适合炸菜
-This is good at deep frying.
+This is good for deep frying.
 
 157
 00:05:50,400 --> 00:05:53,000
 # 松鼠鱼 脆皮等等的系列的
-Like Songshu fish, the ones with crispy skin.
+Like Squirrel fish, or those with crispy skin.
 
 158
 00:05:53,000 --> 00:05:55,320
 # 没味儿怎么弄啊 前期入味
-What should we do if it’s not flavorful? season it at first.
+What should we do if it’s not flavorful? Season it in advance.
 
 159
 00:05:55,320 --> 00:05:56,800
 # 因为萝卜它不容易进味
-Its difficult to infuse the meat with the radish.
+As radish doesn't absorb too much flavor.
 
 160
 00:05:56,800 --> 00:05:59,040
@@ -810,27 +820,27 @@ I can hear the sound from the oil.
 161
 00:05:59,040 --> 00:06:02,000
 # 这个皮 这东西是最去腥的
-This skin is more useful without the fish flavor.
+This peel is more useful to remove those bad odors.
 
 162
 00:06:02,000 --> 00:06:06,440
 # 过去发那些特别腥的 用这个最棒
-In the past this is the best to remove the fishy smell.
+In the past this was the best to remove the bad odors.
 
 163
 00:06:06,440 --> 00:06:08,240
 # 你们家有橘子皮没有
-Do you have Tangerine skin at home?
+Do you have tangerine peel at home?
 
 164
 00:06:08,240 --> 00:06:11,920
 # 搁两块你看 它确实是去腥
-Add two pieces. It removes the fishy smell.
+Add two pieces. It removes the bad odors.
 
 165
 00:06:11,920 --> 00:06:14,000
 # 好油温差不多了
-Okay, oil get to the temperature.
+Okay, oil temperature is good.
 
 166
 00:06:14,000 --> 00:06:14,640
@@ -879,7 +889,7 @@ It’s beautilful and flavorful.
 176
 00:06:33,920 --> 00:06:37,240
 # 看这红烧肉你看 你看这汁儿收的
-Look at this Braised Pork, look at this gravy.
+Look at this Red Braised Pork, look at this gravy.
 
 177
 00:06:37,240 --> 00:06:40,560
@@ -887,12 +897,12 @@ Look at this Braised Pork, look at this gravy.
 178
 00:06:40,560 --> 00:06:42,080
 # 晶莹剃透
-It’s clear.
+It’s crystal clear.
 
 179
 00:06:42,080 --> 00:06:47,720
 # 桂皮 香叶拣出来 挑出来
-Pick the cinnamon and bay leaf out.
+Pick the cinnamon and bay leaves out.
 
 180
 00:06:47,720 --> 00:06:49,440
@@ -902,22 +912,22 @@ Put it on high heat.
 181
 00:06:50,160 --> 00:06:52,440
 # 出锅喽来喽
-Out from the pot.
+Ready to serve!
 
 182
 00:06:52,440 --> 00:06:54,800
 # 当年我在华都的时候
-When I was in HuaDu,
+When I was at Huadu (hotel),
 
 183
 00:06:54,800 --> 00:06:59,160
 # 我们就用口布去装饰
-We use napkin to decorate.
+We used napkin to decorate.
 
 184
 00:06:59,160 --> 00:07:00,360
 # 其实自然也很美
-It originally looks is beautiful.
+Actually, it's already beautiful on its own.
 
 185
 00:07:00,360 --> 00:07:02,920
@@ -937,7 +947,7 @@ Brother, your camera movements are fine, too.
 188
 00:07:07,360 --> 00:07:09,960
 # 手都打哆嗦 想吃肉了
-My hands are shaking, I want to eat it.
+Your hands are shaking. You want to eat it.
 
 189
 00:07:10,480 --> 00:07:11,640
@@ -963,7 +973,7 @@ take a shot.
 194
 00:07:24,520 --> 00:07:26,720
 # 师父做这红烧肉
-This braised pork Master made,
+This red braised pork Master made,
 
 195
 00:07:26,720 --> 00:07:30,120
@@ -993,4 +1003,6 @@ Thank you, Master
 200
 00:07:38,320 --> 00:07:39,520
 # 最好吃的红烧肉
-The best braised pork
+The best red braised pork
+
+# import ending.srt 00:07:42,600
