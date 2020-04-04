@@ -110,6 +110,15 @@ function confirmVideoIdStage() {
   return new Stage(ui, () => params.video);
 }
 
+const owner = 'immoonancient';
+const repo = urlParams.istest ? 'TestRepo' : 'YTSubtitles';
+async function getRepoHead() {
+  const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/branches/master`);
+  const json = await response.json();
+  return json.commit;
+}
+let head;
+
 function confirmSubtitlesStage() {
   const ui = document.createElement('div');
   ui.innerHTML = `
@@ -131,15 +140,18 @@ function confirmSubtitlesStage() {
     if (path === '')
       return;
 
-    const prefix = urlParams.istest
-      ? 'https://raw.githubusercontent.com/immoonancient/TestRepo/master/subtitles/'
-      : 'https://raw.githubusercontent.com/immoonancient/YTSubtitles/master/subtitles/';
-
-    const fullurl = prefix + path;
     const parts = path.split('/');
     const fullname = parts[parts.length - 1];
     const name = fullname.split('.')[0];
     const format = fullname.split('.')[1];
+
+    async function resolveFullUrl() {
+      if (!head)
+        head = await getRepoHead();
+      const sha = head.sha;
+      const prefix = `https://raw.githubusercontent.com/${owner}/${repo}/${sha}/subtitles/`;
+      return prefix + path;
+    }
 
     async function loadAndUnfold(url) {
       function parseImportLine(line) {
@@ -262,7 +274,8 @@ function confirmSubtitlesStage() {
       : 'https://ytsubtitler-adposter.appspot.com/tools/format';
 
     let rawResult;
-    loadAndUnfold(fullurl)
+    resolveFullUrl()
+      .then(fullurl => loadAndUnfold(fullurl))
       .then(
         result => {
           rawResult = result;
