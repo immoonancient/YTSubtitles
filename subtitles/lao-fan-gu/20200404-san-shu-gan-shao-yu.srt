@@ -2,19 +2,19 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•三叔干烧鱼】不用勾芡也黏的三叔牌干烧鱼，甜辣咸酸，层次丰富，细节全在视频里了 |老饭骨
-# [State Banquet Master Chef - San Shu Dry-Braised Fish] Sweet, spicy, salty and sour, full of flavours and textures
+# State Banquet Master Chef - San Shu Dry-Braised Fish. Layers of flavours with excellent textures
 
 # 简介 Brief introduction
 # 小友们好，因为特殊时期不能聚会，
 # Hi everyone, as we can’t party due to this COVID situation
 # 大爷在家做了个烙饼， 二伯接力在饭店后厨做了个红烧肉，
-# Da Ye has grilled some pancakes at home, and Er Bai has used his restaurant kitchen to make us some soy sauce braised pork
+# Da Ye has made some pan-seared meat pie at home, and Er Bai has made us some soy sauce braised pork from his restaurant kitchen
 # 那咱们三叔又捣鼓了啥呢？
 # So, what has our San Shu done?
 # 嘿，三叔给咱整了个甜辣咸酸的干烧鱼。
 # Hey, San Shu has cooked his dry-braised fish for us, and it’s sweet, spicy, salty and sour
 # 今天做这干烧鱼，三叔可是讲解的细节到位，知识点满满！
-# In today’s video, San Shu will show us all the details dry braising the fish with loads of cooking tips!
+# # In today’s video, San Shu will show us all the details on dry braising the fish, with loads of cooking tips!
 # 怎么处理鱼？如何打刀？不用勾芡儿也黏的诀窍是啥？
 # How to prepare the fish? How to score it? What’s the secret of making the sauce viscous without adding slurry?
 # 醋在什么时候搁？干烧和红烧的区别？
@@ -57,7 +57,7 @@ Where does this viscosity come from?
 7
 00:00:12,760 --> 00:00:16,040
 # 肉肉冯 不能光给你肉吃
-Rou Rou Feng, I can’t just serve you meat
+Meat Eater Feng, I can’t just serve you meat
 
 8
 00:00:16,040 --> 00:00:19,480
@@ -117,7 +117,7 @@ We only had flatfish, beltfish and yellow croaker
 19
 00:00:44,200 --> 00:00:46,280
 # 就这三鱼 别的没什么鱼
-Just these three, no other species
+Just these three, no other kind of fish
 
 20
 00:00:46,280 --> 00:00:49,800
@@ -189,7 +189,7 @@ As we just need the juice to give the fish some base flavour
 35
 00:01:33,080 --> 00:01:36,680
 # 腌二十分钟就可以
-Marinate if for 20 minutes
+Marinate it for 20 minutes
 
 36
 00:01:36,680 --> 00:01:40,560
@@ -232,7 +232,7 @@ And I’ll eat less fish and more pork
 44
 00:01:54,720 --> 00:01:57,280
 # 这肉还真不少 不错不错
-That’s a decent amount of pork. They look great
+That’s a decent amount of pork. Looks great
 
 45
 00:01:57,280 --> 00:02:02,240
@@ -298,7 +298,7 @@ Make sure you pat dry the fish
 58
 00:02:24,360 --> 00:02:26,280
 # 省的崩着你 直接炸
-In case you get oil spilt on you. Deep fry it straight away
+The oil may splatter if just deep-frying the wet fish
 
 59
 00:02:26,280 --> 00:02:28,320
@@ -313,7 +313,7 @@ But the best way is deep frying
 61
 00:02:30,760 --> 00:02:33,280
 # 一过油它香啊
-It will be so aromatic after frying
+It will be extra aromatic after deep frying
 
 62
 00:02:33,280 --> 00:02:36,760
@@ -431,7 +431,7 @@ Sauté with low heat, and throw in all the minor ingredients
 87
 00:03:30,760 --> 00:03:35,800
 # 姜蒜笋香菇 煸炒
-Ginger, garlic, spring onions and shiitake mushrooms. Stir fry them
+Ginger, garlic, bamboo shoots and shiitake mushrooms. Stir fry them
 
 88
 00:03:35,800 --> 00:03:37,600
@@ -553,7 +553,7 @@ Yes, reverse cooking
 113
 00:04:33,880 --> 00:04:36,560
 # 一定是甜辣咸酸 这叫干烧
-It must have sweetness, spiciness, saltiness and sourness all combined. This is decent dry braising
+When it has sweetness, spiciness, saltiness and sourness well mixed and combined, this is called a decent dry braising dish.
 
 114
 00:04:36,560 --> 00:04:38,360
@@ -563,7 +563,7 @@ To cook a delicious fish dish at home
 115
 00:04:38,360 --> 00:04:40,000
 # 得需要工夫
-You need to have some skills
+It takes time.
 
 116
 00:04:40,000 --> 00:04:42,240
@@ -578,7 +578,7 @@ When it’s done, you will be rewarded with the sense of achievement
 118
 00:04:44,040 --> 00:04:45,720
 # 你像咱们做这么多年了
-After so many years of being a professional chef like me
+After so many years of being professional chefs like us
 
 119
 00:04:45,720 --> 00:04:48,440
@@ -641,12 +641,12 @@ They say all the umami in the fish would have gone after 40 minutes of braising
 131
 00:05:13,160 --> 00:05:14,480
 # 其实我们很鲜
-In fact, it’s still super umami
+In fact, it will be super umami
 
 132
 00:05:14,480 --> 00:05:17,440
 # 鱼鲜 原材料好 怎么做都好吃
-When you have the fish and other ingredients all in great quality, the dish will always be tasty no matter how you cook it
+When the fish and other ingredients are all fresh and in great quality, the dish will always come out tasty however way you cook it
 
 133
 00:05:17,440 --> 00:05:19,240
@@ -716,7 +716,7 @@ Chinese Cuisine wouldn’t taste as good without the oil
 146
 00:05:46,160 --> 00:05:48,360
 # 这待会要拌点米饭 神了
-Mix it with some rice in a minute. That’s divine
+Mix it with some rice in a minute. That’s fantastic
 
 147
 00:05:48,360 --> 00:05:49,640
@@ -756,7 +756,7 @@ Reduce the sauce down with very low heat
 154
 00:06:04,200 --> 00:06:06,480
 # 你像这火都属于大
-The heat here is already too high
+The heat now is still too high for what is needed here
 
 155
 00:06:06,480 --> 00:06:09,320
@@ -764,7 +764,7 @@ The heat here is already too high
 156
 00:06:09,320 --> 00:06:10,440
 # 应该还小
-It should be even lower
+It should turn down even lower
 
 157
 00:06:10,440 --> 00:06:13,120
@@ -777,12 +777,12 @@ This fish must be very beautiful once done
 159
 00:06:14,800 --> 00:06:15,800
 # 多棒这汁
-How gorgeous is this sauce?
+How gorgeous is this sauce!
 
 160
 00:06:15,800 --> 00:06:18,760
 # 黏不黏 你勾什么芡啊
-How viscous! Why do you add slurry then?
+How viscous! No need of any slurry
 
 161
 00:06:18,760 --> 00:06:20,320
@@ -807,7 +807,7 @@ We show you the real deal
 165
 00:06:26,840 --> 00:06:29,000
 # 你看现在基本上差不多了
-Now, it’s almost there
+Now, it’s getting there
 
 166
 00:06:30,200 --> 00:06:31,920
@@ -845,7 +845,7 @@ It’s still that saying from Lao Fan Gu
 173
 00:06:49,320 --> 00:06:52,280
 # 做菜就不能马虎 就不能含糊
-Cooking is serious, you can’t mess it up
+Cooking is serious, you can’t cut corner
 
 174
 00:06:52,280 --> 00:06:54,600
