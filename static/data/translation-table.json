@@ -730,7 +730,7 @@
       "cn": "油温",
       "en": "oil temperature",
       "category": "technical",
-      "notes": "翻译“油温X成热”的时候，将其转换为摄氏度，转换关系大致为 一成 = 30 度"
+      "notes": "翻译“油温X成热”时，将其转换为摄氏度，转换关系大致为 一成 = 30 度"
     },
     {
       "cn": "刀工",
@@ -895,12 +895,12 @@
     },
     {
       "cn": "面食",
-      "en": "pastry",
+      "en": "dough food",
       "category": "technical"
     },
     {
       "cn": "白案",
-      "en": "pastry",
+      "en": "dough food",
       "category": "technical",
       "notes": "与\"红案\"相对，指面食"
     },
