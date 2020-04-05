@@ -701,6 +701,11 @@
       "category": "condiment"
     },
     {
+      "cn": "晒醋",
+      "en": "\"Shaicu\" vinegar",
+      "category": "condiment"
+    },
+    {
       "cn": "点缀",
       "en": "garnish",
       "category": "technical"
@@ -715,6 +720,17 @@
       "en": "other ingredient",
       "notes": "这里是相对\"主料\"而言的，但并不是次要的材料。没有太好的译法",
       "category": "technical"
+    },
+    {
+      "cn": "料头",
+      "en": "aromatics",
+      "category": "technical"
+    },
+    {
+      "cn": "油温",
+      "en": "oil temperature",
+      "category": "technical",
+      "notes": "翻译“油温X成热”的时候，将其转换为摄氏度，转换关系大致为 一成 = 30 度"
     },
     {
       "cn": "刀工",
@@ -799,7 +815,14 @@
     {
       "cn": "鲜味",
       "en": "umami taste",
-      "category": "technical"
+      "category": "technical",
+      "notes": "两种翻译皆可"
+    },
+    {
+      "cn": "鲜味",
+      "en": "savory taste",
+      "category": "technical",
+      "notes": "两种翻译皆可"
     },
     {
       "cn": "麻味",
@@ -899,12 +922,16 @@
     {
       "cn": "水淀粉",
       "en": "slurry",
-      "category": "technical"
+      "category": "technical",
+      "notes": "slurry 在烹饪语境下可以专指水淀粉",
+      "reference": "https://www.thespruceeats.com/thicken-a-sauce-with-cornstarch-996071"
     },
     {
       "cn": "勾芡",
       "en": "add slurry",
-      "category": "technical"
+      "category": "technical",
+      "notes": "slurry 在烹饪语境下可以专指水淀粉",
+      "reference": "https://www.thespruceeats.com/thicken-a-sauce-with-cornstarch-996071"
     },
     {
       "cn": "面糊",
@@ -928,6 +955,23 @@
       "en": "crunchy",
       "category": "technical",
       "notes": "指口感上的爽脆，可以用于形容多汁或有一定韧性的物体；注意不要和 crispy 混用"
+    },
+    {
+      "cn": "家常菜",
+      "en": "homely dish",
+      "category": "technical"
+    },
+    {
+      "cn": "炒干",
+      "en": "cook until it sweats out",
+      "category": "technical",
+      "reference": "https://www.thespruceeats.com/what-does-sweat-in-culinary-mean-995789"
+    },
+    {
+      "cn": "爆干",
+      "en": "cook until it sweats out",
+      "category": "technical",
+      "reference": "https://www.thespruceeats.com/what-does-sweat-in-culinary-mean-995789"
     },
     {
       "cn": "豆腐皮",
@@ -1150,6 +1194,16 @@
     {
       "cn": "皮冻",
       "en": "pork skin jelly",
+      "category": "dish"
+    },
+    {
+      "cn": "红烧肉",
+      "en": "red braised pork",
+      "category": "dish"
+    },
+    {
+      "cn": "松鼠鱼",
+      "en": "squirrel fish",
       "category": "dish"
     }
   ]

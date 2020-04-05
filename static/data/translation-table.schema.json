@@ -35,7 +35,8 @@
         "en": { "type": "string" },
         "category": { "type": "string" },
         "channel": { "type": "string" },
-        "notes": { "type": "string" }
+        "notes": { "type": "string" },
+        "reference": { "type": "string" }
       },
       "additionalProperties": false
     }
