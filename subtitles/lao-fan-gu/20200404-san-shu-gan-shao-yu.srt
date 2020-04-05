@@ -1,0 +1,868 @@
+# https://www.youtube.com/watch?v=-PIiY48tA2Y
+
+# 标题（翻译主要意思即可，不要超过 100 个字符）
+# 【国宴大师•三叔干烧鱼】不用勾芡也黏的三叔牌干烧鱼，甜辣咸酸，层次丰富，细节全在视频里了 |老饭骨
+# State Banquet Master Chef - San Shu Dry-Braised Fish. Layers of flavours with excellent textures
+
+# 简介 Brief introduction
+# 小友们好，因为特殊时期不能聚会，
+# Hi everyone, as we can’t party due to this COVID situation
+# 大爷在家做了个烙饼， 二伯接力在饭店后厨做了个红烧肉，
+# Da Ye has made some pan-seared meat pie at home, and Er Bai has made us some soy sauce braised pork from his restaurant kitchen
+# 那咱们三叔又捣鼓了啥呢？
+# So, what has our San Shu done?
+# 嘿，三叔给咱整了个甜辣咸酸的干烧鱼。
+# Hey, San Shu has cooked his dry-braised fish for us, and it’s sweet, spicy, salty and sour
+# 今天做这干烧鱼，三叔可是讲解的细节到位，知识点满满！
+# # In today’s video, San Shu will show us all the details on dry braising the fish, with loads of cooking tips!
+# 怎么处理鱼？如何打刀？不用勾芡儿也黏的诀窍是啥？
+# How to prepare the fish? How to score it? What’s the secret of making the sauce viscous without adding slurry?
+# 醋在什么时候搁？干烧和红烧的区别？
+# When to add vinegar? What’s the difference between dry braising and braising in soy sauce?
+# 小友们带着这些疑问赶紧看看视频，学习一下三叔倾囊相授的干烧鱼吧！
+# With these questions in mind, let’s watch the video and learn to cook this San Shu Dry-braised Fish!
+
+# import intro 请原样保留此行
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:04,000
+
+2
+00:00:04,000 --> 00:00:06,800
+# 有很多人做干烧都要勾芡
+A lot of people add slurry when dry braising
+
+3
+00:00:06,800 --> 00:00:07,720
+# 这种是错误的
+That’s wrong
+
+4
+00:00:07,720 --> 00:00:09,080
+# 你看现在就能看出来
+Now you can see
+
+5
+00:00:09,080 --> 00:00:10,880
+# 这有粘稠度没有 有
+Is the sauce viscous? Yes
+
+6
+00:00:10,880 --> 00:00:12,760
+# 哪来的
+Where does this viscosity come from?
+
+7
+00:00:12,760 --> 00:00:16,040
+# 肉肉冯 不能光给你肉吃
+Meat Eater Feng, I can’t just serve you meat
+
+8
+00:00:16,040 --> 00:00:19,480
+# 给你一条平鱼 也是鲳鱼
+I’ll cook a flatfish for you today, which is a butterfish
+
+9
+00:00:19,480 --> 00:00:24,360
+# 你看 把这铰了 做鱼要讲整洁
+Look, cut this off. Presentation must be neat
+
+10
+00:00:24,360 --> 00:00:26,440
+# 斜刀一片就开
+Slice it open with an angle
+
+11
+00:00:26,440 --> 00:00:28,840
+# 就这么一点儿提出来
+Remove the guts
+
+12
+00:00:28,840 --> 00:00:30,400
+# 把腮抠出来
+And the gills
+
+13
+00:00:30,400 --> 00:00:32,240
+# 这个鱼你知道好在哪儿么老冯
+Do you know what’s so good about this fish, Lao Feng?
+
+14
+00:00:32,240 --> 00:00:35,600
+# 你知道北方人啊吃鱼比较笨
+Northern people are not so good at eating fish
+
+15
+00:00:35,600 --> 00:00:37,960
+# 怕刺多 所以这个鱼就一条刺
+They are afraid of the bones. But this fish has only one large bone
+
+16
+00:00:37,960 --> 00:00:40,040
+# 这一夹就一块一块 对没错
+You pull the fish meat off the bone. Yes, you are right
+
+17
+00:00:40,040 --> 00:00:41,480
+# 过去我们北方这一带
+In the past, around this area in the North
+
+18
+00:00:41,480 --> 00:00:44,200
+# 就是平鱼 带鱼 黄花鱼
+We only had flatfish, beltfish and yellow croaker
+
+19
+00:00:44,200 --> 00:00:46,280
+# 就这三鱼 别的没什么鱼
+Just these three, no other kind of fish
+
+20
+00:00:46,280 --> 00:00:49,800
+# 怎么打刀呢 就是井字刀呗
+How to score the fish? Crosscut
+
+21
+00:00:49,800 --> 00:00:58,000
+
+22
+00:00:58,000 --> 00:00:59,440
+# 这边是这样
+On the other side, score it like this
+
+23
+00:00:59,440 --> 00:01:03,960
+
+24
+00:01:03,960 --> 00:01:07,200
+# 知道了吧 它不是两面全是井字
+You see, it’s not crosscut on both sides
+
+25
+00:01:07,200 --> 00:01:09,240
+# 一面柳一面井
+One side crosscut, the other side parallel
+
+26
+00:01:09,240 --> 00:01:12,400
+# 哪面朝上 十字朝上
+Which side faces up? The crosscut one
+
+27
+00:01:12,400 --> 00:01:13,600
+
+28
+00:01:13,600 --> 00:01:14,760
+# 这个咱们也得腌
+We must marinate the fish as well
+
+29
+00:01:14,760 --> 00:01:16,320
+# 酒
+Cooking wine
+
+30
+00:01:16,320 --> 00:01:20,120
+# 盐 一勺半
+One and half teaspoons of salt
+
+31
+00:01:20,120 --> 00:01:22,560
+# 花椒粒 大料瓣
+Sichuan peppercorns and star anise
+
+32
+00:01:22,560 --> 00:01:25,200
+
+33
+00:01:25,200 --> 00:01:28,160
+# 葱 直接一拍就搁里了
+Spring onions. Simply slap them and put them into the bowl
+
+34
+00:01:28,160 --> 00:01:33,080
+# 因为它要的是汁儿 这是进底味
+As we just need the juice to give the fish some base flavour
+
+35
+00:01:33,080 --> 00:01:36,680
+# 腌二十分钟就可以
+Marinate it for 20 minutes
+
+36
+00:01:36,680 --> 00:01:40,560
+# 我看这块肉不错 一见肉就乐了
+This is a very nice piece of pork. You become so happy as soon as you see pork
+
+37
+00:01:40,560 --> 00:01:42,880
+# 这才叫肉 它香啊
+This is what I call MEAT, because it’s so aromatic
+
+38
+00:01:42,880 --> 00:01:44,560
+# 我给你多搁点肉吧
+I’ll add some more pork for you
+
+39
+00:01:44,560 --> 00:01:47,120
+# 其实按正常来说有这一片就够了
+Normally, one slice of pork is enough
+
+40
+00:01:47,120 --> 00:01:49,560
+# 咱们多来点 一定带皮
+Let’s have some more today. Leave the skin on
+
+41
+00:01:49,560 --> 00:01:52,120
+# 您少吃（肉）多吃鱼让您
+You shall eat less pork and more fish
+
+42
+00:01:52,120 --> 00:01:54,360
+# 我少吃鱼多吃肉啊
+And I’ll eat less fish and more pork
+
+43
+00:01:54,360 --> 00:01:54,720
+
+44
+00:01:54,720 --> 00:01:57,280
+# 这肉还真不少 不错不错
+That’s a decent amount of pork. Looks great
+
+45
+00:01:57,280 --> 00:02:02,240
+# 看着就喜兴 过瘾
+They look delightful and satisfying
+
+46
+00:02:02,240 --> 00:02:03,520
+# 姜切菱形
+Cut the ginger in diamond shape
+
+47
+00:02:03,520 --> 00:02:04,560
+
+48
+00:02:04,560 --> 00:02:05,960
+# 葱切末
+Finely chop some spring onions
+
+49
+00:02:05,960 --> 00:02:07,400
+
+50
+00:02:07,400 --> 00:02:09,760
+# 蒜 这一条鱼就够了
+Garlic, this is enough for one fish
+
+51
+00:02:09,760 --> 00:02:11,200
+# 还有点香菇
+Some shiitake mushrooms
+
+52
+00:02:11,200 --> 00:02:14,240
+# 然后咱们今天应该有点笋
+Then we should have bamboo shoots today
+
+53
+00:02:14,240 --> 00:02:15,560
+# 他买的笋丝
+He bought these bamboo shoots
+
+54
+00:02:15,560 --> 00:02:18,560
+# 但是咱们意思意思啊 借借味
+Just a little bit, to add some extra flavours
+
+55
+00:02:18,560 --> 00:02:20,480
+# 这就行了
+That’s it
+
+56
+00:02:20,480 --> 00:02:23,080
+# 点火烧油 炸鱼
+Wok on, oil in, heat up, let’s fry the fish
+
+57
+00:02:23,080 --> 00:02:24,360
+# 这鱼一定拿纸给擦干
+Make sure you pat dry the fish
+
+58
+00:02:24,360 --> 00:02:26,280
+# 省的崩着你 直接炸
+The oil may splatter if just deep-frying the wet fish
+
+59
+00:02:26,280 --> 00:02:28,320
+# 那咱用油煎也行啊 煎可以啊
+We can also pan fry it. Yes, you can
+
+60
+00:02:28,320 --> 00:02:30,760
+# 但是按正规来说是炸
+But the best way is deep frying
+
+61
+00:02:30,760 --> 00:02:33,280
+# 一过油它香啊
+It will be extra aromatic after deep frying
+
+62
+00:02:33,280 --> 00:02:36,760
+# 你知道炸鱼的油面怎么看吗
+Do you know how to check if the oil is ready for frying?
+
+63
+00:02:36,760 --> 00:02:38,680
+# 你看轻轻的翻滚的时候
+When the surface is slightly bubbling
+
+64
+00:02:38,680 --> 00:02:39,840
+# 它这油温就合适了
+It has the right temperature
+
+65
+00:02:39,840 --> 00:02:41,600
+# 基本上就在七成了
+It’s around 70% hot
+
+66
+00:02:41,600 --> 00:02:42,960
+# 可以了
+There we go
+
+67
+00:02:42,960 --> 00:02:44,880
+
+68
+00:02:44,880 --> 00:02:46,320
+# 炸成这样就行了
+Fry it until it looks like this
+
+69
+00:02:46,320 --> 00:02:48,000
+# 能翻个面咱瞧瞧那面么
+Could we see the other side?
+
+70
+00:02:48,000 --> 00:02:50,080
+
+71
+00:02:50,080 --> 00:02:52,080
+# 两面金黄
+Golden on both sides
+
+72
+00:02:52,080 --> 00:02:54,440
+# 好 空油
+Alright, take it out
+
+73
+00:02:54,440 --> 00:02:57,600
+# 先下什么 下肥肉膘
+What do we add in first? Fatty pork
+
+74
+00:02:57,600 --> 00:02:59,280
+
+75
+00:02:59,280 --> 00:02:59,840
+# 这个菜（煸炒的时候）
+When stir frying this
+
+76
+00:02:59,840 --> 00:03:02,680
+# 不要搁大料 也不搁花椒
+Don’t add any star anise or Sichuan peppercorns
+
+77
+00:03:02,680 --> 00:03:06,320
+# 红烧是搁花椒大料 干辣椒肉片
+You add Sichuan peppercorns, star anise, dried chilli and pork slices when you braise things in soy sauce
+
+78
+00:03:06,320 --> 00:03:08,800
+# 这是川菜的干烧
+But this is dry braising in Sichuan Cuisine
+
+79
+00:03:08,800 --> 00:03:11,560
+# 干烧不需要 对
+Dry braising doesn’t need those ingredients. Yes
+
+80
+00:03:11,560 --> 00:03:14,600
+# 你看 炒出油来
+Look, render out the fat
+
+81
+00:03:14,600 --> 00:03:16,400
+# 搁一点甜面酱
+Put in a little bit Tian Mian Jiang (sweet bean paste)
+
+82
+00:03:16,400 --> 00:03:19,120
+
+83
+00:03:19,120 --> 00:03:21,680
+# 完了之后 搁豆瓣酱
+Followed by some Dou Ban Jiang (spicy broad bean paste)
+
+84
+00:03:21,680 --> 00:03:24,440
+
+85
+00:03:24,440 --> 00:03:27,480
+# 小火慢炒 放小料头
+Sauté with low heat, and throw in all the minor ingredients
+
+86
+00:03:27,480 --> 00:03:30,760
+
+87
+00:03:30,760 --> 00:03:35,800
+# 姜蒜笋香菇 煸炒
+Ginger, garlic, bamboo shoots and shiitake mushrooms. Stir fry them
+
+88
+00:03:35,800 --> 00:03:37,600
+# 黄酒
+Some cooking wine
+
+89
+00:03:37,600 --> 00:03:39,880
+
+90
+00:03:39,880 --> 00:03:41,320
+# 酱油
+Soy sauce
+
+91
+00:03:41,320 --> 00:03:43,920
+
+92
+00:03:43,920 --> 00:03:45,240
+# 这是借酱油的味 你看
+It’s for the extra layer of flavour
+
+93
+00:03:45,240 --> 00:03:49,280
+# 因为它有酱 有豆瓣酱
+It already has the sauce, Dou Ban Jiang
+
+94
+00:03:49,280 --> 00:03:50,400
+# 咸度基本上差不多了
+So it has enough salt in there
+
+95
+00:03:50,400 --> 00:03:52,160
+# 糖
+Some sugar
+
+96
+00:03:52,160 --> 00:03:54,840
+# 看到没有 你看这汁黏不黏
+Now you can see, is the sauce viscous?
+
+97
+00:03:54,840 --> 00:03:56,560
+# 烧出来以后就这样
+It will look like this after braising
+
+98
+00:03:56,560 --> 00:03:58,840
+# 这干嘛 搁一点水
+What’s next, pour in some water
+
+99
+00:03:59,560 --> 00:04:01,760
+# 有很多人做干烧都要勾芡
+A lot of people add slurry when dry braising
+
+100
+00:04:01,760 --> 00:04:04,040
+# 这种是错误的 就不能勾芡
+That’s wrong. You can’t add slurry
+
+101
+00:04:04,040 --> 00:04:06,000
+# 干烧是自然收汁 对
+Dry braising is reducing the sauce down naturally. Yes
+
+102
+00:04:06,000 --> 00:04:12,760
+# 醋 三叔做菜醋的量是比较大的
+Some Vinegar. San Shu, you always use generous amounts of vinegar in your dishes
+
+103
+00:04:12,760 --> 00:04:14,200
+# 我是拿的比较准的
+I know the exact amount I need
+
+104
+00:04:14,200 --> 00:04:16,880
+# 给一点点盐 不给盐它不香
+Season it with some salt, otherwise it won’t be as aromatic
+
+105
+00:04:16,880 --> 00:04:20,080
+# 看这颜色怎么样 可以
+What do you think of the colour? Amazing
+
+106
+00:04:21,480 --> 00:04:23,640
+# 这个时候就把鱼下下去了
+Now, bring the fish back in the sauce
+
+107
+00:04:23,640 --> 00:04:25,320
+
+108
+00:04:25,320 --> 00:04:27,080
+# 川菜的特点是什么
+What’s one of the characteristics of Sichuan Cuisine?
+
+109
+00:04:27,080 --> 00:04:28,720
+# 葱出锅搁
+You sprinkle some spring onions after the cooking is done
+
+110
+00:04:28,720 --> 00:04:30,280
+
+111
+00:04:30,280 --> 00:04:32,800
+# 那就是咱们这所说倒炝呗
+This is what we call ‘reverse cooking’
+
+112
+00:04:32,800 --> 00:04:33,880
+# 倒炝 倒烹
+Yes, reverse cooking
+
+113
+00:04:33,880 --> 00:04:36,560
+# 一定是甜辣咸酸 这叫干烧
+When it has sweetness, spiciness, saltiness and sourness well mixed and combined, this is called a decent dry braising dish.
+
+114
+00:04:36,560 --> 00:04:38,360
+# 在家能烧一条好鱼来
+To cook a delicious fish dish at home
+
+115
+00:04:38,360 --> 00:04:40,000
+# 得需要工夫
+It takes time.
+
+116
+00:04:40,000 --> 00:04:42,240
+# 一是要工夫  需要心细
+And attention to details
+
+117
+00:04:42,240 --> 00:04:44,040
+# 做完以后你有成就感
+When it’s done, you will be rewarded with the sense of achievement
+
+118
+00:04:44,040 --> 00:04:45,720
+# 你像咱们做这么多年了
+After so many years of being professional chefs like us
+
+119
+00:04:45,720 --> 00:04:48,440
+# 每次一道菜如果出来成品特别好
+Every time we cook a fantastic dish
+
+120
+00:04:48,440 --> 00:04:50,200
+# 心里也舒服
+We feel so accomplished
+
+121
+00:04:50,200 --> 00:04:52,720
+# 有很多人就不知道往里头放甜面酱
+Many people don’t know the secret of adding Tian Mian Jiang
+
+122
+00:04:52,720 --> 00:04:54,360
+# 包括咱们炒回锅肉
+When cooking Sichuan Cuisine including the double-cooked pork
+
+123
+00:04:54,360 --> 00:04:55,960
+# 都要给点甜面酱
+We all need to add some Tian Mian Jiang
+
+124
+00:04:55,960 --> 00:04:59,800
+# 它出来那个酱 最后发稠
+It makes the finished sauce viscous
+
+125
+00:04:59,800 --> 00:05:01,920
+# 收汁的时候它拿酱收汁
+It helps with the sauce reduction
+
+126
+00:05:01,920 --> 00:05:03,280
+
+127
+00:05:03,280 --> 00:05:05,080
+# 有酱香的气味
+And it adds some aroma
+
+128
+00:05:05,080 --> 00:05:07,880
+# 你说这么多料搁进去能不好吃吗
+It’s impossible to make the fish not tasty after you put in so many ingredients
+
+129
+00:05:10,000 --> 00:05:11,040
+# 南方人不理解
+Southern people don’t understand
+
+130
+00:05:11,040 --> 00:05:13,160
+# 说你们炖条鱼四十分钟鲜味没了
+They say all the umami in the fish would have gone after 40 minutes of braising
+
+131
+00:05:13,160 --> 00:05:14,480
+# 其实我们很鲜
+In fact, it will be super umami
+
+132
+00:05:14,480 --> 00:05:17,440
+# 鱼鲜 原材料好 怎么做都好吃
+When the fish and other ingredients are all fresh and in great quality, the dish will always come out tasty however way you cook it
+
+133
+00:05:17,440 --> 00:05:19,240
+# 多㸆一会 有锅盖
+Braise it for some extra time. We have the lid
+
+134
+00:05:19,240 --> 00:05:20,560
+# 干烧鱼不能盖盖
+You can’t use a lid when dry braising
+
+135
+00:05:20,560 --> 00:05:22,720
+# （一盖盖）鱼皮和肉脱开了
+Otherwise, the fish skin would come off the flesh
+
+136
+00:05:22,720 --> 00:05:26,800
+# 显得特别没精神 懒呼呼的
+The fish would look drowsy and lazy
+
+137
+00:05:26,800 --> 00:05:28,440
+# 这跟一宿没睡觉似的
+It would look like it hadn’t slept all night
+
+138
+00:05:28,440 --> 00:05:30,760
+# 一定是敞开小火慢炖
+So dry braising must be lid free on low heat
+
+139
+00:05:30,760 --> 00:05:32,800
+# 这知识点知道了吧 知道了
+Remember this tip. Got it
+
+140
+00:05:32,800 --> 00:05:34,400
+# 这个鱼烧完以后
+Once cooking is done
+
+141
+00:05:34,400 --> 00:05:36,000
+# 有醋香味没有醋酸味
+The fish will have the aroma from the vinegar, but it won’t taste acidic
+
+142
+00:05:36,000 --> 00:05:37,480
+# 为什么那么早搁醋
+That’s why we added the vinegar that early
+
+143
+00:05:37,480 --> 00:05:42,120
+# 这个油得比正常烧鱼要稍微厚一点
+We use slightly more oil than we normally would when cooking a fish
+
+144
+00:05:42,120 --> 00:05:43,520
+# 就是经常讲么
+There is a saying
+
+145
+00:05:43,520 --> 00:05:46,160
+# 中餐没有油不好吃
+Chinese Cuisine wouldn’t taste as good without the oil
+
+146
+00:05:46,160 --> 00:05:48,360
+# 这待会要拌点米饭 神了
+Mix it with some rice in a minute. That’s fantastic
+
+147
+00:05:48,360 --> 00:05:49,640
+# 你看现在能看出来了
+Now you can see
+
+148
+00:05:49,640 --> 00:05:52,920
+# 这有粘稠度没有 哪来的
+Is there viscosity in the sauce? Where does it come from?
+
+149
+00:05:52,920 --> 00:05:55,440
+# 这就是酱里边来的 对甜面酱
+It comes from the Tian Mian Jiang
+
+150
+00:05:55,440 --> 00:05:57,160
+# 粘稠度开始收
+It will become even more viscous
+
+151
+00:05:57,160 --> 00:05:59,320
+# 如果你要不搁甜面酱
+If you didn’t add Tian Mian Jiang
+
+152
+00:05:59,320 --> 00:06:00,680
+# 它没有这么黏
+It wouldn’t be as viscous
+
+153
+00:06:00,680 --> 00:06:04,200
+# 噗嗤噗嗤小火慢收
+Reduce the sauce down with very low heat
+
+154
+00:06:04,200 --> 00:06:06,480
+# 你像这火都属于大
+The heat now is still too high for what is needed here
+
+155
+00:06:06,480 --> 00:06:09,320
+
+156
+00:06:09,320 --> 00:06:10,440
+# 应该还小
+It should turn down even lower
+
+157
+00:06:10,440 --> 00:06:13,120
+# 这鱼绝对到时候漂亮
+This fish must be very beautiful once done
+
+158
+00:06:13,120 --> 00:06:14,800
+
+159
+00:06:14,800 --> 00:06:15,800
+# 多棒这汁
+How gorgeous is this sauce!
+
+160
+00:06:15,800 --> 00:06:18,760
+# 黏不黏 你勾什么芡啊
+How viscous! No need of any slurry
+
+161
+00:06:18,760 --> 00:06:20,320
+# 这不是快速的东西
+This is not fast food
+
+162
+00:06:20,320 --> 00:06:22,920
+# 烧就有过程的
+Braising takes time
+
+163
+00:06:22,920 --> 00:06:25,280
+# 老饭骨做饭一定不能含糊
+Lao Fan Gu always take cooking very seriously
+
+164
+00:06:25,280 --> 00:06:26,840
+# 真家伙摆出来
+We show you the real deal
+
+165
+00:06:26,840 --> 00:06:29,000
+# 你看现在基本上差不多了
+Now, it’s getting there
+
+166
+00:06:30,200 --> 00:06:31,920
+# 收的还是可以的吧
+The sauce is perfectly reduced
+
+167
+00:06:31,920 --> 00:06:33,440
+# 咱们现在就可以出锅了
+We can take it out of the wok now
+
+168
+00:06:33,440 --> 00:06:35,600
+# 最后炝葱花
+Lastly, sprinkle some spring onions
+
+169
+00:06:35,600 --> 00:06:36,920
+# 咱们灭火
+Heat off
+
+170
+00:06:36,920 --> 00:06:46,360
+
+171
+00:06:46,360 --> 00:06:47,760
+# 不破其型
+Don’t break the fish
+
+172
+00:06:47,760 --> 00:06:49,320
+# 老饭骨还是那句话
+It’s still that saying from Lao Fan Gu
+
+173
+00:06:49,320 --> 00:06:52,280
+# 做菜就不能马虎 就不能含糊
+Cooking is serious, you can’t cut corner
+
+174
+00:06:52,280 --> 00:06:54,600
+# 一定要有油
+There must be some oil
+
+175
+00:06:54,600 --> 00:06:56,280
+# 这道菜我一定要学会
+I need to learn this dish
+
+176
+00:06:56,280 --> 00:06:58,280
+# 做出来要有味道 层次感要强
+The dish must have the layers and complexity of flavours
+
+177
+00:06:58,760 --> 00:06:59,240
+
+# import ending.srt 00:07:01,000 请原样保留此行
