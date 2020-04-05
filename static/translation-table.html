@@ -36,8 +36,8 @@ function createTables(tableJson, channelsJson) {
     caption.textContent = `${category.cn} / ${category.en}`;
     table.appendChild(caption);
 
-    const columns = ['cn', 'en', 'channel', 'notes'];
-    const cnColumns = ['中文', 'English', '频道', '备注'];
+    const columns = ['cn', 'en', 'channel', 'notes', 'reference'];
+    const cnColumns = ['中文', 'English', '频道', '备注', '参考'];
 
     {
       const thead = document.createElement('thead');
@@ -54,6 +54,18 @@ function createTables(tableJson, channelsJson) {
       table.appendChild(thead);
     }
 
+    function createColumnContent(col, source) {
+      if (col === 'reference') {
+        const anchor = document.createElement('a');
+        anchor.href = source;
+        anchor.appendChild(document.createTextNode('链接'));
+        return anchor;
+      }
+      if (col === 'channel')
+        return document.createTextNode(channels[source].label);
+      return document.createTextNode(source);
+    }
+
     const emptyColumns = {};
     columns.forEach(col => emptyColumns[col] = true);
     for (let term of aggregated[categoryId]) {
@@ -63,7 +75,7 @@ function createTables(tableJson, channelsJson) {
         const td = document.createElement('td');
         td.classList.add(col);
         if (term[col]) {
-          td.textContent = col == 'channel' ? channels[term[col]].label : term[col];
+          td.appendChild(createColumnContent(col, term[col]));
           emptyColumns[col] = false;
         }
         tr.appendChild(td);
@@ -117,7 +129,7 @@ th, td {
   text-align: left;
 }
 
-.cn, .en {
+.cn, .en, .reference {
   white-space: nowrap;
 }
 
