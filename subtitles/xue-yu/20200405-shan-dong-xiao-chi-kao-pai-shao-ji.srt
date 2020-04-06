@@ -2,11 +2,11 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 山东小镇名吃，1元的烤牌一天做2000个都不够卖！+46元的烧鸡，用手撕着吃，外皮比肉还香
-# Shandong Small Town Gourmet: 1￥ "Kao Pai". Sell more than 2000 a day! And 46￥ braised chicken.
+# Shandong Small Town Gourmet: 1￥ "Kao Pai", 2000+ sold each day! And 46￥ braised chicken
 
 # 简介
 # 在山东小镇上吃小吃，30多年的老店生意一直很红火，1块5毛钱一个的烤牌，外皮全是芝麻，吃起来非常酥脆，搭配山东特色羊肉汤，那叫一个过瘾！夫妻两人一天要做2000个，只依靠一个炉子，慢慢做出来，一天就要做12个小时之多！几乎做完一炉卖一炉！除了吃烤牌，还有烧鸡，大大的烧鸡，外皮颜色诱人，大锅先炖，再用老汤调味，同样也是30年的老店，店家做的味道非常好，一只只的烧鸡热气腾腾，勾人食欲，吃烧鸡不能用刀，必须用手撕着吃，鸡皮脆爽，肉虽嫩，不及皮爽！
-# Eat street food at a small town in Shandong. A 30-year-old popular brand selling "Kao Pai", one for 1.5￥. Sesame all around and very crispy. It is especially satisfying when accompanied with Shandong style Lamp Soup! Husband and wife make 2000 a day with one stove. They cook it slowly and spend 12 hours a day in baking. One batch sells immediately after taken out of the stove! Besides "Kao Pai", there is braised chicken. Large chicken with enticing outside. Braised in big wok and seasoned with broth. It's also sold in a 30-year-old restaurant with amazing flavor. Hot chicken with steam attracts customers' taste buds. One must use hand instead of a knife to tear chicken. Skin is crispy and meat is tender, but I like the skin more!
+# Eat street food at a small town in Shandong. A 30-year-old popular brand selling "Kao Pai", one for 1.5￥. Sesame all around and very crispy. It is especially satisfying when accompanied with Shandong style Lamp Soup! Husband and wife make 2000 a day with one oven. They cook it slowly and spend 12 hours a day in baking. One batch sells immediately after taken out of the oven! Besides "Kao Pai", there is braised chicken. Large chicken with enticing outside. Braised in big wok and seasoned with broth. It's also sold in a 30-year-old restaurant with amazing flavor. Steaming hot chickens  attract customers' taste buds. One must use hand instead of a knife to tear chicken. Skin is crispy and meat is tender, but I like the skin more!
 
 # 字幕
 
@@ -18,7 +18,7 @@ My "Chao Pai" (dough food) sell as quick as I make them.
 2
 00:00:07,700 --> 00:00:11,600
 # 早上5点钟起床 到下午6点钟一直在做
-I wake up at 5 in the morning and make dough food until 6 pm.
+I wake up at 5 in the morning and make it until 6 pm.
 
 3
 00:00:11,950 --> 00:00:13,900
@@ -28,7 +28,7 @@ The shop is closed after 6.
 4
 00:00:15,925 --> 00:00:17,925
 # 俺爷爷打朝牌 俺老爹打朝牌
-My grand father and my father are both in this business.
+My grandfather and my father are both in this business.
 
 5
 00:00:17,925 --> 00:00:20,575
@@ -63,7 +63,7 @@ One for 1￥.
 11
 00:00:37,700 --> 00:00:39,900
 # 刚出炉的时候 面香特别勾人
-The nice smell of flour when they are taken out of the stove is enticing.
+The nice smell of flour when they are taken out of the oven is enticing.
 
 12
 00:00:40,150 --> 00:00:42,000
@@ -98,7 +98,7 @@ It has been a long time since I last wait for freshly made "Chao Pai".
 18
 00:01:05,875 --> 00:01:07,075
 # 这还是开年头一次
-This is the first time in a new year.
+This is the first time since the New Year.
 
 19
 00:01:08,975 --> 00:01:10,831
@@ -138,12 +138,12 @@ And sprinkle some sesame salt.
 26
 00:01:49,900 --> 00:01:52,475
 # 这样吃起来就不会像馒头那样
-So it doesn't taste, like steam bread,
+So it doesn't taste, like mantou (steamed bun),
 
 27
 00:01:52,525 --> 00:01:53,975
 # 没有什么样的味道
-that bland.
+that is bland.
 
 28
 00:02:04,325 --> 00:02:06,100
@@ -153,7 +153,7 @@ You can see when making "Chao Pai",
 29
 00:02:06,200 --> 00:02:07,850
 # 芝麻放的特别多
-auntie put a lot of sesame.
+auntie puts a lot of sesame.
 
 30
 00:02:08,125 --> 00:02:10,025
@@ -173,7 +173,7 @@ Auntie, how many in a batch? I want 10.
 33
 00:02:46,250 --> 00:02:48,075
 # 一炉24个
-24 in one stove.
+24 in one oven.
 
 34
 00:02:49,200 --> 00:02:51,150
@@ -213,7 +213,7 @@ I need to take it away. Hot steam makes it less appealing.
 41
 00:03:31,000 --> 00:03:33,150
 # 在马头镇这边 朝牌是非常出名的
-Here at "Ma Tou Zhen" (literally Horse Head Town), "Chao Pai" is very well-known.
+Here at "Matouzhen" (town name), "Chao Pai" is very well-known.
 
 42
 00:03:33,475 --> 00:03:35,225
@@ -388,7 +388,7 @@ make hot deli food.
 76
 00:05:30,825 --> 00:05:34,100
 # 他们做的肉食 熟食真的会让我垂涎三尺
-Their cooked meat really makes me hungry.
+Their meat dishes really make me hungry.
 
 77
 00:05:34,350 --> 00:05:36,375
@@ -413,7 +413,7 @@ braised chicken.
 81
 00:05:43,575 --> 00:05:45,450
 # 小的时候 都是逢年过节才能够吃得到
-When I was little, I can only eat braised chicken during festivals and holidays.
+When I was little, I could only eat braised chicken during festivals and holidays.
 
 82
 00:05:45,600 --> 00:05:47,225
@@ -593,12 +593,12 @@ Tearing the chicken is no technical stuff right?
 117
 00:09:14,475 --> 00:09:16,275
 # 可大可小
-No regular sizes.
+Flexible sizes.
 
 118
 00:09:18,850 --> 00:09:22,250
 # 看撕烧鸡的人的心情是怎么样的
-What is it like to look at me tearing this chicken?
+It depends on the mood of the person who tears the chicken.
 
 119
 00:09:26,025 --> 00:09:27,425
