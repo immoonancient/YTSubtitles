@@ -3,7 +3,7 @@
 ## 制作步骤
 
 1. 使用 YouTube 的字幕添加功能制作英文字幕。可参考[官方帮助](https://support.google.com/youtube/answer/6054623)或[视频教程](https://youtu.be/_3MMKHqoZrs)
-2. 英文字幕制作好后，下载字幕文件，如下图所示<br><img src="resources/download-subtitles.png" width="400px">
+2. 英文字幕制作好后，下载字幕文件，如下图所示<br><img src="../resources/download-subtitles.png" width="400px">
 
 **注意：此时不必点击`提交`/`Submit`，因为我们不在 YouTube 直接审稿。在审核完毕后，上传审核后的版本再提交。**
 
