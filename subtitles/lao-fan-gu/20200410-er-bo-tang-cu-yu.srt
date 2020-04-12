@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•二伯糖醋鱼】糖醋鱼“酥脆”的看家秘诀大公开！酸甜可口，家宴硬菜赶紧学起来！
-# [Master Chefs • Er Bai Sweet Sour Fish] Show you the secret of making the fish coating crispy! Sour and Sweet, try this feast quality dish in home!
+# State Banquet Master Chefs - Er Bai's Sweet and Sour Fish! Signature dish with secret technique!
 
 # 简介
 # 小友们好，二伯今天给大家带来一道家宴硬菜——糖醋鱼！
@@ -14,12 +14,12 @@
 # 小友们还想看老饭骨们做什么菜呢，欢迎来评论区告诉我们！
 
 # Introduction
-# Hello friends. Er Bai will show you how to make a feast quality dish today - sweet sour fish!
-# After learning this dish, you will be easily titled as the best chef in any family dinners!
-# In order to teach you how to make this dish, Er Bai shared the skills and secret of the coating. You may need to watch carefully and take some notes!
-# Unfortunately, the pot is a bit too small, please remember to choose a right size fish when making it at home.
+# Hello friends. Er Bai will show you how to make a banquet dish today - sweet and sour fish!
+# After learning this dish, you will be easily titled the best chef in any family dinners!
+# To make a great demonstration, Er Bai has revealed all the secret techniques in this video. You may need to watch carefully and take some notes!
+# Unfortunately, the wok is a bit too small, please remember to choose a fish of the right size when making it at home.
 # Since the shape of Er Bai's fish is not quite ideal, it is better to hold the fish upside down in the air while frying the fish.
-# However, it tastes great. With the passion fruit, grapefruit and Liaozao (ferment glutinuous rice with yeast), the sweet and sour fish has a more complex flavor and texture.
+# However, it tastes great. With the passion fruit, grapefruit and Laozao rice wine, the sweet and sour fish has a more complex flavor and texture.
 # If there are any other dishes you want to know how to make, please leave your comment in the comment area!
 
 # import intro 稿件内请原样保留此行
@@ -50,12 +50,12 @@ Let Shixiong answer
 6
 00:00:12,240 --> 00:00:14,400
 # 应该是先直刀后坡刀呗
-straight and then with an angle
+Should be straight and then with an angle
 
 7
 00:00:14,400 --> 00:00:15,560
 # 别应该啊
-Are you sure
+Should be?
 
 8
 00:00:15,560 --> 00:00:17,520
@@ -70,7 +70,7 @@ The cuts are even and uniform
 10
 00:00:19,480 --> 00:00:21,720
 # 小魏看这鱼 看这汁儿多亮
-Xiaowei, see how shinning the sauce is
+Xiaowei, see how glossy the sauce is
 
 11
 00:00:21,720 --> 00:00:24,080
@@ -85,12 +85,12 @@ We have carp, grapefruit, passion fruit
 13
 00:00:27,400 --> 00:00:29,640
 # 有醪糟 有米醋
-Fermented glutinous rice, Rice vinegar
+"Laozao" rice wine, rice vinegar
 
 14
 00:00:29,640 --> 00:00:32,880
 # 葱末 咱再切点姜
-Green onion, we also need some ginger
+Green onion mince. We also need some ginger
 
 15
 00:00:32,880 --> 00:00:34,920
@@ -125,7 +125,7 @@ It is necessary
 21
 00:00:45,800 --> 00:00:49,240
 # 师父跟我们讲盐是定味的
-Master told us the salt provides the background of the flavor
+Master told us the salt provides the base flavor
 
 22
 00:00:49,240 --> 00:00:53,680
@@ -135,7 +135,7 @@ Rice vinegar, a large amount, more than 1 big spoon
 23
 00:00:55,480 --> 00:00:58,080
 # 糖 搁进去
-Sugar
+Sugar in
 
 24
 00:00:58,080 --> 00:01:00,160
@@ -155,7 +155,7 @@ This is why some people cannot make this dish well:
 27
 00:01:05,400 --> 00:01:06,480
 # 做糖醋的东西
-When you make sweet sour flavor
+When you make the sweet and sour flavor
 
 28
 00:01:06,480 --> 00:01:08,920
@@ -165,22 +165,22 @@ You need a lot of sugar and vinegar
 29
 00:01:08,920 --> 00:01:11,240
 # 怕糖尿病人吃不了
-I am afraid diabetics cannot eat this
+You are concerned diabetics cannot eat this?
 
 30
 00:01:11,240 --> 00:01:13,360
 # 糖尿病人他都不吃这个
-diabetics will not eat this
+Diabetics will not eat this
 
 31
 00:01:13,360 --> 00:01:15,200
 # 吃这个的人他就要求
-But people who want, require this flavor
+But people who want it require that
 
 32
 00:01:15,200 --> 00:01:18,480
 # 味道一定要达到味道标准
-To meet the standard
+The flavor must meet the standard
 
 33
 00:01:18,480 --> 00:01:21,160
@@ -195,12 +195,12 @@ We need some soy sauce to add some color
 35
 00:01:25,760 --> 00:01:27,200
 # 这颜色还浅点
-the color is a bit light
+The color is a bit light
 
 36
 00:01:27,200 --> 00:01:29,600
 # 你看这回咱把葱姜米都搁进去
-Now we put the diced ginger and spring onion in
+Now we put the minced ginger and spring onion in
 
 37
 00:01:29,600 --> 00:01:31,480
@@ -230,7 +230,7 @@ While the water is boiling, let’s cut the fish
 42
 00:01:42,360 --> 00:01:46,040
 # 你要是我们清蒸鱼 干烧鱼
-If you are making steamed or pan-fried fish
+If you are making steamed or dry-braised fish
 
 43
 00:01:46,040 --> 00:01:49,160
@@ -260,7 +260,7 @@ Should you cut straight or with an angle
 48
 00:01:58,280 --> 00:02:00,480
 # 应该是先直刀后坡刀吧
-straight and then with an angle
+Should be straight and then with an angle
 
 49
 00:02:00,480 --> 00:02:02,080
@@ -270,7 +270,7 @@ Another cut inside
 50
 00:02:02,080 --> 00:02:04,400
 # 我感觉师兄这个说法有点靠谱
-Sound right
+Sounds right to me
 
 51
 00:02:04,400 --> 00:02:05,440
@@ -280,12 +280,12 @@ I agree
 52
 00:02:05,440 --> 00:02:07,240
 # 小魏讲话说的对
-XiaoWei is right
+Xiaowei is right
 
 53
 00:02:07,240 --> 00:02:12,600
 # 就直刀下去 直刀下去 马上就坡
-First straight, and with an angle
+First straight, and then with an angle
 
 54
 00:02:12,600 --> 00:02:15,520
@@ -308,7 +308,7 @@ Along the bone
 58
 00:02:26,880 --> 00:02:30,400
 # 你看见没有 刀工一致 起来了
-The cut is uniform
+See? The cuts are uniform
 
 59
 00:02:30,400 --> 00:02:32,840
@@ -328,7 +328,7 @@ Cooking wine? Is that enough? Enough
 62
 00:02:38,280 --> 00:02:40,400
 # 去去腥味 然后里边也是
-Get rid of the unpleasant smell, and inside
+Get rid of the fishy smell. And the inside, too
 
 63
 00:02:40,400 --> 00:02:44,240
@@ -338,17 +338,17 @@ salt
 64
 00:02:44,240 --> 00:02:46,560
 # 腌个二十分钟就足矣
-Marinade for 20 min
+Marinate for 20 min. That should be enough
 
 65
 00:02:46,560 --> 00:02:48,240
 # 这边腌着这边和糊
-Now we make some coating
+Now we make some batter
 
 66
 00:02:48,240 --> 00:02:49,880
 # 师父汁儿我给调了吧
-Master, I will make the sauce
+Master, let me make the sauce
 
 67
 00:02:49,880 --> 00:02:52,360
@@ -379,12 +379,12 @@ About right
 73
 00:03:05,440 --> 00:03:08,040
 # 为什么这么调汁不在锅里调啊
-Why didn’t we make the sauce while cooking?
+Why didn’t we cook the sauce while mixing?
 
 74
 00:03:08,040 --> 00:03:10,120
 # 葱姜煸出来它就煸出味了
-Cooking will enhance the flavor of the green onion and ginger
+Cooking will release the flavor of the green onion and ginger
 
 75
 00:03:10,120 --> 00:03:11,280
@@ -404,7 +404,7 @@ Be subtle in the sauce
 78
 00:03:16,080 --> 00:03:18,120
 # 它托着这糖醋鱼走
-Not the dominate flavor
+Not the dominating flavor
 
 79
 00:03:18,120 --> 00:03:19,360
@@ -414,7 +414,7 @@ If you cook them
 80
 00:03:19,360 --> 00:03:21,880
 # 葱姜味全释放出来了
-The aroma becomes too strong
+The flavor becomes too strong
 
 81
 00:03:21,880 --> 00:03:24,200
@@ -429,7 +429,7 @@ So it covers the taste of fish?
 83
 00:03:27,280 --> 00:03:28,840
 # 夺糖醋味
-Overpowers the sweet and sour flavor
+It overwhelms the sweet and sour flavor
 
 84
 00:03:28,840 --> 00:03:31,920
@@ -439,12 +439,12 @@ The fish has been marinated for 20 mins
 85
 00:03:31,920 --> 00:03:33,280
 # 和糊咱再哪儿和啊
-Where should we mix the coating?
+Where should we mix the batter?
 
 86
 00:03:33,280 --> 00:03:36,920
 # 找一个盆 开水呢
-Find a mixing bowl, where is the hot water?
+Find a mixing bowl. Where is the hot water?
 
 87
 00:03:36,920 --> 00:03:39,240
@@ -469,17 +469,17 @@ Corn starch. Enough
 91
 00:03:51,200 --> 00:03:54,120
 # 这个水开了么 开了倒这里面
-Is the water boiled? If so, pour in the bowl
+Is the water boiled? Pour in the bowl
 
 92
 00:03:55,320 --> 00:03:57,760
 # 跟我们做的有点不一样啊师父
-It’s different from how we make the coating
+It’s a bit different from how we make the batter, master
 
 93
 00:03:57,760 --> 00:04:00,040
 # 没见过这种糊啊师父
-I didn’t see this type of coating
+I didn’t see this type of batter
 
 94
 00:04:00,040 --> 00:04:01,760
@@ -499,12 +499,12 @@ Is this potato or corn starch?
 97
 00:04:05,800 --> 00:04:08,240
 # 玉米淀粉 都是一样的东西
-Corn starch
+Corn starch. No difference
 
 98
 00:04:09,440 --> 00:04:11,760
 # 其实这就是关键是吧
-SO that is the key
+So that is the key
 
 99
 00:04:12,200 --> 00:04:15,760
@@ -554,7 +554,7 @@ It has a lot of science behind it and is very reasonable.
 108
 00:04:34,360 --> 00:04:35,640
 # 刚才是什么样
-do you remember what looks like previously
+Do you remember what it looks like previously
 
 109
 00:04:35,640 --> 00:04:37,320
@@ -592,7 +592,7 @@ How about that? About right
 116
 00:04:48,400 --> 00:04:49,800
 # 你看坐上油咱们可以
-Add oil
+See? It's good
 
 117
 00:04:49,800 --> 00:04:51,720
@@ -607,12 +607,12 @@ See this batter is good, it will flow
 119
 00:04:56,240 --> 00:04:57,400
 # 里边没挂上
-No batter inside
+Need some batter inside
 
 120
 00:05:01,560 --> 00:05:03,000
 # 孙勇你要是用这糊的话
-Sunyong, how would you make the coating?
+Sun Yong, how would you make the batter?
 
 121
 00:05:03,000 --> 00:05:04,160
@@ -622,17 +622,17 @@ What should you do?
 122
 00:05:04,160 --> 00:05:06,120
 # 弄熟面（淀粉）弄开水烫面（淀粉）
-Use boiling water to make coating
+Use boiling water to make the batter
 
 123
 00:05:06,120 --> 00:05:07,320
 # 说实话我从来没用过
-I haven’t done it before
+Frankly, I haven’t done it before
 
 124
 00:05:07,320 --> 00:05:08,960
 # 差不多了吧 差不多了
-It that about right? about right
+It that about right? About right
 
 125
 00:05:08,960 --> 00:05:11,160
@@ -640,7 +640,7 @@ It that about right? about right
 126
 00:05:20,360 --> 00:05:23,680
 # 放锅里了 这糊真棒
-Put it in the pot, the coating is great
+Put it in the pot. The batter is great
 
 127
 00:05:23,680 --> 00:05:25,440
@@ -650,7 +650,7 @@ The fish is too big
 128
 00:05:25,440 --> 00:05:27,720
 # 提醒网友 在家里买鱼的时候
-Friends, if you make this dish in home
+Friends, if you make this dish at home
 
 129
 00:05:27,720 --> 00:05:28,840
@@ -660,12 +660,12 @@ Get a smaller fish
 130
 00:05:28,840 --> 00:05:30,800
 # 今天这鱼是二斤半左右
-This fish is around 1250g
+This fish is around 2.5 jin (= 1250g)
 
 131
 00:05:30,800 --> 00:05:32,680
 # 我觉得家里有一斤八两就合适
-You can get a fish around 850g
+For home cooking, I think 1.8 jin is enough (= 900g)
 
 132
 00:05:32,680 --> 00:05:34,160
@@ -701,7 +701,7 @@ It is not right
 139
 00:05:46,400 --> 00:05:48,160
 # 但这糊真棒
-But the coating is great
+But the batter is great
 
 140
 00:05:48,160 --> 00:05:49,920
@@ -711,17 +711,17 @@ Mei told me the other day
 141
 00:05:49,920 --> 00:05:52,600
 # 师父做那个鸡丁 用生熟糊
-Master was using Shengshu batter
+Master cooked some diced chicken with Shengshu batter
 
 142
 00:05:52,600 --> 00:05:54,760
 # 试了一下在家
-I tried that in home
+I tried that at home
 
 143
 00:05:54,760 --> 00:05:58,760
 # 那种酥度那种口感完全不一样
-The texture and crunchiness is totally different
+The texture and crispness are totally different
 
 144
 00:05:58,760 --> 00:06:03,920
@@ -729,7 +729,7 @@ The texture and crunchiness is totally different
 145
 00:06:03,920 --> 00:06:06,840
 # 这形状还行 这是第二遍了
-The shape looks good. Fry a second time
+The shape looks good. Two times already
 
 146
 00:06:06,840 --> 00:06:08,040
@@ -739,7 +739,7 @@ How many times do we need to fry it?
 147
 00:06:08,040 --> 00:06:10,160
 # 提油温再炸一遍就齐了
-Increase the temperature for the last frying
+Increase the temperature and fry for the last time
 
 148
 00:06:10,160 --> 00:06:13,080
@@ -772,12 +772,12 @@ One more time
 154
 00:06:21,720 --> 00:06:25,840
 # 你看看  已经特别酥脆了
-Look, it is already very crunchy
+Look, it is already very crispy
 
 155
 00:06:25,840 --> 00:06:28,920
 # 听这声 嘎巴嘎巴的
-The sound, Gaba-Gaba (mimic the crunchy sound)
+The sound, Gaba-Gaba (mimic the crispy sound)
 
 156
 00:06:28,920 --> 00:06:31,120
@@ -807,7 +807,7 @@ Next step: making the sauce. It is important
 161
 00:06:49,640 --> 00:06:51,000
 # 你看还有一老传统
-See the traditional technique
+See, another traditional technique
 
 162
 00:06:51,000 --> 00:06:53,360
@@ -822,7 +822,7 @@ Hear, Gaba-Gaba
 164
 00:06:57,480 --> 00:07:00,160
 # 咔吧咔吧脆 让它好入味
-Gaba-Gaba crispy, that makes it easy to absorb flavor
+Gaba-Gaba crispy, that makes it easier for flavor penetration
 
 165
 00:07:00,160 --> 00:07:02,600
@@ -847,7 +847,7 @@ Based on my ratio
 169
 00:07:10,240 --> 00:07:13,560
 # 你们应该少搁糊（熟糊）
-You guys should put less of the Shu hu (the batter mixing with boiling water)
+You guys should put less of the Shu hu (the batter made with boiling water)
 
 170
 00:07:13,560 --> 00:07:15,560
@@ -867,12 +867,12 @@ I put 20%
 173
 00:07:18,040 --> 00:07:21,120
 # 所以这东西就有点厚了
-The batter is a bit too thick
+So the batter is a bit too thick
 
 174
 00:07:21,120 --> 00:07:26,040
 # 最后觉得还是真诚的告诉网友吧
-Honestly speaking
+In the end, I have to be honest
 
 175
 00:07:26,040 --> 00:07:27,840
@@ -907,7 +907,7 @@ There is another pot
 181
 00:07:41,200 --> 00:07:43,120
 # 坐着油 待会浇一下
-Heating the oil
+Heating the oil. We'll pour it in later
 
 182
 00:07:43,120 --> 00:07:45,280
@@ -930,7 +930,7 @@ Beautiful! Important moment
 186
 00:07:50,880 --> 00:07:52,680
 # 赶紧勾芡
-Hurry up make the thickening mix
+Hurry up! Thicken it
 
 187
 00:07:52,680 --> 00:07:57,880
@@ -943,12 +943,13 @@ About right
 189
 00:07:59,880 --> 00:08:02,040
 # 您那醪糟还没搁呢师父
-Master, you haven’t add the Liaozao (Ferment glutinuous rice with yeast)
+Master, you haven’t added the Laozao rice wine yet
 
 190
 00:08:02,040 --> 00:08:03,960
 # 什么时候搁啊 呲完油以后
-When we add Liaozao
+- When do we add Laozao?
+- After pouring the oil
 
 191
 00:08:03,960 --> 00:08:06,080
@@ -956,17 +957,17 @@ When we add Liaozao
 192
 00:08:09,040 --> 00:08:10,200
 # 就这么玩
-Use it like this
+That's how we do it!
 
 193
 00:08:10,200 --> 00:08:12,240
 # 这（醪糟）搁里头
-(Liaozao) put in here
+(Laozao) put in here
 
 194
 00:08:12,240 --> 00:08:15,400
 # 与众不同的糖醋汁 加上醪糟
-With Liaozao, the sweet and sour sauce is unique
+With Laozao, the sweet and sour sauce is unique
 
 195
 00:08:15,400 --> 00:08:17,360
@@ -1012,7 +1013,7 @@ Passion fruit
 204
 00:08:34,880 --> 00:08:36,160
 # 再一浇
-Put it on top
+Pour it on the top
 
 205
 00:08:36,160 --> 00:08:39,560
@@ -1030,7 +1031,7 @@ The color is golden
 208
 00:08:46,600 --> 00:08:48,880
 # 好吃的鱼已经出锅了
-The Tasty fish is done
+The tasty fish is done
 
 209
 00:08:48,880 --> 00:08:52,120
@@ -1068,7 +1069,7 @@ Okay, thanks, Master.
 216
 00:09:06,080 --> 00:09:08,960
 # 糟香四射 有百香果
-Fermented rice flavor, with passion fruit
+Great Laozao flavor, with passion fruit
 
 217
 00:09:08,960 --> 00:09:11,320
@@ -1078,12 +1079,13 @@ I can smell the aroma from far away
 218
 00:09:11,320 --> 00:09:15,960
 # 地道 凉了以后你看汁儿汁
-Authentic, you can see the sauce when it is cooling down
+- Authentic!
+- Look at the sauce when it has cooled down
 
 219
 00:09:15,960 --> 00:09:18,920
 # 来孙勇你从这掰一块
-Sunyong, try a piece of fish here
+Sun Yong, try a piece of fish here
 
 220
 00:09:18,920 --> 00:09:20,560
@@ -1127,7 +1129,7 @@ Use your nose to breath
 229
 00:09:42,240 --> 00:09:45,400
 # 它那不是艮的 那糊是酥脆酥脆
-The coating is super crunchy
+The coating is super crispy
 
 230
 00:09:45,400 --> 00:09:47,880
@@ -1137,7 +1139,7 @@ You can hear the sound
 231
 00:09:48,520 --> 00:09:51,160
 # 鱼很嫩外边很酥脆 外焦里嫩
-The fish is soft inside and crunchy outside
+The fish is soft inside and crispy outside
 
 232
 00:09:51,160 --> 00:09:52,400
@@ -1157,7 +1159,7 @@ You can taste the passion fruit
 235
 00:09:58,920 --> 00:10:02,000
 # 而且还有糟的香气
-And the Fermented rice
+And the Laozao rice wine
 
 236
 00:10:02,000 --> 00:10:03,920
@@ -1177,7 +1179,7 @@ Thank you, Master
 239
 00:10:07,920 --> 00:10:08,880
 # 又学东西了
-I Learned something new
+I learned something new
 
 240
 00:10:08,880 --> 00:10:11,640
@@ -1202,7 +1204,7 @@ Shixiong, you first
 244
 00:10:18,080 --> 00:10:20,200
 # 我表达能力比较差 师兄你代表
-My expression is very limited, you can represent for me
+I'm bad at expression. You can represent me
 
 245
 00:10:20,200 --> 00:10:21,760
@@ -1222,7 +1224,7 @@ Cooked with traditional techniques
 248
 00:10:24,720 --> 00:10:26,680
 # 年代的回味
-It reminds you of the history
+It reminds you of the old time
 
 249
 00:10:26,680 --> 00:10:27,680
@@ -1232,17 +1234,17 @@ Wish our country
 250
 00:10:27,680 --> 00:10:29,960
 # YQ马上就要过去了
-YQ will be passed
+get through the epidemic soon
 
 251
 00:10:29,960 --> 00:10:32,040
 # 肯定会过去
-Certainly will pass
+Definitely
 
 252
 00:10:32,600 --> 00:10:35,520
 # 祝网友们身体健康 万事如意
-Best wishes to our online friends
+Health and fortune to our online friends
 
 253
 00:10:36,400 --> 00:10:36,800
