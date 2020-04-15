@@ -437,6 +437,13 @@
       "category": "preserved"
     },
     {
+      "cn": "皮蛋",
+      "en": "century egg",
+      "notes": "皮蛋的英文名都有点猎奇向，但既成事实没办法。所以选个\"年份\"短一点的吧",
+      "category": "preserved",
+      "reference": "https://en.wikibooks.org/wiki/Cookbook:Century_Egg"
+    },
+    {
       "cn": "花生",
       "en": "peanut",
       "category": "nut"
