@@ -1,0 +1,894 @@
+# https://youtu.be/fG9boBo9OQg
+
+# 标题（翻译主要意思即可，不要超过 100 个字符）
+# 【国宴大师•大爷咕咾虾球】酸甜可口的咕咾虾球，大爷大妈甜蜜互动，家有大厨，就是幸福！Sweet and Sour Shrimp|老饭骨
+# State Banquet Master Chef: Sweet and Sour Shrimp; Sweet moments between Da Ye and Da Ma
+
+# 简介
+# 小友们今天又要进来吃狗粮啦！大爷掌勺，大妈掌镜，带来外酥里嫩、酸甜可口的咕咾虾球！酸酸甜甜的，这大概就是传说中爱情的味道吧！
+# 学会了咕咾虾球，什么咕咾肉，咕咾鸡球都可以做，一通百通。
+# 调汁儿是这道菜的关键，小友们可要看好咯！
+# 咕咾虾球简单易学又营养美味，小友们可要在家学起来哦！
+# Introduction
+# Hello Friends, today we are having some sweet treats from Da Ye and Da Ma (Da Ye’s wife). While Da Ye is cooking, Da Ma is filming for him. They are teaching us how to make sweet and sour shrimp with a crispy outside and a tender inside. The sweetness and tartness in this dish, may be also the taste of love.
+# If you learn how to make this sweet and sour shrimp, you can replace shrimp with pork or chicken. Master the one to master all.
+# The sauce is the essence of this dish, please pay attention while watching!
+# The sweet and sour shrimp is easy to learn, full of nutrition and very tasty. Give it a try when you are at home!
+
+# import intro 请原样保留此行
+
+# 字幕
+# Subtitle
+
+1
+00:00:00,000 --> 00:00:02,440
+
+2
+00:00:02,440 --> 00:00:04,440
+
+3
+00:00:04,720 --> 00:00:07,680
+# 是起泡泡了 这糖化了
+The sauce is bubbling. Yes, because the sugar melted and dissolved.
+
+4
+00:00:07,680 --> 00:00:09,400
+# 关键时刻
+It is the important moment.
+
+5
+00:00:09,400 --> 00:00:10,520
+# 出锅了啊
+Let’s serve the dish.
+
+6
+00:00:10,520 --> 00:00:13,680
+
+7
+00:00:13,680 --> 00:00:18,000
+# 今天大爷给大家做一道 咕咾虾球
+Today, Da Ye will teach you how to make the sweet and sour shrimp.
+
+8
+00:00:18,000 --> 00:00:21,000
+# 在家庭里边做这道菜就比较简单
+It is easy to cook this dish at home.
+
+9
+00:00:21,000 --> 00:00:23,280
+# 先把这虾从脊背给它剖开
+We first need to cut the shrimp on its back,
+
+10
+00:00:23,280 --> 00:00:25,440
+# 剖开当中我们就查查有没有沙线
+and get rid of the intestine if you saw it.
+
+11
+00:00:25,440 --> 00:00:27,360
+# 这还是挺干净的 对
+It looks clean. Yes, it is.
+
+12
+00:00:27,360 --> 00:00:31,600
+# 很多网友上次对大妈的录像水平
+Regarding to Da Ma’s filming skills in the last video, lots of friends
+
+13
+00:00:31,600 --> 00:00:32,720
+# 非常满意
+are very satisfied.
+
+14
+00:00:32,720 --> 00:00:34,000
+# 不是非常满意
+It was not ‘very’satisfied.
+
+15
+00:00:34,000 --> 00:00:35,760
+# 是非常非常的满意
+It was ‘extremely’ satisfied.
+
+16
+00:00:35,760 --> 00:00:37,040
+
+17
+00:00:37,040 --> 00:00:38,440
+# 据说比二伯录的好
+They said that Da Ma did a better job than Er Bai.
+
+18
+00:00:38,440 --> 00:00:40,120
+
+19
+00:00:40,120 --> 00:00:43,160
+# 一会给大妈露个镜头
+Let’s shoot Da Ma later,
+
+20
+00:00:43,160 --> 00:00:46,160
+# 让网友们看看大妈什么样
+So that our online friends can meet Da Ma.
+
+21
+00:00:46,160 --> 00:00:48,120
+# 不可以
+No, you can’t do that.
+
+22
+00:00:48,120 --> 00:00:49,000
+# 不行啊
+No?
+
+23
+00:00:49,000 --> 00:00:51,440
+# 身份不能暴露 还在隐蔽当中
+We should keep your identity as a secret.
+
+24
+00:00:51,440 --> 00:00:55,200
+# 顶多我就是老饭骨的家属
+I am just a family member of Lao Fan Gu.
+
+25
+00:00:55,200 --> 00:00:56,760
+
+26
+00:00:56,760 --> 00:00:58,600
+# 把这虾从脊背开
+We need to cut this shrimp on its back,
+
+27
+00:00:58,600 --> 00:01:01,680
+# 但是不让它断了 对不能断
+But we don’t want to cut through it. Yes, we shouldn’t cut the shrimp in half.
+
+28
+00:01:01,680 --> 00:01:04,240
+# 因为咕咾虾是一个圆球状
+Because we want the shrimp to become sphere-like.
+
+29
+00:01:04,240 --> 00:01:06,480
+# 好了以后我们要把它洗一洗
+Ok, let’s rinse the shrimps.
+
+30
+00:01:06,480 --> 00:01:08,160
+
+31
+00:01:08,160 --> 00:01:11,440
+# 我看你这儿还有什么 番茄沙司
+Let me see what do we have here, tomato sauce.
+
+32
+00:01:11,440 --> 00:01:12,920
+# 有番茄酱是最好
+It would be better to use tomato sauce.
+
+33
+00:01:12,920 --> 00:01:15,120
+# 搁点盐 这叫底味
+Let’s put some salt in it. We called it ‘flavor base’.
+
+34
+00:01:15,120 --> 00:01:17,720
+# 胡椒粉 还是白胡椒
+Put some white pepper powder,
+
+35
+00:01:17,720 --> 00:01:19,080
+# 黄酒
+And cooking wine.
+
+36
+00:01:19,080 --> 00:01:20,160
+
+37
+00:01:20,520 --> 00:01:21,960
+# 这酒得省着使
+We shouldn’t waste the cooking wine.
+
+38
+00:01:21,960 --> 00:01:25,400
+# 能多用一次就多用一次
+It would be great if we can even get one more use out of this bottle.
+
+39
+00:01:25,400 --> 00:01:28,880
+# 如果要求高一点我们还得搁个葱
+If you would like to achieve a better flavor, we need to put some green onions.
+
+40
+00:01:28,880 --> 00:01:31,320
+
+41
+00:01:31,320 --> 00:01:35,560
+# 去掉虾的腥味
+This marinade will get rid of the unpleasant smell in shrimp.
+
+42
+00:01:35,560 --> 00:01:39,000
+# 葱段和姜片
+Put the green onions and ginger in the bowl.
+
+43
+00:01:39,000 --> 00:01:42,320
+# 腌的时候不搁淀粉吧
+Do we need any starch while marinating?
+
+44
+00:01:42,320 --> 00:01:45,400
+# 搁么 暂时不搁 待会再抓粉
+Not now, but we will need some later.
+
+45
+00:01:45,400 --> 00:01:46,040
+
+46
+00:01:46,040 --> 00:01:48,560
+# 这黄瓜不去皮
+We will keep the cucumber skin on.
+
+47
+00:01:48,560 --> 00:01:51,160
+# 要这个绿色 切成滚刀块
+The green color will make our dish pretty. Now let’s cut it into big pieces.
+
+48
+00:01:51,160 --> 00:01:52,600
+
+49
+00:01:52,600 --> 00:01:53,720
+# 别太多啊
+We don’t need too many cucumber.
+
+50
+00:01:53,720 --> 00:01:54,520
+# 胡萝卜
+Carrot.
+
+51
+00:01:54,520 --> 00:01:55,960
+
+52
+00:01:55,960 --> 00:01:59,080
+# 也切成滚刀块 跟那一样的切法
+We need to cut the carrot the same way as the cucumber.
+
+53
+00:01:59,080 --> 00:02:01,440
+# 胡萝卜为了一会方便
+In order to make the carrot cook quickly, we will
+
+54
+00:02:01,440 --> 00:02:04,640
+# 给它出下水
+blanch it first.
+
+55
+00:02:04,640 --> 00:02:07,960
+# 这儿有一电磁炉 焯一下
+There is an induction cooker. We will use it to blanch the carrot.
+
+56
+00:02:07,960 --> 00:02:10,320
+# 然后切点小料 葱
+Let’s cut some other ingredients, spring onion.
+
+57
+00:02:10,320 --> 00:02:14,320
+
+58
+00:02:14,320 --> 00:02:17,840
+# 不要芯儿啊 这点葱就够了
+You don’t want the center of the spring onion? No, it's enough.
+
+59
+00:02:18,720 --> 00:02:21,720
+# 大妈监管的还挺严格
+Da Ma is supervising strictly.
+
+60
+00:02:21,720 --> 00:02:23,480
+# 你别给我糟践了
+I don’t want you to waste the spring onion.
+
+61
+00:02:23,480 --> 00:02:26,760
+# 网友上次对您的评价挺高的
+Online friends thought you did a great job last time.
+
+62
+00:02:26,760 --> 00:02:29,840
+# 真的吗 那太高兴了
+Really? I am very happy.
+
+63
+00:02:29,840 --> 00:02:31,760
+# 还得好好努力
+I will keep trying hard.
+
+64
+00:02:31,760 --> 00:02:35,200
+# 做糖醋的不能少蒜
+When we make the sweet and sour sauce, we mustn't forget garlic.
+
+65
+00:02:35,200 --> 00:02:37,000
+
+66
+00:02:37,000 --> 00:02:40,400
+# 先拍后切 让它碎一点 蒜末
+We first need to crush it, then mince it.
+
+67
+00:02:40,400 --> 00:02:41,960
+
+68
+00:02:45,640 --> 00:02:47,920
+# 今天咱基本上不是家庭版
+This version is not only for home-cooking,
+
+69
+00:02:47,920 --> 00:02:49,520
+# 基本就是饭店的
+It can even be used in restaurants.
+
+70
+00:02:49,520 --> 00:02:54,040
+# 咕咾虾 咕咾肉 咕咾鸡球
+You can use this method to cook shrimp, pork or chicken.
+
+71
+00:02:54,040 --> 00:02:56,640
+# 这都行 叫一通百通
+It all works – so called ‘master the one to master all’.
+
+72
+00:02:56,640 --> 00:02:59,440
+# 其实这道菜原始的叫咕咾肉
+Actually, the original of this dishes is called ‘Sweet and sour pork’.
+
+73
+00:02:59,440 --> 00:03:00,920
+# 来点姜米
+Let’s put some minced ginger.
+
+74
+00:03:00,920 --> 00:03:02,960
+# 这就是传统做法是吗
+Is this a traditional way of cooking?
+
+75
+00:03:02,960 --> 00:03:05,960
+# 只不过食材不一样了
+Yes, but the ingredients are different.
+
+76
+00:03:05,960 --> 00:03:09,080
+# 网友在家里抗YQ
+Online friends stay at home in response to the pandemic.
+
+77
+00:03:09,080 --> 00:03:11,040
+# 我们都在行动
+We also need to support them.
+
+78
+00:03:11,040 --> 00:03:13,800
+# 行动什么啊 吃点好的
+What could we do? Cook and eat something tasty.
+
+79
+00:03:13,800 --> 00:03:17,640
+# 胡萝卜焯水好了
+We have blanched the carrots.
+
+80
+00:03:17,640 --> 00:03:19,360
+# 因为这虾里边有水
+Because there is some water in the shrimps,
+
+81
+00:03:19,360 --> 00:03:21,800
+# 我们先抓点粉子 少抓
+We only need a little of the starch.
+
+82
+00:03:21,800 --> 00:03:23,080
+# 葱姜拣出来
+Let’s take the spring onions and ginger out.
+
+83
+00:03:23,080 --> 00:03:24,560
+
+84
+00:03:24,560 --> 00:03:28,360
+# 抓点淀粉 让每个虾球都粘上
+Then we add some starch and make sure every shrimp have some starch on its surface.
+
+85
+00:03:28,360 --> 00:03:30,040
+# 这叫水淀粉
+It is called ‘starch slurry’.
+
+86
+00:03:30,040 --> 00:03:31,800
+# 因为它里面有水
+Because there is some water in the bowl.
+
+87
+00:03:31,800 --> 00:03:36,400
+# 但是这个是不用加水和它是吧
+We don’t need water to mix with the starch, do we?
+
+88
+00:03:36,400 --> 00:03:39,200
+# 因为这虾本身就有水分
+No, because the shrimps contain water.
+
+89
+00:03:39,200 --> 00:03:43,360
+# 咱就别弄的太稀了起不到作用 挂不上
+We don’t want the slurry to be thin, otherwise, it would be hard to stick on the shrimps.
+
+90
+00:03:43,360 --> 00:03:45,600
+# 现在这粉子合适了
+The amount of the starch is just about right.
+
+91
+00:03:45,600 --> 00:03:47,440
+# 下面咱们开始蘸粉子
+Now we need to dip the shrimp in more starch.
+
+92
+00:03:47,440 --> 00:03:52,240
+# 打开了不打开 还得攥呢
+Do we need to uncurl the shrimps? No, we need to shape them into spheres.
+
+93
+00:03:52,240 --> 00:03:53,440
+# 得攥成小球似的
+So that they will be shaped like a ball.
+
+94
+00:03:53,440 --> 00:03:54,600
+
+95
+00:03:54,600 --> 00:03:58,120
+# 咕咾肉用的猪肉 最好用点肥瘦的
+If you are using pork here, you should choose the cut with some fat.
+
+96
+00:03:58,120 --> 00:04:01,680
+# 我们也可以用这种方法腌好了 蘸淀粉
+For pork, we can also use the same method of marinating and dipping into the starch.
+
+97
+00:04:01,680 --> 00:04:03,000
+# 鸡胸肉也好吃
+Chicken breast would also work.
+
+98
+00:04:03,000 --> 00:04:06,400
+# 咕咾鸡球 咕咾虾球 咕咾肉
+You can make sweet and sour chicken, shrimp, and pork.
+
+99
+00:04:06,400 --> 00:04:08,120
+# 因为它是球状的
+Because it is shaped like a ball.
+
+100
+00:04:08,120 --> 00:04:10,200
+# 这叫先成型
+We called this step as ‘forming the shape’.
+
+101
+00:04:10,200 --> 00:04:11,440
+
+102
+00:04:11,440 --> 00:04:13,640
+# 一会要定型
+Then we will help them hold the shape later.
+
+103
+00:04:13,640 --> 00:04:16,200
+# 好了 下边开始炸
+Ok, now we can start deep-frying.
+
+104
+00:04:16,200 --> 00:04:18,720
+# 这油也是一样 别放太多
+We don’t need too much oil.
+
+105
+00:04:18,720 --> 00:04:20,440
+
+106
+00:04:20,440 --> 00:04:22,120
+# 介绍介绍调料
+Let me introduce the ingredients for the sauce.
+
+107
+00:04:22,120 --> 00:04:31,000
+# 酒 盐 胡椒 白糖 番茄酱
+We have cooking wine, salt, white pepper, sugar, ketchup.
+
+108
+00:04:31,000 --> 00:04:33,840
+# 这个不容易看到 这是白醋
+and white vinegar. It is hard to show on the camera.
+
+109
+00:04:33,840 --> 00:04:39,000
+# 外焦里嫩 甜酸适口
+The outside of this dish will be crispy and the inside will be juicy. The balance between the sweetness and sourness is perfect.
+
+110
+00:04:39,000 --> 00:04:41,960
+# 看着啊 我们这个油差不多了
+See, the temperature of the oil is about right.
+
+111
+00:04:41,960 --> 00:04:43,720
+# 咱们再固定固定
+Let’s shape the shrimp again before we put it in the oil.
+
+112
+00:04:45,600 --> 00:04:46,080
+
+113
+00:04:46,080 --> 00:04:48,440
+# 再攥一下
+Squeeze it.
+
+114
+00:04:48,440 --> 00:04:49,480
+
+115
+00:04:53,440 --> 00:04:55,600
+# 大爷干什么都那么认真
+Whatever Da Ye does, he is very serious and careful,
+
+116
+00:04:55,600 --> 00:04:57,800
+# 做起饭也是特别认真
+especially when he is cooking.
+
+117
+00:04:57,800 --> 00:05:00,040
+# 我这是从小攥煤球长大的
+I used to shape the coal briquettes a lot when I was young.
+
+118
+00:05:00,040 --> 00:05:01,640
+
+119
+00:05:01,640 --> 00:05:03,000
+# 我可以俩手攥
+I could shape it with both of my hands.
+
+120
+00:05:03,880 --> 00:05:07,680
+# 大妈给看着锅里边啊 它在不断地变化
+Da Ma, please keep an eye on the wok. The shrimps are changing temperature constantly.
+
+121
+00:05:07,680 --> 00:05:09,920
+
+122
+00:05:10,560 --> 00:05:12,680
+# 圆呼吧 圆呼了
+Does it look like a ball? Yes.
+
+123
+00:05:12,680 --> 00:05:13,280
+
+124
+00:05:13,840 --> 00:05:17,560
+# 越大越好看是吧 变黄了
+The shrimps are prettier when they are getting bigger. The color is changing to yellow.
+
+125
+00:05:17,560 --> 00:05:19,760
+# 别老照菜照照大爷
+Da Ma, don't just record the dish, record me too.
+
+126
+00:05:19,760 --> 00:05:22,000
+
+127
+00:05:22,000 --> 00:05:24,880
+# 不照你人家也知道是你
+Online friends know who you are even if I didn’t give you any shots.
+
+128
+00:05:24,880 --> 00:05:26,040
+
+129
+00:05:26,520 --> 00:05:30,640
+# 上次网友评价咱们做那什么的时候
+Online friends comment a lot when we made the pies last time.
+
+130
+00:05:30,640 --> 00:05:35,840
+# 网友评价的很多 上千条
+We received thousands of comments.
+
+131
+00:05:37,360 --> 00:05:39,240
+# 有夸我的 夸你
+Some complimented me, and some complimented you.
+
+132
+00:05:39,240 --> 00:05:42,000
+# 还夸大妈的呢 大妈不行
+Really? Did they complimented me as well? I don’t deserve it.
+
+133
+00:05:42,000 --> 00:05:45,920
+# 大妈就是绿叶 你才是那红花
+Da Ma is like the leaf to the flower, Da Ye is the flower.
+
+134
+00:05:45,920 --> 00:05:47,920
+# 我是那花儿啊
+Am I the flower?
+
+135
+00:05:47,920 --> 00:05:48,680
+
+136
+00:05:48,680 --> 00:05:51,080
+# 这就好啦 没呢这还得复油一遍
+Are we done? No, we need to deep fry it the second time.
+
+137
+00:05:51,080 --> 00:05:52,240
+# 老炸就炸干了
+If we cook the shrimps for too long, it will be less juicy.
+
+138
+00:05:52,240 --> 00:05:56,040
+# 然后再来油温让它稍微调整一下
+Let’s heat up the oil first and then fry it again.
+
+139
+00:05:56,040 --> 00:05:58,960
+# 再高一些 高一点
+The temperature need to be higher.
+
+140
+00:05:59,520 --> 00:06:02,320
+# 先控控油
+We want to strain the oil off.
+
+141
+00:06:04,040 --> 00:06:06,800
+# 这是复炸 复炸一遍
+This is the second time we fry the shrimps.
+
+142
+00:06:06,800 --> 00:06:08,880
+# 你看炸完以后更好看是啊
+You see, the shrimps looks better after the second frying.
+
+143
+00:06:08,880 --> 00:06:11,960
+
+144
+00:06:11,960 --> 00:06:15,360
+# 这就好了 真是好 都想吃了
+It is done. It looks great. I want to eat it now.
+
+145
+00:06:15,360 --> 00:06:17,800
+# 这时候来点底油
+Now, we need some oil.
+
+146
+00:06:17,800 --> 00:06:21,120
+# 大妈稍微把火小着点儿
+Da Ma, could you help me to turn the heat lower?
+
+147
+00:06:21,120 --> 00:06:24,360
+# 葱姜蒜 胡萝卜黄瓜
+Let’s put the spring onion, ginger, garlic, carrot, cucumber,
+
+148
+00:06:24,360 --> 00:06:24,640
+
+149
+00:06:24,640 --> 00:06:26,720
+# 番茄酱 番茄沙司
+And ketchup in the wok.
+
+150
+00:06:26,720 --> 00:06:28,560
+
+151
+00:06:28,560 --> 00:06:32,520
+# 炒一炒 搁上水
+We now need to stir fry it, and then add some water.
+
+152
+00:06:32,520 --> 00:06:34,400
+# 番茄酱要多炒一会
+If we are using tomato sauce, we need to cook a bit longer.
+
+153
+00:06:34,400 --> 00:06:38,600
+# 这番茄沙司不用多炒 因为它是熟酱
+But we are using ketchup here, we don’t need to cook for too long, because it is already cooked.
+
+154
+00:06:38,600 --> 00:06:41,720
+# 开大火 咱们开始加调料
+Turn on high heat. Let’s add some flavoring:
+
+155
+00:06:41,720 --> 00:06:45,360
+# 加点盐 大约四克
+4g of salt.
+
+156
+00:06:45,360 --> 00:06:48,720
+# 要想甜 要加盐
+The salt will enhance the sweetness.
+
+157
+00:06:48,720 --> 00:06:52,280
+# 白糖 搁那么多糖啊 糖要多一点
+Sugar. Wow, do we need to put so much sugar? Yes, we need a quite a lot of sugar.
+
+158
+00:06:52,280 --> 00:06:53,800
+# 搁了这汁儿才亮
+The sauce will be glossy because of the sugar.
+
+159
+00:06:53,800 --> 00:06:56,080
+# 不会齁儿的慌啊 不会
+Will it be too sweet? No.
+
+160
+00:06:56,080 --> 00:06:58,360
+# 糖少了它不会产生气泡
+If we don’t have enough sugar, the sauce will not be bubbling.
+
+161
+00:06:58,360 --> 00:07:01,680
+# 网友我们要是在家里做的时候说
+Some friends tried the dishes at home and asked
+
+162
+00:07:01,680 --> 00:07:04,120
+# 这汁怎么出来以后不够亮啊
+Why is the sauce not glossy enough?
+
+163
+00:07:04,120 --> 00:07:05,600
+# 就是你的糖不够
+It is because you didn’t use enough sugar.
+
+164
+00:07:05,600 --> 00:07:13,480
+# 白醋 白醋也就两勺 两勺羹
+Now we add two spoons of white vinegar.
+
+165
+00:07:15,880 --> 00:07:18,080
+# 有的可能说我喜欢吃番茄
+Some people may like the tomatoes flavor:
+
+166
+00:07:18,080 --> 00:07:20,920
+# 颜色还可以重一点  再多放一点
+You can add a bit more ketchup to darken the color.
+
+167
+00:07:20,920 --> 00:07:24,480
+# 现在这汁已经调好了 勾个芡
+Now the sauce is ready, let’s thicken it by adding the starch slurry.
+
+168
+00:07:24,480 --> 00:07:27,160
+# 是起泡泡了 起泡了吧
+It is bubbling now. Yes, I said it would be bubbling, right?
+
+169
+00:07:27,160 --> 00:07:30,760
+# 这糖化了 所以你调出来这汁才发亮
+The sauce will be shiny when the sugar melted.
+
+170
+00:07:30,760 --> 00:07:32,760
+# 看着啊 这是淀粉
+See, it is starch slurry.
+
+171
+00:07:32,760 --> 00:07:37,240
+
+172
+00:07:37,240 --> 00:07:38,360
+# 给准备一盘儿
+Please prepare a plate for me.
+
+173
+00:07:38,360 --> 00:07:42,680
+# 这可以吧 那就可以了
+How about this? It looks good.
+
+174
+00:07:42,680 --> 00:07:48,520
+# 看着啊 下去了啊 亮了
+Look at it -  I put the starch slurry in the sauce, and the sauce is glossy now.
+
+175
+00:07:48,520 --> 00:07:50,960
+# 关键时刻
+Important moment.
+
+176
+00:07:50,960 --> 00:07:53,440
+# 出锅了啊 好
+It is done. Good.
+
+177
+00:07:54,800 --> 00:07:59,080
+# 倍儿红 颠一颠 蘸匀了
+The color is bright red. Let’s toss it around, so that the sauce will be evenly distributed.
+
+178
+00:07:59,080 --> 00:08:01,600
+# 好了出锅了
+Ok, we can take it out of the wok.
+
+179
+00:08:01,600 --> 00:08:05,240
+# 大妈给照一相片啊 那是肯定得照
+Da Ma, take a picture. For sure!
+
+180
+00:08:05,240 --> 00:08:07,560
+# 真好
+It looks great!
+
+181
+00:08:07,560 --> 00:08:10,000
+# 稍等稍等 调整一下
+Wait a moment, I need to adjust the plating.
+
+182
+00:08:10,000 --> 00:08:14,120
+# 酸甜可口的咕咾虾
+Sweet and sour shrimp, it tastes really good.
+
+183
+00:08:14,120 --> 00:08:18,120
+# 它形状是球状 那就是咕咾虾球
+It looks like a ball, so we call it sweet and sour shrimp ball.
+
+184
+00:08:18,120 --> 00:08:19,120
+
+185
+00:08:19,120 --> 00:08:21,520
+# 上菜
+Finished!
+
+186
+00:08:21,520 --> 00:08:25,880
+# 家有大厨 就是幸福
+It is awesome to have a chef at home!
+
+187
+00:08:27,200 --> 00:08:29,880
+# 我总也忘不了这句话
+I always want to say this slogan.
+
+# import ending.srt 00:08:37,000 请原样保留此行
