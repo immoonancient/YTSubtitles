@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•大爷咕咾虾球】酸甜可口的咕咾虾球，大爷大妈甜蜜互动，家有大厨，就是幸福！Sweet and Sour Shrimp|老饭骨
-# State Banquet Master Chef - Da Ye's Sweet and Sour Shrimp, Da Ma compliments:“It is awesome to have a chef at home!”
+# State Banquet Master Chef: Sweet and Sour Shrimp; Sweet moments between Da Ye and Da Ma
 
 # 简介
 # 小友们今天又要进来吃狗粮啦！大爷掌勺，大妈掌镜，带来外酥里嫩、酸甜可口的咕咾虾球！酸酸甜甜的，这大概就是传说中爱情的味道吧！
@@ -10,7 +10,7 @@
 # 调汁儿是这道菜的关键，小友们可要看好咯！
 # 咕咾虾球简单易学又营养美味，小友们可要在家学起来哦！
 # Introduction
-# Hello Friends, today we are having some sweet treats from Da Ye and Da Ma (Da Ye’s wife). While Da Ye is cooking, Da Ma is filming for him. They are teaching us how to make the sweet and sour shrimp. The outside of the shrimps are crispy and the inside are soft and juicy. It tastes really good. The sweetness and sourness you can taste in this dish, may like how you felt about love.
+# Hello Friends, today we are having some sweet treats from Da Ye and Da Ma (Da Ye’s wife). While Da Ye is cooking, Da Ma is filming for him. They are teaching us how to make sweet and sour shrimp with a crispy outside and a tender inside. The sweetness and tartness in this dish, may be also the taste of love.
 # If you learn how to make this sweet and sour shrimp, you can replace shrimp with pork or chicken. Master the one to master all.
 # The sauce is the essence of this dish, please pay attention while watching!
 # The sweet and sour shrimp is easy to learn, full of nutrition and very tasty. Give it a try when you are at home!
@@ -39,7 +39,7 @@ It is the important moment.
 5
 00:00:09,400 --> 00:00:10,520
 # 出锅了啊
-Let’s take the dish out of the wok.
+Let’s serve the dish.
 
 6
 00:00:10,520 --> 00:00:13,680
@@ -62,7 +62,7 @@ We first need to cut the shrimp on its back,
 10
 00:00:23,280 --> 00:00:25,440
 # 剖开当中我们就查查有没有沙线
-to get rid of the intestine.
+and get rid of the intestine if you saw it.
 
 11
 00:00:25,440 --> 00:00:27,360
@@ -72,12 +72,12 @@ It looks clean. Yes, it is.
 12
 00:00:27,360 --> 00:00:31,600
 # 很多网友上次对大妈的录像水平
-Lots of friends commented Da Ma’s filming skill in the last video.
+Regarding to Da Ma’s filming skills in the last video, lots of friends
 
 13
 00:00:31,600 --> 00:00:32,720
 # 非常满意
-They are very satisfied.
+are very satisfied.
 
 14
 00:00:32,720 --> 00:00:34,000
@@ -95,7 +95,7 @@ It was ‘extremely’ satisfied.
 17
 00:00:37,040 --> 00:00:38,440
 # 据说比二伯录的好
-They said that Da Ma did better job than Er Bai.
+They said that Da Ma did a better job than Er Bai.
 
 18
 00:00:38,440 --> 00:00:40,120
@@ -103,7 +103,7 @@ They said that Da Ma did better job than Er Bai.
 19
 00:00:40,120 --> 00:00:43,160
 # 一会给大妈露个镜头
-Let’s give Da Ma a screen later,
+Let’s shoot Da Ma later,
 
 20
 00:00:43,160 --> 00:00:46,160
@@ -141,12 +141,12 @@ We need to cut this shrimp on its back,
 27
 00:00:58,600 --> 00:01:01,680
 # 但是不让它断了 对不能断
-But we don’t want to cut through it. Yes, we shouldn’t separate the shrimp.
+But we don’t want to cut through it. Yes, we shouldn’t cut the shrimp in half.
 
 28
 00:01:01,680 --> 00:01:04,240
 # 因为咕咾虾是一个圆球状
-Because we want the shrimp to look like a ball after cooking it.
+Because we want the shrimp to become sphere-like.
 
 29
 00:01:04,240 --> 00:01:06,480
@@ -159,17 +159,17 @@ Ok, let’s rinse the shrimps.
 31
 00:01:08,160 --> 00:01:11,440
 # 我看你这儿还有什么 番茄沙司
-Let me see what do we have here. Ketchup.
+Let me see what do we have here, tomato sauce.
 
 32
 00:01:11,440 --> 00:01:12,920
 # 有番茄酱是最好
-It would be better to use tomato puree.
+It would be better to use tomato sauce.
 
 33
 00:01:12,920 --> 00:01:15,120
 # 搁点盐 这叫底味
-Let’s put some salt in it. We called it ‘basic flavor’.
+Let’s put some salt in it. We called it ‘flavor base’.
 
 34
 00:01:15,120 --> 00:01:17,720
@@ -210,12 +210,12 @@ This marinade will get rid of the unpleasant smell in shrimp.
 42
 00:01:35,560 --> 00:01:39,000
 # 葱段和姜片
-Put the green onion and ginger in the bowl.
+Put the green onions and ginger in the bowl.
 
 43
 00:01:39,000 --> 00:01:42,320
 # 腌的时候不搁淀粉吧
-Do we need any starch while marinade?
+Do we need any starch while marinating?
 
 44
 00:01:42,320 --> 00:01:45,400
@@ -233,7 +233,7 @@ We will keep the cucumber skin on.
 47
 00:01:48,560 --> 00:01:51,160
 # 要这个绿色 切成滚刀块
-The green color will make our dish pretty. No let’s cut it to big pieces.
+The green color will make our dish pretty. Now let’s cut it into big pieces.
 
 48
 00:01:51,160 --> 00:01:52,600
@@ -241,7 +241,7 @@ The green color will make our dish pretty. No let’s cut it to big pieces.
 49
 00:01:52,600 --> 00:01:53,720
 # 别太多啊
-We don’t need too much cucumber.
+We don’t need too many cucumber.
 
 50
 00:01:53,720 --> 00:01:54,520
@@ -274,7 +274,7 @@ There is an induction cooker. We will use it to blanch the carrot.
 56
 00:02:07,960 --> 00:02:10,320
 # 然后切点小料 葱
-Let’s cut some condiments: green onion.
+Let’s cut some other ingredients, spring onion.
 
 57
 00:02:10,320 --> 00:02:14,320
@@ -282,12 +282,12 @@ Let’s cut some condiments: green onion.
 58
 00:02:14,320 --> 00:02:17,840
 # 不要芯儿啊 这点葱就够了
-Don’t we want the center of the green onion? No, we have enough.
+You don’t want the center of the spring onion? No, it's enough.
 
 59
 00:02:18,720 --> 00:02:21,720
 # 大妈监管的还挺严格
-Da Ma is checking very carefully.
+Da Ma is supervising strictly.
 
 60
 00:02:21,720 --> 00:02:23,480
@@ -312,7 +312,7 @@ I will keep trying hard.
 64
 00:02:31,760 --> 00:02:35,200
 # 做糖醋的不能少蒜
-When we make the sweet sour sauce, we need garlic.
+When we make the sweet and sour sauce, we mustn't forget garlic.
 
 65
 00:02:35,200 --> 00:02:37,000
@@ -320,7 +320,7 @@ When we make the sweet sour sauce, we need garlic.
 66
 00:02:37,000 --> 00:02:40,400
 # 先拍后切 让它碎一点 蒜末
-We first need to splash it, then mince it.
+We first need to crush it, then mince it.
 
 67
 00:02:40,400 --> 00:02:41,960
@@ -363,22 +363,22 @@ Is this a traditional way of cooking?
 75
 00:03:02,960 --> 00:03:05,960
 # 只不过食材不一样了
-Yes, but the ingredient is different.
+Yes, but the ingredients are different.
 
 76
 00:03:05,960 --> 00:03:09,080
 # 网友在家里抗YQ
-Online friends stay at home to avoid the bigger outbreak of the pandemic.
+Online friends stay at home in response to the pandemic.
 
 77
 00:03:09,080 --> 00:03:11,040
 # 我们都在行动
-We also need to support.
+We also need to support them.
 
 78
 00:03:11,040 --> 00:03:13,800
 # 行动什么啊 吃点好的
-What could we do? Make and eat something tasty.
+What could we do? Cook and eat something tasty.
 
 79
 00:03:13,800 --> 00:03:17,640
@@ -388,7 +388,7 @@ We have blanched the carrots.
 80
 00:03:17,640 --> 00:03:19,360
 # 因为这虾里边有水
-Because there is some water in the shrimp,
+Because there is some water in the shrimps,
 
 81
 00:03:19,360 --> 00:03:21,800
@@ -398,7 +398,7 @@ We only need a little of the starch.
 82
 00:03:21,800 --> 00:03:23,080
 # 葱姜拣出来
-Let’s pick the green onion and ginger out.
+Let’s take the spring onions and ginger out.
 
 83
 00:03:23,080 --> 00:03:24,560
@@ -406,7 +406,7 @@ Let’s pick the green onion and ginger out.
 84
 00:03:24,560 --> 00:03:28,360
 # 抓点淀粉 让每个虾球都粘上
-Then we put some starch in the shrimp and make sure every shrimp have some starch.
+Then we add some starch and make sure every shrimp have some starch on its surface.
 
 85
 00:03:28,360 --> 00:03:30,040
@@ -431,27 +431,27 @@ No, because the shrimps contain water.
 89
 00:03:39,200 --> 00:03:43,360
 # 咱就别弄的太稀了起不到作用 挂不上
-We don’t want the slurry to be thin, otherwise, it will be hard to stick on the shrimps.
+We don’t want the slurry to be thin, otherwise, it would be hard to stick on the shrimps.
 
 90
 00:03:43,360 --> 00:03:45,600
 # 现在这粉子合适了
-The amount of the shrimp is about right.
+The amount of the starch is just about right.
 
 91
 00:03:45,600 --> 00:03:47,440
 # 下面咱们开始蘸粉子
-Now we need to dip the shrimp in the starch.
+Now we need to dip the shrimp in more starch.
 
 92
 00:03:47,440 --> 00:03:52,240
 # 打开了不打开 还得攥呢
-Do we need to expand the shrimp? No, we need to squeeze it.
+Do we need to uncurl the shrimps? No, we need to shape them into spheres.
 
 93
 00:03:52,240 --> 00:03:53,440
 # 得攥成小球似的
-So that it will be shaped like a ball.
+So that they will be shaped like a ball.
 
 94
 00:03:53,440 --> 00:03:54,600
@@ -464,7 +464,7 @@ If you are using pork here, you should choose the cut with some fat.
 96
 00:03:58,120 --> 00:04:01,680
 # 我们也可以用这种方法腌好了 蘸淀粉
-For pork, we can also use this method to marinade and dip into the starch.
+For pork, we can also use the same method of marinating and dipping into the starch.
 
 97
 00:04:01,680 --> 00:04:03,000
@@ -484,7 +484,7 @@ Because it is shaped like a ball.
 100
 00:04:08,120 --> 00:04:10,200
 # 这叫先成型
-We called this step as‘making the shape’.
+We called this step as ‘forming the shape’.
 
 101
 00:04:10,200 --> 00:04:11,440
@@ -492,7 +492,7 @@ We called this step as‘making the shape’.
 102
 00:04:11,440 --> 00:04:13,640
 # 一会要定型
-Then we will fix the shape.
+Then we will help them hold the shape later.
 
 103
 00:04:13,640 --> 00:04:16,200
@@ -520,22 +520,22 @@ We have cooking wine, salt, white pepper, sugar, ketchup.
 108
 00:04:31,000 --> 00:04:33,840
 # 这个不容易看到 这是白醋
-and white vinegar. It is hard to see.
+and white vinegar. It is hard to show on the camera.
 
 109
 00:04:33,840 --> 00:04:39,000
 # 外焦里嫩 甜酸适口
-The outside of this dish will be crispy and the inside will be juicy. The flavor balanced the sweetness and sourness very well.
+The outside of this dish will be crispy and the inside will be juicy. The balance between the sweetness and sourness is perfect.
 
 110
 00:04:39,000 --> 00:04:41,960
 # 看着啊 我们这个油差不多了
-See, the temperature of oil is about right.
+See, the temperature of the oil is about right.
 
 111
 00:04:41,960 --> 00:04:43,720
 # 咱们再固定固定
-Let’s shape the shrimp before we put it in the oil.
+Let’s shape the shrimp again before we put it in the oil.
 
 112
 00:04:45,600 --> 00:04:46,080
@@ -574,7 +574,7 @@ I could shape it with both of my hands.
 120
 00:05:03,880 --> 00:05:07,680
 # 大妈给看着锅里边啊 它在不断地变化
-Da Ma, please film the wok. The shrimp is changing constantly.
+Da Ma, please keep an eye on the wok. The shrimps are changing temperature constantly.
 
 121
 00:05:07,680 --> 00:05:09,920
@@ -595,7 +595,7 @@ The shrimps are prettier when they are getting bigger. The color is changing to 
 125
 00:05:17,560 --> 00:05:19,760
 # 别老照菜照照大爷
-Da Ma, I also want to have some shots.
+Da Ma, don't just record the dish, record me too.
 
 126
 00:05:19,760 --> 00:05:22,000
@@ -603,7 +603,7 @@ Da Ma, I also want to have some shots.
 127
 00:05:22,000 --> 00:05:24,880
 # 不照你人家也知道是你
-Online friends know who you are if I didn’t give you any shots.
+Online friends know who you are even if I didn’t give you any shots.
 
 128
 00:05:24,880 --> 00:05:26,040
@@ -611,7 +611,7 @@ Online friends know who you are if I didn’t give you any shots.
 129
 00:05:26,520 --> 00:05:30,640
 # 上次网友评价咱们做那什么的时候
-Online friends comments a lot when we make the pancake last time.
+Online friends comment a lot when we made the pies last time.
 
 130
 00:05:30,640 --> 00:05:35,840
@@ -644,7 +644,7 @@ Am I the flower?
 136
 00:05:48,680 --> 00:05:51,080
 # 这就好啦 没呢这还得复油一遍
-Are we done? No, we need to fry it the second time.
+Are we done? No, we need to deep fry it the second time.
 
 137
 00:05:51,080 --> 00:05:52,240
@@ -713,12 +713,12 @@ And ketchup in the wok.
 151
 00:06:28,560 --> 00:06:32,520
 # 炒一炒 搁上水
-We now need to stir fry a bit, and then add some water.
+We now need to stir fry it, and then add some water.
 
 152
 00:06:32,520 --> 00:06:34,400
 # 番茄酱要多炒一会
-If we are using tomato puree, we need to cook a bit longer.
+If we are using tomato sauce, we need to cook a bit longer.
 
 153
 00:06:34,400 --> 00:06:38,600
@@ -733,7 +733,7 @@ Turn on high heat. Let’s add some flavoring:
 155
 00:06:41,720 --> 00:06:45,360
 # 加点盐 大约四克
-4g salt.
+4g of salt.
 
 156
 00:06:45,360 --> 00:06:48,720
@@ -748,7 +748,7 @@ Sugar. Wow, do we need to put so much sugar? Yes, we need a quite a lot of sugar
 158
 00:06:52,280 --> 00:06:53,800
 # 搁了这汁儿才亮
-The sauce will be shiny because of the sugar.
+The sauce will be glossy because of the sugar.
 
 159
 00:06:53,800 --> 00:06:56,080
@@ -768,7 +768,7 @@ Some friends tried the dishes at home and asked
 162
 00:07:01,680 --> 00:07:04,120
 # 这汁怎么出来以后不够亮啊
-Why is the sauce not shiny?
+Why is the sauce not glossy enough?
 
 163
 00:07:04,120 --> 00:07:05,600
@@ -793,7 +793,7 @@ You can add a bit more ketchup to darken the color.
 167
 00:07:20,920 --> 00:07:24,480
 # 现在这汁已经调好了 勾个芡
-Now the sauce is ready, let’ thicken it by adding the starch slurry.
+Now the sauce is ready, let’s thicken it by adding the starch slurry.
 
 168
 00:07:24,480 --> 00:07:27,160
@@ -816,7 +816,7 @@ See, it is starch slurry.
 172
 00:07:37,240 --> 00:07:38,360
 # 给准备一盘儿
-I will prepare a plate for you.
+Please prepare a plate for me.
 
 173
 00:07:38,360 --> 00:07:42,680
@@ -826,7 +826,7 @@ How about this? It looks good.
 174
 00:07:42,680 --> 00:07:48,520
 # 看着啊 下去了啊 亮了
-Look at it -  I put the starch slurry in the sauce, and the sauce is shiny now.
+Look at it -  I put the starch slurry in the sauce, and the sauce is glossy now.
 
 175
 00:07:48,520 --> 00:07:50,960
@@ -841,7 +841,7 @@ It is done. Good.
 177
 00:07:54,800 --> 00:07:59,080
 # 倍儿红 颠一颠 蘸匀了
-The color is bright red. Let’s shake the wok, so that the sauce will be evenly distributed.
+The color is bright red. Let’s toss it around, so that the sauce will be evenly distributed.
 
 178
 00:07:59,080 --> 00:08:01,600
