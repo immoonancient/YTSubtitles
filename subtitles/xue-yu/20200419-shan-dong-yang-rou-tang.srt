@@ -2,15 +2,15 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 在山东喝羊肉汤有多豪迈！羊肉切大块，大舀子加汤，花20元吃得痛快
-# Look how grand it is to drink lamb soup in Shandong! Cut the mutton into large pieces, add the big ladle to the soup, eat it for 20 yuan
+# Having lamb soup in Shandong in the bold way! Great satisfaction for only 20 yuan
 # 简介
 # 好久没有出来喝汤了，这次来到离家2个小时的山东日照喝羊肉汤！这家店面没有很豪华的装修，
 # 可以说是很破旧，来这家店的顾客主要是奔着味道来的，最低15元一碗肉，加汤免费，
 # 大饼1元管够，咸菜免费自助！如果想多加一点肉，可以要20元，30元，甚至50元一碗的，都可以！
 # 到了中午12点，顾客就像说好了似的一块都来了，排队是常有的事情，大厅里都坐满了人，想要找到一个空座还是不容易的。
 # 一碗羊肉汤里，羊肉很大块，汤汁奶白色，吃一口肉喝一口汤，再就一口饼，真是很惬意的感觉。
-# Its been a long time I haven’t drink lamb soup, now we drink lamb soup in Rizhao, Shandong where drive 2 hours from home. There is no luxurious decoration in this restaurant,
-# I can say it is very shabby. The customers who come to this restaurant mainly for the taste. The minimum is 15 yuan per bowl of soup and meat, and add soup is free. The flatbread is for 1 yuan, and the pickles are free for self-service! If you want to add a little more lamb meat, you can ask for 20 yuan, 30 yuan, or even 50 yuan per bowl! At noon, customers came together, lining is a common thing, the hall is full of people, and it is not easy to find an empty seat. In a bowl of lamb soup, the lamb meat is very large and the soup is milky white. It is a very comfortable feeling to eat a bite of meat and drink a soup together
+# It's been a long time I haven’t had lamb soup outside. Now we are having lamb soup in Rizhao, Shandong, which is 2-hour drive from home. There is no luxurious decoration in this restaurant,
+# I can say it is very shabby. The customers who come to this restaurant mainly come for the taste. The cheapest order is 15 yuan for a bowl of soup and meat, and refilling soup is free. The flatbread is for 1 yuan, and the pickles are free for self-service! If you want to add a little more lamb meat, you can ask for 20 yuan, 30 yuan, or even 50 yuan per bowl! At noon, customers come together, and need to line up in most cases. The lobby is full of people, and it is not easy to find an empty seat. In a bowl of lamb soup, the lamb meat is very large and the soup is milky white. Have a bite of meat, drink a sip of soup, together with a bit of flatbread, it's such an enjoyment.
 # 字幕
 
 1
@@ -26,113 +26,128 @@ Huge pot of lamb soup
 3
 00:00:37,480 --> 00:00:42,240
 # 现在是不到11点 她们都在忙碌着切羊肉
-It’s less than 11 am now, they are busy to cutting lamb
+It’s before 11 am now, they are busy to cutting lamb
 
 4
 00:00:42,240 --> 00:00:45,520
 # 羊肉呢 要把肥的和瘦的分开来
-They are splitting fatty and fatless lamb apart
+They are splitting fatty and lean lamb apart
 
 5
 00:00:45,520 --> 00:00:47,920
 # 你看 那个肥的都会被她们剔掉
-you see, they take fatty lamb away
+You see, they remove the fatty part from the lamb
 
 6
 00:00:47,920 --> 00:00:51,920
 # 剩的羊肉就是瘦的多 肥的少
-More fatless and less fatty in rest of lamb
+So there's more lean and less fatty parts in the rest of the lamb
 
 7
 00:00:51,920 --> 00:00:54,840
 # 看这羊肉切的是不是很带劲
-See how they cut the lamb?
+See how they cut the lamb? Isn't it exciting?
 
 8
 00:01:00,520 --> 00:01:04,480
 # 大姐 这边早上几点开门
-Anut, what time is it open in the morning?
+Sis, what time is it open in the morning?
 
 9
 00:01:04,480 --> 00:01:06,880
 # 6点 6点就开始喝羊肉汤了
-Around six o’clock
+- Around six o’clock
+- We can have lamb soup at six o'clock?
 
 10
 00:01:06,880 --> 00:01:08,880
 # 就喝羊肉汤了
+Yeah
 
 11
 00:01:08,880 --> 00:01:13,560
 # 老板3点就开始熬汤
-The restaurant owner start cooking soup at 3 am
+The restaurant owner starts cooking soup at 3 am
 
 12
 00:01:21,280 --> 00:01:24,440
 # 你看 这边的羊肉切的都是很大块的
-You see, they cut lamb into large pieces
+You see, their lamb is in really large chops
 
 13
 00:01:24,440 --> 00:01:27,600
 # 哇 这个羊骨头直接从肉上掰了下来
-Wow, meat is easy to off the bone
+Wow, the meat is easy to tear off the bone
 
 14
 00:01:54,480 --> 00:01:57,920
 # 这边是一个大棚 可能来的比较早
+There's a canopy here. Maybe because we came too early,
 
 15
 00:01:57,920 --> 00:01:59,640
 # 没有很多人在这边吃
+not many people are eating here.
 
 16
 00:01:59,640 --> 00:02:02,920
 # 早上来吃的大部分人还是在室内吃的
+Most people in the morning would eat inside
 
 17
 00:02:02,960 --> 00:02:04,520
 # 没想到今天天气这么热
+I didn't expect such a hot day
 
 18
 00:02:04,520 --> 00:02:07,040
 # 好像只有我穿的比较厚
+It's probably just me wearing so much here
 
 19
 00:02:50,200 --> 00:02:55,080
 # 这个就是吃羊汤配的主食-大饼
+This is the staple to eat with the lamb soup - the flatbread
 
 20
 00:02:59,120 --> 00:03:01,600
 # 这边还有韭菜花和咸菜
+And also chives and pickles
 
 21
 00:03:01,600 --> 00:03:04,320
 # 都是可以免费加的
+All can be refilled for free
 
 22
 00:03:04,320 --> 00:03:09,520
 # 我后面就是正在炖的羊 全羊
+Behind me is the lamb being stewed. A whole lamb
 
 23
 00:03:09,520 --> 00:03:13,480
 # 里面能够明显看到的是羊肉还有羊油
+We can easily see lamb meat and lamb fat in there
 
 24
 00:03:14,840 --> 00:03:18,120
 # 这冒的大泡 看起来就特别香
+See those huge bubbles coming up! So aromatic!
 
 25
 00:03:42,920 --> 00:03:47,320
 # 师傅 他们说羊蝎子11点之前有时候就会被抢光
+Sir, I heard that lamb spine will be sold out before 11 o'clock?
 
 26
 00:03:47,320 --> 00:03:49,120
 # 对
+Yes
 
 27
 00:03:50,760 --> 00:03:52,520
 # 羊蝎子多少钱
-How much lamb spine is?
+How much is lamb spine?
 
 28
 00:03:52,520 --> 00:03:54,280
@@ -142,7 +157,7 @@ How much lamb spine is?
 29
 00:03:54,280 --> 00:03:55,800
 # 那确实是很实惠
-That’s really good price
+That’s really a good price
 
 30
 00:03:55,800 --> 00:03:57,320
@@ -162,7 +177,7 @@ Not yet
 33
 00:04:02,200 --> 00:04:04,880
 # 还没到饭点
-It’s not time to eat
+It’s not dining time yet
 
 34
 00:04:27,760 --> 00:04:31,720
@@ -172,7 +187,7 @@ I want a 20 yuan lamb soup and a lamb bone marrow
 35
 00:04:36,600 --> 00:04:37,400
 # 哦（还没有点饼）
-Oh(forget to order a
+Oh (haven't ordered flatbread yet)
 
 36
 00:04:37,400 --> 00:04:40,240
@@ -192,7 +207,7 @@ Lamb spine
 39
 00:04:43,480 --> 00:04:46,000
 # 付了3块钱 买的是羊蝎子
-Paid 3 yuan for a lamb spine
+I paid 3 yuan for a lamb spine
 
 40
 00:04:56,360 --> 00:05:00,040
@@ -202,7 +217,7 @@ And a flatbread
 41
 00:05:02,080 --> 00:05:04,000
 # 你要6碗是吧
-You want six bowls of lamb soup right?
+You ordered six bowls of lamb soup right?
 
 42
 00:05:04,560 --> 00:05:09,500
@@ -237,7 +252,7 @@ Not yet
 48
 00:05:42,160 --> 00:05:44,360
 # 再给你加两片瘦肉
-I will add two more lean meat for you
+Some more lean meat for you
 
 49
 00:05:44,360 --> 00:05:46,000
@@ -247,7 +262,7 @@ Okay, thank you
 50
 00:05:46,000 --> 00:05:47,520
 # 多给你点 尝尝
-I will give you more meat, try it
+More meat for you. Have a try
 
 51
 00:05:48,000 --> 00:05:49,440
@@ -262,7 +277,7 @@ Now we are waiting for them to add soup
 53
 00:05:55,720 --> 00:05:57,280
 # 自己舀吗
-By your own?
+On my own?
 
 54
 00:06:12,800 --> 00:06:15,280
@@ -282,42 +297,42 @@ Look, our lamb soup and lamb spine and flatbread are on table
 57
 00:06:26,360 --> 00:06:27,520
 # 大姐觉得我有点瘦
-Aunt think I’m thin
+The sis thought I’m thin
 
 58
 00:06:27,520 --> 00:06:29,960
 # 所以 多给我加了几块瘦肉
-So she add more lean meat for me
+So she added more lean meat for me
 
 59
 00:06:29,960 --> 00:06:32,640
 # 还有呢 就是 我要了一块羊蝎子
-And I order a lamb spine
+And I ordered a lamb spine
 
 60
 00:06:32,640 --> 00:06:34,560
 # 实际上 还多让了几块
-They give me more than what I ordered
+They actually gave me more than what I ordered
 
 61
 00:06:34,560 --> 00:06:37,280
 # 在此非常感谢他们
-So thanks for them
+So many thanks to them
 
 62
 00:06:37,280 --> 00:06:39,680
 # 这边基础的羊汤是15块钱
-Basic soup is 15 yuan
+The basic soup is 15 yuan
 
 63
 00:06:39,680 --> 00:06:42,960
 # 如果说 想要多吃肉的话 可以自己再加钱
-Pay more money to get more meat
+You can buy extra meat if you want
 
 64
 00:06:42,960 --> 00:06:45,560
 # 像我呢 就是 要了一碗20块钱的
-I order 20 yuan bowl of soup
+I ordered a 20-yuan bowl of soup
 
 65
 00:06:45,560 --> 00:06:46,600
@@ -332,12 +347,12 @@ Shifu will put meat in a colander
 67
 00:06:49,080 --> 00:06:52,840
 # 然后用滚烫的羊汤来涮几下 冲几下
-And boiled it with hot lamb soup
+And scald it with boiling hot lamb soup
 
 68
 00:06:52,880 --> 00:06:54,880
 # 最后呢 就是再放上羊汤
-Add lamb soup at the end
+Add add lamb soup at the end
 
 69
 00:06:54,880 --> 00:06:57,280
@@ -347,17 +362,17 @@ Looks very delicious
 70
 00:06:57,280 --> 00:06:59,360
 # 羊汤是没有味道的
-Original Lamb soup are insipid taste
+The original Lamb soup is flavorless
 
 71
 00:06:59,360 --> 00:07:00,120
 # 也没有膻味
-And no tainted taste
+And no lamb odor
 
 72
 00:07:00,120 --> 00:07:03,400
 # 我们需要自己加盐 加胡椒粉
-We need to add salt and pepper by our own
+We need to add salt and pepper on our own
 
 73
 00:07:03,640 --> 00:07:06,400
@@ -367,12 +382,12 @@ There are less fatty and more lean meat
 74
 00:07:06,400 --> 00:07:10,080
 # 因为把肥的剔掉了嘛
-Because they take off fatty
+Because they have removed the fatty part
 
 75
 00:07:10,080 --> 00:07:13,560
 # 羊肉切的特别大块
-They cut lamb meat into big pieces
+The lamb is in really large chops
 
 76
 00:07:19,280 --> 00:07:20,880
@@ -402,94 +417,95 @@ Meat of lamb spine is easy to take off the bone
 81
 00:07:50,680 --> 00:07:52,000
 # 五香味很足
-With rich wuxiang(five spiced) flavor
+With rich five-spice flavor
 
 82
 00:08:06,480 --> 00:08:08,760
 # 大姐 我问几个问题
-Big sis, I want ask you some questions
+Sis, may I have a few questions?
 
 83
 00:08:08,760 --> 00:08:10,640
 # 咱们原来在哪边干的
-Where the restaurant open before
+Where did you use to work before?
 
 84
 00:08:10,640 --> 00:08:13,400
 # 以前 我以前赶大集卖羊肉汤
-I sale lamb soup at farmer market before
+I used to sell lamb soup at farmers' market
 
 85
 00:08:13,400 --> 00:08:15,920
 # 就农村那5天一个的大集
-Farmer market which open every five days
+The farmers' market which opens every five days in the countryside
 
 86
 00:08:15,920 --> 00:08:18,840
 # 对 日照大集上的羊汤是很出名的
-Yeah, lamb soup in Rizhao farmer market are famous
+Yeah, lamb soup at Rizhao farmers' market is famous
 
 87
 00:08:20,720 --> 00:08:23,840
 # 顾客喜欢吃 他们说着玩 不是很出名
-Our customers like it, they just saying it, not very famous
+Our customers like it. They are just making fun. We're not really famous
 
 88
 00:08:23,840 --> 00:08:26,320
 # 比咱优秀的有的是
-We are not the best
+Many others are better than us
 
 89
 00:08:26,320 --> 00:08:30,960
 # 什么时候到这边开的店
-When you open the restaurant here?
+When did you move here?
 
 90
 00:08:30,960 --> 00:08:34,320
 # 三四年了可能是
-About 3 or 4 years
+About 3 or 4 years ago
 
 91
 00:08:34,840 --> 00:08:38,000
 # 这边一天最多能卖多少羊
-How many lamb are sale every day?
+How much lamb is sold every day?
 
 92
 00:08:38,000 --> 00:08:40,760
 # 以前一天 以前吧
-We used sale
+We used to sell, like...
 
 93
 00:08:40,760 --> 00:08:42,600
 # 是能卖四五只 五六只
-Four or five, five or six
+Four or five, five or six lambs
 
 94
 00:08:42,600 --> 00:08:46,720
 # 现在吧 由于这个疫情反正卖的稍微少一点
-But now we sale less due to the epidemic
+But now we sell less due to the epidemic
 
 95
 00:08:48,440 --> 00:08:52,080
 # 这个羊肉一定要切成这种大块大片的吗
-Do you have to cut lamb into big pieces or slices?
+Do you have to cut lamb into such big pieces?
 
 96
 00:08:52,080 --> 00:08:55,440
 # 反正随意切 有时候切片 有时候切块
-It depend, we sliced or cut into pieces
+No rules. Sometimes we slice, sometimes we chop
 
 97
 00:08:55,440 --> 00:08:58,800
 # 没有什么很要求的
-Not necessary
+No strict requirements
 
 98
 00:09:36,520 --> 00:09:39,560
 # 现在我们在东夷小镇
-Now we are at Dongyi down
+Now we are at Dongyi town
 
 99
 00:10:01,960 --> 00:10:05,320
 # 关 注
-雪 鱼 探 店
+# 雪 鱼 探 店
+Subscribe
