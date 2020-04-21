@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•清蒸武昌鱼】国宴佳肴！二伯传承20多年的古法蒸武昌鱼，极鲜极嫩，倾注了二叔所有心思，为武汉加油！|老饭骨
-# State Banquet Master Chef - Steamed Wuchang Fish. Made with Er Bai’s love and 20+ years of experience. Incredibly umami and tender. Cheers for Wuhan!
+# State Banquet Master Chef - Steamed Wuchang Fish with Er Bai’s love. Cheers for Wuhan!
 
 # 简介
 # 小友们好，今天带来一道二伯传承了20多年的菜——古法蒸武昌鱼！
