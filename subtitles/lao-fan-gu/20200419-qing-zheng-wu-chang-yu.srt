@@ -22,7 +22,7 @@
 1
 00:00:00,000 --> 00:00:02,240
 # 别弄鱼上 让它四周围
-Don’t pour the sauce over the fish, instead, spread it around the fish
+Don’t pour the sauce over the fish, just spread it around
 
 2
 00:00:02,240 --> 00:00:04,280
@@ -30,7 +30,7 @@ Don’t pour the sauce over the fish, instead, spread it around the fish
 3
 00:00:04,280 --> 00:00:07,560
 # 古法蒸武昌鱼 武汉好久不见
-Old School Steamed Wuchang Fish. Wuhan, long time no see
+Old-School Steamed Wuchang Fish. Wuhan, long time no see
 
 4
 00:00:07,560 --> 00:00:08,880
@@ -96,27 +96,27 @@ Let’s score the fish. Firstly, cut off its head
 17
 00:00:42,080 --> 00:00:44,920
 # 今天做的菜是老菜老味道的
-We are presenting the old school flavour in our dish today
+We are presenting the traditional dish today
 
 18
 00:00:44,920 --> 00:00:47,840
 # 古法蒸武昌鱼
-Old School Steamed Wuchang Fish
+Old-School Steamed Wuchang Fish
 
 19
 00:00:47,840 --> 00:00:51,200
 # 但是我们这方法要搁到其他菜系
-But if we put this method in other cuisines
+But if we apply this method to other cuisines
 
 20
 00:00:51,200 --> 00:00:53,080
 # 我们就是新方法
-It would be regarded creative
+It'll be called creative
 
 21
 00:00:53,080 --> 00:00:57,880
 # 借鉴其他菜系的一个特点是吧
-That’s a characteristic of getting inspirations from another cuisine
+Right? Getting inspirations from another cuisine
 
 22
 00:00:57,880 --> 00:00:59,840
@@ -160,7 +160,7 @@ Cut the fish into smaller pieces
 31
 00:01:15,040 --> 00:01:18,000
 # 这样的在家合适 便于食用
-It suits home cooking, and the fish will be easier to eat
+This is convenient to cook at home, and the fish will be easier to eat
 
 32
 00:01:18,000 --> 00:01:19,760
@@ -221,7 +221,7 @@ Red dates, black fungus, and daylilies
 44
 00:01:42,120 --> 00:01:44,600
 # 这个菜营养丰富
-This dish is full of nutrition
+This dish is really nutritious
 
 45
 00:01:44,600 --> 00:01:46,880
@@ -231,7 +231,7 @@ And it’s well-balanced with fish and veggies
 46
 00:01:46,880 --> 00:01:47,640
 # 要么说古法呢
-That’s what we call ‘Old School’
+That’s why we call it ‘Old-School’
 
 47
 00:01:47,640 --> 00:01:49,440
@@ -264,7 +264,7 @@ Shall we add some sugar, Shifu?
 53
 00:01:57,720 --> 00:02:00,080
 # 糖来一点 来一点点 千万别多
-Just a little bit. Never put too much sugar
+Just a little bit. Don't add too much 
 
 54
 00:02:00,080 --> 00:02:01,440
@@ -279,7 +279,7 @@ Some Chinese cooking wine
 56
 00:02:02,680 --> 00:02:06,160
 # 来点豉油 多来点没事
-Some soy sauce. Generous amounts of it
+Some soy sauce. Feel free to be generous
 
 57
 00:02:06,160 --> 00:02:07,000
@@ -297,7 +297,7 @@ Why corn flour?
 60
 00:02:09,760 --> 00:02:13,400
 # 加完粉子以后 它那个汁就凝固了
-The sauce will become viscous after adding it
+The sauce will thicken after adding it
 
 61
 00:02:13,400 --> 00:02:14,920
@@ -407,12 +407,12 @@ Because it not only keeps the fresh taste of the main ingredient
 84
 00:03:02,280 --> 00:03:04,400
 # 又借助了一些辅料的味道 都好吃
-But also expresses the flavours from the minor ingredients, and they all taste great
+But also lets the flavors from the minor ingredients express, and they all taste great
 
 85
 00:03:04,400 --> 00:03:05,840
 # 锅开了咱们准备蒸
-Water is boiling. Let’s steam the fish
+The water is boiling. Let’s steam the fish
 
 86
 00:03:05,840 --> 00:03:07,040
@@ -588,7 +588,7 @@ Pour in the centre of the dish
 123
 00:04:30,680 --> 00:04:31,960
 # 再给来点汁（豉油）
-Add in some soy sauce
+Add some soy sauce
 
 124
 00:04:31,960 --> 00:04:35,280
@@ -608,7 +608,7 @@ Pour the sauce around the fish. This soy sauce smells so aromatic
 127
 00:04:42,240 --> 00:04:46,280
 # 别弄鱼上 让它四周围
-Don’t pour the sauce over the fish, instead, spread it around the fish
+Don’t pour the sauce over the fish, just spread it around
 
 128
 00:04:46,280 --> 00:04:48,120
@@ -616,7 +616,7 @@ Don’t pour the sauce over the fish, instead, spread it around the fish
 129
 00:04:48,120 --> 00:04:53,400
 # 这个菜在之前 我跟小魏一块探讨
-Before cooking this dish, I have been discussing it with Xiao Wei
+Before cooking this dish, I have been discussing with Xiao Wei
 
 130
 00:04:53,400 --> 00:04:56,920
@@ -636,12 +636,12 @@ We would like to share our love to the people in Wuhan
 133
 00:05:03,520 --> 00:05:04,600
 # 作为我们厨师
-Being chefs like us
+We, as chefs, 
 
 134
 00:05:04,600 --> 00:05:07,400
 # 尽我们的所有的这份心思
-We do our best and put all our care and love
+want to do our best and put all our care and love
 
 135
 00:05:07,400 --> 00:05:08,800
@@ -661,7 +661,7 @@ Daylilies are also called ‘Forgetting Sorrow’
 138
 00:05:14,320 --> 00:05:15,920
 # 吃完了以后心情愉悦
-You will become much happier after eating them
+It gives happiness to whoever eats them
 
 139
 00:05:15,920 --> 00:05:19,280
@@ -694,7 +694,7 @@ Let’s eat!
 145
 00:05:28,680 --> 00:05:32,280
 # 我在这闻 就这个香味扑鼻
-I’m smelling the dish, and the fragrance is so mouth-watering
+I can smell it from here, and the fragrance is so mouth-watering
 
 146
 00:05:32,280 --> 00:05:34,200
@@ -732,7 +732,7 @@ I don’t need to comment on this dish
 153
 00:05:45,200 --> 00:05:47,440
 # 能把二十多年前
-Being able to pass on our love and thoughts
+Being able to pass on our love and care
 
 154
 00:05:47,440 --> 00:05:52,000
