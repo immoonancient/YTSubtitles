@@ -498,7 +498,7 @@
     },
     {
       "cn": "青花椒",
-      "en": "Sichuan green peppercorn",
+      "en": "green Sichuan peppercorn",
       "category": "spice"
     },
     {
@@ -596,6 +596,13 @@
       "cn": "十三香",
       "en": "thirtheen-spices",
       "category": "spice"
+    },
+    {
+      "cn": "白芷",
+      "en": "baizhi (Dahurian angelica)",
+      "category": "spice",
+      "notes": "注意不是欧芷 Angelica archangelica",
+      "reference": "https://en.wikipedia.org/wiki/Angelica_dahurica"
     },
     {
       "cn": "调料",
@@ -716,6 +723,20 @@
       "cn": "晒醋",
       "en": "\"Shaicu\" vinegar",
       "category": "condiment"
+    },
+    {
+      "cn": "黄豆酱",
+      "en": "soybean sauce",
+      "category": "condiment",
+      "notes": "参考了李锦记的译名",
+      "reference": "https://usa.lkk.com/en/products/soybean-sauce"
+    },
+    {
+      "cn": "柱侯酱",
+      "en": "Chu Hou paste",
+      "category": "condiment",
+      "notes": "参考了李锦记的译名",
+      "reference": "https://usa.lkk.com/en/products/chu-hou-paste"
     },
     {
       "cn": "点缀",
