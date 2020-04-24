@@ -1071,7 +1071,7 @@
     },
     {
       "cn": "厨师长分享",
-      "en": "Chef Wang shares with you: ...",
+      "en": "Chef Wang shares: ...",
       "category": "noun",
       "channel": "wang-gang",
       "notes": "王刚频道子栏目"
@@ -1240,6 +1240,12 @@
     {
       "cn": "松鼠鱼",
       "en": "squirrel fish",
+      "category": "dish"
+    },
+    {
+      "cn": "肉夹馍",
+      "en": "roujiamo (aka Chinese burger)",
+      "notes": "\"Chinese burger\"不是个太好的译名，但是有一定的流传度。第一次提及一下即可，之后一律使用拼音 roujiamo",
       "category": "dish"
     }
   ]
