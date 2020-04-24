@@ -279,26 +279,17 @@
     {
       "cn": "甜椒",
       "en": "bell pepper",
-      "category": "vegetable",
-      "notes": "两种称呼皆可"
+      "category": "vegetable"
     },
     {
       "cn": "菜椒",
       "en": "bell pepper",
-      "category": "vegetable",
-      "notes": "两种称呼皆可"
+      "category": "vegetable"
     },
     {
       "cn": "大红椒",
       "en": "red bell pepper",
-      "category": "vegetable",
-      "notes": "两种称呼皆可"
-    },
-    {
-      "cn": "灯笼椒",
-      "en": "red bell pepper",
-      "category": "vegetable",
-      "notes": "两种称呼皆可"
+      "category": "vegetable"
     },
     {
       "cn": "黄椒",
@@ -353,6 +344,11 @@
     {
       "cn": "蒜苗",
       "en": "garlic sprouts",
+      "category": "vegetable"
+    },
+    {
+      "cn": "四季豆",
+      "en": "green beans",
       "category": "vegetable"
     },
     {
@@ -555,6 +551,13 @@
     {
       "cn": "干辣椒",
       "en": "dried chili pepper",
+      "category": "spice"
+    },
+    {
+      "cn": "灯笼椒",
+      "en": "\"Denglongjiao\" (aka lantern chilis)",
+      "notes": "参考了 The Mala Market 的译名",
+      "reference": "https://themalamarket.com/products/red-lantern-chili-deng-long-jiao",
       "category": "spice"
     },
     {
