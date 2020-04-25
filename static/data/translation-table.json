@@ -994,8 +994,9 @@
     },
     {
       "cn": "家常菜",
-      "en": "homely dish",
-      "category": "technical"
+      "en": "homestyle dish",
+      "category": "technical",
+      "notes": "不要使用 homely. Homely 在美式英语指 unattractive"
     },
     {
       "cn": "炒干",
