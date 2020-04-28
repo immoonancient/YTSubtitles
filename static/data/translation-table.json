@@ -10,7 +10,7 @@
     },
     "mushroom": {
       "cn": "菌菇类",
-      "en": "Fungus & Mushrooms"
+      "en": "Fungi & Mushrooms"
     },
     "oil": {
       "cn": "油类",
@@ -722,12 +722,12 @@
     },
     {
       "cn": "酒糟",
-      "en": "\"Jiuzao\" rice wine distiller grain",
+      "en": "\"Jiuzao\" rice wine distillers grains",
       "category": "condiment"
     },
     {
       "cn": "醪糟",
-      "en": "\"Laozao\" rice wine distiller grain",
+      "en": "\"Laozao\" rice wine distillers grains",
       "category": "condiment",
       "notes": "两种称呼皆可"
     },
