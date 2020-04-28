@@ -10,7 +10,7 @@
     },
     "mushroom": {
       "cn": "菌菇类",
-      "en": "Mushrooms"
+      "en": "Fungus & Mushrooms"
     },
     "oil": {
       "cn": "油类",
@@ -93,6 +93,21 @@
     {
       "cn": "肥肠",
       "en": "pork intestine",
+      "category": "meat"
+    },
+    {
+      "cn": "猪杂",
+      "en": "pork offal",
+      "category": "meat"
+    },
+    {
+      "cn": "排骨",
+      "en": "pork ribs",
+      "category": "meat"
+    },
+    {
+      "cn": "猪骨",
+      "en": "pork bone",
       "category": "meat"
     },
     {
@@ -214,11 +229,6 @@
       "category": "meat"
     },
     {
-      "cn": "猪杂",
-      "en": "pork offal",
-      "category": "meat"
-    },
-    {
       "cn": "小葱",
       "en": "scallion",
       "category": "vegetable",
@@ -241,9 +251,28 @@
       "category": "vegetable"
     },
     {
+      "cn": "韭菜花",
+      "en": "garlic chive flower",
+      "category": "vegetable"
+    },	
+    {
       "cn": "洋葱",
       "en": "onion",
       "category": "vegetable"
+    },
+    {
+      "cn": "薤xiè",
+      "en": "chinese onion",
+      "category": "vegetable"
+      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等"
+      "reference": "https://en.wikipedia.org/wiki/Allium_chinense , https://www.tasteatlas.com/chinese-onion"
+    },
+    {
+      "cn": "荞头",
+      "en": "Chinese onion",
+      "category": "vegetable"
+      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等"
+      "reference": "https://en.wikipedia.org/wiki/Allium_chinense , https://www.tasteatlas.com/chinese-onion"
     },
     {
       "cn": "西芹",
@@ -255,6 +284,13 @@
       "en": "Chinese celery",
       "notes": "芹菜分西芹和唐芹，唐 就是形容词 中国的 Chinese",
       "category": "vegetable"
+    },
+    {
+      "cn": "薤xiè",
+      "en": "chinese onion",
+      "category": "vegetable"
+      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等"
+      "reference": "https://en.wikipedia.org/wiki/Allium_chinense , https://www.tasteatlas.com/chinese-onion"
     },
     {
       "cn": "青江菜",
@@ -332,6 +368,11 @@
       "category": "vegetable"
     },
     {
+      "cn": "丝瓜",
+      "en": "luffa",
+      "category": "vegetable"
+    },
+    {
       "cn": "莲藕",
       "en": "lotus root",
       "category": "vegetable"
@@ -367,6 +408,23 @@
       "category": "vegetable"
     },
     {
+      "cn": "豌豆",
+      "en": "garden pea",
+      "category": "vegetable"
+    },
+    {
+      "cn": "茄子",
+      "en": "eggplant",
+      "category": "vegetable"
+      "notes": "两种称呼皆可"
+     },	
+     {
+      "cn": "茄子",
+      "en": "aubergine",
+      "category": "vegetable"
+      "notes": "两种称呼皆可"
+    },
+    {
       "cn": "香菇",
       "en": "shiitake mushroom",
       "category": "mushroom"
@@ -382,6 +440,21 @@
       "category": "mushroom"
     },
     {
+      "cn": "木耳",
+      "en": "wood ear mushroom",
+      "category": "mushroom"
+    },
+    {
+      "cn": "雪耳",
+      "en": "snow fungus",
+      "category": "mushroom"
+    },
+    {
+      "cn": "白木耳",
+      "en": "snow fungus",
+      "category": "mushroom"
+    },
+    {
       "cn": "植物油",
       "en": "vegetable oil",
       "category": "oil"
@@ -394,6 +467,11 @@
     {
       "cn": "红油",
       "en": "red chili oil",
+      "category": "oil"
+    },
+    {
+      "cn": "花生油",
+      "en": "peanut oil",
       "category": "oil"
     },
     {
@@ -443,6 +521,12 @@
       "notes": "皮蛋的英文名都有点猎奇向，但既成事实没办法。所以选个\"年份\"短一点的吧",
       "category": "preserved",
       "reference": "https://en.wikibooks.org/wiki/Cookbook:Century_Egg"
+    },
+    {
+      "cn": "豆干",
+      "en": "dougan",
+      "category": "preserved"
+     "reference": "https://en.wikipedia.org/wiki/Dougan"
     },
     {
       "cn": "花生",
@@ -602,10 +686,16 @@
     },
     {
       "cn": "白芷",
-      "en": "baizhi (Dahurian angelica)",
+      "en": "baizhi",
       "category": "spice",
       "notes": "注意不是欧芷 Angelica archangelica",
       "reference": "https://en.wikipedia.org/wiki/Angelica_dahurica"
+    },
+    {
+      "cn": "当归",
+      "en": "dong quai",
+      "category": "spice"
+      "reference": "https://en.wikipedia.org/wiki/Angelica_sinensis"
     },
     {
       "cn": "调料",
@@ -626,6 +716,27 @@
       "cn": "花雕",
       "en": "\"Huadiao\" rice wine",
       "category": "condiment"
+    },
+    {
+      "cn": "黄酒",
+      "en": "huangjiu rice wine",
+      "category": " condiment "
+    },
+     {
+      "cn": "白酒",
+      "en": "baijiu",
+      "category": "condiment"
+    },
+    {
+      "cn": "酒糟",
+      "en": "\"Jiuzao\" rice wine distiller grain",
+      "category": "condiment"
+    },
+    {
+      "cn": "醪糟",
+      "en": "\"Laozao\" rice wine distiller grain",
+      "category": "condiment"
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "生抽",
@@ -653,13 +764,13 @@
       "category": "condiment"
     },
     {
-      "cn": "白酒",
-      "en": "baijiu",
+      "cn": "糟卤",
+      "en": "Zaolu pickle sauce",
       "category": "condiment"
     },
     {
       "cn": "鸡精",
-      "en": "chicken bouillon",
+      "en": "chicken bouillon powder",
       "category": "condiment"
     },
     {
@@ -683,10 +794,10 @@
       "category": "condiment"
     },
     {
-      "cn": "酒糟",
-      "en": "\"Jiuzao\" rice wine distiller grain",
+      "cn": "刀口辣椒面",
+      "en": "Daokou chilli powder",
       "category": "condiment"
-    },
+    },	
     {
       "cn": "冰糖",
       "en": "white rock sugar",
@@ -718,6 +829,11 @@
       "category": "condiment"
     },
     {
+      "cn": "葱油",
+      "en": "scallion oil",
+      "category": "condiment" 
+    },
+    {
       "cn": "蚝油",
       "en": "oyster sauce",
       "category": "condiment"
@@ -740,6 +856,12 @@
       "category": "condiment",
       "notes": "参考了李锦记的译名",
       "reference": "https://usa.lkk.com/en/products/chu-hou-paste"
+    },
+    {
+      "cn": "老干妈",
+      "en": "Lao Gan Ma",
+      "category": "condiment"
+      "reference": "https://en.wikipedia.org/wiki/Lao_Gan_Ma"
     },
     {
       "cn": "点缀",
@@ -1046,6 +1168,34 @@
       "category": "misc"
     },
     {
+      "cn": "魔芋",
+      "en": "konjac",
+      "category": "misc"
+    },
+    {
+      "cn": "膻味",
+      "en": "taint",
+      "notes": "羊膻为\"ram taint\"，猪膻为\"boar taint\"",
+      "category": "misc"
+      "notes": "膻味多指雄性动物特有的味道，和腥味不同。大多数情况不会分得太仔细，除非视频作者特意强调这点，否则可不翻作taint"
+      "reference": "https://farmersweekly.co.nz/section/sheep/view/ram-taint-is-not-a-simple-issue , https://en.wikipedia.org/wiki/Boar_taint"
+    },
+    {
+      "cn": "血沫",
+      "en": "scum",
+      "category": "misc"
+    },
+    {
+      "cn": "碱面",
+      "en": "soda ash",
+      "category": "misc"
+    },
+    {
+      "cn": "山楂",
+      "en": "Chinese hawthorn",
+      "category": "misc"
+    },	
+    {
       "cn": "王刚",
       "en": "Wang Gang",
       "category": "noun",
@@ -1217,6 +1367,17 @@
       "category": "dish"
     },
     {
+      "cn": "宜宾燃面",
+      "en": "Yibin burning noodles",
+      "category": "dish"
+    },
+    {
+      "cn": "热干面",
+      "en": "hot dry noodles",
+      "category": "dish"
+      "reference": "https://en.wikipedia.org/wiki/Hot_dry_noodles"
+    },
+    {
       "cn": "粥",
       "en": "congee",
       "category": "dish",
@@ -1249,5 +1410,30 @@
       "notes": "\"Chinese burger\"不是个太好的译名，但是有一定的流传度。第一次提及一下即可，之后一律使用拼音 roujiamo",
       "category": "dish"
     }
+    {
+      "cn": "馒头",
+      "en": "Mantou (aka Chinese steamed buns)",
+      "category": "dish"
+      "notes": "\"Chinese steamed buns\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 Mantou"
+    },
+    {
+      "cn": "刀削面",
+      "en": "Daoxiaomian (Knife cut noodles)",
+      "category": "dish"
+      "notes": "\"Knife cut noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Daoxiaomian"
+    },
+    {
+      "cn": "叉烧",
+      "en": "char siu",
+      "category": "dish"
+      "reference": "https://en.wikipedia.org/wiki/Char_siu"
+    },
+    {
+      "cn": "烧肉",
+      "en": "siu yuk (roast pork belly) ",
+      "category": "dish"
+      "notes": "\"roast pork belly\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 siu yuk"
+      "reference": "https://en.wikipedia.org/wiki/Siu_yuk"
+    },
   ]
 }
