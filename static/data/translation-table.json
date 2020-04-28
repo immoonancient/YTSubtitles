@@ -263,15 +263,15 @@
     {
       "cn": "薤xiè",
       "en": "chinese onion",
-      "category": "vegetable"
-      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等"
+      "category": "vegetable",
+      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等",
       "reference": "https://en.wikipedia.org/wiki/Allium_chinense , https://www.tasteatlas.com/chinese-onion"
     },
     {
       "cn": "荞头",
       "en": "Chinese onion",
-      "category": "vegetable"
-      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等"
+      "category": "vegetable",
+      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等",
       "reference": "https://en.wikipedia.org/wiki/Allium_chinense , https://www.tasteatlas.com/chinese-onion"
     },
     {
@@ -284,13 +284,6 @@
       "en": "Chinese celery",
       "notes": "芹菜分西芹和唐芹，唐 就是形容词 中国的 Chinese",
       "category": "vegetable"
-    },
-    {
-      "cn": "薤xiè",
-      "en": "chinese onion",
-      "category": "vegetable"
-      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等"
-      "reference": "https://en.wikipedia.org/wiki/Allium_chinense , https://www.tasteatlas.com/chinese-onion"
     },
     {
       "cn": "青江菜",
@@ -415,13 +408,13 @@
     {
       "cn": "茄子",
       "en": "eggplant",
-      "category": "vegetable"
+      "category": "vegetable",
       "notes": "两种称呼皆可"
      },	
      {
       "cn": "茄子",
       "en": "aubergine",
-      "category": "vegetable"
+      "category": "vegetable",
       "notes": "两种称呼皆可"
     },
     {
@@ -525,8 +518,8 @@
     {
       "cn": "豆干",
       "en": "dougan",
-      "category": "preserved"
-     "reference": "https://en.wikipedia.org/wiki/Dougan"
+      "category": "preserved",
+      "reference": "https://en.wikipedia.org/wiki/Dougan"
     },
     {
       "cn": "花生",
@@ -694,7 +687,7 @@
     {
       "cn": "当归",
       "en": "dong quai",
-      "category": "spice"
+      "category": "spice",
       "reference": "https://en.wikipedia.org/wiki/Angelica_sinensis"
     },
     {
@@ -735,7 +728,7 @@
     {
       "cn": "醪糟",
       "en": "\"Laozao\" rice wine distiller grain",
-      "category": "condiment"
+      "category": "condiment",
       "notes": "两种称呼皆可"
     },
     {
@@ -860,7 +853,7 @@
     {
       "cn": "老干妈",
       "en": "Lao Gan Ma",
-      "category": "condiment"
+      "category": "condiment",
       "reference": "https://en.wikipedia.org/wiki/Lao_Gan_Ma"
     },
     {
@@ -1176,8 +1169,8 @@
       "cn": "膻味",
       "en": "taint",
       "notes": "羊膻为\"ram taint\"，猪膻为\"boar taint\"",
-      "category": "misc"
-      "notes": "膻味多指雄性动物特有的味道，和腥味不同。大多数情况不会分得太仔细，除非视频作者特意强调这点，否则可不翻作taint"
+      "category": "misc",
+      "notes": "膻味多指雄性动物特有的味道，和腥味不同。大多数情况不会分得太仔细，除非视频作者特意强调这点，否则可不翻作taint",
       "reference": "https://farmersweekly.co.nz/section/sheep/view/ram-taint-is-not-a-simple-issue , https://en.wikipedia.org/wiki/Boar_taint"
     },
     {
@@ -1374,7 +1367,7 @@
     {
       "cn": "热干面",
       "en": "hot dry noodles",
-      "category": "dish"
+      "category": "dish",
       "reference": "https://en.wikipedia.org/wiki/Hot_dry_noodles"
     },
     {
@@ -1413,26 +1406,26 @@
     {
       "cn": "馒头",
       "en": "Mantou (aka Chinese steamed buns)",
-      "category": "dish"
+      "category": "dish",
       "notes": "\"Chinese steamed buns\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 Mantou"
     },
     {
       "cn": "刀削面",
       "en": "Daoxiaomian (Knife cut noodles)",
-      "category": "dish"
+      "category": "dish",
       "notes": "\"Knife cut noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Daoxiaomian"
     },
     {
       "cn": "叉烧",
       "en": "char siu",
-      "category": "dish"
+      "category": "dish",
       "reference": "https://en.wikipedia.org/wiki/Char_siu"
     },
     {
       "cn": "烧肉",
       "en": "siu yuk (roast pork belly) ",
-      "category": "dish"
-      "notes": "\"roast pork belly\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 siu yuk"
+      "category": "dish",
+      "notes": "\"roast pork belly\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 siu yuk",
       "reference": "https://en.wikipedia.org/wiki/Siu_yuk"
     },
   ]
