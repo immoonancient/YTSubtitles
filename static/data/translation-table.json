@@ -261,10 +261,10 @@
       "category": "vegetable"
     },
     {
-      "cn": "薤xiè",
+      "cn": "薤",
       "en": "chinese onion",
       "category": "vegetable",
-      "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等",
+      "notes": "音 xiè。和葱蒜等同属不同种，多见于粤菜及日韩料理等",
       "reference": "https://en.wikipedia.org/wiki/Allium_chinense , https://www.tasteatlas.com/chinese-onion"
     },
     {
@@ -402,7 +402,7 @@
     },
     {
       "cn": "豌豆",
-      "en": "garden pea",
+      "en": "pea",
       "category": "vegetable"
     },
     {
@@ -713,7 +713,7 @@
     {
       "cn": "黄酒",
       "en": "huangjiu rice wine",
-      "category": " condiment "
+      "category": "condiment"
     },
      {
       "cn": "白酒",
@@ -790,7 +790,7 @@
       "cn": "刀口辣椒面",
       "en": "Daokou chilli powder",
       "category": "condiment"
-    },	
+    },
     {
       "cn": "冰糖",
       "en": "white rock sugar",
@@ -1168,15 +1168,21 @@
     {
       "cn": "膻味",
       "en": "taint",
-      "notes": "羊膻为\"ram taint\"，猪膻为\"boar taint\"",
       "category": "misc",
-      "notes": "膻味多指雄性动物特有的味道，和腥味不同。大多数情况不会分得太仔细，除非视频作者特意强调这点，否则可不翻作taint",
+      "notes": "羊膻为 ram taint，猪膻为 boar taint。膻味多指雄性动物特有的味道，和腥味不同。大多数情况不会分得太仔细，除非视频作者特意强调这点，否则可不翻作taint",
       "reference": "https://farmersweekly.co.nz/section/sheep/view/ram-taint-is-not-a-simple-issue , https://en.wikipedia.org/wiki/Boar_taint"
+    },
+    {
+      "cn": "浮沫",
+      "en": "scum",
+      "category": "misc",
+      "notes": "指肉类焯水煮出来的浮沫，通常要去除掉"
     },
     {
       "cn": "血沫",
       "en": "scum",
-      "category": "misc"
+      "category": "misc",
+      "notes": "指肉类焯水煮出来的浮沫，通常要去除掉"
     },
     {
       "cn": "碱面",
