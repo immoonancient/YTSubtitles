@@ -35,8 +35,10 @@
         "en": { "type": "string" },
         "category": { "type": "string" },
         "channel": { "type": "string" },
-        "notes": { "type": "string" },
-        "reference": { "type": "string" }
+        "notes": { "type": "string" }
+      },
+      "patternProperties": {
+        "^reference\\d*$": { "type": "string" }
       },
       "additionalProperties": false
     }
