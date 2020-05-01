@@ -9,12 +9,12 @@
 1
 00:00:01,750 --> 00:00:03,800
 # 山东·济南
-Jinan. Shandong
+Jinan, Shandong
 
 2
 00:00:21,775 --> 00:00:23,725
 # 烧饼夹牛肉
-Shaobing(baked, layered flatbread) with beef
+Shaobing (baked, layered flatbread) with beef
 
 3
 00:00:26,300 --> 00:00:29,300
@@ -24,12 +24,12 @@ It’s still a little bit cold in the early morning in April of Jinan
 4
 00:00:29,600 --> 00:00:31,925
 # 这样的温度 适合吃个有能量的早餐
-It’s time to eat an energy breakfast under temperature like this
+It’s time to eat an energy boosting breakfast under temperature like this
 
 5
 00:00:32,525 --> 00:00:34,075
 # 今天雪鱼来到回民街
-Xue yu come to Muslim street today
+Xueyu is visiting Huimin street today
 
 6
 00:00:34,275 --> 00:00:36,700
@@ -39,12 +39,12 @@ Let’s try Shaobing with beef
 7
 00:00:37,800 --> 00:00:40,050
 # 大姐 这个多少钱一个
-Old sis, how much is it?
+Big sis, how much is this?
 
 8
 00:00:40,575 --> 00:00:41,225
 # 10块钱
-10 yuan
+10 Yuan
 
 9
 00:00:41,350 --> 00:00:43,075
@@ -54,7 +54,7 @@ I want two Shaobing with beef
 10
 00:00:58,975 --> 00:01:01,975
 # 大哥 是刚才面已经揉完了 卖完了吗
-Brother, is it sold out because you finish knead the dough?
+Brother, is it sold out because you finished kneading the dough?
 
 11
 00:01:01,975 --> 00:01:03,056
@@ -64,22 +64,22 @@ Yes, it is
 12
 00:01:04,500 --> 00:01:06,800
 # 一天就卖这么一缸面是吧   对对
-Only sell a vat of dough every day? right
+Selling only a vat of dough every day? right
 
 13
 00:01:11,425 --> 00:01:13,800
 # 你看 像揉面 剁牛肉都是大哥自己来
-Brother do the work of knead dough and chop beef by him own
+Look, Bro kneads the dough and chops the beef on his own
 
 14
 00:01:14,300 --> 00:01:16,750
 # 而像烤烧饼都是让大姐来上
-And big sis do the work of bake
+And big sis bakes the Shaobings
 
 15
 00:01:17,225 --> 00:01:19,850
 # 两个人分工真的是很明确
-The division of their work between them is clear
+The allocation of the work between them is very clear
 
 16
 00:01:58,750 --> 00:02:00,625
@@ -89,22 +89,22 @@ Fry it before roast
 17
 00:02:00,625 --> 00:02:03,850
 # 上面是不抹油的（会用油擦一下铁板）
-There is not a lot oil on the big pan (they will smear some oil on the big pan)
+There is not a lot of oil on the big pan (they will grease the big pan)
 
 18
 00:02:48,000 --> 00:02:50,400
 # 看我们买的10块钱一个的牛肉夹馍
-Look the shaobing with beef
+Look at the Shaobing with beef that costs 10 Yuan
 
 19
 00:02:51,225 --> 00:02:53,625
 # 肉都要冒出来了
-Beef is about coming out
+Beef is almost spilling out
 
 20
 00:02:55,000 --> 00:02:57,950
 # 在寒冷的清晨 看着冒着热气的牛肉
-Look at the beef with hot air in the cold early morning
+Look at the beef with steam in the cold early morning
 
 21
 00:02:58,175 --> 00:03:00,250
@@ -114,17 +114,17 @@ Pretty comfortable
 22
 00:03:01,775 --> 00:03:02,975
 # 芝麻还好多
-With plenty sesames
+With plenty of sesames
 
 23
 00:03:03,075 --> 00:03:06,633
 # 这么闻着就是 面香味和牛肉的香味特别浓郁
-Very strong smells of shaobing and beef when you smell it
+Very rich aroma of Shaobing and beef when you smell it
 
 24
 00:03:06,950 --> 00:03:08,400
 # 我要先吃一口了
-I’m going to have one bite
+I’m going to have a bite
 
 25
 00:03:11,425 --> 00:03:12,600
@@ -144,7 +144,7 @@ It won’t choke you with one bite of beef
 28
 00:03:20,500 --> 00:03:22,800
 # 牛肉是五香的 酱香的
-The beef is five spiced favor
+The beef is five-spiced favor
 
 29
 00:03:23,025 --> 00:03:27,425
@@ -164,17 +164,17 @@ I think not only me can get full
 32
 00:03:31,490 --> 00:03:34,090
 # 像一个大汉 也能吃得饱的
-A strong man gets full too
+A strong man would be full too
 
 33
 00:03:38,475 --> 00:03:42,775
 # 现在快7点了 后面的烧饼夹牛肉忙碌起来了
-It’s about 7 am and they start get busy now
+It’s about 7 am and they starts to get busy now
 
 34
 00:03:42,775 --> 00:03:47,700
 # 大姐 牛肉烧饼作为早餐 顾客一般都买几个
-Big sis, how many shaobing with beef customers buy as their breakfast as usual?
+Big sis, normally how many Shaobing with beef each customer buys as their breakfast?
 
 35
 00:03:47,850 --> 00:03:49,325
@@ -184,42 +184,42 @@ It depends
 36
 00:03:49,750 --> 00:03:55,250
 # 买最多的时候 有的人一买二三十个 十来个 这情况每天都有
-Someone buy twenty or thirsty shaobing with beef at most, it happens everyday
+Someone buys twenty or thirty Shaobings at most, it happens everyday
 
 37
 00:03:55,475 --> 00:03:58,625
 # 因为他们都知道这是用的鲜牛肉 现宰的活牛
-Because they knew that it made by fresh beef, freshly slaughtered cattle
+Because they knew that it was made by fresh meat, freshly slaughtered cattle
 
 38
 00:03:59,175 --> 00:04:03,550
 # 进口的和我这牛肉相差15块钱吧
-Imports beef is cost 15 yuan more than my beef
+Imported beef costs 15 Yuan more than my beef
 
 39
 00:04:04,875 --> 00:04:07,125
 # 现在我买的牛肉32块钱一斤
-Now my beef is 32 yuan every catty
+Now my beef is 32 Yuan every 500 grams
 
 40
 00:04:07,475 --> 00:04:09,075
 # 平时买36块钱一斤
-36 yuan every catty as regularly
+36 Yuan every Jin (500g) normally
 
 41
 00:04:09,500 --> 00:04:10,825
 # 这个就是 一般来说
-usually
+Usually
 
 42
 00:04:10,925 --> 00:04:12,750
 # 你要是长期在这个地方能干下去
-If you want work here in a long time
+If you want to work here for a long time
 
 43
 00:04:12,825 --> 00:04:16,775
 # 就必须得讲诚信 必须讲质量 必须讲味道
-You must be integrity with good quality and good favor
+You must stay in integrity with good quality and good flavor
 
 44
 00:04:17,350 --> 00:04:19,500
@@ -229,17 +229,17 @@ Because now customer pay their money for quality of food
 45
 00:04:19,600 --> 00:04:24,600
 # 你再深的巷子 只要味道好 他也愿意来
-He will come and eat even if the place is far and hard to looking for
+He will come and eat even if the place is far and hard to look for
 
 46
 00:04:32,000 --> 00:04:35,725
 # 大姐早上8点收摊
-Big sis close their stall at 8 am
+Big sis closes their stall at 8am
 
 47
 00:04:37,950 --> 00:04:41,025
 # 下午4点 山东济南
-4 pm. Jinan. Shandong
+4 pm at Jinan, Shandong
 
 48
 00:04:45,800 --> 00:04:47,575
@@ -249,17 +249,17 @@ Uncle, how much for pig’s head meat
 49
 00:04:47,575 --> 00:04:49,275
 # 38元一斤
-38 yuan for every catty
+38 yuan for every Jin (500g)
 
 50
 00:04:50,600 --> 00:04:53,325
 # 行 20块钱的猪头肉
-Okay, I want 20 yuan of pig’s head meat
+Okay, I want 20 Yuan of pig’s head meat
 
 51
 00:04:53,925 --> 00:04:55,950
 # 我给你称
-I weight it
+Let me weigh it for you
 
 52
 00:04:58,650 --> 00:05:00,050
@@ -269,27 +269,27 @@ Okay, less of it
 53
 00:05:00,050 --> 00:05:02,300
 # 行 好好好
-okay
+Okay
 
 54
 00:05:02,300 --> 00:05:03,775
 # 这都没有了 卖完了
-All sold out
+All of it is sold out
 
 55
 00:05:04,025 --> 00:05:05,900
 # 不是4点开始营业吗
-Isn’t it open at 4 pm?
+Isn’t it started operating at 4 pm?
 
 56
 00:05:06,275 --> 00:05:10,675
 # 3点半 他们都挨着号排队
-They start line up at 3:30 pm
+They start lining up at 3:30 pm
 
 57
 00:05:13,150 --> 00:05:16,500
 # 顾客：顺着这个味道就找来了
-Customer: I come here for follow the smell
+Customer: I look for this place following the fragrance
 
 58
 00:05:19,050 --> 00:05:23,900
@@ -299,7 +299,7 @@ You can see how old my soups are, the essence is all in the soup
 59
 00:05:24,175 --> 00:05:25,775
 # 都是您们两个人在这边干吗  是的
-Only you two work here? yeah
+Only two of you work here? Yeah
 
 60
 00:05:27,200 --> 00:05:29,925
@@ -314,17 +314,17 @@ Let me open for you to see it
 62
 00:05:34,775 --> 00:05:36,875
 # 猪头肉怎么卖的   38元一斤 但是都卖完了
-How much for pig’s head meat? 38 yuan for every catty, but all sold out now
+How much for pig’s head meat? 38 Yuan for every Jin (500g), but it's sold out now
 
 63
 00:05:37,200 --> 00:05:39,750
 # 大叔一直吆喝着卖完了卖完了
-Uncle keep shouting “sold out” “sold out”
+Uncle keep shouting “Sold out” “Sold out”
 
 64
 00:05:46,175 --> 00:05:49,183
 # 开始干的时候还是小鲜肉
-when the business start, he was young
+when he started the business, he was young
 
 65
 00:05:49,183 --> 00:05:51,350
@@ -334,22 +334,22 @@ But now he become an uncle
 66
 00:05:54,775 --> 00:05:56,300
 # 一般几点出来
-What time it open usually?
+What time do you open usually?
 
 67
 00:05:57,025 --> 00:05:59,025
 # 不到4点
-Less than 4 pm
+Slightly earlier than 4 pm
 
 68
 00:06:02,125 --> 00:06:05,325
 # 你要想买肠子 两点半就得来 想买大肠
-Come at 2:30 if you want buy large intestine
+Come at 2:30 if you want to buy pig's large intestine
 
 69
 00:06:06,850 --> 00:06:10,000
 # 不排个前三四名的买不上大肠
-You need rank in the top three or four to buy large intestine
+You need to be the first three or four in the queue to buy large intestine
 
 70
 00:06:10,000 --> 00:06:11,842
@@ -359,12 +359,12 @@ I need to come at 2:30 pm?
 71
 00:06:12,150 --> 00:06:14,050
 # 大肠做的少 买的人多
-Less large intestine but a lot of people want it
+I won't cook as much large intestine but a lot of people want it
 
 72
 00:06:15,075 --> 00:06:17,400
 # 如果不是2点半来  那也需要早来
-You need come earlier
+You need to come earlier
 
 73
 00:06:17,400 --> 00:06:19,000
@@ -374,7 +374,7 @@ Isn’t he open at 4 pm?
 74
 00:06:19,257 --> 00:06:20,707
 # 提前排队
-Line up before it open
+Line up before it opens
 
 75
 00:06:22,525 --> 00:06:25,650
@@ -384,17 +384,17 @@ Come earlier if you want intestine or pig’s tail
 76
 00:06:26,700 --> 00:06:27,916
 # 这一共有多少种
-How many types of neat over there?
+How many types of meat over there?
 
 77
 00:06:28,075 --> 00:06:31,425
 # 生肉 250斤 20多种肉
-250 catties of raw pork and more than 20 types of pork
+250 jin (125kg) of raw pork with more than 20 types of meats and parts
 
 78
 00:06:33,775 --> 00:06:35,250
 # 来给我弄点肉汤
-Get me some pork soup
+Give me some pork soup
 
 79
 00:06:35,550 --> 00:06:37,530
@@ -409,12 +409,12 @@ Same as pork soup as well
 81
 00:06:46,650 --> 00:06:48,082
 # 这个老汤回去怎么吃
-What we eat with the old soup in home?
+What do you eat with the old soup together at home?
 
 82
 00:06:48,150 --> 00:06:51,275
 # 喝面条 吃米饭都行
-With noodle and rice is fine
+With noodles and rice is fine
 
 83
 00:06:53,375 --> 00:06:55,750
@@ -429,12 +429,12 @@ And fried eggs
 85
 00:07:04,300 --> 00:07:05,700
 # 做卤肉确实累
-It makes me tired to make pickled pork
+It is tiring to make braised pork
 
 86
 00:07:05,700 --> 00:07:10,225
 # 早上3点就起床 你说的是实在话
-Must get up at 3 am, be honestly
+Must get up at 3 am, to be honest
 
 87
 00:07:10,450 --> 00:07:12,275
@@ -444,7 +444,7 @@ Too tired, young people cannot suffer like us
 88
 00:07:12,550 --> 00:07:14,925
 # 虽然说 卖得快 但是背后累
-Even it sold fast but behind it is suffer
+Even it sold out quickly but behind of it is exhausting
 
 89
 00:07:18,675 --> 00:07:20,150
@@ -459,7 +459,7 @@ And clean it
 91
 00:07:22,950 --> 00:07:25,775
 # 再煮再炖出来 卤出来
-Boil it before stewing it, and then pickle it
+Boil it before stewing it, and then braise it
 
 92
 00:07:26,075 --> 00:07:28,325
@@ -474,7 +474,7 @@ You see the heart? Cut it and clean the blood
 94
 00:07:37,375 --> 00:07:40,025
 # 你看这耳朵是一个个都得烙猪毛
-You see, you need to burn the hair of pork ear off
+You see, you need to burn the hair off pig's ear 
 
 95
 00:07:42,750 --> 00:07:45,375
@@ -484,37 +484,37 @@ It really takes time to clean it
 96
 00:07:45,975 --> 00:07:49,325
 # 这次咱们是买的20块钱的猪头肉还有10块钱的猪肝
-We bought 20-yuan pig’s head meat and 10-yuan pork liver
+We bought 20 Yuan worth of pig’s head meat and 10 Yuan worth of pork liver
 
 97
 00:07:50,050 --> 00:07:52,500
 # 可以看到这个小摊上 人特别多
-You can notice there are lots of customers surround the stall
+You can notice there are lots of customers around the stall
 
 98
 00:07:52,800 --> 00:07:54,500
 # 叔叔阿姨也很健谈
-Uncle and aunt are also very talkative
+Uncles and aunts are also very talkative
 
 99
 00:07:54,725 --> 00:07:59,500
 # 这么一个小的摊 但是感觉到烟火气息特别浓重
-Such a small booth but with street food feel
+Such a small booth but full of warmth and kindness
 
 100
 00:07:59,600 --> 00:08:02,550
 # 好多老顾客 其实也不仅是来买肉吃
-Many old customers not only for buying pork
+Many old customers do not come to buy pork only
 
 101
 00:08:02,850 --> 00:08:05,125
 # 还有的时候 也顺带聊聊天
-Also, they come for talking by the way
+Sometimes, they come to chat too
 
 102
 00:08:05,350 --> 00:08:09,725
 # 还有专程来要老汤 下面条 下米饭的
-Someone coming for old soup to eat with noodle and rice
+Some come for the old soup to eat with noodles and rice
 
 103
 00:08:25,275 --> 00:08:27,600
@@ -524,17 +524,17 @@ We are very lucky to have the last pig’s head meat
 104
 00:08:27,875 --> 00:08:29,925
 # 没想到 阿姨和叔叔这么健谈
-Unexpectedly, aunt and uncle are so talkative
+Unexpectedly, aunts and uncles are so talkative
 
 105
 00:08:30,050 --> 00:08:33,350
 # 让我们整个的拍摄都充满了欢声笑语
-Make our whole shooting with full of fun
+Make our whole shooting process full of fun and laughter
 
 106
 00:08:33,900 --> 00:08:35,525
 # 我去的时候只剩了半匹猪头
-There only half of pig’s head meat left when I come
+There is only half a pig’s head meat left when I come
 
 107
 00:08:35,550 --> 00:08:38,225
@@ -544,17 +544,17 @@ People who are behind me not able to get pig’s head meat
 108
 00:08:39,275 --> 00:08:41,675
 # 我戴着口罩都能闻到猪头肉的香味
-I can smell the smell of pig's head meat even if I’m wearing a mask
+I can smell the aroma of pig's head meat even if I’m wearing a mask
 
 109
 00:08:42,350 --> 00:08:46,325
 # 我们看一看 猪头肉到底有什么奇妙的地方
-Let’s take a look how delicious the pig’s head meat is
+Let’s take a look at how delicious the pig’s head meat is
 
 110
 00:08:46,350 --> 00:08:50,425
 # 能够让这么多的顾客 一直心心念念到
-Why it makes so many customers miss
+until so many customers miss its taste
 
 111
 00:08:52,100 --> 00:08:53,875
@@ -564,12 +564,12 @@ But uncle did not cut it for us
 112
 00:08:54,750 --> 00:08:58,825
 # 猪头肉 这边是瘦的 这边就是肥的
-Pig’s head meat, this is lean, there is fatty
+Pig’s head meat, this is the lean part, there is the fatty meat
 
 113
 00:08:59,100 --> 00:09:00,450
 # 很明显
-Very obviously
+That's obvious
 
 114
 00:09:07,700 --> 00:09:10,750
@@ -579,7 +579,7 @@ I think pig’s head meat is pretty good except a little bit salty
 115
 00:09:11,800 --> 00:09:14,325
 # 肉 炖得软烂
-Meat stewed very soft
+The meat is stewed until very soft and tender
 
 116
 00:09:15,375 --> 00:09:17,700
@@ -594,47 +594,47 @@ I use my hand and gently break it
 118
 00:09:21,925 --> 00:09:26,500
 # 不管是肥肉还是瘦肉 都很容易把它掰扯掉
-it’s easy to pull it off Whether it’s fat or lean
+it’s easy to pull it apart Whether it’s fatty or more lean
 
 119
 00:09:29,750 --> 00:09:32,525
 # 看到肉的纹理了吗
-See the texture of pork
+Can you see the grain of pork?
 
 120
 00:09:32,625 --> 00:09:34,650
 # 这个肉不用吃就会很香
-????????????
+You can tell it is extremely tasty even by the look
 
 121
 00:09:34,800 --> 00:09:38,125
 # 刚才师傅说嘛 很多人都是闻着味就过来了
-Uncle said that many customers following the smell
+Uncle said that many customers found the place following the aroma
 
 122
 00:09:41,525 --> 00:09:43,225
 # 吃猪头肉 一定要肥瘦搭配
-Eat pig’s head meat must be fatty and lean
+Eating pig’s head meat must be balanced between fatty and lean meat
 
 123
 00:09:43,500 --> 00:09:46,000
 # 瘦的呢 就是这种咸香味十足
-Lean meat is salty and fragment
+Lean meat is salty, savory and fragrant
 
 124
 00:09:46,325 --> 00:09:49,275
 # 带点肥的呢 又嫩 又有汤汁
-Fatty is soft and juicy
+Fatty meat is soft and juicy
 
 125
 00:09:49,450 --> 00:09:52,125
 # 两个搭配在一起 就是极好的
-It’s a good combo to put fatty and lean together
+It’s a good combo to put fatty meat and lean meat together
 
 126
 00:09:52,375 --> 00:09:54,600
 # 我感觉在吃肉的时候 很多人在注视着我
-I feel people stared me when I’m eating
+I can feel that some people stared at me when I’m eating the meat
 
 127
 00:09:55,300 --> 00:09:58,125
