@@ -1,5 +1,7 @@
 # https://youtu.be/8-p6cq6s8Ts
 
+# 如果 YouTube 链接打不开请参考抖音视频 https://v.douyin.com/w3U2CL/
+
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•炸油饼】地道老北京炸油饼，精确配比，一下锅就能起！大爷专门找老师傅学的配方，在家就能做！|老饭骨
 # State Banquet Master Chef - Old Beijing Fried Youbing Cake! Traditional Recipe Made at Home
