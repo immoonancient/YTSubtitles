@@ -555,7 +555,7 @@ Sometimes it gets hotter and hotter when frying
 111
 00:04:59,640 --> 00:05:02,680
 # 油温低了它不容易起
-It doesn't rise if the oil temperate is low
+It doesn't rise if the oil temperature is low
 
 112
 00:05:04,080 --> 00:05:07,480
