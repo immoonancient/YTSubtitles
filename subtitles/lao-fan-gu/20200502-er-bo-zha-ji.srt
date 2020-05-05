@@ -1,0 +1,732 @@
+# https://youtu.be/9jGg8lsGlfY
+
+# 标题（翻译主要意思即可，不要超过 100 个字符）
+# 【国宴大师•二伯炸鸡】国宴级别的神仙炸鸡怎么做？炸鸡爱好者千万别错过！结尾有大爷专属答疑时间哦 |老饭骨
+# State Banquet Master Chef - Er Bai's State Banquet Level Fried Chicken Recipe. +Da Ye's Q&A
+
+# 简介
+# 小友们好，现在许多人都喜欢这个炸鸡呀，今天咱二伯也要教大家一种炸鸡的神仙做法，炸得金黄酥脆的炸鸡裹上调制的酱料，再配上草莓和面包干，这吃起来，嘿，嘎嘣脆！
+# 由于徒弟没拿好摄像机，视频中有一段画面没拍好，先给大家伙儿道个歉。看来咱大妈的摄影课堂是时候要安排上了。
+# 这缺失的一段呢就是吧咱么之前调好的酱微微加热，然后倒入鸡块翻炒，再倒入草莓继续翻炒就好啦。
+# 有跟着视频做的小友，记得去咱老饭骨的Facebook交作业哦！
+# Hello friends, nowadays a lot of people love fried chicken, today Er Bai is going to teach us a special way of making fried chicken, golden fried chicken with special sauce, to go along with strawberry and bread crunches.So crispy! I am going to apologize first, because my disciple didn’t carry the camera right, the part of the video was missing, where we heated up the sauce and coat and added chicken and strawberries to coat them in the sauce. Friends who tried this recipe following our video, remember to post a picture in the Facebook comment.
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:01,640
+# 大块吃还过瘾
+Big chunks are better
+
+2
+00:00:01,640 --> 00:00:04,520
+# 倒草莓 出锅了 真香
+Pour in the strawberry and ready to serve. Smells so good
+
+3
+00:00:04,520 --> 00:00:06,920
+# 吃完这鸡 豁然开朗
+After having this chicken, suddenly enlightened
+
+4
+00:00:06,920 --> 00:00:08,600
+# 第一步我先把面包改了
+first of all let me cut the bread first
+
+5
+00:00:08,600 --> 00:00:12,000
+# 改成骨牌块是吧
+cut into domino pieces right？
+
+6
+00:00:12,000 --> 00:00:13,680
+# 根据人的需要你看
+See，follow people’s need
+
+7
+00:00:13,680 --> 00:00:17,000
+# 进去到嘴里 实用 一口就下去了
+Bites-size pieces. 
+
+8
+00:00:17,000 --> 00:00:19,320
+# 这面包收拾完了 咱就搁这
+Now it’s done. Let’s just put the bread here
+
+9
+00:00:19,320 --> 00:00:20,200
+# 先切小料吧
+Chop up the supplementary ingredients first
+
+10
+00:00:20,200 --> 00:00:21,840
+# 很简单 胡萝卜
+It’s simple. Carrots
+
+11
+00:00:21,840 --> 00:00:23,600
+# 我这是腌 蔬菜汁腌
+I’m going to marinate it with veggie sauce
+
+12
+00:00:23,600 --> 00:00:24,960
+# 随便一切就行了
+Just casually chop it
+
+13
+00:00:24,960 --> 00:00:26,840
+# 提味又去腥是吧
+Adds flavor and deodorize as well
+
+14
+00:00:26,840 --> 00:00:28,520
+# 芹菜 洋葱 胡萝卜
+Chinese celery, onion, carrots
+
+15
+00:00:28,520 --> 00:00:30,680
+# 一个鸡腿 改个刀
+A chicken leg, cut it
+
+16
+00:00:30,680 --> 00:00:32,560
+# 深加工一下 剞刀口是吧
+Further process it. Deepen the cut
+
+17
+00:00:32,560 --> 00:00:34,720
+
+18
+00:00:34,720 --> 00:00:36,280
+# 咱不用皮了
+Let's not use the skin
+
+19
+00:00:36,280 --> 00:00:38,480
+# 家里愿意用皮也可以
+You can keep it if you want at home
+
+20
+00:00:38,480 --> 00:00:39,800
+# 鸡皮炸着吃也好吃
+Fried chicken skin tastes good as well
+
+21
+00:00:39,800 --> 00:00:42,200
+# 炸完了一炒 炒香辣的
+Fry with oil and then fry with spices
+
+22
+00:00:42,200 --> 00:00:44,040
+# 香辣鸡皮好吃极了
+Spicy chicken skin tastes great
+
+23
+00:00:44,040 --> 00:00:48,560
+# 剞刀入味 然后切成鸡球 就是小鸡块
+Make cuts to penetrate flavor, and then cut into bite size, small pieces of chicken
+
+24
+00:00:48,560 --> 00:00:49,920
+# 千万别打断了
+Careful not to break it
+
+25
+00:00:49,920 --> 00:00:51,320
+
+26
+00:00:51,320 --> 00:00:54,200
+# 那时候宴会就拿这个做宫保鸡花
+Back then banquets would use this to make kung-pao chicken
+
+27
+00:00:54,200 --> 00:00:55,080
+# 那讲究
+So fastidious
+
+28
+00:00:55,080 --> 00:00:57,080
+# 大的块儿 过瘾
+Big chunks. Super satisfying
+
+29
+00:00:57,080 --> 00:00:59,560
+# 咱今儿弄点儿横的 豪横
+Let’s make quite a amount of it today
+
+30
+00:00:59,560 --> 00:01:00,840
+# 够了吧这点 够了
+This is enough
+
+31
+00:01:00,840 --> 00:01:04,040
+# 这鸡咱就扔在蔬菜里面腌一下
+Let’s marinate the chicken in the vegetable
+
+32
+00:01:04,040 --> 00:01:05,520
+
+33
+00:01:05,520 --> 00:01:07,920
+# 你看这蔬菜就这样腌完了
+See the vegetables are done marinated
+
+34
+00:01:07,920 --> 00:01:10,240
+
+35
+00:01:10,240 --> 00:01:12,720
+# 黄酒 盐
+Rice wine, salt
+
+36
+00:01:12,720 --> 00:01:15,560
+# 再来点胡椒粉提提鲜
+And some pepper powder to add in some flavor
+
+37
+00:01:15,560 --> 00:01:17,280
+
+38
+00:01:18,440 --> 00:01:21,720
+# 然后提一点糖就行
+and add a tiny bit of sugar
+
+39
+00:01:21,720 --> 00:01:25,240
+# 腌它一会儿 腌它两三小时
+Marinate it for a while, about two or three hours
+
+40
+00:01:25,240 --> 00:01:29,600
+# 腌完之后你闻全是蔬菜味
+After its been marinated, it smells like vegetable
+
+41
+00:01:29,600 --> 00:01:32,320
+# 蔬菜香味出来了
+Veggie flavor has come out
+
+42
+00:01:32,320 --> 00:01:36,480
+# 把蔬菜捡了去 腌进味儿了
+Now get rid of the veggies. The flavor is in
+
+43
+00:01:36,480 --> 00:01:39,160
+# 腌好了你知道它什么特点吗
+You know what's special about it after marination?
+
+44
+00:01:39,160 --> 00:01:41,800
+# 你拿到手里都听话了 润了
+It's smooth when you hold it
+
+45
+00:01:42,840 --> 00:01:44,560
+# 调个青芥汁 好
+Make a wasabi sauce
+
+46
+00:01:44,560 --> 00:01:47,080
+# （沙拉酱）还是不够
+Not enough mayo
+
+47
+00:01:50,200 --> 00:01:53,360
+# 这回差不多 再来点
+Now it’s good. Add a little more
+
+48
+00:01:53,360 --> 00:01:55,480
+# 好 这回行了
+Ok now we are good
+
+49
+00:01:55,480 --> 00:01:56,160
+
+50
+00:01:56,160 --> 00:01:59,600
+# 青芥辣 好 不能太多了
+Don't put in too much wasabi
+
+51
+00:02:00,760 --> 00:02:03,400
+# 搁点柠檬汁 增加果香味
+Squeeze in some lemon juice to add some fruitiness
+
+52
+00:02:05,360 --> 00:02:07,920
+# 再来点蜂蜜 香气出来了
+And some honey and here comes the smell
+
+53
+00:02:07,920 --> 00:02:08,840
+
+54
+00:02:09,280 --> 00:02:13,360
+# 大家看看 这果香果还真浓 你闻闻
+Here see, the fruit smell is so strong, smell it
+
+55
+00:02:14,120 --> 00:02:17,920
+# 先放一边 起锅坐油
+Now put it aside, and heat the oil in the pot
+
+56
+00:02:17,920 --> 00:02:20,280
+# 拿蛋黄腌它（鸡肉）这个不用蛋清
+marinate the chicken with egg yolk, we don’t need the egg white
+
+57
+00:02:20,280 --> 00:02:21,280
+
+58
+00:02:23,240 --> 00:02:26,560
+# 再弄点淀粉 让它蘸点干淀粉
+Put in some starch and dip it in
+
+59
+00:02:26,560 --> 00:02:28,360
+# 其实这菜做的很简单
+It’s actually quite simple to make this dish
+
+60
+00:02:28,360 --> 00:02:31,280
+# 然后这些菜其实能做好多菜
+And you can use these ingredients to make a lot of dishes
+
+61
+00:02:32,600 --> 00:02:36,440
+# 鱼香鸡球 宫保鸡球 沙律鸡球
+Yuxiang chicken meatball, Kung-pao chicken meatball, chicken meatball salad
+
+62
+00:02:36,440 --> 00:02:38,120
+# 全可以 黑椒的
+All of them, black pepper flavor too
+
+63
+00:02:38,120 --> 00:02:40,360
+# 黑椒的咖喱的 方法多
+Black pepper flavor, curry flavor, there are many ways
+
+64
+00:02:40,360 --> 00:02:42,840
+# 也可以炸完之后直接配着椒盐蘸着吃
+You can also fry it and dip it in to pepper salt
+
+65
+00:02:42,840 --> 00:02:45,200
+# 它只能搁蛋黄 为什么不能搁蛋清啊
+Why can’t you put in the egg white? Why only the egg yolk?
+
+66
+00:02:45,200 --> 00:02:46,560
+# 为什么搁蛋黄啊梅子
+Why only put in the yolk? Mei zi
+
+67
+00:02:46,560 --> 00:02:49,160
+# 一个是蛋黄香 蛋黄增香味
+First, yolk adds richness
+
+68
+00:02:49,160 --> 00:02:52,680
+# 软度它会比蛋清口感要更好
+Compared to egg white, yolk makes the chicken more tender 
+
+69
+00:02:52,680 --> 00:02:54,440
+# 齐活 漂亮
+All done, beautiful
+
+70
+00:02:54,440 --> 00:02:56,680
+# 师父油温好了吧   这回差不多了
+Master, the oil is heated up, it’s ready this time
+
+71
+00:02:56,680 --> 00:03:00,080
+
+72
+00:03:00,080 --> 00:03:01,320
+# 油温不能太低了
+The temperature of the oil can be too low
+
+73
+00:03:01,320 --> 00:03:03,760
+# 太低的话油就吃面包里面去了
+If it’s too low the bread would suck up all the oil
+
+74
+00:03:03,760 --> 00:03:05,040
+# 窝油了
+Absorb too much oil
+
+75
+00:03:05,040 --> 00:03:06,640
+# 上颜色了啊
+There comes the color
+
+76
+00:03:06,640 --> 00:03:08,600
+# 面包炸成金黄色
+Fry the bread until it’s golden
+
+77
+00:03:08,600 --> 00:03:12,360
+
+78
+00:03:12,360 --> 00:03:13,680
+# 控油了师父
+Get it out of the oil, Master
+
+79
+00:03:13,680 --> 00:03:16,320
+# 接着炸鸡 漂亮啊
+Then fry the chicken, so pretty
+
+80
+00:03:16,320 --> 00:03:18,160
+# 码盘儿
+Plating
+
+81
+00:03:18,160 --> 00:03:19,360
+
+82
+00:03:21,080 --> 00:03:23,160
+# 让它紧凑点
+Tightly stacked
+
+83
+00:03:23,160 --> 00:03:25,360
+# 这油温也差不多了师父
+The oil temperature is ready, Master
+
+84
+00:03:25,360 --> 00:03:28,000
+# 面包码好了啊 打底
+The bread is plated as a base
+
+85
+00:03:28,000 --> 00:03:32,200
+# 这油温起来了 雪花鸡球
+The oil is hot now, snowflake chicken meatball
+
+86
+00:03:33,160 --> 00:03:36,040
+# 太有食欲了 看着有食欲吧
+So appetizing, looks so good
+
+87
+00:03:36,040 --> 00:03:37,480
+# 它香啊
+It smells good
+
+88
+00:03:37,480 --> 00:03:39,880
+
+89
+00:03:39,880 --> 00:03:41,960
+# 师父这鸡得炸几遍啊
+How many times do we need to fry the chicken Master?
+
+90
+00:03:41,960 --> 00:03:44,000
+# 这一般我都炸三遍
+Usually I will fry it for three times
+
+91
+00:03:44,000 --> 00:03:47,520
+# 三遍就够了 炸酥脆了
+Three times is enough to make it crispy and crunchy
+
+92
+00:03:47,520 --> 00:03:52,320
+# 现在已经熟了 定下型
+Now it’s cooked, shape it
+
+93
+00:03:52,320 --> 00:03:54,720
+
+94
+00:03:54,720 --> 00:03:56,520
+# 现在是沁炸 刚才是里边熟
+We were deep frying it so the inside is cooked
+
+95
+00:03:56,520 --> 00:03:59,840
+# 熟完了 提高油温让它酥
+Now it’s cooked, raise the temperature to make is crispy
+
+96
+00:03:59,840 --> 00:04:03,000
+# 这个菜说句实话这种方法炸
+To be honest this way of frying this dish
+
+97
+00:04:03,000 --> 00:04:07,080
+# 切成丁 就这鸡花也行
+Chopping into small bits and make it popcorn chicken could work as well
+
+98
+00:04:07,080 --> 00:04:08,400
+# 挂任何汁都好吃
+It would taste good with any sauce
+
+99
+00:04:08,400 --> 00:04:10,800
+# 你挂一宫保的汁 香极了
+You can put Kung-pao sauce on it. It would taste awesome
+
+100
+00:04:10,800 --> 00:04:12,160
+# 挂一酱爆汁都好吃
+Or even soy sauce would taste good
+
+101
+00:04:12,160 --> 00:04:13,680
+# 因为大块吃还过瘾
+Big chunks could really satisfy your craving
+
+102
+00:04:13,680 --> 00:04:16,280
+# 这基本上快熟了 要浮起来了
+This is almost ready. It’s about to float
+
+103
+00:04:16,280 --> 00:04:17,760
+
+104
+00:04:17,760 --> 00:04:20,040
+# 颜色好看 里面也熟了
+The color looks good and the inside is cooked as well
+
+105
+00:04:20,040 --> 00:04:23,040
+# 梅子 你可以来一块尝尝没问题
+Mei zi you can have a piece to try if it’s good
+
+106
+00:04:23,320 --> 00:04:24,920
+# 这蔬菜的香味都出来了
+The veggie flavor is coming out
+
+107
+00:04:24,920 --> 00:04:27,560
+# 这底口有蔬菜清香味
+It has vegetable flavor in there
+
+108
+00:04:27,560 --> 00:04:29,800
+# 既酥又嫩
+Crunchy and tender
+
+109
+00:04:29,800 --> 00:04:32,440
+# 小魏你尝尝 别说是师父偏心眼子
+Xiao Wei you have a try, don’t say that Master has a favorite
+
+110
+00:04:32,960 --> 00:04:36,040
+# 怎么样 好吃 外焦里嫩
+How is it? So good, crispy on the outside and tender in the inside
+
+111
+00:04:38,360 --> 00:04:40,640
+# 真特别好吃 真好吃诶
+Truly really tasty, really good
+
+112
+00:04:40,640 --> 00:04:43,400
+# 这花椒面加点盐 对
+Add in some salt in the Sichuan peppercorn powder
+
+113
+00:04:43,400 --> 00:04:46,520
+
+114
+00:04:46,520 --> 00:04:49,440
+# 炸好鸡颜色金黄 真漂亮
+The fried chicken is golden, so pretty
+
+115
+00:04:49,440 --> 00:04:50,640
+# 这就行了
+That’s it
+
+116
+00:04:50,640 --> 00:04:51,720
+# 这千万不能大火 不能太热
+Definitely don’t use high heat. Don't make it too hot
+
+117
+00:04:51,720 --> 00:04:55,200
+# 这得关火 待会化了
+Got to turn the fire off. It’s gonna melt soon
+
+118
+00:04:55,200 --> 00:04:57,680
+# 这个菜千万别大火
+You should definitely not use high heat to make this dish
+
+119
+00:04:57,680 --> 00:04:59,120
+# 师父这锅热了
+Master, the pan is hot
+
+120
+00:04:59,120 --> 00:05:02,720
+
+121
+00:05:02,720 --> 00:05:04,240
+# 小火啊一定要小火
+Low heat, definitely use low heat
+
+122
+00:05:06,720 --> 00:05:08,320
+# 锅热了把酱炒一下
+If the pan is hot then cook the sauce
+
+123
+00:05:08,320 --> 00:05:11,080
+# 熟透了看那香气出来了
+If it’s cooked the smell would be stronger
+
+124
+00:05:11,080 --> 00:05:14,080
+# （鸡肉）搁里没事 梅子搁里吧
+Just put the chicken inside, Mei zi. It’s fine
+
+125
+00:05:14,080 --> 00:05:17,320
+
+126
+00:05:17,320 --> 00:05:19,200
+# 得让它充分裹上边儿
+Make sure it's fully coated
+
+127
+00:05:19,200 --> 00:05:22,680
+
+128
+00:05:22,680 --> 00:05:23,800
+# 出锅 关火
+Done and turn off the heat
+
+129
+00:05:23,800 --> 00:05:25,720
+# 你闻这香气 倒草莓
+Do you smell the smell? Add strawberries
+
+130
+00:05:25,720 --> 00:05:27,920
+
+131
+00:05:27,920 --> 00:05:29,840
+# 出锅了 好了
+Ready to serve! We’re done
+
+132
+00:05:29,840 --> 00:05:32,440
+# 真香 果香味也出来了
+Smells delicious the fruitiness is obvious too
+
+133
+00:05:32,440 --> 00:05:33,760
+
+134
+00:05:33,760 --> 00:05:38,720
+# 这香死了 我天呐 太香了
+Smell so good omg so good
+
+135
+00:05:40,160 --> 00:05:43,000
+# 我现在已经迫不及待想吃一口了
+I can’t wait to have a bite now
+
+136
+00:05:43,000 --> 00:05:46,080
+# 梅子知道我们 其实是最早接宴会的
+Mei zi knew we started out cooking for banquets 
+
+137
+00:05:46,080 --> 00:05:47,640
+# 那时候全是大宴会
+It was all huge banquets at the time
+
+138
+00:05:47,640 --> 00:05:50,400
+# 梅子跟着我 我们接完了我们创新
+Mei zi followed me and we took banquets jobs and we innovated
+
+139
+00:05:50,400 --> 00:05:53,320
+# 看着有食欲 草莓上面搁几个
+It looks very appetizing. Put some strawberries on the top
+
+140
+00:05:53,320 --> 00:05:56,320
+# 讲究不将就 做好了
+Be precise. Never make do. And now we’re done
+
+141
+00:05:56,320 --> 00:05:58,480
+# 等不及了啊 闻着就清香味
+Can’t wait to try! Smells so refreshing
+
+142
+00:05:58,480 --> 00:06:01,480
+
+143
+00:06:01,480 --> 00:06:02,840
+# 吃这个必须得吃块面包
+You have to eat this along with the bread
+
+144
+00:06:02,840 --> 00:06:04,280
+# 就着个面包吃
+Eat with the bread
+
+145
+00:06:04,280 --> 00:06:05,320
+# 我得来一块
+I have to have a piece
+
+146
+00:06:05,320 --> 00:06:06,640
+# 我配着面包片
+I’m going to eat along with bread crunches
+
+147
+00:06:06,640 --> 00:06:07,880
+
+148
+00:06:07,880 --> 00:06:09,160
+# 觉得太好吃说不出话来了
+So good that I can’t talk
+
+149
+00:06:09,160 --> 00:06:10,680
+# 这搭配 你知道吗
+You know this combination
+
+150
+00:06:14,120 --> 00:06:16,920
+# 你听这声音 网友们
+Listen to this sound friends
+
+151
+00:06:16,920 --> 00:06:21,360
+# 吃完这鸡 豁然开朗 闻着都香
+So enlightened after having this chicken. It smells so good
+
+152
+00:06:22,200 --> 00:06:23,320
+# 真好 棒棒的
+We did a great job
