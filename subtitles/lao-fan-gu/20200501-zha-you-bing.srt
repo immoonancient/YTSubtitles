@@ -196,7 +196,7 @@ We need "smooth hands, smooth bowl, smooth dough"
 00:01:39,080 --> 00:01:42,600
 # 面它是光滑的 你说的是三光
 - The dough should be smooth
-- You are talking about "the three smooths"
+- You are talking about "the three smoothness"
 
 39
 00:01:42,600 --> 00:01:44,040
@@ -555,7 +555,7 @@ Sometimes it gets hotter and hotter when frying
 111
 00:04:59,640 --> 00:05:02,680
 # 油温低了它不容易起
-It doesn't rise if the oil temperature is low
+It doesn't puff up if the oil temperature is low
 
 112
 00:05:04,080 --> 00:05:07,480
@@ -580,7 +580,7 @@ No worries. It's the first one
 116
 00:05:18,040 --> 00:05:22,920
 # 起来了 就颜色白点儿
-- It has risen
+- It has puffed up
 - The color is pretty white
 
 117
@@ -614,8 +614,8 @@ The second one
 123
 00:05:39,360 --> 00:05:42,600
 # 下一个就起来了 马上就起
-- The second one has risen
-- It rises immediately
+- The second one has puffed up
+- It puffed up immediately
 
 124
 00:05:42,600 --> 00:05:44,680
@@ -667,7 +667,7 @@ Next time we can ask some audience to have it here
 134
 00:06:07,240 --> 00:06:10,440
 # 你看这个起的多好 来一特写
-- Look at how well it has risen
+- Look at how well it has puffed up
 - Give it a closeup
 
 135
