@@ -1,10 +1,8 @@
 # https://youtu.be/9jGg8lsGlfY
 
-# Bot, please upload
-
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•二伯炸鸡】国宴级别的神仙炸鸡怎么做？炸鸡爱好者千万别错过！结尾有大爷专属答疑时间哦 |老饭骨
-# 【State Banquet Master Chef • Er Bai Fried Chicken】How to make state banquet level fried chicken? Fried chicken lovers don't miss this recipe! There’s also Q&A with Da Ye at the end as well.
+# State Banquet Master Chef - Er Bai's State Banquet Level Fried Chicken Recipe. +Da Ye's Q&A
 
 # 简介
 # 小友们好，现在许多人都喜欢这个炸鸡呀，今天咱二伯也要教大家一种炸鸡的神仙做法，炸得金黄酥脆的炸鸡裹上调制的酱料，再配上草莓和面包干，这吃起来，嘿，嘎嘣脆！
@@ -12,6 +10,8 @@
 # 这缺失的一段呢就是吧咱么之前调好的酱微微加热，然后倒入鸡块翻炒，再倒入草莓继续翻炒就好啦。
 # 有跟着视频做的小友，记得去咱老饭骨的Facebook交作业哦！
 # Hello friends, nowadays a lot of people love fried chicken, today Er Bai is going to teach us a special way of making fried chicken, golden fried chicken with special sauce, to go along with strawberry and bread crunches.So crispy! I am going to apologize first, because my disciple didn’t carry the camera right, the part of the video was missing, where we heated up the sauce and coat and added chicken and strawberries to coat them in the sauce. Friends who tried this recipe following our video, remember to post a picture in the Facebook comment.
+
+# import intro
 
 # 字幕
 
