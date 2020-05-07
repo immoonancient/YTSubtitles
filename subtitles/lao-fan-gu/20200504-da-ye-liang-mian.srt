@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•大爷凉面】酸、甜、咸、辣、香的家常怪味凉面！到底有几个味儿？！夏日必备的开胃小吃！|老饭骨
-# State Banquet Master Chef: Sour, sweet, salty, spicy, fragrant "Strange Flavor Noodle". Delicious appetizing dish.
+# State Banquet Master Chef: Sour, sweet, salty, spicy, fragrant "Strange Flavor Noodles"
 
 # 简介
 # 小友们好，现在天气慢慢转热了，容易没有胃口。
@@ -12,20 +12,22 @@
 # 大家可以根据自己的口味来调整酱汁，定制你专属的口味！
 # You can customize the dressing base on your own preference!
 # 这个酱做好了还可以拿来做怪味粉皮和怪味鸡丝。
-# This dressing can also be used to make rice noodle or shredded chicken.
+# This dressing can also be used to make rice noodles or shredded chicken.
 # 做酱汁的时候注意咱加酱油的时候要慢慢加，这样芝麻酱才润！
 # Remember, we must gradually add soy sauce when making the dressing. This will make the dressing smooth.
 # 这期视频还有好多知识点，包括怎么提高面的筋度，辣椒油怎么做才不会糊，
-# We will also teach you how to make chewy noodle and chili oil.
+# We will also teach you how to make al dente noodle and chili oil.
 # 小友们快来视频里寻找答案吧！
 # Look for those in this video!
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:01,520
 # 怪味面
-Strange flavor noodle.
+Strange flavor noodles.
 
 2
 00:00:01,520 --> 00:00:03,800
@@ -40,7 +42,7 @@ This is the uniqueness of this flavor.
 4
 00:00:06,040 --> 00:00:09,520
 # 麻酱
-Sesame sauce.
+Sesame paste.
 
 5
 00:00:09,520 --> 00:00:11,040
@@ -70,7 +72,7 @@ We will add soy sauce gradually,
 10
 00:00:27,680 --> 00:00:32,360
 # 要不然油一分离芝麻酱就不润了
-otherwise it will separate from the sesame sauce.
+otherwise the sesame paste may lose its smoothness.
 
 11
 00:00:32,360 --> 00:00:34,280
@@ -90,12 +92,12 @@ up to 15 days.
 14
 00:00:43,560 --> 00:00:47,720
 # 但要切忌的就是葱姜蒜现吃现拌
-However, we won't add spring onion, ginger, and garlic into it until we need to eat the sauce.
+However, we won't add spring onion, ginger, and garlic into it until we consume it.
 
 15
 00:00:47,720 --> 00:00:49,320
 # 把葱姜蒜放到里头
-If you put them along with the sesame sauce into the fridge.
+If you put them along with the sauce into the fridge.
 
 16
 00:00:49,320 --> 00:00:50,960
@@ -130,7 +132,7 @@ This so called "strange flavor"
 22
 00:01:06,600 --> 00:01:09,080
 # 你想有什么味就有什么味
-has all the flavor you can possibly think of.
+It has all the flavors you can possibly think of.
 
 23
 00:01:09,080 --> 00:01:12,200
@@ -140,7 +142,7 @@ You can taste sourness, because we have added vinegar into it.
 24
 00:01:12,200 --> 00:01:16,200
 # 你看这稀稠 差不多了
-This stickiness is good.
+This thickness is good.
 
 25
 00:01:16,200 --> 00:01:18,360
@@ -150,7 +152,7 @@ Okay, let's add salt.
 26
 00:01:19,360 --> 00:01:21,920
 # 盐也别太多
-Not not too much.
+Not too much.
 
 27
 00:01:21,920 --> 00:01:23,920
@@ -160,12 +162,12 @@ Around 10g.
 28
 00:01:23,920 --> 00:01:25,960
 # 少来一点味精
-A little bit of food MSG.
+A little bit of MSG.
 
 29
 00:01:25,960 --> 00:01:28,440
 # 这花椒也要根据自己的喜好
-Add Sichuan peppercorn also base on your own preference.
+Add Sichuan peppercorns, also based on your own preference.
 
 30
 00:01:28,440 --> 00:01:31,080
@@ -190,7 +192,7 @@ Sesame oil is a key ingredient.
 34
 00:01:42,440 --> 00:01:46,160
 # 吃面得有油 没油它香不了
-Delicious noodle needs oil.
+Delicious noodles need oil.
 
 35
 00:01:47,680 --> 00:01:50,360
@@ -215,7 +217,7 @@ Those are
 39
 00:01:58,760 --> 00:02:00,800
 # 我中午和大妈的午饭
-me and my wife's lunch.
+me and Da Ma's lunch.
 
 40
 00:02:00,800 --> 00:02:03,280
@@ -225,7 +227,7 @@ Not too much food honestly.
 41
 00:02:03,280 --> 00:02:06,720
 # 第二个环节 切点小料
-Now, we will prepare some other ingredient.
+Now, we will prepare some other ingredients.
 
 42
 00:02:06,720 --> 00:02:08,960
@@ -275,12 +277,12 @@ This dressing is versatile.
 51
 00:02:30,920 --> 00:02:37,360
 # 怪味凉面 怪味粉皮 怪味鸡丝
-You can make noodle, rice noodle, or shredded chicken with it.
+You can make cold noodles, rice noodles, or shredded chicken with it.
 
 52
 00:02:37,360 --> 00:02:41,200
 # 那个也挺好吃 白斩鸡
-Baizhan Chicken (cold boiled chicken) is also a good accompany with this dressing.
+Also works well with Baizhan Chicken (cold boiled chicken).
 
 53
 00:02:41,200 --> 00:02:44,040
@@ -360,7 +362,7 @@ soy sauce,
 68
 00:03:22,520 --> 00:03:24,040
 # 咸鲜味 有
-salt and fresh.
+salt and savory.
 
 69
 00:03:24,040 --> 00:03:26,560
@@ -370,12 +372,12 @@ After you take a sip, it has some peppercorn aftertaste,
 70
 00:03:26,560 --> 00:03:28,520
 # 到嗓子上还有点微辣
-spiciness,
+spiciness when it reaches your throat,
 
 71
 00:03:28,520 --> 00:03:30,560
 # 然后到嗓子眼儿还有点小酸
-and even some sourness.
+and even some sourness when passing through.
 
 72
 00:03:30,560 --> 00:03:32,440
@@ -385,17 +387,17 @@ This is the uniqueness of this "strange flavor".
 73
 00:03:32,440 --> 00:03:35,040
 # 想什么味 有什么味
-It has all the flavor you can possibly think of.
+It has all the flavors you can possibly think of.
 
 74
 00:03:35,040 --> 00:03:36,760
 # 吃面条就得硬面
-The dough has to be hard.
+The dough has to be tough.
 
 75
 00:03:36,760 --> 00:03:38,640
 # 有的面可能筋度不够
-Otherwise it won't be as chewy.
+Some flour may not have enough gluten.
 
 76
 00:03:38,640 --> 00:03:40,960
@@ -415,7 +417,8 @@ The dough is done, let Da Ye slice it.
 79
 00:03:49,120 --> 00:03:52,520
 # 我擀的 大妈擀的
-This is my noodle; this is my wife's.
+- I rolled it
+- Da Ma rolled it
 
 80
 00:03:56,400 --> 00:04:00,920
@@ -430,12 +433,12 @@ Left-handed Da Ye is quite skillful.
 82
 00:04:05,920 --> 00:04:07,400
 # 抖了抖了
-I choked, whoops.
+Shake it off.
 
 83
 00:04:10,160 --> 00:04:14,080
 # 这叫一板儿面
-This is a board of noodle.
+This is a board of noodles.
 
 84
 00:04:14,080 --> 00:04:17,240
@@ -455,7 +458,7 @@ As for this chili oil,
 87
 00:04:24,240 --> 00:04:27,920
 # 先用点香油把这辣椒面给它和一下
-we need to mix sesame oil with paprika first.
+we need to mix sesame oil with chili flakes first.
 
 88
 00:04:27,920 --> 00:04:30,040
@@ -470,7 +473,7 @@ You guys ate all of it.
 90
 00:04:33,080 --> 00:04:35,600
 # 完了以后把油烧热
-After mixing paprika and sesame oil.
+After mixing chili and sesame oil, we heat it up.
 
 91
 00:04:35,600 --> 00:04:39,360
@@ -485,7 +488,7 @@ Along with some sesame oil, and heat them up.
 93
 00:04:42,840 --> 00:04:46,720
 # 烧热以后往那辣椒面里一呲
-Then pour all the oil into the mixed paprika.
+Then pour all the oil into the chili flakes.
 
 94
 00:04:46,720 --> 00:04:50,760
@@ -540,7 +543,7 @@ This is today's ration. Add the cucumber slices.
 104
 00:05:26,200 --> 00:05:30,360
 # 这是大爷的 一会再给大妈盛一碗
-This is Da Ye's. I will give my wife her ration.
+This is Da Ye's. I will give Da Ma her share.
 
 105
 00:05:30,360 --> 00:05:32,120
@@ -550,7 +553,7 @@ Why don't you give me first.
 106
 00:05:32,120 --> 00:05:35,120
 # 不是 这展示啊 要搁点辣椒啊
-No, this is to show the audience. I will add some paprika on top.
+No, this is to show the audience. I will add some chili on top.
 
 107
 00:05:37,160 --> 00:05:39,520
@@ -570,7 +573,7 @@ If you like hot food,
 110
 00:05:44,520 --> 00:05:46,400
 # 可以把辣椒面搁这上头
-you can put some paprika on top.
+you can put some chili on top.
 
 111
 00:05:46,400 --> 00:05:48,840
@@ -585,4 +588,4 @@ Let's take a picture.
 113
 00:05:52,680 --> 00:05:55,720
 # 家有大厨 就是幸福
-Good chef, good life.
+Having a chef at home is awesome.
