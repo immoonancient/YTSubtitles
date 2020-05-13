@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【國宴大師•麵包蝦排】裹上雞蛋液，粘上麵包糠，下鍋炸至金黃酥脆，大人小孩都愛吃 (片尾有彩蛋) |老飯骨
-# State Banquet Master Chef – Breaded Butterfly Shrimp, Golden and Crispy, Everyone loves (Find an Easter Egg in the end)
+# State Banquet Master Chef – Breaded Butterfly Shrimp, Golden and Crispy + Easter Egg
 
 # 简介
 # 小友們好，今天大爺和大媽要給大家帶來一道讓隔壁小孩都饞哭了的麵包蝦排。
@@ -11,8 +11,10 @@
 
 # Introduction
 # Hello friends, Da Ye and Da Ma will share how to make tasty breaded butterfly shrimp.
-# Da Ye showed each steps and explained every detail, even kids can master. If you know how to make this dish, you can replace shrimp with fish, pork or chicken. Master the one to master all.
-# In the end of this video, you will find an Easter egg. Da Ye will show us the menu he has collected for more than 40 years. Do you want to see how the menu look like in 40 years ago?
+# Da Ye shows each step and explains every detail, so that even kids can master. If you know how to make this dish, you can replace shrimp with fish, pork or chicken. Master the one to master all.
+# In the end of this video, you will find an Easter egg. Da Ye will show us the menus he has collected for more than 40 years. Do you want to see how the menus looked like 40 years ago?
+
+# import intro
 
 # 字幕
 
@@ -90,7 +92,7 @@ For breaded chicken, use chicken breast.
 16
 00:00:42,840 --> 00:00:45,160
 # 鸡胸肉或者鸡腿肉都行
-Chicken breast or chicken thigh, will all work.
+Chicken breast or chicken thigh, both work.
 
 17
 00:00:45,160 --> 00:00:49,440
@@ -100,7 +102,7 @@ How about pork? For pork, we use pork loin. Because it is tender?
 18
 00:00:49,440 --> 00:00:54,840
 # 另外外脊底下还带点肥的 那个香
-Loin usually will have some fat part, which make it tasty.
+Loin usually has some fat part, which makes it tasty.
 
 19
 00:00:54,840 --> 00:00:58,640
@@ -110,7 +112,7 @@ For fish, we use boneless ones.
 20
 00:00:58,640 --> 00:01:01,960
 # 我们看看 看看 颗粒状
-Let’s see this. Small particle.
+Let’s see this. Small particles.
 
 21
 00:01:01,960 --> 00:01:05,280
@@ -125,12 +127,12 @@ It will get more dry and crunchy.
 23
 00:01:08,400 --> 00:01:12,080
 # 馒头也行 馒头口感要更好
-You can also use Mantou (Chinese steam bread), to get better texture.
+You can also use Mantou (Chinese steamed bread), to get better texture.
 
 24
 00:01:12,080 --> 00:01:14,800
 # 炸出来酥脆
-Mantou will be crispy after you frying it.
+Mantou will be crispy after frying.
 
 25
 00:01:14,800 --> 00:01:16,720
@@ -173,7 +175,7 @@ See? Vein. Get rid of it.
 33
 00:01:41,120 --> 00:01:46,720
 # 去完以后这个虾要做一些刀工处理
-After that, some knife skill are required.
+After that, some knife skills are required.
 
 34
 00:01:46,720 --> 00:01:50,600
@@ -240,12 +242,12 @@ See the tendon. Could you see it?
 48
 00:02:28,080 --> 00:02:31,280
 # 像这鸡肉 上面也有筋 也得斩一斩
-For the chicken, it also has tendon, and we need to chop it as well.
+For chicken, it also has tendon, and we need to chop it as well.
 
 49
 00:02:31,280 --> 00:02:33,880
 # 我们都弄干净了 开始腌味
-After the shrimps are prepared, let’s marinade.
+After the shrimps are prepared, let’s marinate.
 
 50
 00:02:33,880 --> 00:02:37,760
@@ -260,7 +262,7 @@ It gets rid of the unpleasant smell and enhances the flavor.
 52
 00:02:38,920 --> 00:02:42,880
 # 这虾别弄咸了 大约搁上四克的盐
-The shrimp don’t need to be too salty. Add around 4g of salt.
+The shrimps don’t need to be too salty. Add around 4g of salt.
 
 53
 00:02:43,800 --> 00:02:45,400
@@ -275,7 +277,7 @@ Add some ginger and spring onion. Two slices are enough.
 55
 00:02:50,240 --> 00:02:55,680
 # 然后给它抓一抓 腌一腌 腌上十分钟
-Let’s massage it, then marinade for 10 mins.
+Let’s massage it, then marinate for 10 mins.
 
 56
 00:02:55,680 --> 00:02:57,240
@@ -381,7 +383,7 @@ First dip with the flour, then egg, and last bread.
 77
 00:03:41,760 --> 00:03:43,920
 # 蘸的时候要匀 打开
-You need to dip the ingredient evenly. Open it up.
+We need to dip the ingredients evenly. Open it up.
 
 78
 00:03:43,920 --> 00:03:48,000
@@ -410,7 +412,7 @@ After the egg, we dip the bread crumbs.
 84
 00:03:58,720 --> 00:04:02,760
 # 没有鸡蛋它蘸不了面包 也是两面
-Without the egg, the bread cannot stick on the shrimp. Dip on both side as well.
+Without the egg, the bread cannot stick on the shrimp. Dip on both sides as well.
 
 85
 00:04:02,760 --> 00:04:03,480
@@ -443,7 +445,7 @@ You see there are some gaps, we can add (more bread).
 91
 00:04:16,160 --> 00:04:21,320
 # 你还真准 七个虾 四片面包
-The ingredients amount are so precise. Seven shrimp, 4 pieces of bread.
+The ingredient amounts are so precise. Seven shrimps, 4 slices of bread.
 
 92
 00:04:21,320 --> 00:04:25,600
@@ -526,7 +528,7 @@ How do you know it is almost done?
 108
 00:05:08,120 --> 00:05:11,520
 # 一个是你看水泡的逐渐在减少
-Firstly, the amount of bubbles are decreasing.
+Firstly, the amount of bubbles is decreasing.
 
 109
 00:05:11,520 --> 00:05:13,600
@@ -556,7 +558,7 @@ If you think it is too big, you can cut it to smaller pieces.
 114
 00:05:23,920 --> 00:05:26,520
 # 别改刀了 这吃的多痛快
-Don’t need to do that. It is more satisfied to have big pieces.
+Don’t need to do that. It is more satisfying to have big pieces.
 
 115
 00:05:26,520 --> 00:05:28,440
@@ -579,7 +581,7 @@ Breaded chicken, fish, shrimp and pork.
 119
 00:05:39,520 --> 00:05:43,520
 # 都可以这样 举一反三
-We could all cook like this. Learn one to master all.
+All could be cooked like this. Learn one to master all.
 
 120
 00:05:43,520 --> 00:05:44,920
@@ -592,7 +594,11 @@ What is Da Ma’s slogan?
 It is awesome to have a chef at home.
 
 122
-00:05:55,520 --> 00:05:49,960
+00:05:52,300 --> 00:05:56,500
+# 大爷的菜单
+Da Ye's menus
+
+# shift forward 00:05:56,500
 
 123
 00:00:00,000 --> 00:00:03,880
@@ -617,7 +623,7 @@ These menus.
 127
 00:00:10,880 --> 00:00:14,640
 # 其实我们跟大妈生活在一起
-Actually when I live with Da Ma,
+Actually as I live with Da Ma,
 
 128
 00:00:14,640 --> 00:00:17,440
@@ -642,7 +648,7 @@ But after so many years, I didn’t lose any of them.
 132
 00:00:28,000 --> 00:00:29,560
 # 仍然保存着
-Still keep them.
+Still keeping them.
 
 133
 00:00:29,560 --> 00:00:31,240
@@ -665,7 +671,7 @@ Mr Qi Baishi
 137
 00:00:37,440 --> 00:00:39,320
 # 专门给北京饭店
-Designed these especially for Beijing Restaurant.
+Designed these especially for Beijing Hotel.
 
 138
 00:00:39,320 --> 00:00:43,800
@@ -675,7 +681,7 @@ Designed these especially for Beijing Restaurant.
 139
 00:00:43,800 --> 00:00:48,800
 # 这几张菜单我保留了将近
-These four menus, I have been kept for
+These four menus, I have been keeping for...
 
 140
 00:00:48,800 --> 00:00:50,840
@@ -690,7 +696,7 @@ Around 30 to 40 years. Very precious.
 142
 00:00:55,320 --> 00:00:59,840
 # 大家看着跟一幅很精致的小画（似的）
-See, it likes an exquisite painting.
+See, it is like an exquisite painting.
 
 143
 00:00:59,840 --> 00:01:02,760
@@ -705,7 +711,7 @@ a traditional culture in our company.
 145
 00:01:05,000 --> 00:01:07,920
 # 我特想看看菜单里边
-I want to see what was on the menu.
+I want to see what is on the menu.
 
 146
 00:01:07,920 --> 00:01:11,440
@@ -735,7 +741,7 @@ Braised pigeon egg with Bok Choy, pot braised beef
 151
 00:01:29,440 --> 00:01:33,080
 # 葱烧鲜鱼 炝锅面条
-Green onion fish, fry noodle
+Green onion fish, fried noodles
 
 152
 00:01:33,080 --> 00:01:37,960
@@ -813,17 +819,17 @@ Just for collection, and I only have one copy.
 167
 00:02:17,360 --> 00:02:22,320
 # 这张菜单是我们北京饭店大楼
-This one was designed when the Beijing Restaurant building
+This one was designed when the Beijing Hotel building
 
 168
 00:02:22,320 --> 00:02:25,160
 # 新楼建成之后
-The building was built.
+The new building was built.
 
 169
 00:02:25,160 --> 00:02:29,720
 # 这个菜单 因为它的销量大
-These menu, consumed a lot back then.
+These menu were consumed a lot back then.
 
 170
 00:02:29,720 --> 00:02:32,080
@@ -843,7 +849,7 @@ When they left, they would bring the menus with them.
 173
 00:02:38,400 --> 00:02:40,840
 # 这是纪念 留个纪念
-For memory.
+As a souvenir.
 
 174
 00:02:40,840 --> 00:02:43,040
@@ -851,12 +857,12 @@ For memory.
 175
 00:02:43,040 --> 00:02:45,480
 # 更有精彩的 还有这四张
-These four menus were more interesting.
+These four menus are more interesting.
 
 176
 00:02:45,480 --> 00:02:48,080
 # 你看我们这个菜单是一组一组的
-See, our menus were designed by sets.
+See, our menus were designed in sets.
 
 177
 00:02:48,080 --> 00:02:51,680
@@ -874,12 +880,12 @@ Because Chang’An Road only has
 180
 00:02:56,560 --> 00:03:00,120
 # 北京饭店的院里头有很多玉兰花
-There were a lot of magnolia in the yard of Beijing Restaurant
+There were a lot of magnolia in the yard of Beijing Hotel
 
 181
 00:03:00,120 --> 00:03:02,800
 # 但是北京饭店的玉兰花有一个特点
-But the one in Beijing Restaurant had a character:
+But the magnolia in Beijing Hotel had a character:
 
 182
 00:03:02,800 --> 00:03:05,960
@@ -889,7 +895,7 @@ It bloomed earlier than other places.
 183
 00:03:05,960 --> 00:03:09,440
 # 很多人要问 说为什么北京饭店的玉兰花
-Some people might ask why the magnolia in Beijing Restaurant
+Some people might ask why the magnolia in Beijing Hotel
 
 184
 00:03:09,440 --> 00:03:11,520
@@ -904,7 +910,7 @@ Because we had heating underground.
 186
 00:03:14,000 --> 00:03:18,160
 # 所以它开的要比别的地方要早一些
-So the flower bloom earlier.
+So the flowers bloom earlier.
 
 187
 00:03:18,160 --> 00:03:20,960
@@ -959,12 +965,12 @@ Hence, these two menus
 197
 00:03:45,080 --> 00:03:49,680
 # 也是在一段时间把它呈现出来
-Indicates the culture of that period.
+Indicate the culture of that period.
 
 198
 00:03:49,680 --> 00:03:56,240
 # 这张菜单是90年亚运会 亚运会菜单
-This was the menu used in 1990’s Asian Game.
+This was the menu used in Asian Games 1990.
 
 199
 00:03:56,240 --> 00:03:58,040
@@ -984,7 +990,7 @@ It was designed by Da Ye.
 202
 00:04:07,320 --> 00:04:13,840
 # 这还有挺精彩的 这有张大爷的照片
-Here are something good. This one have my picture on it.
+Here is something good. This one has my picture on it.
 
 203
 00:04:13,840 --> 00:04:14,760
