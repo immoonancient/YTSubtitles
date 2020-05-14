@@ -229,6 +229,17 @@
       "category": "meat"
     },
     {
+      "cn": "血蛤",
+      "en": "blood clam",
+      "category": "meat",
+      "reference": "https://en.wikipedia.org/wiki/Tegillarca_granosa"
+    },
+    {
+      "cn": "海参",
+      "en": "sea cucumber",
+      "category": "meat"
+    },
+    {
       "cn": "小葱",
       "en": "scallion",
       "category": "vegetable",
@@ -270,7 +281,7 @@
     },
     {
       "cn": "荞头",
-      "en": "Chinese onion",
+      "en": "chinese onion",
       "category": "vegetable",
       "notes": "和葱蒜等同属不同种，多见于粤菜及日韩料理等",
       "reference": "https://en.wikipedia.org/wiki/Allium_chinense",
@@ -348,6 +359,11 @@
       "category": "vegetable"
     },
     {
+      "cn": "芋头",
+      "en": "taro",
+      "category": "vegetable"
+    },
+    {
       "cn": "豆芽",
       "en": "bean sprout",
       "category": "vegetable"
@@ -366,6 +382,12 @@
       "cn": "丝瓜",
       "en": "luffa",
       "category": "vegetable"
+    },
+    {
+      "cn": "冬瓜",
+      "en": "winter melon",
+      "category": "vegetable"
+      "reference": "https://en.wikipedia.org/wiki/Wax_gourd"
     },
     {
       "cn": "莲藕",
@@ -751,7 +773,29 @@
     {
       "cn": "黑醋",
       "en": "balsamic vinegar",
-      "category": "指意大利黑醋，不要用于中式陈醋"
+      "category": "condiment"
+      "notes": "指意大利黑醋，不要用于中式陈醋" 
+    },
+     {
+      "cn": "晒醋",
+      "en": "\"Shaicu\" vinegar",
+      "category": "condiment"
+    },
+     {
+      "cn": "镇江香醋",
+      "en": "Zhenjiang vinegar",
+      "category": "condiment"
+      "reference": "https://en.wikipedia.org/wiki/Zhenjiang_Vinegar"
+    },
+    {
+      "cn": "冰糖",
+      "en": "white rock sugar",
+      "category": "condiment"
+    },
+    {
+      "cn": "糖色",
+      "en": "caramelized sugar",
+      "category": "condiment"
     },
     {
       "cn": "鲜露",
@@ -769,8 +813,40 @@
       "category": "condiment"
     },
     {
-      "cn": "糖色",
-      "en": "caramelized sugar",
+      "cn": "干黄酱",
+      "en": "yellow soybean paste",
+      "category": "condiment",
+      "notes": "黄豆发酵的酱分为干湿两种，干黄酱/黄酱倾向半固体，多用于北京炸酱面；黄豆酱/豆酱更稀，更普遍常见于各种菜肴",
+      "reference": "https://zh.wikipedia.org/wiki/%E9%86%B1%E9%85%B5%E8%B1%86%E9%86%AC",
+      "reference2": "https://en.wikipedia.org/wiki/Yellow_soybean_paste"
+    },
+    {
+      "cn": "黄酱",
+      "en": "yellow soybean paste",
+      "category": "condiment",
+      "notes": "黄豆发酵的酱分为干湿两种，干黄酱/黄酱倾向半固体，多用于北京炸酱面；黄豆酱/豆酱更稀，更普遍常见于各种菜肴",
+      "reference": "https://zh.wikipedia.org/wiki/%E9%86%B1%E9%85%B5%E8%B1%86%E9%86%AC",
+      "reference2": "https://en.wikipedia.org/wiki/Yellow_soybean_paste"
+    },
+    {
+      "cn": "黄豆酱",
+      "en": "soybean sauce",
+      "category": "condiment",
+      "notes": "参考了李锦记的译名；黄豆发酵的酱分为干湿两种，干黄酱/黄酱倾向半固体，多用于北京炸酱面；黄豆酱/豆酱更稀，更普遍常见于各种菜肴",
+      "reference": "https://zh.wikipedia.org/wiki/%E9%86%B1%E9%85%B5%E8%B1%86%E9%86%AC",
+      "reference2": "https://usa.lkk.com/en/products/soybean-sauce"
+    },
+    {
+      "cn": "豆酱",
+      "en": "soybean sauce",
+      "category": "condiment",
+      "notes": "参考了李锦记的译名；黄豆发酵的酱分为干湿两种，干黄酱/黄酱倾向半固体，多用于北京炸酱面；黄豆酱/豆酱更稀，更普遍常见于各种菜肴",
+      "reference": "https://zh.wikipedia.org/wiki/%E9%86%B1%E9%85%B5%E8%B1%86%E9%86%AC",
+      "reference2": "https://usa.lkk.com/en/products/soybean-sauce"
+    },
+    {
+      "cn": "甜面酱",
+      "en": "\"Tian Mian Jiang\" sweet bean paste",
       "category": "condiment"
     },
     {
@@ -791,16 +867,6 @@
     {
       "cn": "刀口辣椒面",
       "en": "Daokou chilli powder",
-      "category": "condiment"
-    },
-    {
-      "cn": "冰糖",
-      "en": "white rock sugar",
-      "category": "condiment"
-    },
-    {
-      "cn": "甜面酱",
-      "en": "\"Tian Mian Jiang\" sweet bean paste",
       "category": "condiment"
     },
     {
@@ -837,13 +903,6 @@
       "cn": "晒醋",
       "en": "\"Shaicu\" vinegar",
       "category": "condiment"
-    },
-    {
-      "cn": "黄豆酱",
-      "en": "soybean sauce",
-      "category": "condiment",
-      "notes": "参考了李锦记的译名",
-      "reference": "https://usa.lkk.com/en/products/soybean-sauce"
     },
     {
       "cn": "柱侯酱",
@@ -1176,6 +1235,11 @@
       "reference2": "https://en.wikipedia.org/wiki/Boar_taint"
     },
     {
+      "cn": "腥味",
+      "en": "gamey taste",
+      "category": "misc"
+    },
+    {
       "cn": "浮沫",
       "en": "scum",
       "category": "misc",
@@ -1197,6 +1261,13 @@
       "en": "Chinese hawthorn",
       "category": "misc"
     },	
+    {
+      "cn": "斤",
+      "en": "jin",
+      "category": "misc"
+      "notes": "不翻作\"catty\"，翻译时采用音译，再在后面利用括号加上克/千克的单位，如：20斤为\"20 jin (10kg)\""
+      "reference": "https://en.wikipedia.org/wiki/Catty"
+    },
     {
       "cn": "王刚",
       "en": "Wang Gang",
@@ -1380,6 +1451,31 @@
       "reference": "https://en.wikipedia.org/wiki/Hot_dry_noodles"
     },
     {
+      "cn": "刀削面",
+      "en": "Daoxiaomian (Knife cut noodles)",
+      "category": "dish",
+      "notes": "\"Knife cut noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Daoxiaomian"
+    },
+    {
+      "cn": "油泼面",
+      "en": "Biang Biang noodles",
+      "category": "dish",
+      "reference": "https://en.wikipedia.org/wiki/Biangbiang_noodles"
+    },
+    {
+      "cn": "裤带面",
+      "en": "Biang Biang noodles",
+      "category": "dish",
+      "reference": "https://en.wikipedia.org/wiki/Biangbiang_noodles"
+    },
+    {
+      "cn": "炸酱面",
+      "en": "Zhajiangmian (Fried sauce noodles)",
+      "category": "dish",
+      "notes": "\"Fried sauce noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Zhajiangmian"
+      "reference": "https://en.wikipedia.org/wiki/Zhajiangmian#Beijing"
+    }, 
+    {
       "cn": "粥",
       "en": "congee",
       "category": "dish",
@@ -1417,12 +1513,6 @@
       "en": "Mantou (aka Chinese steamed buns)",
       "category": "dish",
       "notes": "\"Chinese steamed buns\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 Mantou"
-    },
-    {
-      "cn": "刀削面",
-      "en": "Daoxiaomian (Knife cut noodles)",
-      "category": "dish",
-      "notes": "\"Knife cut noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Daoxiaomian"
     },
     {
       "cn": "叉烧",
