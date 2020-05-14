@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 江苏“抠门”大饼，仅1毫米厚，2张饼加1个蛋卖5元，一早上能卖600张
-# “Stingy” flatbread in Jiangsu, only a mil meter thin, two flat bread and an egg only for 5 yuan, sold out 600 flatbreads in every morning
+# “Stingy” 1mm-thin flatbread in Jiangsu, 5 yuan for a combo, 600 orders sold out every morning
 
 # 简介
 # 江苏徐州特色小吃，烙馍！烙馍是非常薄的饼，只有1毫米的厚度，擀制这种馍需要长时间的操作经验，新手很难胜任，一般在街头巷尾的小摊上还有人制作这种馍。馍的吃法多种多样，从早餐到晚餐都有不同的方法。比如早餐时刻，2张馍放在一起加一个鸡蛋，可以叫做塌烙馍（见视频，塌是一种烹饪方法，如山东塌煎饼），塌好的烙馍口感脆爽，早上吃一个烙馍，再来一碗辣汤，早餐就非常完整了。其他时间，还可以用烙馍卷馓子吃，口感是双重脆感，很多人也喜欢；徐州的炸串、烧烤也非常发达，不管是烧烤还是炸串，都可以用烙馍包裹着来吃，既方便又有饱腹感。
@@ -319,4 +319,5 @@ Very good
 00:04:47,900 --> 00:04:49,775
 # 都是美味
 All delicious
+
 #我蛮困的，可能有些翻译的不是特别准确，麻烦多多包涵
