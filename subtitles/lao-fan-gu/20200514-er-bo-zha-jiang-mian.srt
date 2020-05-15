@@ -3,7 +3,7 @@
 # 请翻译以下全部内容
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【國宴大師•二伯炸醬面】醬香油潤、家常易學的地道老北京炸醬面！有二伯這秘方，炸醬再也不會寡干！|老飯骨
-# State Banquet Masterchef - Homestyle easy Beijing Fried Black Bean Sauce noodles
+# State Banquet Master Chef - Homestyle Easy Beijing Zhajiangmian Noodles (Noodles with Fried Sauce)
 
 # 简介
 # 小友們好，都說這炸醬面的靈魂都在這炸醬裏，二伯今天就教大家醬香油潤、家常易學的地道老北京炸醬該怎麽做！
@@ -13,18 +13,18 @@
 # P.S多的油可不要浪費，拿來炒菜吃，倍兒香！
 
 # Introduction
-# Hello everyone, people say that the soul of the Fried Bean Sauce noodles is the sauce, today, ErBai has a recipe that use Huangjiu(chinese yellow rice wine) instead of water to dilute the sauce, so the sauce will be runny and thin
-# The sauce needs to be moist so it won’t be blend and dry, and the texture will be softer
-# Frying the sauce, we need to be careful with scallions too, we are adding the scallions in 3 different batches. What are the good time to add them, let's watch the video to find out.
+# Hello everyone. People say that the soul of zhajiangmian ("noodles with fried sauce") is the zhajiang ("fried sauce"). Today, Er Bai has an authentic and homestyle old Beijing recipe that uses Huangjiu (chinese yellow rice wine) instead of water to dilute the sauce, so the sauce will be velvety and smooth.
+# The sauce needs to be moist so it won’t be bland and dry, and the texture will be softer.
+# When making zhanjiang, we need to be careful with scallions, too. We are adding the scallions in 3 different batches. What are the good timings to add them? Let's watch the video to find out.
 
-# P.S. We can utilize the extra scallion oil to make stir fries, smell and taste very good.
+# P.S. We can utilize the extra scallion oil to make stir fries, which smell and taste very good.
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:01,360
 # 炸酱你看有的人加水
-Fried the bean sauce, some people will add water when they are frying it
+When making the "zhajiang" ("fried sauce"), some people will add water
 
 2
 00:00:01,360 --> 00:00:03,880
@@ -50,7 +50,7 @@ When I fry the black bean sauce I use 3 different kinds of sauces
 7
 00:00:09,080 --> 00:00:10,480
 # 这是干黄酱
-This is dry yellow fermented bean Sauce
+This is "ganhuangjiang" ("dry yellow soybean sauce")
 
 8
 00:00:10,480 --> 00:00:11,520
@@ -60,7 +60,7 @@ You smell this one
 9
 00:00:11,520 --> 00:00:13,280
 # 这个（黄豆）酱呢 非常甜
-This (bean) sauce is very sweet
+This (soybean) sauce is very sweet
 
 10
 00:00:13,280 --> 00:00:17,120
@@ -80,7 +80,7 @@ We just add them all in there
 13
 00:00:20,360 --> 00:00:21,600
 # 咱就别给人糟践了
-Let’s not waste too much of the sauce
+So that it can't be wasted by other people
 
 14
 00:00:21,600 --> 00:00:24,720
@@ -140,7 +140,7 @@ Just add it in, it’s fine
 25
 00:00:49,880 --> 00:00:51,280
 # 倒了稀稠合适就行
-Thin it down to certain consistency
+Thin it down to the right consistency
 
 26
 00:00:51,280 --> 00:00:53,840
@@ -153,12 +153,12 @@ This is about it
 28
 00:00:55,480 --> 00:00:57,880
 # 你看有好多 炸出酱来
-You know there are a lot of recipes
+You know, when many people fry this zhajiang
 
 29
 00:00:57,880 --> 00:00:59,520
 # 炸到什么份上了
-They fry for how long you know?
+Do you know how long they fry it?
 
 30
 00:00:59,520 --> 00:01:02,080
@@ -173,7 +173,7 @@ It is wrong and it is not going to taste good
 32
 00:01:04,840 --> 00:01:06,520
 # 因为炸的酱首先要润
-Frying the sauce, first we need to make the sauce thin and moist
+When frying the sauce, first we need to make the sauce moist
 
 33
 00:01:06,520 --> 00:01:08,440
@@ -193,17 +193,17 @@ Let’s turn on the heat
 36
 00:01:14,080 --> 00:01:15,840
 # 师父这个火调多大
-Master how hot should it be
+Master how high should it be
 
 37
 00:01:15,840 --> 00:01:19,000
 # 大点 越大越好 好嘞 大火啊
-Hot, the hotter the better
+High, the higher the better
 
 38
 00:01:19,000 --> 00:01:21,320
 # 你说为什么加这黄豆酱
-You know why we need to add (bean) sauce
+You know why we need to add soybean sauce
 
 39
 00:01:21,320 --> 00:01:24,400
@@ -213,7 +213,7 @@ This sauce, if there is no certain sweetness in the sauce
 40
 00:01:24,400 --> 00:01:30,280
 # 这酱吃起来 寡 干 干咸干咸的
-It will taste blend and dry, dey and salty
+It will taste bland and dry, dry and salty
 
 41
 00:01:30,280 --> 00:01:31,720
@@ -223,7 +223,7 @@ It is not soft and smooth when you eat it
 42
 00:01:31,720 --> 00:01:33,040
 # 炸出来酱就不好吃 你知道吗
-Fry the sauce that way is not going to taste good you know?
+Frying the sauce that way is not going to taste good you know?
 
 43
 00:01:33,920 --> 00:01:36,240
@@ -233,7 +233,7 @@ The wok is hot now master. Wok is hot, cool
 44
 00:01:36,240 --> 00:01:38,720
 # 就这点油吧 够了
-Just add these oil will be enough
+Just adding this much oil will be enough
 
 45
 00:01:38,720 --> 00:01:40,280
