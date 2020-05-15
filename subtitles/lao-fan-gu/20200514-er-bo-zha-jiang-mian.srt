@@ -115,7 +115,7 @@ Cooking wine has a special taste
 20
 00:00:38,760 --> 00:00:40,560
 # 还不如不放 你要放料酒
-If you have regular cooking wine, I rather not to add any of it
+If you have regular cooking wine, I'd rather not add any of it
 
 21
 00:00:40,560 --> 00:00:43,920
@@ -238,17 +238,17 @@ Just adding this much oil will be enough
 45
 00:01:38,720 --> 00:01:40,280
 # 这简单说一下
-I just gonna elaborate a little
+I'm just gonna elaborate a little
 
 46
 00:01:40,280 --> 00:01:43,320
 # 这为什么说 这个酒店要炸的好吃呢
-Do you know why the restaurant fries better sauce
+Do you know why restaurants make better zhajiang?
 
 47
 00:01:43,320 --> 00:01:45,960
 # 我们用的油 是不用这种油
-The oil we using is not regular oil
+The oil we use is not regular oil
 
 48
 00:01:45,960 --> 00:01:47,720
@@ -263,7 +263,7 @@ We use oil fried with scallion and sea cucumber
 50
 00:01:49,480 --> 00:01:52,480
 # 然后用这葱油 炸这酱 煸这肉
-And the fried the sauce and the meat with that oil
+And then we fry the sauce and the meat with that oil
 
 51
 00:01:52,480 --> 00:01:53,880
@@ -283,7 +283,7 @@ Because we have made this scallion oil multiple times
 54
 00:01:57,160 --> 00:01:59,120
 # 网友也知道怎么做了
-Audiences know how to make it already
+Audience knows how to make it already
 
 55
 00:01:59,120 --> 00:02:01,840
@@ -296,7 +296,7 @@ We will add as much as we can
 57
 00:02:03,400 --> 00:02:05,160
 # 都搁里头得了
-Well might as well add them all
+We might as well add it all
 
 58
 00:02:05,160 --> 00:02:07,320
@@ -306,12 +306,12 @@ Oh well this is a lot of meat
 59
 00:02:07,320 --> 00:02:09,440
 # 就爱吃炸酱里边的肉
-I love the meat from the fried bean sauce
+I love the meat from the zhajiang
 
 60
 00:02:09,440 --> 00:02:13,440
 # 炸酱里边就得有肥肉 要不然不香
-And there must be some fat meat, otherwise it won’t smell good
+And there must be some fat meat, otherwise it won’t be flavorful
 
 61
 00:02:13,440 --> 00:02:15,280
@@ -326,12 +326,12 @@ Fry all the water out of the sauce, then it will smell really good
 63
 00:02:19,080 --> 00:02:22,240
 # 你看到了没有 这里边有水 是吧
-You see now, there is  water in it, right?
+You see now, there is water in it, right?
 
 64
 00:02:22,240 --> 00:02:24,960
 # 你要这样炒出酱来 肯定就发闷
-If you going to fry the sauce with this it will not taste good
+If you fry the sauce only to this degree, it will not taste good
 
 65
 00:02:24,960 --> 00:02:26,400
@@ -351,12 +351,12 @@ When we fry the water out of it, we also fry the oil out of the meat
 68
 00:02:31,640 --> 00:02:33,200
 # 熬出来了它香啊
-Fry them long enough, the aromatic of the ingredients all comes out
+Fry it long enough, the aroma of the ingredients all comes out
 
 69
 00:02:33,200 --> 00:02:36,160
 # 师姐您在家做炸酱吗
-Sister do you fry sauce at home?
+Shijie, do you fry sauce at home?
 
 70
 00:02:36,160 --> 00:02:40,240
@@ -371,7 +371,7 @@ We can fry a little bit more sauce in the wok
 72
 00:02:42,400 --> 00:02:45,560
 # 然后分瓶装了以后搁冰箱里存着
-And then split them into several bottles and put them in the refrigerator
+And then split it into several bottles and put them in the refrigerator
 
 73
 00:02:45,560 --> 00:02:48,120
@@ -429,7 +429,7 @@ If we are using the scallion oil it will smell better
 84
 00:03:12,160 --> 00:03:16,080
 # 因为葱油里边含有香菜啊 还有香料
-Because the scallion oil has cilantro and other herb
+Because the scallion oil has cilantro and other spices
 
 85
 00:03:16,080 --> 00:03:18,800
@@ -439,7 +439,7 @@ Master, can we add the sauce now? Yes we can
 86
 00:03:18,800 --> 00:03:23,000
 # 这葱味的香气就出来了 不能炸糊了
-Now you can smell the aromatic of the scallion, we can not over fry it
+Now you can smell the aroma of the scallion. We must not overfry it
 
 87
 00:03:23,000 --> 00:03:29,320
@@ -469,7 +469,7 @@ We are extracting all the flavor out of the sauce
 92
 00:03:40,520 --> 00:03:44,760
 # 这得推四十分钟呢 推稠了它
-We need to mix it for 40 mins, thicken the sauce a little
+We need to cook it for 40 mins, thicken the sauce a little
 
 93
 00:03:44,760 --> 00:03:47,000
@@ -499,7 +499,7 @@ Now we are putting away these extra oil from meat
 98
 00:03:57,360 --> 00:04:01,320
 # 一会咱炒菜使 这炒菜香啊
-We will use it to stir fry dishes, it will very tasty
+We will use it to stir fry dishes, it will very be tasty
 
 99
 00:04:01,320 --> 00:04:03,520
@@ -514,7 +514,7 @@ You see we have put the first round of scallions in previously
 101
 00:04:05,200 --> 00:04:07,600
 # 你看 这师父的窍门儿
-Look at my technique
+Look, this is my secret tip
 
 102
 00:04:07,600 --> 00:04:11,080
@@ -562,7 +562,7 @@ At first it is refreshing fragrance
 111
 00:04:34,000 --> 00:04:36,240
 # 现在就是这种醇厚的酱香
-Now it is thick sauce aromatic
+Now it is thick sauce aroma
 
 112
 00:04:36,240 --> 00:04:39,200
@@ -623,7 +623,7 @@ Today we don’t have much time, so we are not having it with noodles
 124
 00:05:06,760 --> 00:05:07,960
 # 但是咱有
-But we have(cucumber)
+But we have (cucumber)
 
 125
 00:05:07,960 --> 00:05:10,080
@@ -631,7 +631,7 @@ But we have(cucumber)
 126
 00:05:10,080 --> 00:05:12,400
 # 哈喇子都快流出来了
-Saliva is coming out
+Almost drooling
 
 127
 00:05:12,400 --> 00:05:14,680
@@ -641,7 +641,7 @@ I will give you each a big scoop
 128
 00:05:14,680 --> 00:05:16,640
 # 师姐 好嘞谢谢
-Sister Great Thanks
+Shijie Great Thanks
 
 129
 00:05:16,640 --> 00:05:18,040
@@ -659,12 +659,12 @@ You need to taste the meat
 132
 00:05:25,400 --> 00:05:27,880
 # 肉炸到什么份上 这是关键
-To what extent we need to fry the meat, that’s the key
+We need to fry the meat to the right extent, which is the key
 
 133
 00:05:27,880 --> 00:05:30,680
 # 包括肉的嫩度的感觉 那个香气
-And how tender the meat is, how to bring out the aromatic
+And how tender the meat is, how to bring out the aroma
 
 134
 00:05:30,680 --> 00:05:33,840
@@ -679,4 +679,4 @@ Master I am going to take it to go
 136
 00:05:35,360 --> 00:05:37,840
 # 这个可以了 惦记半天了
-Okay, you have been thinking about it don’t you
+Okay, you have been thinking about it, don’t you?
