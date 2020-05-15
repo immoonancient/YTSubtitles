@@ -386,7 +386,7 @@
     {
       "cn": "冬瓜",
       "en": "winter melon",
-      "category": "vegetable"
+      "category": "vegetable",
       "reference": "https://en.wikipedia.org/wiki/Wax_gourd"
     },
     {
@@ -773,7 +773,7 @@
     {
       "cn": "黑醋",
       "en": "balsamic vinegar",
-      "category": "condiment"
+      "category": "condiment",
       "notes": "指意大利黑醋，不要用于中式陈醋" 
     },
      {
@@ -784,7 +784,7 @@
      {
       "cn": "镇江香醋",
       "en": "Zhenjiang vinegar",
-      "category": "condiment"
+      "category": "condiment",
       "reference": "https://en.wikipedia.org/wiki/Zhenjiang_Vinegar"
     },
     {
@@ -1264,8 +1264,8 @@
     {
       "cn": "斤",
       "en": "jin",
-      "category": "misc"
-      "notes": "不翻作\"catty\"，翻译时采用音译，再在后面利用括号加上克/千克的单位，如：20斤为\"20 jin (10kg)\""
+      "category": "misc",
+      "notes": "不翻作\"catty\"，翻译时采用音译，再在后面利用括号加上克/千克的单位，如：20斤为\"20 jin (10kg)\"",
       "reference": "https://en.wikipedia.org/wiki/Catty"
     },
     {
@@ -1472,7 +1472,7 @@
       "cn": "炸酱面",
       "en": "Zhajiangmian (Fried sauce noodles)",
       "category": "dish",
-      "notes": "\"Fried sauce noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Zhajiangmian"
+      "notes": "\"Fried sauce noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Zhajiangmian",
       "reference": "https://en.wikipedia.org/wiki/Zhajiangmian#Beijing"
     }, 
     {
