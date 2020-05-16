@@ -19,6 +19,8 @@
 
 # PS. You can use steamer instead of steam pot. If it is too hard to you to remove the bones, you don’t have to. Make adjustments as needed always.
 
+# import intro
+
 1
 00:00:00,000 --> 00:00:03,200
 # 72年 国宴上 银耳汽锅鸡
