@@ -16,6 +16,16 @@
 
 [我想参与更多其他工作](docs/more-work.md)
 
+## 合作频道
+
+本字幕组目前和以下频道有长期合作：
+- [美食作家王刚](https://www.youtube.com/channel/UCg0m_Ah8P_MQbnn77-vYnYw)
+- [雪鱼探店](https://www.youtube.com/channel/UCwUFx_z61wqMV8zTUVDNV1w)
+- [华农兄弟](https://www.youtube.com/channel/UCjEGRKDfUOel8Hp9Iumw5NQ)
+- [老饭骨](https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg)
+
+如果想翻译别的频道，可以在[这个贴子](https://github.com/immoonancient/YTSubtitles/issues/1063)提名以及投票。
+
 ## 常见问题
 
 - Q: 为什么选择 GitHub 作为工作平台？为什么不用 YouTube 的[原生字幕制作工具](https://support.google.com/youtube/answer/6054623)？
