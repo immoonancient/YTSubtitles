@@ -3,7 +3,7 @@
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【國宴大師•銀耳汽鍋雞】國宴精品，湯鮮肉軟，頂級廚師手把手教你家庭版做法，原汁原味，健康又養生！ |老飯骨
 
-# Steam Pot Chicken with White Wood Mushroom by Top Chinese State Banquet Chef. Homemade Recipe by Top Chef. Tasty and healthy.
+# State Banquet Master Chef's Homemade Steam Pot Chicken with White Wood Mushroom. Tasty and Healthy
 
 # 简介
 # 小友們好，大爺今天要教大家的是一道72年國宴上的菜品——銀耳汽鍋雞，這雞燉出來湯極鮮，清香不油膩，雞肉軟嫩，銀耳軟爛，營養健康！
@@ -11,25 +11,25 @@
 # 儘管這次是家庭版，但態度可是國宴級別，大爺在老飯骨Facebook期待小友們這一期的作業哦！
 # ps.家裡沒有汽鍋的可以用燉盅，不會去骨的也可以不用去骨哦，自己在家做來吃因地制宜就好。
 
-# Hello everyone, today Da Ye is going to teach you how to make Steam Pot Chicken which used to serve as a dish in 1972 State Banquet. The chicken soup is so tasty and fresh. Tender chicken with pulpy white wood mushroom. Nutritious and healthy.
+# Hello everyone, today Da Ye is going to teach you how to make "Qi Guo Ji" ("Steam Pot Chicken") which used to serve as a dish in 1972 State Banquet. The chicken soup is so savory, refreshing but not oily. With tender chicken and pulpy white wood mushroom, it's nutritious and healthy.
 
-# To make sure everyone able to get it, Da Ye was so serious, with no hidden secrets. In this video, you will also learn how to debone chicken.
+# To make sure everyone is able to follow it, Da Ye guides you through all the details with no hidden secrets. In this video, you will also learn how to debone a chicken.
 
-# Although this is a homemade version, Da Ye was still serious about it. Da Ye is looking forward to seeing your own attempt on “Laofangu” Facebook.
+# Although this is a homemade version, Da Ye is still serious about it. Da Ye is looking forward to seeing your own attempt on “Laofangu” Facebook page.
 
-# PS. You can use steamer instead of steam pot. If it is too hard to you to remove the bones, you don’t have to. Make adjustments as needed always.
+# PS. You can use a stew pot instead of steam pot. If it is too hard for you to debone, you don’t have to. Make adjustments as needed always.
 
 # import intro
 
 1
 00:00:00,000 --> 00:00:03,200
 # 72年 国宴上 银耳汽锅鸡
-Steam Pot Chicken with White Wood Mushroom at 1972 Chinese State Banquet
+"Qi Guo Ji" ("Steam Pot Chicken") with White Wood Mushroom from the 1972 Chinese State Banquet
 
 2
 00:00:03,200 --> 00:00:06,080
 # 大爷可以吃了 快点你一吃
-Da ye, go have a try.
+Da Ye, go have a try.
 
 3
 00:00:06,080 --> 00:00:08,880
@@ -39,7 +39,7 @@ I am sure everyone wants to give a shot at home
 4
 00:00:08,880 --> 00:00:13,960
 # 炖银耳汽锅鸡的这种鸡最好用雏母鸡
-It’s the best to cook with pullet
+It’s best to use a pullet
 
 5
 00:00:13,960 --> 00:00:16,280
@@ -49,7 +49,7 @@ Hen that has never laid any egg before
 6
 00:00:16,280 --> 00:00:19,400
 # 这是一个宫廷黄鸡
-This is an “Royal Chick”
+This is a “Royal Yellow Chicken”
 
 7
 00:00:19,400 --> 00:00:21,680
@@ -59,7 +59,7 @@ How to remove the bones?
 8
 00:00:21,680 --> 00:00:25,800
 # 从脊背开一刀 然后两个腿分开
-Open up the back with knife and pull the chicken legs apart
+Open up the back with knife and cut the chicken legs apart
 
 9
 00:00:25,800 --> 00:00:30,520
@@ -67,7 +67,7 @@ Open up the back with knife and pull the chicken legs apart
 10
 00:00:30,520 --> 00:00:33,600
 # 拿刀尖搁在这儿往下一拽
-Point the blade here and pull the legs
+Point the tip here and pull the legs
 
 11
 00:00:33,600 --> 00:00:36,920
@@ -77,17 +77,17 @@ Here we go. The legs get pulled off
 12
 00:00:36,920 --> 00:00:38,600
 # 翅膀上有一个关节
-Here you can see a joint on wing
+Here you can see a joint on the wing
 
 13
 00:00:38,600 --> 00:00:40,640
 # 也就是我们说的翅根儿
-Which is what we called “Chicken Drumette”
+Which is what we call “Chicken Drumette”
 
 14
 00:00:40,640 --> 00:00:46,760
 # 刀进去 刀尖正好窝到这个窝里头
-Insert the tip of knife inside and make sure the tip is right inside the notch
+Insert the tip and make sure the tip is right inside the notch
 
 15
 00:00:46,760 --> 00:00:51,720
@@ -105,7 +105,7 @@ There you go
 18
 00:00:53,800 --> 00:00:58,120
 # 鸡牙子 有的叫鸡里脊
-“Ji Ya Zi” which is also called “Chicken Fillet”
+“Ji Ya Zi” which is also called “Chicken Tender”
 
 19
 00:00:58,120 --> 00:01:02,440
@@ -115,7 +115,7 @@ Pull it down. Take a look. We’ll use the tip of knife
 20
 00:01:02,440 --> 00:01:04,680
 # 大妈给照细着点
-Da ma, make sure you have a closer look on it
+Da Ma, zoom in please
 
 21
 00:01:04,680 --> 00:01:07,080
@@ -133,7 +133,7 @@ cut through and peel it off.
 24
 00:01:16,040 --> 00:01:18,600
 # 这就是那里脊
-This is the chicken fillet
+This is the chicken tender
 
 25
 00:01:18,600 --> 00:01:21,880
@@ -168,7 +168,7 @@ No, we can make broth
 31
 00:01:36,160 --> 00:01:39,560
 # 你看鸡牙子里头 筋
-You see the fillet has a lot of tendons
+You see the tender has a tendon
 
 32
 00:01:39,560 --> 00:01:44,280
@@ -178,12 +178,12 @@ Hold it with your fingers.  Press and push it
 33
 00:01:44,280 --> 00:01:47,600
 # 下面开始剔 怎么剔 就三下两下的
-Now we are going to remove the meat. Pretty easy.
+Now we are going to remove the bones. Pretty easy.
 
 34
 00:01:47,600 --> 00:01:50,160
 # 翅根 给一刀
-At the bottom end of wing drumette. Cut through
+At the bottom end of the wing drumette. Cut through
 
 35
 00:01:50,160 --> 00:01:53,280
@@ -217,7 +217,7 @@ Look at the wing flat. Knock it slightly
 42
 00:02:09,760 --> 00:02:15,280
 # 拿刀一别 拿刀尖 这刀尖很有用
-Push it outward with your knife and then use the knife tip. The tip of knife is pretty useful.
+Push it outward with your knife and then use the knife tip. The knife tip is pretty useful.
 
 43
 00:02:15,280 --> 00:02:19,320
@@ -261,7 +261,7 @@ the joint was kind of broken
 52
 00:02:39,880 --> 00:02:43,360
 # 鸡腿肉弄好了 按着这骨节儿
-Flat the chicken leg. Hold the ankle.
+Place the chicken leg well. Hold the joint.
 
 53
 00:02:43,360 --> 00:02:44,520
@@ -274,7 +274,7 @@ Use the knife
 55
 00:02:49,400 --> 00:02:50,960
 # 一滑
-rub
+Slide it through
 
 56
 00:02:50,960 --> 00:02:53,200
@@ -292,7 +292,7 @@ Push. That’s too hard.
 59
 00:03:02,080 --> 00:03:03,960
 # 剔这只鸡用多长时间
-How long will it take to cut the whole chicken?
+How long does it take to debone the whole chicken?
 
 60
 00:03:03,960 --> 00:03:05,200
@@ -302,12 +302,12 @@ When I was in a competition,
 61
 00:03:05,200 --> 00:03:07,160
 # 对你们那时候比赛过
-I remember that you’ve participated one before
+I remember that you’ve participated in one before
 
 62
 00:03:07,160 --> 00:03:09,880
 # 五十秒 就能剔完了
-Within only 55 seconds
+Within only 50 seconds
 
 63
 00:03:09,880 --> 00:03:12,560
@@ -317,7 +317,7 @@ All bones are off
 64
 00:03:13,760 --> 00:03:16,720
 # 咱们今天因为给网友展示
-Because we need to show to our youtube users
+Because we need to show to our audience
 
 65
 00:03:16,720 --> 00:03:21,520
@@ -350,7 +350,7 @@ Pull it out
 71
 00:03:41,600 --> 00:03:44,160
 # 这是它的关节骨头 它不是肉
-This is bone not meat
+These are bones of the joint. Not meat
 
 72
 00:03:44,160 --> 00:03:47,200
@@ -363,12 +363,12 @@ This is the fibula
 74
 00:03:49,040 --> 00:03:50,560
 # 看见了很细
-So thin
+I see it. So thin
 
 75
 00:03:50,560 --> 00:03:54,840
 # 整个的鸡就剔完了
-So we are all done with the whole chicken
+So we are done with the whole chicken
 
 76
 00:03:54,840 --> 00:03:57,400
@@ -411,7 +411,7 @@ Break the fasciae
 84
 00:04:25,480 --> 00:04:26,800
 # 鸡胸肉也是
-So does the chicken breast
+Same to the chicken breast
 
 85
 00:04:26,800 --> 00:04:29,520
@@ -421,7 +421,7 @@ Feel if there are small pieces of bones
 86
 00:04:29,520 --> 00:04:32,080
 # 你看这 有
-There is
+Look, there is
 
 87
 00:04:32,080 --> 00:04:33,720
@@ -442,7 +442,7 @@ Scoring it
 91
 00:04:42,720 --> 00:04:46,080
 # 跟小球似的
-It will form like a ball once it’s heated
+It will become like a ball once it’s heated
 
 92
 00:04:47,320 --> 00:04:50,120
@@ -490,7 +490,7 @@ We’re using corn starch
 101
 00:05:10,760 --> 00:05:13,960
 # 有白薯粉 有土豆粉 有绿豆淀粉
-There are sweet potato starch, potato starch and green bean starch.
+There are sweet potato starch, potato starch and mung bean starch.
 
 102
 00:05:13,960 --> 00:05:16,720
@@ -520,12 +520,12 @@ So sometimes when we make stir fries
 107
 00:05:29,400 --> 00:05:32,640
 # 说怎么老粘锅 不是锅的问题
-People are asking why food always stick to the pan. It’s not because of the pan
+People are asking why food always sticks to the pan. It’s not because of the pan
 
 108
 00:05:32,640 --> 00:05:37,920
 # 是料不够 不是 料多了 蛋清太多
-It’s not because of the lack of ingredients.  It’s because we have too many ingredients. Too much egg white.
+It’s not because of the lack of ingredients.  It’s because we have too much ingredient. Too much egg white.
 
 109
 00:05:37,920 --> 00:05:39,600
@@ -533,12 +533,12 @@ It’s not because of the lack of ingredients.  It’s because we have too many 
 110
 00:05:39,600 --> 00:05:41,440
 # 我们给它上浆
-Tenderize the meat with starch and egg white
+Coat the meat with starch and egg white
 
 111
 00:05:41,440 --> 00:05:44,720
 # 前些日子介绍过水滑 油滑
-We have introduced “cook in water” and “cook in oil” in our previous video
+We have introduced “cooking in water” and “cooking in oil” in our previous videos
 
 112
 00:05:44,720 --> 00:05:48,760
@@ -548,17 +548,17 @@ We need to “cook in water” this time because we are making soup
 113
 00:05:48,760 --> 00:05:52,040
 # 炖汤 不要那么多油
-You do not want too much oil when you make soup
+We do not want too much oil when we make soup
 
 114
 00:05:52,040 --> 00:05:54,680
 # 这个出来以后特别清淡
-This way your soup will be fresh and light
+This way our soup will be fresh and clear
 
 115
 00:05:54,680 --> 00:05:57,320
 # 浆的是以什么为标准 一个是上劲了
-How to know that the meat is well-tenderized. Tip 1 is that you can feel the drag when you sir it
+How to know that the meat is well-coated? Criterion 1 is that we can feel the drag when we stir it
 
 116
 00:05:57,320 --> 00:06:02,720
@@ -671,7 +671,7 @@ I wanna show our steam pot
 138
 00:07:01,840 --> 00:07:04,360
 # 那天我实话说咱们搬家的时候
-Honestly, when we moved
+Honestly, when we were moving last time
 
 139
 00:07:04,360 --> 00:07:05,960
@@ -706,7 +706,7 @@ I don’t know how many years before I got it
 145
 00:07:20,880 --> 00:07:21,960
 # 听听这声
-Hear the echo
+Hear the sound
 
 146
 00:07:21,960 --> 00:07:23,560
@@ -742,12 +742,12 @@ Looks delicate. One per person.
 153
 00:07:40,360 --> 00:07:43,040
 # 开锅烫银耳
-Cook white wood mushroom with boiled water
+Blanch the white wood mushrooms
 
 154
 00:07:43,040 --> 00:07:45,200
 # 其实在家里头如果没有汽锅
-If you don’t have steam pot at home
+If you don’t have steam pots at home
 
 155
 00:07:45,200 --> 00:07:48,720
@@ -757,7 +757,7 @@ You can find a soup pot as substitute
 156
 00:07:48,720 --> 00:07:50,720
 # 圆锅蒸带盖的
-Round pot with lid
+Round pot with a lid
 
 157
 00:07:50,720 --> 00:07:53,440
@@ -767,12 +767,12 @@ Put ingredients all inside the pot and steam
 158
 00:07:53,440 --> 00:07:57,680
 # 不用等它开 烫一下就行 有个三五分钟
-Don’t need to wait water to boil again. 3 to 5 five minutes are enough
+Don’t need to wait for water to boil again. 3 to 5 five minutes are enough
 
 159
 00:07:57,680 --> 00:07:59,280
 # 也不用去冲凉
-Don’t need use cold water to cool down
+Don’t need to use cold water to cool down
 
 160
 00:07:59,280 --> 00:08:01,240
@@ -782,12 +782,12 @@ Now we will still use the water
 161
 00:08:01,240 --> 00:08:03,840
 # 这个肉下锅的时候别动它
-Don’t stir meat once you put meat in the pot
+Don’t stir the meat once you put it in the pot
 
 162
 00:08:03,840 --> 00:08:08,320
 # 用水慢慢把它拖熟 散开放
-Use water to cook it. Put it in separately
+Let the water cook it slowly. Put it in separately
 
 163
 00:08:08,320 --> 00:08:11,040
@@ -815,7 +815,7 @@ Because you scored the meat
 168
 00:08:24,040 --> 00:08:28,960
 # 排刀以后它经过一紧 就变成球了
-Once it’s heated, the meat will contract and roll into ball.
+Once it’s heated, the meat will contract and curl into balls.
 
 169
 00:08:28,960 --> 00:08:30,480
@@ -840,7 +840,7 @@ Do we need to wait until water boil? Yes, we do
 173
 00:08:40,800 --> 00:08:44,040
 # 要全熟 淀粉全部都凝固
-Has to be fully cooked and starch solidifies.
+After it's fully cooked and the starch solidifies.
 
 174
 00:08:44,040 --> 00:08:48,720
@@ -893,7 +893,7 @@ It looks better. Look at it. Perfect.
 184
 00:09:15,320 --> 00:09:18,280
 # 现在我们就开始给它装汽锅了
-Now we are gonna put them in these steam pots.
+Now we are gonna put it in these steam pots.
 
 185
 00:09:18,280 --> 00:09:20,920
@@ -976,7 +976,7 @@ We will use this stainless-steel bowl instead of the large steam pot
 201
 00:09:53,280 --> 00:09:55,000
 # 这个大小合适
-This fit
+This size fits
 
 202
 00:09:55,000 --> 00:09:57,120
@@ -991,7 +991,7 @@ And wood mushroom
 204
 00:09:59,440 --> 00:10:01,520
 # 枸杞
-Goji berry
+Goji berries
 
 205
 00:10:01,520 --> 00:10:04,320
@@ -1004,12 +1004,12 @@ Two goji berries for each small pot
 207
 00:10:05,760 --> 00:10:09,840
 # 大妈回头把蒸锅给点上 开火
-Dama go turn on the stove top and place the steamer on the burner.
+Da Ma, go turn on the stove top and place the steamer on the burner.
 
 208
 00:10:09,840 --> 00:10:12,680
 # 葱放多少得记着 姜放多少得记着
-You have to remember the exact numbers of slices of scallions and gingers you put
+You have to remember the exact numbers of slices of scallions and ginger you put
 
 209
 00:10:12,680 --> 00:10:14,960
@@ -1022,7 +1022,7 @@ Because you have to take them out later
 211
 00:10:15,600 --> 00:10:18,760
 # 葱段姜片搁浮头
-Put scallions and gingers on top
+Put scallions and ginger on top
 
 212
 00:10:18,760 --> 00:10:22,000
@@ -1032,7 +1032,7 @@ It’s too late to make broth so we will be using boiled water instead.
 213
 00:10:22,000 --> 00:10:26,000
 # 这要是有鸡汤更好了 清鸡汤
-It’s better to cook with chicken broth, fresh clean chicken broth.
+It’s better to cook with chicken broth, fresh clear chicken broth.
 
 214
 00:10:26,000 --> 00:10:29,240
@@ -1109,7 +1109,7 @@ Look at it with good “huangjiu” (rice wine)
 230
 00:11:09,320 --> 00:11:12,480
 # 我们给它搁到锅底儿
-Put it at the bottom of the stemaer
+Put it at the bottom of the steamer
 
 231
 00:11:12,480 --> 00:11:13,160
@@ -1132,12 +1132,12 @@ The steamer will be ready soon so let’s start right now
 235
 00:11:23,240 --> 00:11:25,920
 # 到点了 热气腾腾的
-Time’s up. Steam burst
+Time’s up. It's steaming hot
 
 236
 00:11:25,920 --> 00:11:29,200
 # 拿出来 勺儿 碟儿
-Take it out! Spoon and Plate.
+Take it out! Spoon and plate.
 
 237
 00:11:29,200 --> 00:11:30,480
@@ -1160,7 +1160,7 @@ All on top
 241
 00:11:39,320 --> 00:11:42,440
 # 你看那银耳也软活了吧
-The wood mushroom is soft either
+The wood mushroom is soft, too
 
 242
 00:11:42,440 --> 00:11:43,080
@@ -1204,12 +1204,12 @@ It’s tasty. Why? Because the chicken is fresh. The soup is cooked just out of 
 251
 00:12:13,480 --> 00:12:19,200
 # 再加上我们用清炖的方法 不油腻
-Plus, we simmer without oil. It’s not oily
+Plus, we simmered it without oil. It’s not oily
 
 252
 00:12:19,200 --> 00:12:22,240
 # 银耳软烂 鸡块也软烂 清香
-Both wood mushroom and chicken are soft and pulpy
+Both wood mushroom and chicken are soft and refreshing
 
 253
 00:12:22,240 --> 00:12:23,880
@@ -1219,12 +1219,12 @@ And goji berries
 254
 00:12:23,880 --> 00:12:27,080
 # 一会大妈也品尝一个 一会我也喝
-Da ma, have a taste. I’ll try either.
+Da Ma, have a taste. I’ll try too.
 
 255
 00:12:27,080 --> 00:12:30,160
 # 家有大厨 就是幸福
-So glad to have my master chef at home!
+Having a chef at home is awesome!
 
 256
 00:12:30,160 --> 00:00:02,000
