@@ -3,21 +3,22 @@
 1
 00:00:01,920 --> 00:00:05,000
 # 江苏·邳州
-Pizhou. Jiangsu
+Pizhou, Jiangsu
 
 2
 00:00:06,560 --> 00:00:08,920
 # 咱们今天来吃的是牛肉拉面
-Today we gonna have beef hand-pulled noodles
+Today we are gonna have beef hand-pulled noodles
 
 3
 00:00:08,920 --> 00:00:13,520
 # 没想到正好赶上饭点 这屋子里的人是乌央乌央的
+We didn't expect arriving in the peak hours. Such a crowd in the room
 
 4
 00:00:35,800 --> 00:00:39,840
 # 来两个小碗 再来一个凉拌牛肉
-I want two bowls of hand-pulled noodle and a beef in sauce
+I want two bowls of hand-pulled noodles and a beef salad
 
 5
 00:00:39,840 --> 00:00:41,120
@@ -47,27 +48,27 @@ Yeah, a little bit
 10
 00:01:44,080 --> 00:01:46,800
 # 刚才没有问 牛肉多少钱一斤了
-I forget to ask, how much beef is each half a kilo
+I forget to ask, what's the beef price now?
 
 11
 00:01:46,800 --> 00:01:50,840
 # 没想到 10块钱的小碗竟然有这么多的牛肉
-I didn’t expect    there is so many beef in the 10 yuan bowls
+I didn’t expect so much beef in a 10 yuan small bowl
 
 12
 00:01:50,840 --> 00:01:53,040
 # 量特别足
-With large amounts of beef
+With a large amount of beef
 
 13
 00:01:53,040 --> 00:01:57,280
 # 除了牛肉拉面之外呢 我们还要了一份凉拌牛肉
-We ordered a beef in sauce besides hand-pulled beef noodles
+We ordered a beef salad besides hand-pulled beef noodles
 
 14
 00:01:58,080 --> 00:02:03,840
 # 一看上去就是辣椒 香菜 还有大片的牛肉
-With spicy pepper, Chinese parsley, and big slices of beef
+With spicy pepper, cilantro, and big slices of beef
 
 15
 00:02:04,680 --> 00:02:08,920
@@ -82,7 +83,7 @@ They sliced beef into large slices
 17
 00:02:17,600 --> 00:02:21,840
 # 就是常温的牛肉 放在拉面里
-Just homeothermy beef in hand-pulled noodle
+Just room-temperature beef in hand-pulled noodles
 
 18
 00:02:22,440 --> 00:02:25,720
@@ -92,27 +93,27 @@ Good to eat with some spicy pepper,
 19
 00:02:27,560 --> 00:02:30,320
 # 我感觉面条里面可能也是加了盐
-I think they add salts in the noodle
+I think they added salt in the noodles, too
 
 20
 00:02:30,320 --> 00:02:34,080
 # 因为整体的拉面吃起来都是咸的
-Because it taste salty
+Because it tastes salty
 
 21
 00:02:34,120 --> 00:02:39,360
 # 面馆里 满屋子都是吸溜面条的声音
-Whole restaurant with sounds of sucking noodle
+The whole restaurant is filled with the sound of slurping noodles
 
 22
 00:02:43,040 --> 00:02:46,480
 # 拉面的汤 是微辣 微咸和微香
-The soup of noodle is with lighter spicy, lighter salty and lighter fragments
+The soup of noodle is mildly spicy, mildly salty and mildly fragrant
 
 23
 00:02:46,480 --> 00:02:50,840
 # 里面泡的牛肉 比凉拌的牛肉是更加软嫩的
-The beef in the soup is softer and tender than the beef in sauce
+The beef in the soup is softer and more tender than the beef salad
 
 24
 00:02:50,840 --> 00:02:52,600
@@ -122,32 +123,32 @@ Because there’s soup in the beef
 25
 00:02:52,600 --> 00:02:55,720
 # 这么吃起来就是 毫不费力
-Very easy to eat
+Effortless to eat
 
 26
 00:03:14,480 --> 00:03:17,120
 # 大叔 您怎么想到做牛肉拉面呢
-Uncle, how do you start the hand-pulled beef noodles?
+Uncle, how did you start making hand-pulled beef noodles?
 
 27
 00:03:17,120 --> 00:03:21,200
 # 牛肉拉面 甘肃吃牛肉拉面
-Hand-pulled beef noodle is popular in Gansu
+Hand-pulled beef noodles are popular in Gansu
 
 28
 00:03:21,200 --> 00:03:23,480
 # 我就跟甘肃学的
-I learned it in Gansu
+I learned it from Gansu
 
 29
 00:03:23,480 --> 00:03:27,120
 # 就是引进了甘肃牛肉拉面的做法
-Import Gansu hand-pulled beef noodle style
+I mean, I imported some techniques from the Gansu hand-pulled beef noodles
 
 30
 00:03:27,120 --> 00:03:30,400
 # 做的味道适合咱们本地人的口味
-And changed it to fit local flavor
+And changed it to fit the local taste
 
 31
 00:03:30,400 --> 00:03:33,240
@@ -162,22 +163,22 @@ Because it is different
 33
 00:03:35,040 --> 00:03:37,000
 # 口味 我们做的是地方口味
-We make local flavor
+The taste. We follow the local taste
 
 34
 00:03:37,000 --> 00:03:39,920
 # 这边除了卖拉面还有什么
-What else you have except hand-pulled noodle?
+What else do you have besides hand-pulled noodles?
 
 35
 00:03:39,920 --> 00:03:41,500
 # 就一样拉面 别的什么都没有
-Just hand-pulled noodle, nothing else
+Just hand-pulled noodles, nothing else
 
 36
 00:03:41,560 --> 00:03:43,560
 # 只有一种牛肉 一种面就是拉面
-Only a type of beef and a type of noodle which is hand-pulled noodle
+Only a type of beef and a type of noodles which is hand-pulled noodles
 
 37
 00:03:46,840 --> 00:03:49,520
@@ -192,16 +193,17 @@ Yeah, it is
 39
 00:03:50,960 --> 00:03:54,840
 # 天凉比现在还热闹 天冷比这更热闹
+Even more crowded when the weather is cooler.
 
 40
 00:03:54,840 --> 00:03:56,480
 # 一年到头都干吗
-Are you work whole year?
+Do you work in the whole year?
 
 41
 00:03:56,480 --> 00:03:59,000
 # 夏天三个月不干
-Not three month of summer
+Except the three months of summer
 
 42
 00:03:59,000 --> 00:04:00,160
@@ -211,31 +213,32 @@ Why don’t?
 43
 00:04:00,160 --> 00:04:03,680
 # 夏天我这里面热 夏天太热了 受不了 没法开空调
-Because it's too hot in summer, can not stand it without air conditioning
+Because it's too hot in summer, cannot stand it without air conditioning
 
 44
 00:04:03,720 --> 00:04:05,680
 # 没法安空调
-Can not have air conditioning
+Can't install air conditioning
 
 45
 00:04:05,680 --> 00:04:07,960
 # 这个时候吃完饭 都是脑门子上直冒汗
-Sweat all over head after you finish eat in summer
+You'll sweat all over the head after you finish eating in summer
 
 46
 00:04:07,960 --> 00:04:09,600
 # 过几天天气更热
-It’s get hotter after couple days
+It’s getting hotter after a couple days
 
 47
 00:04:09,600 --> 00:04:12,760
 # 吃完拉面可能就是一种酣畅淋漓的状态了
+At that time, we'll probably be drenched in sweat after finishing the noodles
 
 48
 00:04:12,760 --> 00:04:14,680
 # 后面是刚熬完辣椒油
-Just finish cook chili oil at back
+The just finished cooking chili oil at the back
 
 49
 00:04:14,680 --> 00:04:19,200
@@ -245,15 +248,17 @@ You still can smell chili even if you stand so far
 50
 00:04:19,200 --> 00:04:22,480
 # 别看只是一口小锅在这个地方熬辣椒油
+Although it's just a small pot cooking chili oil here
 
 51
 00:04:22,480 --> 00:04:25,760
 # 还能吸引一大帮子人在这个地方看热闹
+it attracts a lot of people watching
 
 52
 00:04:29,280 --> 00:04:32,520
 # 这真不错 酒厂拉面谁不知道
-This is good, who don’t know winery hand-pulled noodle
+This is good, who doesn't know "Jiuchang Lamian" (restaurant name)
 
 53
 00:04:32,520 --> 00:04:34,320
@@ -268,7 +273,7 @@ Yeah, always
 55
 00:04:40,720 --> 00:04:44,160
 # 在这儿吃多少年了
-How many years you eat here?
+How many years have you been eating here?
 
 56
 00:04:44,160 --> 00:04:47,280
@@ -283,29 +288,30 @@ I’m 30 years old
 58
 00:05:02,600 --> 00:05:04,400
 # 刚才和师傅聊天的时候 他说
-The master said that
+The owner said that
 
 59
 00:05:04,400 --> 00:05:08,640
 # 这边牛肉拉面的做法是从甘肃引进过来 学习过来的
-The way to make hand-pulled noodle is import from Gansu
+The way to make hand-pulled noodles is imported from Gansu
 
 60
 00:05:08,640 --> 00:05:10,920
 # 但是它们的口味还是有很大的不同的
-With huge difference of flavor
+With a huge difference of flavor, though
 
 61
 00:05:10,920 --> 00:05:13,720
 # 听了这个 我倒是很想去甘肃这边看一看
-I want to go to Gansu and take a look
+With that in mind, I want to go to Gansu and take a look
 
 62
 00:05:13,720 --> 00:05:16,240
 # 那边的牛肉拉面是什么样子的呢
-What does it look like?
+What do the hand-pulled beef noodles look like there?
 
 63
 00:05:32,880 --> 00:05:35,600
 # 关 注
-雪 鱼 探 店
+# 雪 鱼 探 店
+Please subscribe
