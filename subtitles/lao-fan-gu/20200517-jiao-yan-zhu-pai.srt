@@ -2,7 +2,7 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【國宴大師•椒鹽豬排】外酥裏嫩的椒鹽大豬排「後附宮保雞丁秘訣！」，肉食主義者的最愛！一口下去味兒太棒了！|老飯骨
-# State Banquet Master Chef - Salt & Pepper Pork Fillet. Crispy on the outside, tender on the inside. Meat lovers’ dream!
+# State Banquet Master Chef - Salt & Pepper Pork Fillet. Crispy and tender, meat lovers’ dream!
 
 # 简介
 # 小友們好，這次帶給大家一道椒鹽豬排！此椒鹽非彼椒鹽。
@@ -12,7 +12,7 @@
 # 妥妥的肉食愛好者的福音，大口吃肉就是這麽爽！
 # This is definitely the meat-lovers’ dream! It’s so satisfying to eat chunky meats like this!
 # 還有一點就是關於材料問題，其實各位小友們不必太拘泥於配方。因地制宜地做一些改動是可以的。還是之前那句老話，傳承的不是方子，而是帶著敬畏心把味型完善並延續下去。
-# As for ingredients, you don’t actually have to stick to what Er Bai has presented here. Making certain changes using your local ingredients is absolutely fine. As Er Bai has said, we are not just passing on the recipes, but the attitude of finessing the flavour and presentation with awe.
+# As for ingredients, you don’t actually have to stick to what Er Bai has presented here. Making certain changes using your available ingredients is absolutely fine. As Er Bai has said, we are not just passing on the recipes, but the attitude of finessing the flavour and presentation with awe.
 # 視頻後面還有二伯講述「宮保雞丁」的小彩蛋哦，小友們可要記得看！
 # There is also a bonus clip featuring Er Bai talking about kung pao chicken. Don’t miss it!
 # 說起來，這「宮保雞丁」和二伯之間的淵源可大了，咱們一起來聽二伯講述這道菜背後的故事，還有做「宮保雞丁」時絕不能犯的致命錯誤！
@@ -102,7 +102,7 @@ Firstly, add some huaiyan salt
 17
 00:00:34,920 --> 00:00:36,640
 # 师父这淮盐是怎么做的
-How to make huaiyan salt, shifu?
+How to make huaiyan salt, master?
 
 18
 00:00:36,640 --> 00:00:39,200
@@ -190,7 +190,7 @@ It makes the meat crispier on the outside
 35
 00:01:21,320 --> 00:01:23,960
 # 这时候咱弄点粉子 玉米淀粉
-Now add some corn flour
+Now add some cornstarch
 
 36
 00:01:23,960 --> 00:01:25,720
@@ -203,7 +203,7 @@ Keep massaging
 38
 00:01:26,920 --> 00:01:29,160
 # 其实师父这个东西如果在家里做
-Shifu, if we make such dishes at home
+Master, if we make such dishes at home
 
 39
 00:01:29,160 --> 00:01:31,400
@@ -253,7 +253,7 @@ Marinate with a touch of water
 48
 00:01:47,840 --> 00:01:50,560
 # 因为这是干淀粉 它稠点
-Because of the dry corn flour, it’s a bit too thick
+Because of the dry cornstarch, it’s a bit too thick
 
 49
 00:01:50,560 --> 00:01:55,320
@@ -276,7 +276,7 @@ Add a drizzle of oil. That’s enough
 53
 00:02:01,880 --> 00:02:05,720
 # 你看这个淀粉似有似没 这肉很润
-The corn flour is on spot, and the meat is incredibly moist
+The cornstarch is on spot, and the meat is incredibly moist
 
 54
 00:02:05,720 --> 00:02:07,280
@@ -301,7 +301,7 @@ It works with different kinds of cooking methods
 58
 00:02:13,320 --> 00:02:15,000
 # 美食没有那么深的定义
-Gourmet food doesn’t have a fixed definition
+Gourmet food doesn’t have a profound definition
 
 59
 00:02:15,000 --> 00:02:16,880
@@ -311,7 +311,7 @@ Simple ingredients to make the salt and pepper sauce
 60
 00:02:16,880 --> 00:02:19,400
 # 用这个小勺咱擓点椒盐 够吧
-A teaspoon of huaiyan salt. Should be enough
+A spoon of huaiyan salt. Should be enough
 
 61
 00:02:19,400 --> 00:02:20,440
@@ -324,7 +324,7 @@ That’s a decent amount
 63
 00:02:22,280 --> 00:02:23,600
 # MJ味特别大
-Maggi soy sauce is extra umami
+Maggi seasoning is extra umami
 
 64
 00:02:23,600 --> 00:02:25,400
@@ -339,7 +339,7 @@ Finely chopped onions, green peppers, red peppers
 66
 00:02:30,200 --> 00:02:34,040
 # 淮盐 MJ 黄酒 记住了
-Huaiyan salt, Maggi soy sauce, and huangjiu rice wine. Write it down
+Huaiyan salt, Maggi seasoning, and huangjiu rice wine. Write it down
 
 67
 00:02:34,040 --> 00:02:35,520
@@ -352,7 +352,7 @@ The oil should be ready by now
 69
 00:02:36,880 --> 00:02:38,520
 # 师父这大概几成热
-How hot is the oil, shifu?
+How hot is the oil, master?
 
 70
 00:02:38,520 --> 00:02:41,440
@@ -387,12 +387,12 @@ It will dry the meat out
 76
 00:02:51,760 --> 00:02:54,080
 # 这粉子你要太薄了也不好
-The corn flour shouldn’t be too thin either
+The cornstarch shouldn’t be too thin either
 
 77
 00:02:54,080 --> 00:02:57,720
 # 太薄了它就 那水分锁不住了 它不嫩
-Thin corn flour wouldn’t be able to lock the juice in the meat. So the meat wouldn’t be as tender
+It wouldn’t be able to lock the juice if it's too thin. So the meat wouldn’t be as tender
 
 78
 00:02:57,720 --> 00:03:01,280
@@ -494,7 +494,7 @@ I’ll just use my hand
 99
 00:03:51,960 --> 00:03:53,720
 # 师父那我也了下手
-I’ll also eat with my hand shifu
+I’ll also eat with my hand, master
 
 100
 00:03:55,120 --> 00:03:56,760
@@ -505,6 +505,8 @@ Savoury and fragrant. Crispy on the outside, and tender on the inside
 00:03:56,760 --> 00:03:59,000
 # 复合味 太棒了
 The complexity of flavours is just terrific
+
+# shift forward 00:04:05,300
 
 102
 00:00:00,000 --> 00:00:01,840
@@ -537,7 +539,7 @@ After I graduated from middle school in 1973
 108
 00:00:12,440 --> 00:00:14,040
 # 没插队就进入学校
-I enrolled into the culinary school without waiting
+I enrolled into the culinary school directly
 
 109
 00:00:14,040 --> 00:00:16,240
@@ -923,7 +925,7 @@ It was particularly popular
 186
 00:03:18,680 --> 00:03:21,400
 # 那个年代我就给改良了
-I upgraded the dish during that time
+I revised the dish during that time
 
 187
 00:03:21,400 --> 00:03:23,960
@@ -1143,7 +1145,7 @@ Has now become another noticeable style
 230
 00:05:12,480 --> 00:05:16,640
 # 跟师父这么多年 总结了很多经验
-After so many years following shifu, I have summarised quite a few tips from my experience
+After so many years following my master, I have summarised quite a few tips from my experience
 
 231
 00:05:16,640 --> 00:05:19,160
@@ -1178,7 +1180,7 @@ Or flower-shaped kung pao chicken
 237
 00:05:29,640 --> 00:05:30,680
 # 宫保鸡条也好
-Or sliced kung pao chicken
+Or kung pao chicken fingers
 
 238
 00:05:30,680 --> 00:05:31,880
@@ -1193,7 +1195,7 @@ Now I can do this
 240
 00:05:32,840 --> 00:05:35,640
 # 给它挂师父做的生熟糊
-Coat the chicken with the shengshuhu batter made by shifu
+Coat the chicken with the shengshuhu batter made by master
 
 241
 00:05:35,640 --> 00:05:36,520
@@ -1223,7 +1225,7 @@ I’m not sure if it would work
 246
 00:05:44,960 --> 00:05:47,320
 # 师父您给看看徒弟这种想法
-Could shifu provide some feedback on this idea?
+Could master provide some feedback on this idea?
 
 247
 00:05:47,960 --> 00:05:50,320
@@ -1378,7 +1380,7 @@ From the past
 277
 00:06:44,560 --> 00:06:46,320
 # 你们要知道这个好处
-You must know understand it
+You must understand it
 
 278
 00:06:46,320 --> 00:06:48,080
