@@ -21,6 +21,8 @@
 # To check out how Er Bai cooked this dish, click the link below:
 # 【百年傳承名菜宮保雞丁】https://youtu.be/yqwE6zO-hUA
 
+# import intro
+
 # 字幕
 
 1
