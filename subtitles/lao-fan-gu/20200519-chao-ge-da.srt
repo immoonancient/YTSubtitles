@@ -8,6 +8,9 @@
 # 不知道炒疙瘩是不是许多小友们家里的味道，大爷大妈也希望远在海外的朋友们，自个儿在家里炒菜做饭，也能吃到家乡的味道，过上幸福的生活！
 # Hello friends! Today Daye teaches you a homestyle dish-” ChaoGeDa” ChaoGeDa looks yellow and green, tastes soft and glutinous, more fragrant when you chew more. It’s excellence in color, aroma, and taste!
 # I don’t know if it’s the taste from your home, Daye and Dama hope our overseas friends can also cook at home so that you can enjoy the taste of your hometown, have a happy life!
+
+# import intro
+
 # 字幕
 
 1
