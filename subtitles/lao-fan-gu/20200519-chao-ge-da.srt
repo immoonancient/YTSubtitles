@@ -2,12 +2,12 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【国宴大师•炒疙瘩】地道老北京面食，最香是家常，大爷做的不仅是菜，更是家的味道 |老饭骨
-# State Banquet Master Chef - “ChaoGeDa” homestyle old Peking dough food
+# State Banquet Master Chef - “Chao Ge Da” homestyle old Beijing dough food
 # 简介
 # 小友们好，今天大爷要教大家一个家常的——炒疙瘩。这炒疙瘩颜色黄绿相间，吃起来软糯有嚼劲，越嚼越香，色香味俱全!
 # 不知道炒疙瘩是不是许多小友们家里的味道，大爷大妈也希望远在海外的朋友们，自个儿在家里炒菜做饭，也能吃到家乡的味道，过上幸福的生活！
-# Hello friends! Today Daye teaches you a homestyle dish-” ChaoGeDa” ChaoGeDa looks yellow and green, tastes soft and glutinous, more fragrant when you chew more. It’s excellence in color, aroma, and taste!
-# I don’t know if it’s the taste from your home, Daye and Dama hope our overseas friends can also cook at home so that you can enjoy the taste of your hometown, have a happy life!
+# Hello friends! Today Da Ye shows us a homestyle dish - ”Chao Ge Da”, which has a yellow-and-green presence, soft and al-dente texture, and it goes more and more fragrant when we chew more. It’s excellent in color, aroma, and taste!
+# We hope this is the taste from your home. Da Ye and Da Ma also hope our overseas friends can also cook at home so that you can enjoy the taste of your hometown, and have a happy life!
 
 # import intro
 
@@ -16,17 +16,17 @@
 1
 00:00:00,000 --> 00:00:04,000
 # 今天大爷还做一个家庭版的
-Today Daye is going to cook a homestyle
+Today Da Ye is going to cook a homestyle
 
 2
 00:00:04,000 --> 00:00:05,360
 # 炒疙瘩
-ChaoGeDa(Fried dough drops)
+Chao Ge Da (Fried dough drops)
 
 3
 00:00:05,360 --> 00:00:08,800
 # 我先把面和上 和这面要硬一些
-First of all, Kneading dough, the dough need to a bit harder
+First of all, knead the dough, the dough needs to be a bit tougher
 
 4
 00:00:08,800 --> 00:00:12,080
@@ -41,7 +41,7 @@ You can use either
 6
 00:00:13,600 --> 00:00:16,720
 # 标准粉也行 高筋粉也行
-Plain flour or bread flour
+All purpose flour or high-gluten flour
 
 7
 00:00:16,720 --> 00:00:18,320
@@ -66,7 +66,7 @@ Remember to use boiling water when mixing flour (corn flour)
 11
 00:00:23,800 --> 00:00:26,320
 # 烫的硬一些 然后搁上
-Mix until a bit hard, and then
+Mix until a bit tough, and then
 
 12
 00:00:26,320 --> 00:00:29,320
@@ -91,7 +91,7 @@ I think the dough is a little bit too much
 16
 00:00:35,840 --> 00:00:39,000
 # 面和好了 我们饧一饧 盖块小屉布
-Rest the dough after kneaded, cover a piece of cloth
+Rest the dough after kneading, cover it with a piece of cloth
 
 17
 00:00:39,000 --> 00:00:41,720
@@ -101,7 +101,7 @@ Next, let’s prepare some ingredients
 18
 00:00:41,720 --> 00:00:47,320
 # 来点五花肉 根据自己的喜好可多可少
-Pork belly, meats ration depends on your preference
+Pork belly. The amount depends on your preference
 
 19
 00:00:47,320 --> 00:00:49,720
@@ -111,7 +111,7 @@ Cut the meat into fine dice
 20
 00:00:49,720 --> 00:00:53,400
 # 这肉丁切小点 借味
-Cut the dices a little smaller, so that lends flavor
+Cut the dice a little finer, so that it absorbs flavors
 
 21
 00:00:53,400 --> 00:00:55,840
@@ -141,17 +141,17 @@ The dough has rested already
 26
 00:01:15,560 --> 00:01:19,640
 # 刚才我趁大妈没注意 我给揉了揉
-I just kneaded it again when DaMa didn’t notice
+I just kneaded it again when Da Ma didn’t notice
 
 27
 00:01:19,640 --> 00:01:23,120
 # 特别滋润 又挺硬
-Very glutinous, and hard
+Very moist, and tough
 
 28
 00:01:23,120 --> 00:01:27,120
 # 这个面有两种成型方式
-This dough has two ways of forming
+There are two ways to shape this dough
 
 29
 00:01:27,120 --> 00:01:30,600
@@ -169,7 +169,7 @@ Cut into thick slice
 32
 00:01:35,760 --> 00:01:38,240
 # 我们拖点面
-Let’s cover some flour
+Let’s add some flour
 
 33
 00:01:38,240 --> 00:01:40,520
@@ -189,7 +189,7 @@ Don’t cut too big
 36
 00:01:45,600 --> 00:01:47,280
 # 太大了有时候煮的不好熟
-It’s hard to cooked if it’s too big
+It’s hard to cook if it’s too big
 
 37
 00:01:47,280 --> 00:01:49,160
@@ -202,17 +202,17 @@ Also hard to eat
 39
 00:01:51,880 --> 00:01:54,560
 # 准备一盆 要干
-One basin of dry dough dices
+One basin of dry dough dice
 
 40
 00:01:54,560 --> 00:01:59,080
 # 还有一种 就跟擀面条一样
-the other way just like make noodles
+the other way is just like making noodles
 
 41
 00:01:59,080 --> 00:02:03,480
 # 在家里做饭就是玩儿  什么玩儿呢
-It’s fun to cook at home
+Cooking at home is just playing. Playing what?
 
 42
 00:02:03,480 --> 00:02:04,920
@@ -225,17 +225,17 @@ Like playing house
 44
 00:02:07,160 --> 00:02:13,200
 # 要是大家没有时间 其实超市有卖的
-If you don’t have time to make a dough, you can buy it in the supermarket
+If you don’t have the time to make a dough, you can buy it at a supermarket
 
 45
 00:02:13,200 --> 00:02:16,840
 # 那个买回来煮的时候得多煮一会儿
-But if you buy it in the supermarket, you need to cook longer
+But if you buy it, you need to cook it longer
 
 46
 00:02:16,840 --> 00:02:18,400
 # 它那特别硬
-Because it’s tough
+Because it’s very tough
 
 47
 00:02:19,200 --> 00:02:20,040
@@ -243,7 +243,7 @@ Because it’s tough
 48
 00:02:20,040 --> 00:02:23,400
 # 这家里头有个大厨
-It’s so happy, super happy
+It’s so awesome, super awesome
 
 49
 00:02:23,400 --> 00:02:26,120
@@ -256,7 +256,7 @@ To have a chef at home
 51
 00:02:30,040 --> 00:02:31,760
 # 撒点干面 摇
-Sprinkle with some flour, shake it
+Sprinkle some flour, shake it
 
 52
 00:02:31,760 --> 00:02:33,400
@@ -274,12 +274,12 @@ Cook a little longer
 55
 00:02:38,640 --> 00:02:40,320
 # 比面条要长一点
-longer than cook noodles
+longer than cooking noodles
 
 56
 00:02:40,320 --> 00:02:43,320
 # 面疙瘩马上就出锅了
-Dough dices almost cooked
+Dough dice is about ready
 
 57
 00:02:43,320 --> 00:02:46,120
@@ -289,12 +289,12 @@ Now we begin to fry the ingredients
 58
 00:02:46,120 --> 00:02:48,360
 # 还是一个 热锅凉油
-Add oil after heat up the wok
+Once again, cold oil in a hot wok
 
 59
 00:02:48,360 --> 00:02:50,960
 # 这个时候的油稍微多一点 它香
-We need a little more oil, assist aroma
+We need a little more oil, as it's aromatic
 
 60
 00:02:50,960 --> 00:02:53,360
@@ -307,27 +307,27 @@ Stir-fry the meat dice first
 62
 00:02:55,360 --> 00:02:58,520
 # 如果家里有老人这肉丁得浆一下
-mash the meat if have old people at home
+Batter the meat if have old people at home
 
 63
 00:02:58,520 --> 00:03:01,480
 # 但是一般咱们吃就不用浆了
-But we don’t need to mash
+But in most cases we don’t need to batter
 
 64
 00:03:01,480 --> 00:03:06,600
 # 为什么 主要我们要肥瘦肉
-Because the pork belly
+Why? Because we are using half-fat half-lean pork
 
 65
 00:03:06,600 --> 00:03:09,520
 # 也是有增香的一种效果
-Can assist flavor
+which also enhances the aroma
 
 66
 00:03:09,520 --> 00:03:13,160
 # 肉煸出点油来 葱姜也（出香味了）
-Stir fry the meat with oil, and scallion and ginger also have aroma
+Stir fry some oil out of the meat, and bring out the aroma from the scallion and ginger
 
 67
 00:03:13,160 --> 00:03:18,600
@@ -360,7 +360,7 @@ Huangjiu rice wine
 73
 00:03:28,360 --> 00:03:30,680
 # 大爷搁盐还是猛
-Daye love to add strong salt
+Da Ye is always bold in adding salt
 
 74
 00:03:30,680 --> 00:03:32,120
@@ -370,7 +370,7 @@ Don’t add too much
 75
 00:03:32,120 --> 00:03:36,200
 # 一勺两勺 得三勺 两勺半
-Two and a half spoon of salt
+Two and a half spoons of salt
 
 76
 00:03:36,200 --> 00:03:40,160
@@ -380,32 +380,32 @@ And then put onion, put onion later
 77
 00:03:42,360 --> 00:03:45,280
 # 太晚了也不行 下早了也不行
-But don’t too late also don’t too early
+But not too late, also not too early
 
 78
 00:03:45,280 --> 00:03:51,040
 # 太早了它就炒老了  炒老了就不好吃了
-It will be too old if you put early, then it will not delicious
+It will be too dry if you put it too early, then it will not be delicious
 
 79
 00:03:51,040 --> 00:03:54,560
 # 搁点蚝油 胡椒粉
-Some oyster sauce,some pepper
+Some oyster sauce, some pepper powder
 
 80
 00:03:55,160 --> 00:03:58,000
 # 这个料炒得了
-And we done the ingredient
+And we are done with the ingredients
 
 81
 00:03:58,000 --> 00:04:02,560
 # 大妈稍微给看着一点 我捞面
-Dama will help me to look out, I’ll get some GeDa
+Da Ma help me watch it. I’ll get some Ge Da (dough drops)
 
 82
 00:04:02,560 --> 00:04:07,120
 # 二厨也扒拉两下 瞧瞧咱们挺专业的吧
-Second chef also join the cook, look, we are professional, right
+Assistant chef also joins the cooking. Look, we are professional, right?
 
 83
 00:04:07,120 --> 00:04:09,480
@@ -413,7 +413,7 @@ Second chef also join the cook, look, we are professional, right
 84
 00:04:09,480 --> 00:04:11,920
 # 火大点儿没事
-It’s okay to the heat a little higer
+It's okay with high heat
 
 85
 00:04:11,920 --> 00:04:14,880
@@ -431,7 +431,7 @@ Green garlic
 88
 00:04:19,480 --> 00:04:23,240
 # 搁点果仁行不行啊 可以 那才香啊
-Can we put some nut? Of course
+Can we put some nut? Of course, that's what makes it aromatic!
 
 89
 00:04:23,240 --> 00:04:26,560
@@ -441,12 +441,12 @@ You can put some crushed peanut, or sesame
 90
 00:04:26,560 --> 00:04:29,520
 # 这个在锅里边稍微炒一炒
-Stir-fry in the pot
+Stir-fry in the wok
 
 91
 00:04:29,520 --> 00:04:33,880
 # 因为它有面的淀粉
-Because the starch of the dough
+Because of the starch of the dough
 
 92
 00:04:33,880 --> 00:04:36,120
@@ -456,12 +456,12 @@ It’s glutinous when you fry
 93
 00:04:36,120 --> 00:04:41,520
 # 然后最好锅底火大一点还带点嘎巴
-And better to a bit heat up.
+And better if the heat is high, so we get a crust
 
 94
 00:04:41,520 --> 00:04:44,960
 # 关火了 熟了
-Okay we done
+Fire off. We're done.
 
 95
 00:04:44,960 --> 00:04:46,520
@@ -486,12 +486,12 @@ Chef should hold it
 99
 00:04:57,800 --> 00:05:00,600
 # 家有大厨 就是幸福
-It’s happy to have a chef at home
+Have a chef at home is awesome
 
 100
 00:05:00,600 --> 00:05:02,760
 # 谢谢大爷
-Thank you, Daye
+Thank you, Da Ye
 
 101
 00:05:02,760 --> 00:05:04,720
