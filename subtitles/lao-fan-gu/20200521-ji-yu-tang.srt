@@ -2,20 +2,20 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符）
 # 【國宴大師•鯽魚湯】鯽魚湯更奶白更鮮的秘訣！大爺手把手教做家常版鯽魚湯，營養滋補超鮮美！520還不進來吃“狗糧”嗎？！|老飯骨
-# State Banquet Master Chef – “Crucian carp soup” The secret of more milk-white and fresher soup.
+# State Banquet Master Chef – “Ji Yu Carp Soup” w/ the secret of making milky-white and savory soup
 # 简介
 # 小友們好，今天是520，大爺大媽為大家帶來一道家常版的蘿蔔絲鯽魚湯！
-# Hello friends, Today is 20th May, Da Ye and Da Ma bring us a homestyle Crucian Carp and Shredded radish Soup!
+# Hello friends. Today is 20th May, Da Ye and Da Ma bring us a homestyle Ji Yu Carp and Shredded Radish Soup!
 # 從處理魚開始，大爺手把手教大家，這樣做出的鯽魚湯才不會腥。
-# From the beginning of the processing of fish, Da Ye will show us step-by-step, so that the soup without any gamey taste.
+# Da Ye will show us everything step-by-step starting from how to clean the fish, so that the soup will not have any gamey taste.
 # 視頻里面的“大油”就是豬油的意思，用豬油煎出來這湯還白！
-# The word "Large oil" in the video means lard, Soup with lard will be whiter.
+# The soup can also be made even more milky white with lard.
 # 喜歡吃魚的小友可以把鱖魚片成片兒，在鍋裏燙一下。
-# Our friends who like to eat fish could slice the mandarin fish and put it in boiling water and take it out quickly.
+# Our friends who like to eat fish could cook some Chinese perch fish slices quickly in the soup.
 # 要想知道這鯽魚湯更奶白更鮮的秘訣，小友們可要把視頻看仔細咯，都是細節！
-# If you want to know the secret of more milk-white and more fresh soup, our friend have to watch this vedio carefully, the details!
+# If you want to know the secret of making the soup more milky white and more savior, friends please watch this video carefully, which is full of details!
 # 520的恩愛大家感受到了嗎，暖暖的奶白鯽魚湯，快學起來做給妳的那個TA！
-# Loving from happy couple in 520(20th Mai), could you feel it?  Warm milk-white Crucian Carp Soup, learn it quickly for the one!
+# Can you feel the love from the couple on the special day of 20th May? Learn the warm milky white carp soup, and cook it for your significant other!
 
 # import intro
 
@@ -37,7 +37,7 @@ It's so white
 4
 00:00:06,240 --> 00:00:07,640
 # 萝卜丝鲫鱼汤
-Crucian Carp and Shredded Radish Soup
+"Ji Yu" Carp and Shredded Radish Soup
 
 5
 00:00:07,640 --> 00:00:10,120
@@ -45,7 +45,7 @@ Crucian Carp and Shredded Radish Soup
 6
 00:00:10,120 --> 00:00:13,280
 # 你看我打鳞的时候也没打的那么干净
-You see I didn't shave the scales so clean
+You see I didn't scale it so clean
 
 7
 00:00:13,280 --> 00:00:15,440
@@ -60,7 +60,7 @@ Many black membranes on the skin of the fish
 9
 00:00:18,240 --> 00:00:21,440
 # 熬出这汤是灰的 咱们处理一下
-The fish soup cook this way will be grey, so we will handle it
+The fish soup cooked with it will be grey, so we will handle it
 
 10
 00:00:21,440 --> 00:00:24,360
@@ -83,7 +83,7 @@ then the tail
 14
 00:00:29,960 --> 00:00:33,000
 # 你看一烫它就变色 发白了吧
-You see it turns white after scald it
+You see it turns white after scalding it
 
 15
 00:00:33,000 --> 00:00:34,360
@@ -96,7 +96,7 @@ turn it over
 17
 00:00:38,600 --> 00:00:39,840
 # 再烫这头
-scald this side in same way
+scald this side in the same way
 
 18
 00:00:39,840 --> 00:00:42,040
@@ -109,7 +109,7 @@ Today we prepared live fish
 20
 00:00:44,360 --> 00:00:48,600
 # 刚才蹦蹦蹦直跳呢 马上冲凉
-It was jumping up and down a few minutes ago; Wash it immediately with cold water
+It was still jumping just now; Wash it immediately with cold water
 
 21
 00:00:48,600 --> 00:00:50,560
@@ -117,7 +117,7 @@ It was jumping up and down a few minutes ago; Wash it immediately with cold wate
 22
 00:00:52,160 --> 00:00:55,440
 # 你看看 这样一刮就下来了
-You see it is easy to Scrape off the scales
+You see it is easy to scrape it off
 
 23
 00:00:55,440 --> 00:00:57,360
@@ -127,27 +127,27 @@ It must be washed at once
 24
 00:00:57,360 --> 00:00:59,640
 # 因为这鱼你烫大了也不行
-Because too much scald won't work either
+Because too much scalding won't work either
 
 25
 00:00:59,640 --> 00:01:01,040
 # 烫大了这皮破了
-Too many scalds will break its skin
+Too much scalding will break its skin
 
 26
 00:01:01,040 --> 00:01:05,640
 # 所以瞬间要给它冲凉
-So shower it immediately
+So rinse it immediately
 
 27
 00:01:05,640 --> 00:01:09,480
 # 说这鱼的汤有土腥味是哪儿啊
-which part cause the soup with gamey tasty?
+Which part causes the a gamey taste in the soup?
 
 28
 00:01:09,480 --> 00:01:11,880
 # 发苦 土腥味大 你看这黑膜
-It is Here, bitter, gamey tasty, look at these black membrane
+Bitter and gamey. Look at these black membranes
 
 29
 00:01:11,880 --> 00:01:14,240
@@ -162,7 +162,7 @@ More importantly, the fin
 31
 00:01:16,600 --> 00:01:20,960
 # 划水 尾边的摆水  前面的鳍
-All of fins
+Those for paddling at the tail, and the front fins
 
 32
 00:01:20,960 --> 00:01:23,560
@@ -172,7 +172,7 @@ Should be cleaned up, why?
 33
 00:01:23,560 --> 00:01:26,880
 # 不弄干净它腥啊 上边（有）粘液
-Because it is fishy, there are many mucus on it
+Because it is fishy, there is a lot of mucus on it
 
 34
 00:01:26,880 --> 00:01:30,480
@@ -187,22 +187,22 @@ The color looks better, too
 36
 00:01:31,880 --> 00:01:35,480
 # 那会儿煲出那汤来 倍儿白
-The soup what we cook later will be quite white
+The soup that we cook later will be quite white
 
 37
 00:01:35,480 --> 00:01:37,360
 # 两条
-two fishes
+Two fish
 
 38
 00:01:37,360 --> 00:01:40,000
 # 你看我们这个辅料是什么
-Look at our other ingredient
+Look at our other ingredients
 
 39
 00:01:40,000 --> 00:01:43,520
 # 海米用开水泡上 先洗干净后泡
-Clean some dried shrimps then soak them in boiling water
+Clean some dried shrimps then soak them in boiled water
 
 40
 00:01:43,520 --> 00:01:45,480
@@ -212,7 +212,7 @@ Keep the water
 41
 00:01:45,480 --> 00:01:50,960
 # 葱 姜 香菜 处理的还行吧
-Onion, ginger and cilantro, not bad, right?
+Green onion, ginger and cilantro, not bad, right?
 
 42
 00:01:50,960 --> 00:01:52,800
@@ -222,12 +222,12 @@ The soup will be particularly white
 43
 00:01:52,800 --> 00:01:55,720
 # 萝卜丝鲫鱼汤
-Crucian Carp and Shredded Radish Soup
+"Ji Yu" Carp and Shredded Radish Soup
 
 44
 00:01:55,720 --> 00:01:58,600
 # 这也是淮扬菜的老菜
-It is also a typical dishes of Huaiyang cuisine
+It is also a typical Huaiyang dish
 
 45
 00:01:58,600 --> 00:01:59,560
@@ -240,12 +240,12 @@ Is this Huaiyang cuisine?
 47
 00:02:01,800 --> 00:02:04,800
 # 瞧瞧 这大爷
-Look at ours Da Ye
+Look at our chef, Da Ye
 
 48
 00:02:04,800 --> 00:02:06,440
 # 点火
-turn on the stove
+Turn on the stove
 
 49
 00:02:06,440 --> 00:02:07,360
@@ -253,12 +253,12 @@ turn on the stove
 50
 00:02:07,360 --> 00:02:10,080
 # 这个锅一定要烧热
-Until the wok is hot
+The wok must be hot
 
 51
 00:02:10,080 --> 00:02:13,440
 # 我们常说的叫热锅凉油
-This is what we often say that heat the empty wok and then add oil
+This is what we often say "hot wok and cold oil"
 
 52
 00:02:13,440 --> 00:02:15,600
@@ -286,7 +286,7 @@ The oil temperature should be a little higher
 57
 00:02:25,960 --> 00:02:27,680
 # 大妈稍微远一点
-Da ma goes a little bit farther
+Da Ma, keep away a little
 
 58
 00:02:27,680 --> 00:02:29,320
@@ -294,7 +294,7 @@ Da ma goes a little bit farther
 59
 00:02:32,680 --> 00:02:34,680
 # 这个鱼不用腌
-The fish does not need to be marinate
+The fish don't need to be marinated
 
 60
 00:02:34,680 --> 00:02:36,960
@@ -307,7 +307,7 @@ Don't touch it, or its skin will break
 62
 00:02:40,640 --> 00:02:44,640
 # 没搁多少油就是煎
-Do not put too much oil in it, just fry it
+Didn't put too much oil in it. Just frying it
 
 63
 00:02:44,640 --> 00:02:44,840
@@ -315,7 +315,7 @@ Do not put too much oil in it, just fry it
 64
 00:02:44,840 --> 00:02:48,600
 # 翻身了 再翻一下
-turn it over, Turn it again
+Flip it over. Flip it again
 
 65
 00:02:48,600 --> 00:02:53,320
@@ -325,7 +325,7 @@ The skin is not broken, because we did a good preparation
 66
 00:02:53,320 --> 00:02:57,600
 # 这时候我们要把葱姜随手就放进去了
-Now, add the spring Onions and ginger
+Now, add the spring onions and ginger
 
 67
 00:02:57,600 --> 00:02:59,480
@@ -340,22 +340,22 @@ Put water (hot water) in it, high heat
 69
 00:03:05,880 --> 00:03:09,840
 # 黄酒 海米
-Huangjiu rice wine, small dried Shrimps
+Huangjiu rice wine, small dried shrimps
 
 70
 00:03:09,840 --> 00:03:12,440
 # 这得炖多长时间
-How long time does it need to be stewed?
+How long does it need to be stewed?
 
 71
 00:03:12,440 --> 00:03:15,480
 # 应该说是在一刻钟到二十分钟
-It should be stew between 15-20 mins
+It should be stewed for 15-20 mins
 
 72
 00:03:15,480 --> 00:03:20,960
 # 说去腥的方法很多 搁上几粒花椒
-Speak of there are a lot of ways to remove fishy smell, put a few Sichuan peppercorn
+Speaking of removing the fishy smell, there are many ways. Put a few Sichuan peppercorns
 
 73
 00:03:20,960 --> 00:03:25,080
@@ -375,7 +375,7 @@ It has to be stewed for a while
 76
 00:03:30,240 --> 00:03:33,920
 # 把它移到这火 同时进行
-Move it to this side stove, cooking together on both side
+Move it to this burner, cook together on both sides
 
 77
 00:03:35,240 --> 00:03:37,640
@@ -385,27 +385,27 @@ Pepper, White pepper
 78
 00:03:37,640 --> 00:03:39,280
 # 盐待会再放
-Salt, put it in later
+Salt will be put it in later
 
 79
 00:03:39,280 --> 00:03:42,080
 # 盐早放它这个鱼就不爱烂
-Putting salt early could make fish rubbery
+If we put salt too early, the fish won't be soft and tender
 
 80
 00:03:42,080 --> 00:03:47,560
 # 出白汤的就慢 行 这个先慢慢炖着
-Could make soup turn to white slower. Ok. Let it stew slowly
+So that the soup turns white slower. Ok. Let it stew slowly
 
 81
 00:03:47,560 --> 00:03:51,000
 # 锅热了 这油不用要太多
-The wok is hot. don’t need too much oil
+The wok is hot. Don’t need too much oil
 
 82
 00:03:51,000 --> 00:03:55,840
 # 炒萝卜丝 去萝卜的臭味
-Fry shredded radish remove radish smelly
+Fry shredded radish to remove the radish smell
 
 83
 00:03:55,840 --> 00:03:57,720
@@ -415,17 +415,17 @@ You film that again
 84
 00:03:57,720 --> 00:04:01,040
 # 那有点要白吧 白了已经起白了
-It turns to be white. It was white already
+It's turning white. It's white already
 
 85
 00:04:01,040 --> 00:04:03,720
 # 一放萝卜还白
-It will be whiter after put radish in
+It will be whiter after putting radish in
 
 86
 00:04:03,720 --> 00:04:07,560
 # （萝卜丝）就是煸煸 花椒煸出味来就行
-(shredded radish) Just fry, fry to the smell of Sichuan peppercorn come out
+Slightly fry it (shredded radish), as long as the aroma of Sichuan peppercorn comes out
 
 87
 00:04:07,560 --> 00:04:10,560
@@ -446,22 +446,22 @@ Cooking still with this high heat
 91
 00:04:19,760 --> 00:04:22,800
 # 这还要处理一下 把这浮沫给打出来
-This need to be done, scum the bubbles
+This needs to be done, skim off the scum
 
 92
 00:04:23,840 --> 00:04:25,960
 # 一会它一开锅还有沫子呢
-Later, there still have more bubbles when it boils
+Later, there will be more scum when it boils
 
 93
 00:04:25,960 --> 00:04:27,480
 # 那沫子是油沫
-The bubbles are bubbles of oil.
+That scum is oil.
 
 94
 00:04:27,480 --> 00:04:32,200
 # 把那油给打干净 这萝卜丝就没有臭味了
-Scum all the bubbles, then there’ll not have peculiar smell of radish
+Skim off all the oil then, so there will not be any smell in the radish
 
 95
 00:04:32,200 --> 00:04:34,720
@@ -471,42 +471,42 @@ I’m very good at making this soup
 96
 00:04:34,720 --> 00:04:38,960
 # 原来在饭店的时候 有些老领导
-When I worked at restaurant, there were some old leaders
+When I worked at restaurant, there were some honored guests
 
 97
 00:04:38,960 --> 00:04:42,720
 # 就爱吃大爷这个萝卜丝鲫鱼汤
-especially love to eat Daye’s Crucian Carp and Shredded Radish Soup
+who loved to have Da Ye’s Ji Yu Carp and Shredded Radish Soup
 
 98
 00:04:42,720 --> 00:04:45,240
 # 一种方式就是喝汤
-One of the way to eat is only eat the soup
+One of the ways to have it is to drink the soup only
 
 99
 00:04:45,240 --> 00:04:48,640
 # 再一种方式在这也跟网友说一声
-Another way to eat, I’d like to say to netizens
+There's another way that I’d like to tell our audience
 
 100
 00:04:48,640 --> 00:04:53,400
 # 想吃鱼 别吃鲫鱼 买条鳜鱼
-Want to eat fish, don’t eat crucian, buy a mandarin fish
+If you want to eat fish, don’t eat ji yu carp. Buy a Chinese perch
 
 101
 00:04:53,400 --> 00:04:57,120
 # 鳜鱼片成片 在这锅里边一烫
-Mandarin fish, cut into slices, put it in boiling water and take it out quickly
+Cut the Chinese perch into slices, and cook them quickly in the wok
 
 102
 00:04:57,120 --> 00:05:02,400
 # 鳜鱼的鱼片 汤必须是鲫鱼的
-Making fillet fish with mandarin fish, making fish soup must with crucian
+Chinese perch fish slices, which must be cooked in ji yu carp soup
 
 103
 00:05:02,400 --> 00:05:07,200
 # 萝卜丝已经好了 咱把它捞出来
-Shredded Radish is ready, let’s take them out
+Shredded radish is ready, let’s take them out
 
 104
 00:05:07,200 --> 00:05:12,240
@@ -534,17 +534,17 @@ The soup is white, turn the heat down a little
 109
 00:05:22,360 --> 00:05:25,440
 # 因为火大就是要翻这个汤要白
-Because high heat is for soup boil to white
+Because high heat is for boiling the soup to white
 
 110
 00:05:25,440 --> 00:05:28,200
 # 白了以后就不要再大了
-When it turns to white, no need to use high heat
+When it has turned white, no need to use high heat
 
 111
 00:05:28,200 --> 00:05:32,360
 # 就时候二次调味 盐
-Now second time to seasoning, salt
+Now second time seasoning, salt
 
 112
 00:05:32,360 --> 00:05:34,920
@@ -562,7 +562,7 @@ No MSG even, you just taste it later
 115
 00:05:45,480 --> 00:05:49,440
 # 这个萝卜丝到什么程度 入口要即化
-The shredded radish will be cooked till what degree? Till it could melt in your mouth
+How much do we cook the shredded radish? Till it could melt in your mouth
 
 116
 00:05:49,440 --> 00:05:51,440
@@ -570,7 +570,7 @@ The shredded radish will be cooked till what degree? Till it could melt in your 
 117
 00:05:51,440 --> 00:05:52,680
 # 大爷先吃了
-Da ye eat it first
+Da Ye is having it first
 
 118
 00:05:52,680 --> 00:05:55,440
@@ -578,7 +578,7 @@ Da ye eat it first
 119
 00:05:55,440 --> 00:05:57,680
 # 盛到砂锅里头
-Put it into crock pot
+Put it into a claypot
 
 120
 00:05:57,680 --> 00:06:04,760
@@ -591,12 +591,12 @@ Pick onion and ginger out
 122
 00:06:07,240 --> 00:06:11,360
 # 香菜 真好
-Coriander, very good
+Cilantro, very good
 
 123
 00:06:11,360 --> 00:06:14,920
 # 展示一下成品
-Show the dish that has been done
+Show us the finished dish
 
 124
 00:06:14,920 --> 00:06:16,000
@@ -606,4 +606,4 @@ You see
 125
 00:06:16,000 --> 00:06:17,800
 # 大爷真稳当
-Da ye is so steady
+Da Ye is so steady
