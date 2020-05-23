@@ -240,6 +240,11 @@
       "category": "meat"
     },
     {
+      "cn": "多宝鱼",
+      "en": "turbot",
+      "category": "meat"
+    },
+    {
       "cn": "小葱",
       "en": "scallion",
       "category": "vegetable",
@@ -715,6 +720,18 @@
       "reference": "https://en.wikipedia.org/wiki/Angelica_sinensis"
     },
     {
+      "cn": "甘草",
+      "en": "licorice",
+      "category": "spice",
+      "notes": "这是美式拼法"
+    },
+    {
+      "cn": "甘草",
+      "en": "liquorice",
+      "category": "spice",
+      "notes": "这是英式拼法"
+    },
+    {
       "cn": "调料",
       "en": "seasoning",
       "category": "condiment"
@@ -1117,6 +1134,12 @@
       "notes": "与\"红案\"相对，指面食"
     },
     {
+      "cn": "鱼香",
+      "en": "Yuxiang",
+      "category": "technical",
+      "notes": "川菜的\"鱼香\"味型指用传统烧鱼配料做的其他菜。由于是专业术语，且和字面意思有一定距离，因此零翻译处理"
+    },
+    {
       "cn": "面团",
       "en": "dough",
       "category": "misc"
@@ -1301,6 +1324,13 @@
       "notes": "王刚频道子栏目"
     },
     {
+      "cn": "厨房冷知识",
+      "en": "Kitchen Fun Facts",
+      "category": "noun",
+      "channel": "wang-gang",
+      "notes": "王刚频道子栏目"
+    },
+    {
       "cn": "雪鱼",
       "en": "Xueyu",
       "category": "noun",
@@ -1311,6 +1341,13 @@
       "en": "Da Ye",
       "category": "noun",
       "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "大妈",
+      "en": "Da Ma",
+      "category": "noun",
+      "channel": "lao-fan-gu",
+      "notes": "大爷的太太，程老师"
     },
     {
       "cn": "二伯",
@@ -1526,6 +1563,16 @@
       "category": "dish",
       "notes": "\"roast pork belly\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 siu yuk",
       "reference": "https://en.wikipedia.org/wiki/Siu_yuk"
+    },
+    {
+      "cn": "油条",
+      "en": "youtiao (deep-fried dough strips)",
+      "category": "dish"
+    },
+    {
+      "cn": "油饼",
+      "en": "youbing (deep-fried cake)",
+      "category": "dish"
     }
   ]
 }
