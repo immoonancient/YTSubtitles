@@ -9,6 +9,8 @@
 # 國宴的精緻菜品也能在家吃到，小友們趕緊做起來吧！
 # Hey friends, Da Ye and Er Bai are finally going back to our very first cozy kitchen. As the first dish, we are going to show you a “hardcore meal” - “Shizitou” (aka "Lion Head"). The Stewed Shizitou is one of the most famous thousand-year-old Huaiyang cuisine. We hope it fits your taste. The Shizitou is pulpy and springy with rich flavor. It is tasty and healthy, and fits everyone. You can have a try of this banquet dish at home. Let’s get started!
 
+# import intro
+
 # 字幕
 
 1
