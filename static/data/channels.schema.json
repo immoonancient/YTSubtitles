@@ -22,6 +22,11 @@
           "description": "Common nicknames of the channel and/or vlogger",
           "type": "array",
           "items": { "type": "string" }
+        },
+        "reviewers": {
+          "description": "Reviwers to request when a new pull request for the channel is created",
+          "type": "array",
+          "items": { "type": "string" }
         }
       }
     }
