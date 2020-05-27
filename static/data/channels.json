@@ -2,7 +2,8 @@
   {
     "folder": "wang-gang",
     "label": "美食作家王刚",
-    "nicknames": ["王刚", "刚哥"]
+    "nicknames": ["王刚", "刚哥"],
+    "reviewers": ["immoonancient"]
   },
   {
     "folder": "xue-yu",
@@ -23,5 +24,10 @@
     "folder": "chan-xiao-qi",
     "label": "馋小漆",
     "nicknames": ["漆二娃"]
+  },
+  {
+    "folder": "shou-gong-geng",
+    "label": "手工耿",
+    "nicknames": ["耿帅", "刑部尚书"]
   }
 ]
