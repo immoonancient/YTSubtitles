@@ -2,7 +2,7 @@
 
 # 标题
 # 【國宴大師•將軍排骨】好吃到尖叫的將軍排骨！外酥裏嫩味道超贊！二伯帶妳解鎖排骨新吃法！|老飯骨
-# State Banquet Master Chef – General Ribs. Crispy and tender with amazing taste!
+# State Banquet Master Chef – General's Ribs. Crispy and tender with amazing taste!
 
 # 简介
 
@@ -11,12 +11,14 @@
 # 這將軍排骨加入香料先燉得爛爛乎乎，和上粉子，把排骨炸得酥脆！
 # 最後加入辣椒、花生、麻花一起翻炒！
 # 小友們快點擊視頻學起來，大口吃肉、大口喝酒，痛快！
-# Hey guys, today Erbai will share a great dish called General’s Ribs!
-# The trick is how to season the ribs.
-# We first season and stew the ribs. Then we coat the ribs and fry them!
-# Finally we stir fry the ribs with chili, peanuts and dough twists!
-# Have a try yourself! The dish goes great with a drink!
+# Introduction
+# Hello friends, today Er Bai shares a super tasty dish with us - General’s Ribs!
+# Do you get Er Bai's trick about how to get rid of unpleasant flavor? 
+# We first stew the ribs with spices, then deep fry them to crispy after coating with starch!
+# Finally we stir fry the ribs with chili, peanuts and Ma Hua (fried dough twists)!
+# Give it a try! The dish goes great with a drink!
 
+# import intro
 # 字幕
 
 1
@@ -50,27 +52,26 @@ Smell the aroma, so appetizing
 7
 00:00:12,320 --> 00:00:20,360
 # 将军排骨辅料：香脆椒，原味小麻花，郫县豆瓣酱，椒盐花生米，泡辣椒，芽菜，红曲米
-Ingredients: chilis, fried dough twists, Pixian bean paste, peanuts, preserved chilis, preserved mustard greens, fermented red rice
-
+Ingredients: chilis, fried dough twists, Pixian doubanjiang (bean paste), peanuts, pickled chilis, preserved mustard greens, fermented red rice
 8
 00:00:20,360 --> 00:00:24,080
 # 先把排骨焯了 小魏加点酒 料酒
-Boil the ribs first with some Chinese cooking wine
+Let's blanch the ribs first.  Xiao Wei, add some cooking wine
 
 9
 00:00:24,080 --> 00:00:26,400
 # 这个排骨我跟你讲 最好是什么
-One trick for cooking ribs,
+For this dish, it is better
 
 10
 00:00:26,400 --> 00:00:30,800
 # 拿水泡一下 把血水拔拔
-Soak them first to get the blood and scum off
+to soak them in water first. It helps to get rid off the blood. 
 
 11
 00:00:30,800 --> 00:00:32,280
 # 这样还可以去腥味
-That will get rid of the fishy smell
+and to get rid of the unpleasant flavor.
 
 12
 00:00:32,280 --> 00:00:34,760
@@ -80,27 +81,27 @@ Boil until they are cooked
 13
 00:00:34,760 --> 00:00:36,640
 # 其实通过气味的变化
-You can know from the smell
+You can tell from the smell
 
 14
 00:00:36,640 --> 00:00:39,360
 # (腥味)还是出不去 缺少香料的味
-That the ribs are still a bit fishy. They need seasoning
+(The unpleasant flavor) is still there. Lack of the spices.
 
 15
 00:00:39,360 --> 00:00:42,320
 # 比如做蒜泥白肉 或者做酸菜白肉
-For dishes like the garlic white pork and the pickled Chinese cabbage white pork
+For dishes like the Sliced Pork Belly with Garlic Sauce and the pork with pickled cabbage
 
 16
 00:00:42,320 --> 00:00:45,480
 # 人说这酸菜白肉不能吃料香味
-We don’t season the pork too much
+Some think you should not taste the spice in the pork with pickled cabbage,
 
 17
 00:00:45,480 --> 00:00:46,920
 # 但是我提前就搁一大料
-But for this dish, we can boil the ribs with a star anise
+but I would put a star anise.
 
 18
 00:00:46,920 --> 00:00:49,040
@@ -110,12 +111,12 @@ About one third of the boiling time
 19
 00:00:49,040 --> 00:00:51,800
 # 我把大料就择出去了
-We take the star anise off
+I take the star anise out
 
 20
 00:00:51,800 --> 00:00:54,880
 # 然后再往下炖它就没有大料味了
-So that the bitter taste stay away
+So that the star anise flavor will not be strong
 
 21
 00:00:54,880 --> 00:00:57,720
@@ -125,12 +126,12 @@ But the aroma of the star anise goes into the ribs
 22
 00:00:57,720 --> 00:00:59,120
 # 它没有任何料味
-It doesn’t have the bitter taste of the herbs
+It doesn’t have any taste of the spices
 
 23
 00:00:59,120 --> 00:01:00,960
 # 所以说这就是一个窍门
-That’s one trick
+That’s a trick
 
 24
 00:01:00,960 --> 00:01:02,200
@@ -148,7 +149,7 @@ Drop big chunks of green onions and gingers in the wok
 27
 00:01:09,640 --> 00:01:13,880
 # 亮子给点豆瓣酱 小魏你攉拢着
-Then some bean paste. Keep stirring the wok
+Liang zi, put some doubanjiang in. Xiao Wei, keep stirring the wok
 
 28
 00:01:13,880 --> 00:01:18,160
@@ -161,17 +162,17 @@ Stir fry them well to get the aroma out and the herbs crispy
 30
 00:01:20,680 --> 00:01:23,320
 # 泡椒也是整个
-Drop the preserved chili in big chunks too
+Drop the whole pickled chili 
 
 31
 00:01:23,320 --> 00:01:25,200
 # 小魏你看 香气出来了吧
-Smell the aroma
+Xiao Wei, see, you can smell the aroma
 
 32
 00:01:25,200 --> 00:01:27,120
 # 料酒 小亮 搁
-Then some Chinese cooking wine
+Xiao Liang, add cooking wine
 
 33
 00:01:27,120 --> 00:01:28,640
@@ -179,7 +180,7 @@ Then some Chinese cooking wine
 34
 00:01:28,640 --> 00:01:30,040
 # 小亮可以搁水了
-Then we can add some water and bring it to boil
+Xiao Liang, time to add water
 
 35
 00:01:30,040 --> 00:01:32,240
@@ -195,12 +196,12 @@ It’s fine. Looks great!
 38
 00:01:37,720 --> 00:01:40,960
 # 咱们弄点红曲水 搁进去吧
-Get some sauce from the preserved red rice and add in the wok
+Let's add some sauce from the red yeast rice in the wok
 
 39
 00:01:40,960 --> 00:01:43,880
 # 你看这颜色更红
-It will turn the color more bright and red
+See, the color is more red
 
 40
 00:01:43,880 --> 00:01:45,040
@@ -215,7 +216,7 @@ Some sugar
 42
 00:01:46,840 --> 00:01:49,280
 # （白）胡椒粉
-Pepper
+(White) Pepper 
 
 43
 00:01:49,280 --> 00:01:51,280
@@ -225,12 +226,12 @@ Some soy sauce
 44
 00:01:51,280 --> 00:01:53,400
 # 别搁太多因为这颜色就够了
-Hold the soy sauce because the color is enough
+Don't put too much because the color is (dark) enough
 
 45
 00:01:53,400 --> 00:01:56,760
 # 这就起一调味作用
-Only some for the taste
+Only for the flavor
 
 46
 00:01:56,760 --> 00:01:58,760
@@ -248,7 +249,7 @@ Drop and stew the ribs
 49
 00:02:02,680 --> 00:02:07,200
 # 香叶 桂皮 大料瓣 小火炖着吧
-Add some bay leaves, cinnamon and star anise pieces. Turn the burner lower and stew
+Add some bay leaves, cinnamon and star anise pieces, and stew them with low heat.
 
 50
 00:02:07,200 --> 00:02:11,800
@@ -261,7 +262,7 @@ Look at the color. So bright and red
 52
 00:02:14,920 --> 00:02:17,640
 # 你看搁点香料这味儿立马就变了
-The herbs changes the taste right away
+The spices changed the flavor right away
 
 53
 00:02:17,640 --> 00:02:19,880
@@ -271,7 +272,7 @@ The aroma of the pork comes out
 54
 00:02:19,880 --> 00:02:21,720
 # 过去你看湘菜红煨
-There’s a trick from Hunan style simmering
+You see, in the past, for the Hunan style simmering
 
 55
 00:02:21,720 --> 00:02:22,280
@@ -279,17 +280,17 @@ There’s a trick from Hunan style simmering
 56
 00:02:23,000 --> 00:02:26,520
 # 你看蒜不能煸 不能吃出蒜味
-Garlics should be added after the stir frying. Then the garlic taste stays veiled
+We should fry the garlic first, we want the garlic flavor to be subtle. 
 
 57
 00:02:26,520 --> 00:02:31,240
 # 搁了蒜子以外 咱们现在搁一把尖椒
-Besides the garlic, drop some pepper in the wok too
+Besides the garlic, we now also put some pepper in the wok
 
 58
 00:02:31,240 --> 00:02:33,400
 # 就有一种特殊的蔬菜味
-Adds some vegetable smell in there
+It will add some vegetable smell in the dish
 
 59
 00:02:33,400 --> 00:02:36,760
@@ -304,7 +305,7 @@ What the peppers do to the ribs
 61
 00:02:39,520 --> 00:02:41,000
 # 就有一种特殊的香味
-Is to add another dimension of smell
+Is to add another dimension of aroma
 
 62
 00:02:41,000 --> 00:02:43,120
@@ -314,7 +315,7 @@ Makes it more fresh and light
 63
 00:02:43,120 --> 00:02:47,200
 # 你看咱这颜色 加了红曲米的颜色
-Look at the color with the preserved red rice sauce
+Look at the color of the dish. It is the color with the red yeast rice
 
 64
 00:02:47,200 --> 00:02:50,400
@@ -334,17 +335,17 @@ We can eat the ribs directly after stewing
 67
 00:02:56,840 --> 00:03:01,280
 # 辣椒 花椒 哗一呲 上边顶着
-Or put some chili and peppercorn at the top, with hot oil splitting
+Or put some chili and Sichuan peppercorn and split the hot oil on top
 
 68
 00:03:01,280 --> 00:03:02,880
 # 小魏怎么样 又是一道菜
-It will generate another dish
+How about that, Xiao Wei? Another dish
 
 69
 00:03:02,880 --> 00:03:04,640
 # 方法是一样的 就看你怎么去做了
-The ribs are the same and it depends on how you like them
+The method are the same, it just depends how you want to cook them
 
 70
 00:03:04,640 --> 00:03:06,400
@@ -367,7 +368,7 @@ I can remind of many different dishes
 74
 00:03:11,320 --> 00:03:14,960
 # 就这个菜的做法可以延展很宽
-The process of this dish can have many different twists
+The recipe of this dish can have many variations
 
 75
 00:03:14,960 --> 00:03:18,160
@@ -385,22 +386,22 @@ The color is so good. Get the ribs out
 78
 00:03:24,080 --> 00:03:28,920
 # 烂烂乎乎 关键是味道 烂是一方面
-The texture is very soft but the key is the taste
+The texture is very soft, but the taste is the highlight.
 
 79
 00:03:28,920 --> 00:03:31,480
 # 我把您这个做法学会了
-The way to cook the ribs is very general
+After I learnt your way to cook these ribs
 
 80
 00:03:31,480 --> 00:03:35,640
 # 回去我拿羊排做去 羊排做也好吃
-I can also try with lamb and I believe it’s good too
+I can try with lamb. I believe it’s good too.
 
 81
 00:03:35,640 --> 00:03:38,080
 # 没毛病 拍粉子吧师父
-Alright, let’s coat the ribs
+Alright, let’s coat the ribs, Master
 
 82
 00:03:38,440 --> 00:03:40,360
@@ -410,7 +411,7 @@ Sweet potato starch
 83
 00:03:40,360 --> 00:03:42,120
 # 你看整个沾上粉子
-Coat the ribs evenly well
+Coat the ribs well
 
 84
 00:03:42,120 --> 00:03:43,760
@@ -428,22 +429,22 @@ The key is to make the coating even
 87
 00:03:47,800 --> 00:03:49,000
 # 你看裹不匀就不行
-Look at the missing spot
+unevenly coated will not be good.
 
 88
 00:03:49,000 --> 00:03:52,440
 # 要不然炸出来就柴 必须得全裹透了
-That’s where the hot oil will get in and make the ribs dry
+It will make the ribs dry, We have to coat them all.
 
 89
 00:03:52,440 --> 00:03:55,160
 # 这边粉子浮着呢师父
-Another missing spot here too master
+Another missing spot here, Master
 
 90
 00:03:55,160 --> 00:03:57,560
 # 非常香 这已经就炖的很香了
-The smell is so good
+The smell is so good. It is already flavorful after the stewing.
 
 91
 00:03:57,560 --> 00:03:59,840
@@ -453,7 +454,7 @@ The oil is ready
 92
 00:03:59,840 --> 00:04:02,960
 # 咱们做的有点多 多来点吧
-We have a large portion here so we got much oil
+We have a large portion here. No problem with big portion.
 
 93
 00:04:02,960 --> 00:04:07,000
@@ -469,7 +470,7 @@ It’s about right
 96
 00:04:09,560 --> 00:04:14,880
 # 哄一下油 让它更加酥脆 外酥里嫩
-Get the ribs out for a sec. Bring the oil hotter and re-fry, so that the coat is extra crispy
+Heat up the oil and re-fry, so that the coat will be extra crispy
 
 97
 00:04:14,880 --> 00:04:16,160
@@ -490,17 +491,17 @@ Some oil in the wok
 101
 00:04:25,320 --> 00:04:27,720
 # 芽菜 这儿呢 芽菜
-Where’s the preserved mustard green? In the pan
+Where’s the preserved mustard green? Here. Put in the pan
 
 102
 00:04:27,720 --> 00:04:30,120
 # 芽菜必须得洗一下啊
-Make sure you clean the preserved mustard green well
+Make sure you rinse the preserved mustard green first
 
 103
 00:04:30,120 --> 00:04:31,600
 # 你看料酒
-Some Chinese cooking wine in the wok
+Some cooking wine in the wok
 
 104
 00:04:31,600 --> 00:04:34,280
@@ -518,12 +519,12 @@ Drop the ribs and chili
 107
 00:04:42,920 --> 00:04:46,400
 # 花生倒么 花生倒 麻花都搁进去
-Peanuts now? Yeah peanuts along with the dough twists
+Peanuts now? Yeah, peanuts, and Ma Hua (fried dough twists)
 
 108
 00:04:46,400 --> 00:04:48,440
 # 小魏 麻辣鲜露
-Some Chinese liquid seasoning in the wok
+Some spicy seasoning sauce in the wok
 
 109
 00:04:48,440 --> 00:04:53,160
@@ -531,7 +532,7 @@ Some Chinese liquid seasoning in the wok
 110
 00:04:54,720 --> 00:04:57,040
 # 你闻这香味 小魏 太有食欲了
-Whoa the smell is so appetizing
+Can you smell the aroma, Xiao Wei? It is so appetizing
 
 111
 00:04:57,040 --> 00:04:59,320
@@ -544,7 +545,7 @@ The dough twists looks really nice in the dish
 113
 00:05:02,720 --> 00:05:05,040
 # 排骨做好了师父 将军排骨
-The general’s ribs are ready!
+The general’s ribs is ready!
 
 114
 00:05:05,040 --> 00:05:08,040
@@ -554,7 +555,7 @@ I can’t wait for the chopsticks. Let me try one first
 115
 00:05:08,920 --> 00:05:11,000
 # 味道非常特殊
-The smell is phenomenal
+The taste is phenomenal
 
 116
 00:05:11,000 --> 00:05:13,120
@@ -577,7 +578,7 @@ The taste stays in your month, a little bit numbing too
 120
 00:05:19,760 --> 00:05:22,400
 # 师父您也吃一块
-Have a piece master
+Have a piece,  Master
 
 121
 00:05:22,400 --> 00:05:23,320
@@ -587,7 +588,7 @@ It’s really good
 122
 00:05:25,000 --> 00:05:27,480
 # 这是酒菜 要喝酒的话绝了
-The dish goes great with alcohol. It will be amazing if you have this with a drink.
+The dish goes great with some alcohol. It will be amazing if you have this with a drink.
 
 123
 00:05:27,480 --> 00:05:30,080
