@@ -970,11 +970,7 @@ This is the best season to eat Chinese mandarin fish.
 # 五月份 又肥又嫩
 In May, it is fat and tender.
 
-199
-00:09:11,800 --> 00:00:02,000
-
-200
-00:00:27,000 --> 00:00:29,000
+# shift forward 00:09:14,900
 
 201
 00:00:00,040 --> 00:00:00,960
