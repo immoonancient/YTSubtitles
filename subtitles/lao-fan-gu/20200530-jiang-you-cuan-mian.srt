@@ -1,5 +1,21 @@
 # https://youtu.be/oDoQrjTkD9M
+【國宴大師•醬油汆面】老北京夏天的味道：醬香爽口、簡單易學的花椒油醬油汆面，夏天來一碗，就是這個味兒，痛快！|老飯骨
+State Banquet Master Chef - Soy Sauce Noodle. An Authentic Beijing Dish for Summer
 
+简介
+小友們好，天氣越來越熱了，轉眼就到了夏天。
+咱們北京的夏天可離不了這面，這不，今天就教各位小友做一道有著老北京夏天味道的小吃——醬油汆兒面！
+這醬油汆面做法比較簡單，小友們認真看視頻，一學保準兒就能會，滿滿的地道老北京味兒！特別適合夏天沒胃口不知道吃什麽的朋友們。
+P.S片尾還有回答之前小友們提出的問題，每期視頻我們都有在評論區精選壹些問題作解答，大家要積極留言哦！
+
+Introduction
+Hello friends. The weather is getting hot, and summer is around the corner.
+This noodle is a must-have dish for Beijing's summer. Today, we want to share an authentic Beijing summer dish with you - Soy Sauce Noodles.
+The recipe is easy. If you watch this video carefully, you can master it. It has authentic Beijing flavor, and 
+is especially suitable for those with little appetite in summer. 
+P.S. At the end of this video, we answer some questions from you. We usually select some questions and answer them in each video, so leave your comments and questions below!
+
+import intro
 # 字幕
 
 1
@@ -10,7 +26,7 @@ Soy sauce, Soy sauce with Sichuan peppercorn oil
 2
 00:00:03,400 --> 00:00:05,040
 # 这叫一个地道
-This is so idiomatic
+This is authentic
 
 3
 00:00:05,040 --> 00:00:07,200
@@ -18,7 +34,7 @@ This is so idiomatic
 4
 00:00:07,200 --> 00:00:09,480
 # 凉凉的 夏天来这么一碗
-One dish in summer days, so fresh
+This dish is fresh, suitable for summer time.
 
 5
 00:00:09,760 --> 00:00:12,120
@@ -41,7 +57,7 @@ The water starts boiling, Xiangchun (Chinese mahogany) in
 9
 00:00:19,400 --> 00:00:21,680
 # 这香椿必须要焯水
-The Xiangchun (Chinese mahogany) must be blanched in water
+The Xiangchun (Chinese mahogany) must be blanched in the water
 
 10
 00:00:21,680 --> 00:00:23,440
@@ -54,7 +70,7 @@ What is the tradition in Beijing ?
 12
 00:00:24,760 --> 00:00:26,400
 # 夏天爱吃麻酱
-Our favorite sesame sauce for summer !
+In summer, our favorites' is sesame sauce!
 
 13
 00:00:26,400 --> 00:00:28,120
@@ -72,12 +88,12 @@ I’m going to chop some shredded cucumber
 16
 00:00:34,160 --> 00:00:36,960
 # 原来胡同里头讲究吃这个
-This is the traditional way in the old days in Hutong
+In the past, it was a traditional dish in Hutong.
 
 17
 00:00:36,960 --> 00:00:40,080
 # 这麻酱面的吃法太多了
-There are so many recipes to eat noodles with the sesame sauce
+There are so many ways to eat noodles with the sesame sauce
 
 18
 00:00:40,080 --> 00:00:45,000
@@ -112,7 +128,7 @@ Xiangchun (Chinese mahogany) done
 24
 00:01:00,880 --> 00:01:02,840
 # 切的稍微长点别太碎了
-Chop it longer, not too little
+Chop it in long pieces, don't need to be too fine
 
 25
 00:01:02,840 --> 00:01:04,920
@@ -154,7 +170,7 @@ Like kongfu master with white eyebrow
 34
 00:01:21,480 --> 00:01:24,360
 # 麻酱 二八酱
-Sesame paste, made by 20% of sesame and 80% of peanut
+Sesame paste, made from 20% of sesame and 80% of peanut
 
 35
 00:01:24,360 --> 00:01:26,120
@@ -174,17 +190,17 @@ Mix with some water, that’s important
 38
 00:01:32,480 --> 00:01:35,160
 # 你像做其它的调味用麻酱的
-If you do other recipes with sesame sauce
+If you make other recipes with sesame paste
 
 39
 00:01:35,160 --> 00:01:37,240
 # 比如说怪味 就用酱油和
-For example the strange flavor, mix the paste with soy sauce
+For example the Guaiwei (a type of multi-flavor), mix the paste with soy sauce
 
 40
 00:01:37,240 --> 00:01:41,520
 # 你像北京的麻酱面 必须是水和
-Or like the noodles with soy sauce in Beijing, it has to be mixed with water
+Or like the sesame paste noodles in Beijing, the paste has to be mixed with water
 
 41
 00:01:41,520 --> 00:01:43,960
@@ -194,7 +210,7 @@ The sesame sauce smells good
 42
 00:01:43,960 --> 00:01:46,240
 # 好 咱这麻酱差不多了
-Ok, almost done for the sesame sauce
+Ok, almost done with the sesame sauce
 
 43
 00:01:46,240 --> 00:01:48,160
@@ -202,7 +218,7 @@ Ok, almost done for the sesame sauce
 44
 00:01:48,160 --> 00:01:51,280
 # 一挑一条线 里边还挺稠
-A little sticky
+A little sticky, dripping like a string
 
 45
 00:01:51,280 --> 00:01:54,320
@@ -277,7 +293,7 @@ Fry it till brown, dark brown
 59
 00:02:29,040 --> 00:02:33,200
 # 花椒捞不捞 花椒少留俩 嚼着香
-Take out the peppercorn now to not ? Leave 2 inside, it’s good to chew it
+Do we need to take the peppercorn out? Leave 2 inside, it’s good to chew it
 
 60
 00:02:33,200 --> 00:02:35,120
@@ -300,12 +316,12 @@ Shredded green onion and ginger, blanch them it the peppercorn oil
 64
 00:02:44,840 --> 00:02:48,000
 # 全加上 眉毛葱
-Shredded leek, all in
+Shredded green onion, all in
 
 65
 00:02:49,960 --> 00:02:53,640
 # 煸它一下 香味出来喽
-fry them to give the fragrance
+fry them, the aroma is released
 
 66
 00:02:53,640 --> 00:02:57,120
@@ -323,37 +339,37 @@ Fry all the ingredients
 69
 00:03:01,040 --> 00:03:02,800
 # 小魏你怎么想起做一汆儿面
-Xiaowei, why you want to make this recipe ?
+Xiaowei, why do you want to make this dish?
 
 70
 00:03:02,800 --> 00:03:03,880
 # 上次咱直播了一次
-Last time was on live
+Last time, we were streaming
 
 71
 00:03:03,880 --> 00:03:06,680
 # 那网友都没看清楚 再做一遍
-Netizens didn’t see clearly, so they ask to do it again
+Our friends didn’t see clearly, so I want to do it again
 
 72
 00:03:06,680 --> 00:03:08,560
 # 二伯关火 我这儿照着呢
-Er bai turns off the fire, I film it
+Er bai, turn off the fire. I am filming here.
 
 73
 00:03:08,560 --> 00:03:10,000
 # 你就看你那面吧
-You take care of the noodles
+You just need to take care of the noodles
 
 74
 00:03:10,000 --> 00:03:13,000
 # 真香 全搁进去 地道啊
-It smells so good, all in, the idiomatic one
+It smells so good, all in. Authentic 
 
 75
 00:03:13,000 --> 00:03:15,800
 # 面条出锅 出锅喽
-Take out the noodles
+Take the noodles out
 
 76
 00:03:15,800 --> 00:03:17,960
@@ -361,17 +377,17 @@ Take out the noodles
 77
 00:03:17,960 --> 00:03:21,600
 # 面条热气腾腾 行了 别太凉了
-The noodles are still steaming, Ok don’t cool down too much
+The noodles are still steaming, Ok don’t let it to be too cool.
 
 78
 00:03:21,600 --> 00:03:26,120
 # 你看它这个一搭 出盘仪式很重要
-Look at that, the dressage is very important
+Look at that, the presentation is very important
 
 79
 00:03:26,120 --> 00:03:28,640
 # 有没有鲜花啊 鲜花没有有萝卜
-Do we have some flowers ? No but we have some reddish
+Do we have some flowers? No, but we have some radish
 
 80
 00:03:28,640 --> 00:03:30,880
@@ -396,7 +412,7 @@ Make it looks good, good job
 84
 00:03:41,960 --> 00:03:45,760
 # 麻酱 太有食欲了
-Sesame sauce, it looks so good to eat
+Sesame sauce, make people want to try.
 
 85
 00:03:45,760 --> 00:03:49,080
@@ -414,12 +430,12 @@ And 2 cloves of garlic, finished
 88
 00:03:53,200 --> 00:03:54,800
 # 这叫一个地道
-This is so idiomatic
+This is so authentic
 
 89
 00:03:54,800 --> 00:03:56,480
 # 大爷 我给您先来一口
-Da Ye, I let you have a bite first
+Da Ye, let me serve you the first bite.
 
 90
 00:03:56,480 --> 00:03:59,240
@@ -429,7 +445,7 @@ Not just a bite, make it a bowl
 91
 00:03:59,240 --> 00:04:00,520
 # 来瓣蒜
-Have a clove of garlic
+Give me a clove of garlic
 
 92
 00:04:00,520 --> 00:04:03,200
@@ -437,7 +453,7 @@ Have a clove of garlic
 93
 00:04:03,200 --> 00:04:06,200
 # 瞧大爷吃的 就是香
-Look at Da Ye, it must be so good
+Look at Da Ye, it must be good
 
 94
 00:04:06,200 --> 00:04:08,680
@@ -447,7 +463,7 @@ And this sound, amazing
 95
 00:04:08,680 --> 00:04:10,680
 # 看你师父吃面什么水平
-Let’s see how’s your master’s level to eat the noodles
+Let’s see your master's level of eating noodles
 
 96
 00:04:10,680 --> 00:04:15,640
@@ -476,22 +492,22 @@ it’s incredible, all fragrances merge together, so good
 102
 00:00:00,000 --> 00:00:01,880
 # 有网友问炒您糖色的时候
-Some netizen want to ask when you make the caramelized sugar
+Some friends want to ask when you make the caramelized sugar
 
 103
 00:00:01,880 --> 00:00:05,120
 # 绵白糖 白砂糖和冰糖的区别都是什么
-What’s the difference between powdered sugar, white granulated sugar and rock sugar
+What’s the difference between soft white sugar, white granulated sugar and rock sugar
 
 104
 00:00:05,360 --> 00:00:07,120
 # 绵白糖你可以不加水
-You don’t need to add water by using powdered sugar
+You don’t need to add water for soft white sugar
 
 105
 00:00:07,440 --> 00:00:10,120
 # 但是白砂糖冰糖必须是水油炒
-But with white granulated sugar and rock sugar, it has to be fried with oil and water
+But for the white granulated sugar and rock sugar, you has to fry them with oil and water
 
 106
 00:00:10,840 --> 00:00:11,880
@@ -501,7 +517,7 @@ you must add some water
 107
 00:00:12,040 --> 00:00:13,920
 # 绵白糖属于甜菜糖
-Powdered sugar is made from sugar beet
+Soft white sugar is made from sugar beet
 
 108
 00:00:14,720 --> 00:00:17,240
@@ -531,7 +547,7 @@ There will be some problems
 113
 00:00:28,000 --> 00:00:30,080
 # 但是最主要的是冰糖
-But the more commun way is using rock sugar
+But the essential is by using the rock sugar
 
 114
 00:00:30,080 --> 00:00:31,080
@@ -546,7 +562,7 @@ And color of the dishes
 116
 00:00:33,840 --> 00:00:34,360
 # 红亮
-will be lighter
+will be shiny and bright.
 
 117
 00:00:34,400 --> 00:00:36,400
@@ -556,7 +572,7 @@ It’s like making the red braised pork
 118
 00:00:36,400 --> 00:00:37,840
 # 冰糖出来就是亮
-The rock sugar makes the color lighter
+The rock sugar makes the color shiny
 
 119
 00:00:37,840 --> 00:00:38,600
