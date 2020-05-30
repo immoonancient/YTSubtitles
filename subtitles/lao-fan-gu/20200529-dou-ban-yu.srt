@@ -2,24 +2,24 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•豆瓣魚】頂級廚師教你做經典川菜豆瓣魚，汁兒濃肉嫩，連吃三碗米飯才过瘾！後附炒雞蛋秘訣 |老飯骨
-# State Banquet Master Chef-Douban Fish/ Classic Sichuan cuisine, attached the secret of making scrambled eggs
+# State Banquet Master Chef-Douban Fish, Classic Sichuan dish, and how to make scrambled eggs
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
 # 小友們好，今天二伯要教大傢伙兒一道他師父的拿手好菜——豆瓣魚！
-# Hello, friends, today Er Bai will teach us a specialty dish of his master- Dou ban fish!
+# Hello, friends, today Er Bai will teach us a specialty of his master- Dou ban fish!
 # 這是一道傳統的川菜系菜品，鮮魚配上醇厚香辣的郫縣豆瓣醬，汁色紅亮，魚肉細嫩，扒一塊肉，裹一層汁兒，真的是太下飯了！
-# This is a classic sichuan cuisine, fresh fish with rich and spicy Pixian doubanjiang, bright red color sauce, tender fish meat, pick a piece of meat, dip into the sauce, it’s really good eating it with rice.
+# This is a classic sichuan dish, fresh fish with rich and spicy Pixian doubanjiang, bright and red sauce, tender fish meat. Get a piece of meat and dip into the sauce, it’s a really tasty dish to eat with rice.
 # 這期視頻里也是滿滿的細節，不粘鍋的小秘訣是什麼？炸魚的時候要注意什麼？炒調料的時候都要放些啥？小友們可要好好做好筆記嘍！
-# There are a lot of details in this video about what is the secret of not stick the pan? What should we notice when frying fish? What is the other ingredient? Our friends need to note them carefully.
-
+# There are a lot of details in this video: what's the secret of not sticking? What's key points for frying fish? What are the ingredients need to be added? Our friends need to take some notes carefully.
+# import intro 
 # 字幕
 
 1
 00:00:00,080 --> 00:00:02,360
 # 现在这道菜我还不瞒您说
-I confess that this dish, for now
+Honestly speaking, this dish, for now
 
 2
 00:00:02,360 --> 00:00:03,480
@@ -34,17 +34,17 @@ Dou ban fish.
 4
 00:00:04,840 --> 00:00:06,040
 # 汁红芡亮
-Bright red color sauce.
+Bright and red sauce.
 
 5
 00:00:06,040 --> 00:00:09,600
 # 这道菜也是我师父 他年轻考试的时候
-This dish is also my master, he cooked it and got No.1
+When my master was young, he cooked this dish and got No.1 in the exam.
 
 6
 00:00:09,600 --> 00:00:11,720
 # 在北京也是 这个菜是状元
-in his exam in Beijing when he was young.
+In Beijing, his douban Fish was also the best. 
 
 7
 00:00:11,720 --> 00:00:13,880
@@ -54,7 +54,7 @@ I can’t cook it as well as him.
 8
 00:00:13,880 --> 00:00:17,320
 # 但是我会尽心的把这个菜还原出来
-But I will do my best to restore it.
+But I will do my best to reproduce it.
 
 9
 00:00:17,320 --> 00:00:19,280
@@ -74,47 +74,47 @@ We had been pricked before and the finger had swollen up.
 12
 00:00:25,240 --> 00:00:28,200
 # 对划水上边带了很多很多的粘液
-There is much mucus on the fins.
+There is a lot of mucus on the fins.
 
 13
 00:00:28,200 --> 00:00:30,920
 # 蒸鱼也好 烧也好 特别腥
-Steamed fish or fried fish is too fishy.
+(It will make) either the steamed fish or fried fish to be fishy.
 
 14
 00:00:30,920 --> 00:00:32,640
 # 一定要把它去干净
-Have to remove it to clean.
+We have to clean it well.
 
 15
 00:00:32,640 --> 00:00:35,520
 # 这鱼尾巴是什么型 就恢复什么型
-The shape of the tail maintain original.
+We need to maintain the original shape of the tail.
 
 16
 00:00:35,520 --> 00:00:37,520
 # 加工好了 你看这块有点裂了
-It’s done. You see here is split.
+They cleaned it. You see here is split.
 
 17
 00:00:37,520 --> 00:00:39,400
 # 人家超市都给加工好了的
-The supermarket made it done.
+The supermarket had cleaned it.
 
 18
 00:00:39,400 --> 00:00:42,000
 # 没事 这难不住二伯
-That’s ok. It’s not a big deal for Er bai.
+That’s ok. It’s not a big deal for Er Bai.
 
 19
 00:00:42,000 --> 00:00:43,600
 # 形象有点不好 没事儿
-The sharp isn’t really good, but that’s fine.
+The shape isn’t really good, but that’s fine.
 
 20
 00:00:43,600 --> 00:00:47,880
 # 一字刀 斜着切就行 你看这叫便于入味
-Split, slant split. You see it’s easy making flavor penetration.
+Split, slant split. You see it’s easy to make the flavor penetrate.
 
 21
 00:00:47,880 --> 00:00:50,360
@@ -132,32 +132,32 @@ Some fish can’t be split too deep.
 24
 00:00:55,200 --> 00:00:59,760
 # 你像黄鱼剞太深了容易碎 鳜鱼没事
-Like huang fish, it’s easy be unshaped if you split it too deep. Chinese perch is ok.
+Like yellow croaker, it’s easy to break if you split it too deep. Chinese perch is ok.
 
 25
 00:00:59,760 --> 00:01:02,040
 # 它便于入味要不然这么厚的肉
-Such thick meat, have to split it to making flavor penetration,
+Such thick meat, have to split it to make the flavor penetrate,
 
 26
 00:01:02,040 --> 00:01:04,240
 # 它肉瓷实它烧不进去味
-Its meat is too firm to make flavor penetration.
+The meat is too firm to make the flavor penetrate.
 
 27
 00:01:04,240 --> 00:01:06,400
 # 这鳜鱼也算是淡水鱼之首吧
-Chinese perch is considered as no.1 in fresh water fish?
+Chinese perch is considered as no.1 in the fresh water fishes?
 
 28
 00:01:06,400 --> 00:01:09,960
 # 那可不是 它是吃鱼的鱼 好吃
-Sure. It is the fish eat others fish. Good tasty.
+Sure. It is the type of fish that eat other fishes. Tasty.
 
 29
 00:01:09,960 --> 00:01:12,000
 # 魏刚强你看 好看吧
-Wei gang qiang you see, it isn’t nice?
+Wei gang qiang, you see, isn’t it nice?
 
 30
 00:01:12,000 --> 00:01:14,160
@@ -167,22 +167,22 @@ You see cooking in the past is fastidious.
 31
 00:01:14,160 --> 00:01:17,160
 # 小魏给我盐 去腥 多来一点小魏
-Wei gang qiang pass me the salt, it can remove gamey taste. More salt.
+Xiao Wei, pass me the salt, to get rid of the fishy taste. More, Xiao Wei.
 
 32
 00:01:17,160 --> 00:01:19,280
 # 再来点没问题 多加点
-Get some more, no problem. More.
+A bit more, no problem. More.
 
 33
 00:01:19,280 --> 00:01:20,960
 # 这里边一定要扣干净
-Inside has to be clean up.
+The inside has to be cleaned.
 
 34
 00:01:20,960 --> 00:01:23,200
 # 这种东西是最腥的了
-The thing has the most gamey taste.
+The thing is the most fishy.
 
 35
 00:01:23,200 --> 00:01:24,320
@@ -190,7 +190,7 @@ The thing has the most gamey taste.
 36
 00:01:24,320 --> 00:01:27,920
 # 咱腌它一会 五分钟
-Let’s marinate it in 5 mins.
+Let’s marinate it for 5 mins.
 
 37
 00:01:27,920 --> 00:01:30,320
@@ -205,7 +205,7 @@ Put some salt, could wash the mucus off.
 39
 00:01:33,720 --> 00:01:35,400
 # 因为我们腌的时间短
-Because of the time that we marinate it is too short.
+Because the time that we marinate is short,
 
 40
 00:01:35,400 --> 00:01:37,520
@@ -215,12 +215,12 @@ We have to put more salt on it.
 41
 00:01:37,520 --> 00:01:41,560
 # 要说腌半小时 这鱼成咸鱼了
-If we marinate it for half an hour, it will be too salty.
+If we marinate it for half hour, it will be too salty.
 
 42
 00:01:41,560 --> 00:01:45,920
 # 这鳜鱼和黄鱼原则上不开膛
-In principle, the Chinese perch and huang fish aren’t sliced open.
+In principle, the Chinese perch and yellow croaker don't need to open the belly.
 
 43
 00:01:45,920 --> 00:01:51,760
@@ -230,7 +230,7 @@ Use iron sticks from their mouths
 44
 00:01:51,760 --> 00:01:55,960
 # 给它搅出来 为什么不开膛啊
-stir out the internal organs. Why don’t sliced open them?
+stir out the internal organs. Why don’t open the belly?
 
 45
 00:01:55,960 --> 00:02:00,160
@@ -240,12 +240,12 @@ The Chinese perch don’t have fishbones like toothpick in its belly.
 46
 00:02:00,160 --> 00:02:02,000
 # 它没有支撑点
-There hasn’t supporting spots.
+It doesn't have the supporting spots.
 
 47
 00:02:02,000 --> 00:02:04,680
 # 特别容易烧的时候容易碎
-The fish is easy be unshaped while being fry.
+It is easy to be broken while cooking.
 
 48
 00:02:04,680 --> 00:02:07,960
@@ -275,7 +275,7 @@ What is douban fish?
 53
 00:02:17,320 --> 00:02:19,720
 # 一定要用我们四川的郫县豆瓣酱
-Must making it with sichuan doubanjiang.
+Must cook it with Pi Xian doubanjiang from Sichuan.
 
 54
 00:02:19,720 --> 00:02:21,880
@@ -290,7 +290,7 @@ But douban fish isn’t. It is spicy.
 56
 00:02:25,120 --> 00:02:29,120
 # 但是它后边的味道 微甜小酸 鲜嫩
-But the flavor in the back is a little sweet and sour. Fresh and tender.
+But the after taste is a little sweet and sour. Fresh and tender.
 
 57
 00:02:29,120 --> 00:02:31,480
@@ -320,7 +320,7 @@ Eating with rice.
 62
 00:02:40,640 --> 00:02:44,520
 # 刚子你能吃一碗 见着这鱼你得吃两碗
-Wei gang qiang, you normally can eat a bowl of rice, with the dish you can eat 2 bowls of rice.
+Gang zi, if you normally can eat one bowl of rice, with the dish, you can eat 2 bowls.
 
 63
 00:02:44,520 --> 00:02:47,280
@@ -335,22 +335,22 @@ Small chopped green onion, these are for 2 times to put in.
 65
 00:02:51,440 --> 00:02:53,720
 # 豆瓣酱我都剁完了师父 在这儿呢
-Master. Here, I already finished chop doubanjiang.
+Master. Here, I already finished chopping doubanjiang.
 
 66
 00:02:53,720 --> 00:02:56,280
 # 你这剁的还真不行 我告诉你
-I tell you, this isn’t enough.
+I tell you, this chopping isn’t good enough.
 
 67
 00:02:56,280 --> 00:02:57,040
 # 不够细是吧
-Not enough finely.
+Not fine enough.
 
 68
 00:02:57,040 --> 00:02:59,640
 # 这个东西要糙 小魏 那可就不好看了
-If this is not finely, it’s not nice. Wei gang qiang.
+If this is coarse, Xiao Wei, it doesn't look good. 
 
 69
 00:02:59,640 --> 00:03:01,560
@@ -358,7 +358,7 @@ If this is not finely, it’s not nice. Wei gang qiang.
 70
 00:03:01,560 --> 00:03:03,200
 # 这就必须得细
-It has to be finely.
+It has to be finely chopped.
 
 71
 00:03:03,200 --> 00:03:05,240
@@ -393,7 +393,7 @@ It’s not easy to stick while frying. Hot wok and cold oil.
 77
 00:03:22,200 --> 00:03:24,200
 # 我们把鱼给蘸一蘸水（防崩防粘）
-We make it dry (for preventing to stick and spray oil)
+We make it dry (to prevent sticking and splashing the oil)
 
 78
 00:03:24,200 --> 00:03:28,080
@@ -416,12 +416,12 @@ what is the oil temperature?
 82
 00:03:31,640 --> 00:03:35,520
 # 一般在家里头我们这个火力还不够
-Normally at home, our stove hasn’t enough heat.
+Normally at home, our stove doesn't have enough heat.
 
 83
 00:03:35,520 --> 00:03:39,000
 # 火力不够 就要多涨一成的油温
-We have to increase 10% heat.
+We have to increase the temperature by 10%.
 
 84
 00:03:39,000 --> 00:03:40,600
@@ -470,12 +470,12 @@ Don’t fry it too much.
 94
 00:04:09,000 --> 00:04:11,400
 # 千万这里边肉要保持是生的
-Have to make the meat inside is raw.
+Have to make sure it is still raw inside.
 
 95
 00:04:11,400 --> 00:04:14,560
 # 外边定型了 里边的肉是不能熟的
-Outside of the meat is shaped, inside isn’t cooked.
+Outside of the fish is shaped, but the inside shouldn't be fully cooked.
 
 96
 00:04:14,560 --> 00:04:16,560
@@ -485,12 +485,12 @@ Like this, the douban fish is what we required.
 97
 00:04:16,560 --> 00:04:18,200
 # 这是最关键的地方
-That’s the most important.
+That’s the most important part.
 
 98
 00:04:18,200 --> 00:04:21,320
 # 放点底油 小点火小魏
-Put a little oil in, lower heat. Wei gang qiang.
+Put a little oil in, lower heat, Xiao Wei.
 
 99
 00:04:21,320 --> 00:04:23,200
@@ -523,7 +523,7 @@ It’s time to turn up heat. Fry it to well done.
 105
 00:04:43,160 --> 00:04:46,080
 # 然后酱油可以来一点
-Then add a little soy sauce.
+Then add a little bit of soy sauce.
 
 106
 00:04:46,080 --> 00:04:47,160
@@ -556,7 +556,7 @@ Er bai was cooking and explaining at same time.
 112
 00:05:00,200 --> 00:05:05,000
 # 可能有的网友没听清楚 我再给总结一下
-Maybe there are some friends didn’t get it clear. I summarize it again.
+Maybe some friends didn’t hear it. Let me summarize it again.
 
 113
 00:05:05,000 --> 00:05:09,640
@@ -566,7 +566,7 @@ Put oil in, fry doubanjiang, the finely chopped doubanjiang.
 114
 00:05:09,640 --> 00:05:13,960
 # 然后放切好的葱姜蒜进行煸炒
-Then put in chopped Green onion, ginger, garlic in and fry.
+Then put in the chopped Green onion, ginger, garlic and fry.
 
 115
 00:05:13,960 --> 00:05:16,960
@@ -576,7 +576,7 @@ Fry till the smell come out, then put huangjiu rice wine in.
 116
 00:05:16,960 --> 00:05:20,640
 # 放完酒了放酱油 放糖 水
-After huangjiu rice wine, put in soy sauce, sugar and water.
+After huangjiu rice wine, add soy sauce, sugar and water.
 
 117
 00:05:20,640 --> 00:05:25,120
@@ -601,17 +601,17 @@ There is a process to add flavor.
 121
 00:05:32,240 --> 00:05:35,920
 # 不能说一下把味儿加得太足了
-We can’t add flavor to strong in one time.
+We shouldn't add the flavor too strong at one time.
 
 122
 00:05:35,920 --> 00:05:38,840
 # 我们在老饭骨里边常说一句话
-We always said it in laofangu video.
+We always say this in laofangu's video:
 
 123
 00:05:38,840 --> 00:05:42,120
 # 大火烧鱼 小火炖肉
-High heat stew fish, low heat stew meat.
+High heat for stewing fish, low heat for stewing meat.
 
 124
 00:05:42,120 --> 00:05:45,400
@@ -651,7 +651,7 @@ We try our best to be perfect.
 131
 00:06:05,920 --> 00:06:09,000
 # 小魏你看颜色慢慢的（上来了）
-Wei gang qiang. You see the color is become heavily.
+Xiao Wei, You see the color is slowly (looking darker).
 
 132
 00:06:09,000 --> 00:06:11,320
@@ -666,7 +666,7 @@ The color will become heavily in a minute
 134
 00:06:13,200 --> 00:06:16,960
 # 这个里边突出的就是豆瓣酱的香味
-This highlight the aroma of doubanjiang.
+The aroma of doubanjiang is the highlight in this dish.
 
 135
 00:06:16,960 --> 00:06:18,240
@@ -676,7 +676,7 @@ Why is it called douban fish?
 136
 00:06:18,240 --> 00:06:23,520
 # 你豆瓣酱炒的不香 那味道就产生不出来
-It will not have any aroma，if you don’t fry doubanjiang to the smell come out.
+It will not have any aroma，if you don’t fry doubanjiang to let the smell come out.
 
 137
 00:06:23,520 --> 00:06:25,640
@@ -706,7 +706,7 @@ Add one more spoon. And it is almost done
 142
 00:06:38,640 --> 00:06:40,360
 # 这得烧多长时间师父
-Master. How long time it stews?
+Master. How long does it stew for?
 
 143
 00:06:40,360 --> 00:06:43,800
@@ -721,7 +721,7 @@ Turn down the heat, covered and stew for 5 mins
 145
 00:06:47,800 --> 00:06:51,000
 # 你看这个鱼简单当中不简单
-You see, it looks like easy cooking this fish, but it's actually not easy.
+You see, it looks like easy to cook this fish, but actually it's not.
 
 146
 00:06:51,000 --> 00:06:54,880
@@ -761,7 +761,7 @@ The other thing, we shake the wok during it stewing.
 153
 00:07:09,360 --> 00:07:13,280
 # 这鱼在锅里边它动 它就不糊 省的粘底
-The fish is move in the wok. To avoid the fish stick to bottom.
+The fish is move in the wok. To avoid the fish stick to the bottom.
 
 154
 00:07:13,280 --> 00:07:16,960
@@ -776,7 +776,7 @@ To observe where it's cooked and where it isn’t.
 156
 00:07:18,720 --> 00:07:20,920
 # 你看这肉的裂纹
-Look at the crack in the fish.
+Look at the crack on the fish.
 
 157
 00:07:20,920 --> 00:07:24,000
@@ -842,7 +842,7 @@ Add vinegar, just a little.
 170
 00:07:58,760 --> 00:08:00,600
 # 千万别多了 提香
-Do not too much, for enhance aroma.
+Do not add too much, it is for enhance the aroma.
 
 171
 00:08:00,600 --> 00:08:02,680
@@ -925,7 +925,7 @@ I would like to make a suggestion.
 189
 00:08:48,560 --> 00:08:52,720
 # 就按我这口味说 稍微再辣点
-It should be more spicy according my taste
+It should be more spicy according to my taste
 
 190
 00:08:52,720 --> 00:08:54,800
@@ -984,12 +984,12 @@ Our audience asks you that
 202
 00:00:00,960 --> 00:00:02,680
 # 怎么炒出鲜嫩的鸡蛋
-how to cook a good-looking scrambled egg?
+how to cook a good scrambled egg?
 
 203
 00:00:02,680 --> 00:00:03,600
 # 怎么炒好吃
-How to cook it more delicious?
+How to cook so it is more delicious?
 
 204
 00:00:03,720 --> 00:00:04,800
@@ -1059,12 +1059,12 @@ It is very tender.
 217
 00:00:27,800 --> 00:00:29,640
 # 有一种叫水炒法
-There is a cooking way called fry with water.
+There is a cooking method called fry with water.
 
 218
 00:00:30,040 --> 00:00:30,920
 # 水炒法炒什么呀
-It for cook what?
+What does it cook for?
 
 219
 00:00:31,080 --> 00:00:31,960
@@ -1119,7 +1119,7 @@ Even toona sinensis and other ingredients.
 229
 00:00:49,880 --> 00:00:51,760
 # 炒出来特别鲜嫩
-It's very tender cook in this way.
+It will be very tender if you cook in this way.
 
 230
 00:00:51,800 --> 00:00:53,560
@@ -1149,7 +1149,7 @@ It becomes like a knot and it's very hard.
 235
 00:01:01,360 --> 00:01:02,560
 # 但是还变色
-Tt also changes color.
+It also changes its original color.
 
 236
 00:01:02,560 --> 00:01:05,200
@@ -1164,7 +1164,7 @@ The color would be yellow.
 238
 00:01:06,520 --> 00:01:09,000
 # 这问题分析得非常深刻了吧
-Does the question analysis deeply?
+Has this question been analyzed deeply?
 
 239
 00:01:09,000 --> 00:01:09,840
