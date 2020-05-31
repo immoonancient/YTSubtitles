@@ -1,21 +1,24 @@
 # https://youtu.be/oDoQrjTkD9M
-【國宴大師•醬油汆面】老北京夏天的味道：醬香爽口、簡單易學的花椒油醬油汆面，夏天來一碗，就是這個味兒，痛快！|老飯骨
-State Banquet Master Chef - Soy Sauce Noodle. An Authentic Beijing Dish for Summer
 
-简介
-小友們好，天氣越來越熱了，轉眼就到了夏天。
-咱們北京的夏天可離不了這面，這不，今天就教各位小友做一道有著老北京夏天味道的小吃——醬油汆兒面！
-這醬油汆面做法比較簡單，小友們認真看視頻，一學保準兒就能會，滿滿的地道老北京味兒！特別適合夏天沒胃口不知道吃什麽的朋友們。
-P.S片尾還有回答之前小友們提出的問題，每期視頻我們都有在評論區精選壹些問題作解答，大家要積極留言哦！
+# 【國宴大師•醬油汆面】老北京夏天的味道：醬香爽口、簡單易學的花椒油醬油汆面，夏天來一碗，就是這個味兒，痛快！|老飯骨
+# State Banquet Master Chef - Soy Sauce Noodle. An Authentic Beijing Dish for Summer
 
-Introduction
-Hello friends. The weather is getting hot, and summer is around the corner.
-This noodle is a must-have dish for Beijing's summer. Today, we want to share an authentic Beijing summer dish with you - Soy Sauce Noodles.
-The recipe is easy. If you watch this video carefully, you can master it. It has authentic Beijing flavor, and 
-is especially suitable for those with little appetite in summer. 
-P.S. At the end of this video, we answer some questions from you. We usually select some questions and answer them in each video, so leave your comments and questions below!
+# 简介
 
-import intro
+# 小友們好，天氣越來越熱了，轉眼就到了夏天。
+# 咱們北京的夏天可離不了這面，這不，今天就教各位小友做一道有著老北京夏天味道的小吃——醬油汆兒面！
+# 這醬油汆面做法比較簡單，小友們認真看視頻，一學保準兒就能會，滿滿的地道老北京味兒！特別適合夏天沒胃口不知道吃什麽的朋友們。
+# P.S片尾還有回答之前小友們提出的問題，每期視頻我們都有在評論區精選壹些問題作解答，大家要積極留言哦！
+
+# Introduction
+# Hello friends. The weather is getting hot, and summer is around the corner.
+# This noodle is a must-have dish for Beijing's summer. Today, we want to share an authentic Beijing summer dish with you - Soy Sauce Noodles.
+# The recipe is easy. If you watch this video carefully, you can master it. It has authentic Beijing flavor, and
+# is especially suitable for those with little appetite in summer.
+# P.S. At the end of this video, we answer some questions from you. We usually select some questions and answer them in each video, so leave your comments and questions below!
+
+# import intro
+
 # 字幕
 
 1
@@ -364,7 +367,7 @@ You just need to take care of the noodles
 74
 00:03:10,000 --> 00:03:13,000
 # 真香 全搁进去 地道啊
-It smells so good, all in. Authentic 
+It smells so good, all in. Authentic
 
 75
 00:03:13,000 --> 00:03:15,800
@@ -485,97 +488,97 @@ it’s incredible, all fragrances merge together, so good
 
 # shift forward 00:04:36,800
 
-102
+100
 00:00:00,000 --> 00:00:01,880
 # 有网友问炒您糖色的时候
 Some friends want to ask when you make the caramelized sugar
 
-103
+101
 00:00:01,880 --> 00:00:05,120
 # 绵白糖 白砂糖和冰糖的区别都是什么
 What’s the difference between soft white sugar, white granulated sugar and rock sugar
 
-104
+102
 00:00:05,360 --> 00:00:07,120
 # 绵白糖你可以不加水
 You don’t need to add water for soft white sugar
 
-105
+103
 00:00:07,440 --> 00:00:10,120
 # 但是白砂糖冰糖必须是水油炒
 But for the white granulated sugar and rock sugar, you has to fry them with oil and water
 
-106
+104
 00:00:10,840 --> 00:00:11,880
 # 必须要加点水
 you must add some water
 
-107
+105
 00:00:12,040 --> 00:00:13,920
 # 绵白糖属于甜菜糖
 Soft white sugar is made from sugar beet
 
-108
+106
 00:00:14,720 --> 00:00:17,240
 # 砂糖和冰糖属于蔗糖
 Granulated sugar and rock sugar are made from sugar cane
 
-109
+107
 00:00:17,880 --> 00:00:20,920
 # 所以它那么大的糖块还有颗粒状
 So they are granular sugar
 
-110
+108
 00:00:21,200 --> 00:00:23,520
 # 你不加水的话它溶解的比较慢
 They will melt slowly if you don’t add water
 
-111
+109
 00:00:24,000 --> 00:00:26,160
 # 如果你火候再掌握的不当的话
 And if you can’t control the temperature
 
-112
+110
 00:00:26,640 --> 00:00:27,640
 # 会出现问题
 There will be some problems
 
-113
+111
 00:00:28,000 --> 00:00:30,080
 # 但是最主要的是冰糖
 But the essential is by using the rock sugar
 
-114
+112
 00:00:30,080 --> 00:00:31,080
 # 炒出来的糖色
 The caramelized sugar
 
-115
+113
 00:00:31,880 --> 00:00:33,360
 # 制出来的菜肴
 And color of the dishes
 
-116
+114
 00:00:33,840 --> 00:00:34,360
 # 红亮
 will be shiny and bright.
 
-117
+115
 00:00:34,400 --> 00:00:36,400
 # 糖色就跟红烧肉似的
 It’s like making the red braised pork
 
-118
+116
 00:00:36,400 --> 00:00:37,840
 # 冰糖出来就是亮
 The rock sugar makes the color shiny
 
-119
+117
 00:00:37,840 --> 00:00:38,600
 # 效果好
 The result is better
 
-120
+118
 00:00:39,680 --> 00:00:40,640
 # 好 下一个
 OK next one
