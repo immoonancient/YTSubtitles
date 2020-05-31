@@ -1,0 +1,584 @@
+# https://youtu.be/oDoQrjTkD9M
+
+# 【國宴大師•醬油汆面】老北京夏天的味道：醬香爽口、簡單易學的花椒油醬油汆面，夏天來一碗，就是這個味兒，痛快！|老飯骨
+# State Banquet Master Chef - Soy Sauce Noodle. An Authentic Beijing Dish for Summer
+
+# 简介
+
+# 小友們好，天氣越來越熱了，轉眼就到了夏天。
+# 咱們北京的夏天可離不了這面，這不，今天就教各位小友做一道有著老北京夏天味道的小吃——醬油汆兒面！
+# 這醬油汆面做法比較簡單，小友們認真看視頻，一學保準兒就能會，滿滿的地道老北京味兒！特別適合夏天沒胃口不知道吃什麽的朋友們。
+# P.S片尾還有回答之前小友們提出的問題，每期視頻我們都有在評論區精選壹些問題作解答，大家要積極留言哦！
+
+# Introduction
+# Hello friends. The weather is getting hot, and summer is around the corner.
+# This noodle is a must-have dish for Beijing's summer. Today, we want to share an authentic Beijing summer dish with you - Soy Sauce Noodles.
+# The recipe is easy. If you watch this video carefully, you can master it. It has authentic Beijing flavor, and
+# is especially suitable for those with little appetite in summer.
+# P.S. At the end of this video, we answer some questions from you. We usually select some questions and answer them in each video, so leave your comments and questions below!
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:03,400
+# 酱油汆儿 花椒油的酱油汆儿
+Soy sauce, Soy sauce with Sichuan peppercorn oil
+
+2
+00:00:03,400 --> 00:00:05,040
+# 这叫一个地道
+This is authentic
+
+3
+00:00:05,040 --> 00:00:07,200
+
+4
+00:00:07,200 --> 00:00:09,480
+# 凉凉的 夏天来这么一碗
+This dish is fresh, suitable for summer time.
+
+5
+00:00:09,760 --> 00:00:12,120
+
+6
+00:00:12,120 --> 00:00:14,000
+# 水里搁点盐
+Add some salt in the water
+
+7
+00:00:14,000 --> 00:00:17,880
+# 为了绿点 少点点油 来一点点
+To give a green color, add a touch of oil
+
+8
+00:00:17,880 --> 00:00:19,400
+# 锅开了 烫香椿
+The water starts boiling, Xiangchun (Chinese mahogany) in
+
+9
+00:00:19,400 --> 00:00:21,680
+# 这香椿必须要焯水
+The Xiangchun (Chinese mahogany) must be blanched in the water
+
+10
+00:00:21,680 --> 00:00:23,440
+
+11
+00:00:23,440 --> 00:00:24,760
+# 咱在北京讲究什么啊
+What is the tradition in Beijing ?
+
+12
+00:00:24,760 --> 00:00:26,400
+# 夏天爱吃麻酱
+In summer, our favorites' is sesame sauce!
+
+13
+00:00:26,400 --> 00:00:28,120
+
+14
+00:00:29,160 --> 00:00:32,040
+# 焯完水了 关火
+Finish blanching, turn off the fire
+
+15
+00:00:32,040 --> 00:00:34,160
+# 我就开始切黄瓜 黄瓜丝
+I’m going to chop some shredded cucumber
+
+16
+00:00:34,160 --> 00:00:36,960
+# 原来胡同里头讲究吃这个
+In the past, it was a traditional dish in Hutong.
+
+17
+00:00:36,960 --> 00:00:40,080
+# 这麻酱面的吃法太多了
+There are so many ways to eat noodles with the sesame sauce
+
+18
+00:00:40,080 --> 00:00:45,000
+# 冰的凉凉的 酱油汆儿麻酱面
+Cold and fresh, that’s the soy and sesame sauce noodles
+
+19
+00:00:45,000 --> 00:00:48,680
+# 天也热了来点这个 就两瓣蒜
+Since the weather is getting hotter, let’s add 2 cloves of garlic
+
+20
+00:00:48,680 --> 00:00:53,480
+# 尤其那新蒜一下来 吃起来那美
+specially with the fresh garlic, that tastes good
+
+21
+00:00:53,640 --> 00:00:57,400
+# 黄瓜丝 今天咱来个文吃的是吧
+Shredded cucumber in the dish, so no meat today
+
+22
+00:00:57,400 --> 00:00:59,200
+# 有什么咱就搁什么就行了
+Yeah, just cook whatever we have
+
+23
+00:00:59,200 --> 00:01:00,880
+# 香椿弄好了
+Xiangchun (Chinese mahogany) done
+
+24
+00:01:00,880 --> 00:01:02,840
+# 切的稍微长点别太碎了
+Chop it in long pieces, don't need to be too fine
+
+25
+00:01:02,840 --> 00:01:04,920
+# 吃的过瘾 有口感
+The texture is better
+
+26
+00:01:04,920 --> 00:01:08,160
+# 香椿 小萝卜 很简单 黄瓜丝
+Xiangchun (Chinese mahogany), reddish, Shredded cucumber, very easy
+
+27
+00:01:08,160 --> 00:01:09,640
+
+28
+00:01:09,640 --> 00:01:10,880
+
+29
+00:01:10,880 --> 00:01:14,000
+# 两边一切 人家还讲究
+Cut in two, he’s very particular about chopping
+
+30
+00:01:14,000 --> 00:01:17,480
+# 我切的是眉毛葱 你看那小眉毛一弯
+I chopped it like the eyebrow, take a look
+
+31
+00:01:17,480 --> 00:01:17,920
+
+32
+00:01:17,920 --> 00:01:19,920
+# 白眉大侠 不是黑眉
+Like kongfu master with white eyebrow
+
+33
+00:01:19,920 --> 00:01:21,480
+
+34
+00:01:21,480 --> 00:01:24,360
+# 麻酱 二八酱
+Sesame paste, made from 20% of sesame and 80% of peanut
+
+35
+00:01:24,360 --> 00:01:26,120
+# 加点盐
+Add some salt
+
+36
+00:01:26,120 --> 00:01:27,840
+# 用水和用酱油和
+Mix it with water and soy sauce
+
+37
+00:01:27,840 --> 00:01:32,480
+# 用水和 这是关键点
+Mix with some water, that’s important
+
+38
+00:01:32,480 --> 00:01:35,160
+# 你像做其它的调味用麻酱的
+If you make other recipes with sesame paste
+
+39
+00:01:35,160 --> 00:01:37,240
+# 比如说怪味 就用酱油和
+For example the Guaiwei (a type of multi-flavor), mix the paste with soy sauce
+
+40
+00:01:37,240 --> 00:01:41,520
+# 你像北京的麻酱面 必须是水和
+Or like the sesame paste noodles in Beijing, the paste has to be mixed with water
+
+41
+00:01:41,520 --> 00:01:43,960
+# 这麻酱还挺香
+The sesame sauce smells good
+
+42
+00:01:43,960 --> 00:01:46,240
+# 好 咱这麻酱差不多了
+Ok, almost done with the sesame sauce
+
+43
+00:01:46,240 --> 00:01:48,160
+
+44
+00:01:48,160 --> 00:01:51,280
+# 一挑一条线 里边还挺稠
+A little sticky, dripping like a string
+
+45
+00:01:51,280 --> 00:01:54,320
+# 再攉拢攉拢就开了 先搁一边
+It’s OK now, put it aside
+
+46
+00:01:54,320 --> 00:01:56,400
+# 混合油
+Mixed oil in
+
+47
+00:01:56,400 --> 00:01:58,120
+# 花生油
+Peanut oil in
+
+48
+00:01:58,120 --> 00:01:59,640
+# 和香油
+Sesame oil in
+
+49
+00:02:00,560 --> 00:02:02,120
+# 二伯给看着点锅
+Er bai monitors the oil temperature
+
+50
+00:02:02,120 --> 00:02:04,880
+# 我这边看着这个油 下面喽
+No problem, put the noodles in boiling water
+
+51
+00:02:04,880 --> 00:02:06,880
+# 炸炸花椒 你都下了吧
+Fry some Sichuan peppercorn, all in
+
+52
+00:02:06,880 --> 00:02:11,600
+# 油温够高了 开始炸花椒油
+It’s hot enough now, let’s make the peppercorn oil
+
+53
+00:02:12,720 --> 00:02:15,080
+# 花椒油 小点火
+Turn down the fire
+
+54
+00:02:15,080 --> 00:02:19,640
+# 花椒油慢慢炸 小火沁一下
+Make it slow, fry it slowly
+
+55
+00:02:19,640 --> 00:02:21,280
+# 这玩意必须得炸糊了
+It has to be fried
+
+56
+00:02:21,280 --> 00:02:23,480
+# 不炸糊了不好吃了 也别太糊
+It won’t be tasty if it’s not fried, don’t overcook anyway
+
+57
+00:02:23,480 --> 00:02:26,080
+# 说糊没糊 说没糊马上糊了
+Really carefully with the timing
+
+58
+00:02:26,080 --> 00:02:29,040
+# 炸成褐色就行了 深褐色
+Fry it till brown, dark brown
+
+59
+00:02:29,040 --> 00:02:33,200
+# 花椒捞不捞 花椒少留俩 嚼着香
+Do we need to take the peppercorn out? Leave 2 inside, it’s good to chew it
+
+60
+00:02:33,200 --> 00:02:35,120
+# 行了小魏 不能再糊了
+Take out now Xiaowei, it will be overcooked
+
+61
+00:02:35,120 --> 00:02:38,160
+# 再糊了就该苦了 好了 捞出来
+It will be bitter if it’s overcooked, now take it out
+
+62
+00:02:38,160 --> 00:02:39,200
+
+63
+00:02:39,200 --> 00:02:44,840
+# 葱丝姜丝 给它炝上
+Shredded green onion and ginger, blanch them it the peppercorn oil
+
+64
+00:02:44,840 --> 00:02:48,000
+# 全加上 眉毛葱
+Shredded green onion, all in
+
+65
+00:02:49,960 --> 00:02:53,640
+# 煸它一下 香味出来喽
+fry them, the aroma is released
+
+66
+00:02:53,640 --> 00:02:57,120
+# 酱油一呲 就是酱油
+Soy sauce in
+
+67
+00:02:57,200 --> 00:02:59,920
+
+68
+00:02:59,920 --> 00:03:01,040
+# 汆儿齐了
+Fry all the ingredients
+
+69
+00:03:01,040 --> 00:03:02,800
+# 小魏你怎么想起做一汆儿面
+Xiaowei, why do you want to make this dish?
+
+70
+00:03:02,800 --> 00:03:03,880
+# 上次咱直播了一次
+Last time, we were streaming
+
+71
+00:03:03,880 --> 00:03:06,680
+# 那网友都没看清楚 再做一遍
+Our friends didn’t see clearly, so I want to do it again
+
+72
+00:03:06,680 --> 00:03:08,560
+# 二伯关火 我这儿照着呢
+Er bai, turn off the fire. I am filming here.
+
+73
+00:03:08,560 --> 00:03:10,000
+# 你就看你那面吧
+You just need to take care of the noodles
+
+74
+00:03:10,000 --> 00:03:13,000
+# 真香 全搁进去 地道啊
+It smells so good, all in. Authentic
+
+75
+00:03:13,000 --> 00:03:15,800
+# 面条出锅 出锅喽
+Take the noodles out
+
+76
+00:03:15,800 --> 00:03:17,960
+
+77
+00:03:17,960 --> 00:03:21,600
+# 面条热气腾腾 行了 别太凉了
+The noodles are still steaming, Ok don’t let it to be too cool.
+
+78
+00:03:21,600 --> 00:03:26,120
+# 你看它这个一搭 出盘仪式很重要
+Look at that, the presentation is very important
+
+79
+00:03:26,120 --> 00:03:28,640
+# 有没有鲜花啊 鲜花没有有萝卜
+Do we have some flowers? No, but we have some radish
+
+80
+00:03:28,640 --> 00:03:30,880
+# 搁这一堆 香椿搁到这儿
+Put one accompaniment together, Xianchun put it here
+
+81
+00:03:30,880 --> 00:03:33,320
+# 好了 齐活
+Well done !
+
+82
+00:03:33,320 --> 00:03:36,680
+# 酱油汆儿 花椒油的酱油汆儿
+Soy sauce, Soy sauce with Sichuan peppercorn oil
+
+83
+00:03:37,960 --> 00:03:41,960
+# 让它好看点 齐活
+Make it looks good, good job
+
+84
+00:03:41,960 --> 00:03:45,760
+# 麻酱 太有食欲了
+Sesame sauce, make people want to try.
+
+85
+00:03:45,760 --> 00:03:49,080
+# 凉凉的 夏天来这么一碗
+So fresh in summer days
+
+86
+00:03:49,080 --> 00:03:51,600
+# 还得搁两瓣蒜 齐了
+And 2 cloves of garlic, finished
+
+87
+00:03:51,600 --> 00:03:53,200
+
+88
+00:03:53,200 --> 00:03:54,800
+# 这叫一个地道
+This is so authentic
+
+89
+00:03:54,800 --> 00:03:56,480
+# 大爷 我给您先来一口
+Da Ye, let me serve you the first bite.
+
+90
+00:03:56,480 --> 00:03:59,240
+# 别来一口 你来一盆儿吧
+Not just a bite, make it a bowl
+
+91
+00:03:59,240 --> 00:04:00,520
+# 来瓣蒜
+Give me a clove of garlic
+
+92
+00:04:00,520 --> 00:04:03,200
+
+93
+00:04:03,200 --> 00:04:06,200
+# 瞧大爷吃的 就是香
+Look at Da Ye, it must be good
+
+94
+00:04:06,200 --> 00:04:08,680
+# 你看这声音 太棒了
+And this sound, amazing
+
+95
+00:04:08,680 --> 00:04:10,680
+# 看你师父吃面什么水平
+Let’s see your master's level of eating noodles
+
+96
+00:04:10,680 --> 00:04:15,640
+
+97
+00:04:15,640 --> 00:04:18,520
+# 这味儿调的正合适 太好吃了
+The season is correct, it’s amazing
+
+98
+00:04:18,520 --> 00:04:21,200
+# 花椒油的香味 麻酱的香味
+There’s fragrance of peppercorn oil and sesame sauce
+
+99
+00:04:21,200 --> 00:04:23,680
+# 特别香 融为一体 太好吃了
+it’s incredible, all fragrances merge together, so good
+
+# shift forward 00:04:36,800
+
+100
+00:00:00,000 --> 00:00:01,880
+# 有网友问炒您糖色的时候
+Some friends want to ask when you make the caramelized sugar
+
+101
+00:00:01,880 --> 00:00:05,120
+# 绵白糖 白砂糖和冰糖的区别都是什么
+What’s the difference between soft white sugar, white granulated sugar and rock sugar
+
+102
+00:00:05,360 --> 00:00:07,120
+# 绵白糖你可以不加水
+You don’t need to add water for soft white sugar
+
+103
+00:00:07,440 --> 00:00:10,120
+# 但是白砂糖冰糖必须是水油炒
+But for the white granulated sugar and rock sugar, you has to fry them with oil and water
+
+104
+00:00:10,840 --> 00:00:11,880
+# 必须要加点水
+you must add some water
+
+105
+00:00:12,040 --> 00:00:13,920
+# 绵白糖属于甜菜糖
+Soft white sugar is made from sugar beet
+
+106
+00:00:14,720 --> 00:00:17,240
+# 砂糖和冰糖属于蔗糖
+Granulated sugar and rock sugar are made from sugar cane
+
+107
+00:00:17,880 --> 00:00:20,920
+# 所以它那么大的糖块还有颗粒状
+So they are granular sugar
+
+108
+00:00:21,200 --> 00:00:23,520
+# 你不加水的话它溶解的比较慢
+They will melt slowly if you don’t add water
+
+109
+00:00:24,000 --> 00:00:26,160
+# 如果你火候再掌握的不当的话
+And if you can’t control the temperature
+
+110
+00:00:26,640 --> 00:00:27,640
+# 会出现问题
+There will be some problems
+
+111
+00:00:28,000 --> 00:00:30,080
+# 但是最主要的是冰糖
+But the essential is by using the rock sugar
+
+112
+00:00:30,080 --> 00:00:31,080
+# 炒出来的糖色
+The caramelized sugar
+
+113
+00:00:31,880 --> 00:00:33,360
+# 制出来的菜肴
+And color of the dishes
+
+114
+00:00:33,840 --> 00:00:34,360
+# 红亮
+will be shiny and bright.
+
+115
+00:00:34,400 --> 00:00:36,400
+# 糖色就跟红烧肉似的
+It’s like making the red braised pork
+
+116
+00:00:36,400 --> 00:00:37,840
+# 冰糖出来就是亮
+The rock sugar makes the color shiny
+
+117
+00:00:37,840 --> 00:00:38,600
+# 效果好
+The result is better
+
+118
+00:00:39,680 --> 00:00:40,640
+# 好 下一个
+OK next one
