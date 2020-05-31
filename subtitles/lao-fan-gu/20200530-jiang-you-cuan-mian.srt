@@ -483,11 +483,7 @@ There’s fragrance of peppercorn oil and sesame sauce
 # 特别香 融为一体 太好吃了
 it’s incredible, all fragrances merge together, so good
 
-100
-00:04:23,680 --> 00:04:25,080
-
-101
-00:04:25,080 --> 00:00:02,000
+# shift forward 00:04:36,800
 
 102
 00:00:00,000 --> 00:00:01,880
