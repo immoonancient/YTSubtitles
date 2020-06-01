@@ -5,17 +5,17 @@
 1
 00:00:01,680 --> 00:00:06,600
 # 陕西·西安
-Xian, Shanxi
+Xi'an, Shaanxi
 
 2
 00:00:21,240 --> 00:00:25,240
 # 今天中午 决定去吃米皮
-We decide to eat Mipi(lit:rice skin)
+We decide to eat Mipi (lit:rice skin) this noon
 
 3
 00:00:36,360 --> 00:00:38,840
 # 拿一个大份的 再要一个冰峰
-A large mipi and a bingfeng(soft drink)
+A large mipi and a bingfeng (soft drink)
 
 4
 00:00:38,840 --> 00:00:40,400
@@ -50,7 +50,7 @@ Let’s drink first
 10
 00:01:10,200 --> 00:01:12,480
 # 我看着大哥加了好多醋
-I saw big brother add many vinegar in to mipi
+I saw the bro added a lot of vinegar into mipi
 
 11
 00:01:12,480 --> 00:01:14,680
@@ -60,40 +60,42 @@ Let’s take a look
 12
 00:01:25,680 --> 00:01:29,160
 # 它这个是米皮加了佐料之后
+The mipi is like, after adding the seasonings
 
 13
 00:01:29,160 --> 00:01:33,800
 # 用最后的几根米皮 蘸了辣子 放在上面
+The last few strips are dipped in chili and put on the top
 
 14
 00:01:34,600 --> 00:01:37,640
 # 相对于面来说 米皮是更加光滑的
-Relative to noodle, mipi is smoother than noodle
+Compared to noodle, mipi is smoother
 
 15
 00:01:37,640 --> 00:01:40,200
 # 而且是这种爽口 弹口的
-And better tasty and texture
+And more crunchy and al dente
 
 16
 00:01:40,200 --> 00:01:44,880
 # 这个是要的大份的 除了米皮之外 还加了豆芽
-I ordered large size and extra bean sprouts
+I ordered a large size with extra bean sprouts
 
 17
 00:01:44,880 --> 00:01:49,560
 # 看着是红油油的 但是吃起来是香而不辣
-It looks red and oily, and it taste fragment but not spicy
+It looks red and oily, and it tastes fragment but not spicy
 
 18
 00:01:56,480 --> 00:02:01,880
 # 它是调好味道的 就是吃起来稍微咸点 既当菜又当饭
-It seasoned, taste a little bit salty, same as rice and meal
+It's pre-seasoned, which tastes a little bit salty. Works as both staple and side dish
 
 19
 00:02:13,720 --> 00:02:17,400
 # 很多来吃饭的人会选择 多加辣子或者少加辣子
-Most people who come and eat will choice add more or less spicy pepper
+Most people who come and eat may choose "more spicy" or "less spicy"
 
 20
 00:02:17,400 --> 00:02:19,840
@@ -108,12 +110,12 @@ Less spicy pepper for my kid
 22
 00:02:38,760 --> 00:02:41,880
 # 这边是刚磨出来的米
-There is fresh rice milk
+Here is fresh rice milk
 
 23
 00:02:41,880 --> 00:02:44,160
 # 米成浆之后就会上锅
-And steamed it
+After grinding, it's steamed in the steamer
 
 24
 00:02:44,160 --> 00:02:47,880
@@ -123,17 +125,17 @@ Let’s see how fresh mipi looks like
 25
 00:02:47,880 --> 00:02:50,480
 # 师傅的动作特别麻利
-Master skill
+The movements are so skillful
 
 26
 00:02:50,480 --> 00:02:53,920
 # 摇晃一下 固定形状
-Shake it and make sure it stay shape
+Shake it and fix its shape
 
 27
 00:02:54,800 --> 00:02:57,160
 # 等待上锅
-Wait for steam
+Wait for steaming
 
 28
 00:02:57,160 --> 00:03:01,440
@@ -148,7 +150,7 @@ Ah the len is blurry
 30
 00:03:05,560 --> 00:03:09,800
 # 师傅说 米皮一天要蒸的比现在的还要高
-Master said everyday they steamed more mipi than now
+Shifu said that they steam more mipi than what we see here
 
 31
 00:03:09,800 --> 00:03:12,320
@@ -158,46 +160,47 @@ More than ten piles of mipi
 32
 00:03:12,320 --> 00:03:16,240
 # 每个米皮出锅都这么掷地有声
+Every piece of mipi comes out loud
 
 33
 00:03:20,880 --> 00:03:25,080
 # 刚才阿姨说 咱们做米皮已经做了第三代了
-Aunt said they are third generation to  make mipi
+Aunt said they are the third generation to make mipi
 
 34
 00:03:25,080 --> 00:03:28,120
 # 第三代 到我这代第三代了
-Third generation
+Three generations. I'm the third generation
 
 35
 00:03:28,120 --> 00:03:32,840
 # 你怎么会选择 继续做米皮呢
-Why you choose to keep the mipi business going
+Why did you choose to keep the mipi business going
 
 36
 00:03:32,840 --> 00:03:36,520
 # 当兵回来 出去干了一段时间 不行嘛
-I was a soldier, not going really well, so I come back
+After retiring from the army, I tried working elsewhere but didn't go well
 
 37
 00:03:36,520 --> 00:03:38,400
 # 就是老人说那个
-That’s how old people said
+As the elderly say
 
 38
 00:03:38,400 --> 00:03:40,160
 # 家有万贯 不如一个烂店
-A bad business is better than good money
+Your own bad business is better than good money
 
 39
 00:03:40,160 --> 00:03:44,600
 # 就把这个手艺继续传承下去
-Let my child inherit my business
+So we must keep the inheritance of the skills
 
 40
 00:03:44,600 --> 00:03:49,160
 # 咱们是从早上8点到晚上8点半吧 差不多营业时间
-We start at about 8 am to 8 pm everyday
+We open from about 8 am to 8 pm everyday
 
 41
 00:03:49,160 --> 00:03:50,720
@@ -212,32 +215,32 @@ yeah
 43
 00:03:51,920 --> 00:03:56,600
 # 米皮也是不断地蒸 不断地出 不断地切出来
-Never stop steamed mipi,serve,and cut into strips
+We keep steaming mipi, cutting and serving it
 
 44
 00:03:56,600 --> 00:04:00,200
 # 早上蒸一点
-Steam some mipi on the morning
+Steam some mipi in the morning
 
 45
 00:04:00,200 --> 00:04:01,720
 # 到下午再蒸一点
-Some on the afternoon
+And then some in the afternoon
 
 46
 00:04:01,720 --> 00:04:05,000
 # 我看米皮的佐料就是很简单
-Condiments of mipi is simple
+As I see the condiments of mipi are simple
 
 47
 00:04:05,000 --> 00:04:09,240
 # 辣椒 盐 简单拌一拌就可以了
-Spicy pepper, salt, and mixed it up
+Spicy pepper, salt, and mixing it up
 
 48
 00:04:09,240 --> 00:04:10,280
 # 就可以了
-Ready to serve
+That's it
 
 49
 00:04:10,280 --> 00:04:14,200
@@ -247,7 +250,7 @@ But it's even harder to make it simple
 50
 00:04:14,200 --> 00:04:15,040
 # 这个是
-This is
+You know
 
 51
 00:04:15,040 --> 00:04:18,360
@@ -257,7 +260,7 @@ And many old people who eat mipi
 52
 00:04:18,360 --> 00:04:23,200
 # 年龄大的 冬天来 下雪那时候早来
-Will come early of the morning
+Will come early in the morning, in winter when it snows
 
 53
 00:04:24,480 --> 00:04:27,360
@@ -267,27 +270,27 @@ Around 8am
 54
 00:04:27,360 --> 00:04:30,360
 # 冬天吃凉皮好吃 因为我冬天老吃凉皮
-Mipi taste better in winter, so i always eat it in winter
+Mipi tastes better in winter, as i always eat it in winter
 
 55
 00:04:30,360 --> 00:04:33,080
 # 冬天它凉皮凉透了 吃起来有味道
-Mipi is better for eat in winter with better flavor
+Mipi is fully cooled down in winter, so it tastes more flavorful
 
 56
 00:04:33,080 --> 00:04:35,160
 # 夏天吃凉皮 皮子也不筋道
-But texture of mipi not that good in summer
+If you eat it in summer, it's not al dente
 
 57
 00:04:35,160 --> 00:04:37,240
 # 冬天凉皮凉一下 筋道
-Mipi is colder in winter with good texture
+In winter, we cool it a bit, it's al dente
 
 58
 00:04:51,000 --> 00:04:55,480
 # 小哥刚才说 自己的米皮火不了 因为看了很多人发米皮
-Little brother said his mipi not gonna be popular, because many people make it too
+Bro said his mipi is not gonna be popular, because he has seen a lot of mipi videos
 
 59
 00:04:55,480 --> 00:04:57,160
@@ -297,29 +300,30 @@ Not great number of likes
 60
 00:04:57,160 --> 00:05:00,120
 # 除了关心自己的米皮外 他还比较关心我
-He not just care about his mipi, and                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   also care about me as well
+He does not just care about his mipi, but also me as well
 
 61
 00:05:00,120 --> 00:05:05,840
 # 说 你可以拍一下喷泉 大唐不夜城 会有助于涨粉
-He said I can film that fountain and the grand tang dynasty ever-bright city, it helps increase subscribers
+He said I can film that fountain and the Grand Tang Dynasty Ever-Bright City (大唐不夜城), it helps me get subscribers
 
 62
 00:05:06,280 --> 00:05:07,760
 # 并邀请我们 要走的时候
-And he invite us when we left
+And he invited us when we left
 
 63
 00:05:07,760 --> 00:05:12,120
 # 可以再来这边吃一份干捞的米皮 味道会更好
-That we can come and eat a ganlao mipi next time,it taste better
+That we can come and eat a ganlao mipi next time, it tastes better
 
 64
 00:05:12,120 --> 00:05:16,480
 # 时间合适的话 我们一定会再来的
-We gonna come again if we can
+We are gonna come again if we can
 
 65
 00:05:20,480 --> 00:05:24,400
 # 关 注
-雪 鱼 探 店
+# 雪 鱼 探 店
+Please subscribe
