@@ -5,7 +5,7 @@
 1
 00:00:01,920 --> 00:00:06,840
 # 陕西·西安
-Xian, Shanxi
+Xi'an, Shaanxi
 
 2
 00:00:12,480 --> 00:00:15,520
@@ -25,37 +25,37 @@ There are many food stalls on both sides of the street
 5
 00:00:22,600 --> 00:00:25,280
 # 看看今天中午吃什么吧
-Let’s see what to eat at this afternoon
+Let’s see what to eat at this noon
 
 6
 00:00:25,280 --> 00:00:26,880
 # 早上起来还没有吃饱饭
-Not get full from breakfast
+I've been hungry for the entire morning
 
 7
 00:00:26,880 --> 00:00:29,080
 # 现在出来的时间是比较早吧
-It’s still too early for lunch
+It’s still relatively too early for lunch
 
 8
 00:00:29,080 --> 00:00:32,040
 # 看了几家小店 都还没有打算开张
-Some restaurants still not open yet
+Some restaurants are still not open yet
 
 9
 00:00:32,040 --> 00:00:34,320
 # 走了半天 直到看到这锅肉
-Walk a long time until we saw the pot of meat
+We've walked for a long time until we saw this pot of meat
 
 10
 00:00:34,320 --> 00:00:37,120
 # 我这两条腿真的是走不动路了
-I’m really tired of walk
+I’m really tired of walking
 
 11
 00:00:45,680 --> 00:00:50,120
 # 来的太早了 没想到这边的面条还没有做好
-I came too early that their noodle not done yet
+We came too early. Didn't expect that their noodles are not ready yet
 
 12
 00:00:50,120 --> 00:00:52,880
@@ -65,7 +65,7 @@ But their huge pot is ready
 13
 00:00:52,880 --> 00:00:56,880
 # 看里面的肉 真的是特别香
-The meat is very fragment
+Look at the meat inside. It's very fragrant
 
 14
 00:01:06,600 --> 00:01:09,720
@@ -75,7 +75,7 @@ Is one pot of meat enough for the whole day?
 15
 00:01:09,720 --> 00:01:12,400
 # 要不够下午再烧吧
-We will make more if it needed
+We will make more in the afternoon if it needed
 
 16
 00:01:28,560 --> 00:01:31,280
@@ -85,12 +85,12 @@ We pour the meat on the noodles later, right?
 17
 00:01:31,280 --> 00:01:36,120
 # 这个肉 一会儿烧好以后 每一碗都有 都含着有
-We will pour the meat in every bowl,
+After the meat is ready, we'll pour into every bowl.
 
 18
 00:01:51,960 --> 00:01:55,000
 # 在西安的面馆里 总少不了两种食材
-There’s always two ingredients in noodle restaurant of Xian
+There are always two ingredients in noodle restaurant in Xi'an
 
 19
 00:01:55,000 --> 00:01:56,760
@@ -100,27 +100,27 @@ One is garlic
 20
 00:01:56,760 --> 00:01:58,920
 # 另外一种是醋
-Another one is vinegar
+The other is vinegar
 
 21
 00:02:01,120 --> 00:02:03,880
 # 怎么把它给忘了 还有辣子
-How could i forget the last one, spicy pepper as well
+How could I forget the last one, spicy pepper as well
 
 22
 00:02:06,520 --> 00:02:10,840
 # 我们今天吃的是卤面 面条是上锅蒸出来的
-We gonna have Lumian today, the noodle is steamed in a pot
+We are gonna have Lumian today. The noodles are steamed in a pot
 
 23
 00:02:10,840 --> 00:02:14,280
 # 面条出锅 然后在上面放上卤子
-After pour the meat on top, the noodle is ready to serve
+The noodles are steamed, and then gravy is pour on it
 
 24
 00:02:14,280 --> 00:02:17,440
 # 大碗的是13块钱 小碗的是11块钱
-13 yuan for large bowl, 11 yuan for small bowl
+13 yuan for a large bowl, 11 yuan for a small bowl
 
 25
 00:02:17,440 --> 00:02:20,600
@@ -130,52 +130,52 @@ Meat and vegetable in every bowl
 26
 00:02:33,240 --> 00:02:35,600
 # 干的时间好长了
-We’ve work here a long time
+We’ve been working here for a long time
 
 27
 00:02:35,600 --> 00:02:38,560
 # 一个生意坚持这么久 太不容易了
-It’s not easy to hold a business for that long time
+You've been running the business for so long. That's not easy
 
 28
 00:02:38,560 --> 00:02:41,120
 # 那你没办法 你要生活的嘛
-You have no choice
+You have no choice. You gotta make a living
 
 29
 00:02:41,120 --> 00:02:46,080
 # 人要生活就是这样子
-This is how life looks like
+This is how it looks like to make a living
 
 30
 00:02:46,960 --> 00:02:48,520
 # 反正跟上班一样
-Like works
+It's like an employment
 
 31
 00:02:48,520 --> 00:02:51,960
 # 你上班 工作 有时候干也要干一辈子嘛 是吧
-You work for life sometimes right?
+You got employed, go to work. That can also last a lifetime, right?
 
 32
 00:02:53,720 --> 00:02:57,000
 # 你人 你活着你不干 你咋么办
-What else can you do?
+If you live without working, what can you do?
 
 33
 00:02:57,000 --> 00:02:59,400
 # 是不 你不干这个就得干那个
-Correct? You need make a choice
+Correct? You need to work on something
 
 34
 00:03:03,640 --> 00:03:06,200
 # 都是些老顾客过来的是吧 附近上班的
-They all are old customers, works nearby
+Are those all old customers who work nearby?
 
 35
 00:03:06,200 --> 00:03:09,080
 # 老顾客多 干的时间长了 老顾客也多
-You will have more customers after you work such that long time
+Many old customers. We got many old customers after working here for a long time
 
 36
 00:03:09,080 --> 00:03:11,040
@@ -185,37 +185,37 @@ We also have new customers as well
 37
 00:03:11,040 --> 00:03:14,360
 # 反正可多顾客都说 （味道）还行
-They said Lumian not bad
+Anyway, many customers say that our Lumian is not bad
 
 38
 00:03:14,360 --> 00:03:16,240
 # 喜欢吃了他就爱吃
-He like to eat if he love it
+If they like it, they enjoy it
 
 39
 00:03:16,240 --> 00:03:19,040
 # 你有的人他不喜欢吃这种面 那咱能怎么办
-What else you can do if he doesn’t like it
+What can you do if they don't like it
 
 40
 00:03:19,040 --> 00:03:20,200
 # 就是一碗面
-Just a bowl of noodle
+Just a bowl of noodles
 
 41
 00:03:20,200 --> 00:03:24,360
 # 没有可香啊 像人家那种大口香得很
-Not that fragment as others restaurant
+Not something super tasty as others restaurant
 
 42
 00:03:24,360 --> 00:03:26,920
 # 这没有 就很家常的味嘛
-Just family restaurant
+No. Just something very homestyle
 
 43
 00:03:26,920 --> 00:03:28,800
 # 就家常味
-Family flavor
+Homestyle flavor
 
 44
 00:04:06,520 --> 00:04:09,040
@@ -275,7 +275,7 @@ Our large bowl of Lumian is ready
 55
 00:05:02,120 --> 00:05:06,320
 # 不过我发现 后面的大哥在吃面之前会先剥蒜
-I also find out the big brother who behind us will peel the garlic before eat his noodle
+I also found that the bro behind us peels the garlic before eating his noodles
 
 56
 00:05:06,320 --> 00:05:09,800
@@ -285,7 +285,7 @@ Aunt said 13 yuan of Lumian is enough for two people to eat
 57
 00:05:09,840 --> 00:05:11,480
 # 确实不少
-Sure did
+Sure it does
 
 58
 00:05:11,480 --> 00:05:16,720
@@ -295,12 +295,12 @@ Red, yellow and green, colorful
 59
 00:05:16,720 --> 00:05:20,920
 # 卤面里面除了有肉 菜花 豆角
-There is meat, cauliflower, and beans in Lumian
+There are meat, cauliflower, and beans in Lumian
 
 60
 00:05:20,920 --> 00:05:22,480
 # 此外呢 我们还加了一个蛋
-We also add an egg
+We also added an egg
 
 61
 00:05:22,480 --> 00:05:24,080
@@ -315,27 +315,27 @@ potato
 63
 00:05:31,480 --> 00:05:34,560
 # 阿姨刚才说 面条没有多好吃
-Aunt said the noodle not as good as i thought it would be
+Aunt said the noodles are not something super tasty
 
 64
 00:05:34,560 --> 00:05:38,440
 # 但是食材丰富 让人感觉食欲大开
-But it have plenty of ingredients, make me feel appetite wide open
+But it has plenty of ingredients, which is so appetizing
 
 65
 00:05:52,560 --> 00:05:56,440
 # 面条是干的 没有任何的汤汁 加了辣子
-Noodle is dry and without soup but add spicy pepper
+The noodles are dry and without soup. But there is spicy pepper
 
 66
 00:05:58,080 --> 00:06:02,600
 # 这个焖面加上辣子 辣子是香而不辣的
-This noodle with spicy pepper, and it is fragment but not spicy
+Noodles with spicy pepper. The pepper is fragrant but not spicy
 
 67
 00:06:02,600 --> 00:06:05,880
 # 但是很下面条
-Feel so good with noodle
+Goes so well with noodles
 
 68
 00:06:10,400 --> 00:06:12,920
@@ -345,7 +345,7 @@ There’s more if you want more
 69
 00:06:19,360 --> 00:06:22,400
 # 这哪是用碗装 这是用盆装
-This is not a bowl, even larger as pot
+This is not a bowl. It feels even like a pot
 
 70
 00:06:25,880 --> 00:06:28,400
@@ -360,12 +360,12 @@ Thank you
 72
 00:06:40,360 --> 00:06:44,680
 # 面条稍微有些油 有些酱油的咸味
-Noodle is a little bit oily with salty taste from soy sauce
+The noodles have a little bit of oil, and the salty taste from soy sauce
 
 73
 00:06:44,680 --> 00:06:49,000
 # 面和菜就是这么浑然一体
-Noodle and sides are such good combo
+The noodles and sides are such a good combo
 
 74
 00:06:54,160 --> 00:06:56,720
@@ -375,39 +375,40 @@ Now all sides are gone
 75
 00:06:56,720 --> 00:07:00,080
 # 然后我们说 把辣子放进去
-And we said mix spicy pepper with rest of it
+And as we said, we've mixed spicy pepper with the noodles
 
 76
 00:07:00,080 --> 00:07:03,760
 # 辣子都能当一道菜 配面条来吃
-Even spicy pepper are a side with noodle
+Even spicy pepper works as a side with the noodles
 
 77
 00:07:16,800 --> 00:07:20,800
 # 面馆里的面条是用这种蒸屉蒸出来的
-Noodles in the restaurant are make by steamer like this
+Noodles in the restaurant are cooked in a steamer like this
 
 78
 00:07:20,800 --> 00:07:24,160
 # 每卖一屉才会再去蒸一屉
-They make new after last is gone
+They make a new batch after the last batch is gone
 
 79
 00:07:24,160 --> 00:07:27,520
 # 不知不觉的工夫已经卖了三四屉了
-About 3 or 4 noodles of steamers are gone in such time
+About 3 or 4 steamers of noodles are gone in such a short time
 
 80
 00:08:03,880 --> 00:08:06,320
 # 叔 走了 拜拜
-Uncle, we gonna go, bye
+Uncle, we gotta go, bye
 
 81
 00:08:08,840 --> 00:08:12,200
 # 拍的差不多了 我们要走了
-Almost done, we should go
+We've done filming, we gotta go
 
 82
 00:08:16,400 --> 00:08:20,880
 # 关 注
-雪 鱼 探 店
+# 雪 鱼 探 店
+Please subscribe
