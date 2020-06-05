@@ -11,8 +11,10 @@
 # ps.節目末尾照例有「老飯骨叨叨叨」環節，二伯揭秘防脫髮的秘訣！
 # Hello friends, when Lao Feng is here, you will have meat! How delicious is this cumin lamb? It is crispy outside and tender inside, and make Er Bai secretly eat some and the Da Ye says it is the best.
 # Let's learn it. It is easy to cook at home. 
-ps. At the end, we have the "Q&A with Lao Fan Gu". Er Bai tells you how to prevent losing hair.
-import intro
+# ps. At the end, we have the "Q&A with Lao Fan Gu". Er Bai tells you how to prevent losing hair.
+
+# import intro
+
 # 字幕
 
 1
