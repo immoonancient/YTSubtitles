@@ -739,6 +739,8 @@ better than others
 # 我乌鲁木齐的老大哥要听见 他得多高兴
 if my old buddy from Urumqi heard this, he will be very happy
 
+# shift forward 00:07:41,800
+
 149
 00:00:00,000 --> 00:00:03,570
 # 问二伯平时吃什么东西能够防脱发
