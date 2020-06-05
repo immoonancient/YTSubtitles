@@ -1,0 +1,832 @@
+# https://youtu.be/BdAlZDLRk5o
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【國宴大師•孜然羊肉】成功率超高！掌握這幾個步驟，在家也能做出色香味俱全的孜然羊肉，大口吃肉真爽 |老飯骨
+# State Banquet Master Chef-Cumin Lamb. Colorful, Aromatic, Tasty and Easy to Make!
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 小友們好，老馮出場，必有肉吃！究竟這外焦里嫩、口感豐富的孜然羊肉有多好吃，饞的二伯偷吃，大爺說是最好吃的孜然羊肉呢？趕快來視頻里學一學，在家就能做的孜然羊肉，細節到位，學會這幾個步驟，想翻車都難！
+# ps.節目末尾照例有「老飯骨叨叨叨」環節，二伯揭秘防脫髮的秘訣！
+# Hello friends, when Lao Feng is here, you will have meat! How delicious is this cumin lamb? It is crispy outside and tender inside, and make Er Bai secretly eat some and the Da Ye says it is the best.
+# Let's learn it. It is easy to cook at home. 
+# ps. At the end, we have the "Q&A with Lao Fan Gu". Er Bai tells you how to prevent losing hair.
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:02,240
+# 我来了肯定咱也不能干啥
+Since I am here, I need to do something. 
+
+2
+00:00:02,240 --> 00:00:04,200
+# 今天咱来一个孜然羊肉
+Today we will cook cumin lamb
+
+3
+00:00:04,200 --> 00:00:05,760
+# 这块肉可好
+This piece of meat is really good
+
+4
+00:00:05,760 --> 00:00:07,320
+# 就这几个步骤掌握好了
+If you control these few steps well
+
+5
+00:00:07,320 --> 00:00:09,600
+# 这盘菜成功率很高
+the success rate of this dish will be high
+
+6
+00:00:13,000 --> 00:00:15,440
+# 选孜然羊肉 正常情况下
+Normally, for the cumin seed lamb, you can choose
+
+7
+00:00:15,440 --> 00:00:18,920
+# 您使后腿肉或者使羊上脑肉都行
+either leg or fillet.
+
+8
+00:00:18,920 --> 00:00:20,840
+# 我先把肉选出来好
+I first pick the piece of lamb out. 
+
+9
+00:00:20,840 --> 00:00:22,320
+# 这块肉不能用
+We don't use this part.
+
+10
+00:00:22,320 --> 00:00:25,800
+# 这是正经八百吃涮肉最好的地儿了
+This part is the best for hotpot
+
+11
+00:00:25,800 --> 00:00:27,760
+# 然后咱们这块从这儿开始
+then we start cutting from this area
+
+12
+00:00:27,760 --> 00:00:30,960
+# 下一刀 这是羊的外脊
+One more cut. This is the lamb loin.
+
+13
+00:00:30,960 --> 00:00:32,560
+# 这块留着涮肉去了
+we save it for hotpot
+
+14
+00:00:32,560 --> 00:00:35,000
+# 然后后边那云皮给它蹬了
+After that, let's peel off the skin on the back.
+
+15
+00:00:35,000 --> 00:00:38,560
+# 这个羊肉是当时 我跟一个忘年交（学的）
+I learned this dish from a senior friend.
+
+16
+00:00:38,560 --> 00:00:41,960
+# 2002年的时候 这老爷子是乌鲁木齐的
+Around 2002. My old buddy lives in Urumqi.
+
+17
+00:00:41,960 --> 00:00:43,800
+# 那时候我认识他的时候
+When I first met him,
+
+18
+00:00:43,800 --> 00:00:47,160
+# 他就已经五十二岁了
+he is alredy 52 years old
+
+19
+00:00:47,160 --> 00:00:48,920
+# 然后这个肉就选好了
+Ok, we got the piece we want.
+
+20
+00:00:48,920 --> 00:00:51,480
+# 大家一定要把后边一层云皮蹬了
+Guys you must peel off the skin backside
+
+21
+00:00:51,480 --> 00:00:55,760
+# 这个菜咱们平常去店里边去吃
+This dish, we often have in the restaurants, 
+
+22
+00:00:55,760 --> 00:00:58,200
+# 他买羊肉都是切成片
+They usually slice the lamb. 
+
+23
+00:00:58,200 --> 00:01:00,720
+# 实际上孜然羊肉应该是切成粒
+Actually,  cumin lamb should be cut in cubes.
+
+24
+00:01:00,720 --> 00:01:04,680
+# 实际上这个肉不是撑盘的菜 是要口感的菜
+since the meat in this dishes is not for presentation, but for texture.
+
+25
+00:01:04,680 --> 00:01:05,920
+# 我们这老大哥教的时候
+When the old buddy teached me
+
+26
+00:01:05,920 --> 00:01:10,320
+# 他说你这必须要切成粒 要不然没口感
+He said you must cut the lamb into cubes
+
+27
+00:01:10,320 --> 00:01:13,800
+# 它这肉里边有纹 看见了么
+See, there are some marble fat inside of the meat. 
+
+28
+00:01:13,800 --> 00:01:18,040
+# 这个肉 做孜然羊肉是口感最好的了
+This part is the best for cumin lamb.
+
+29
+00:01:18,040 --> 00:01:21,280
+# 比纯瘦的好吃
+better than lean meat
+
+30
+00:01:21,280 --> 00:01:25,040
+# 这么多够了吧大爷 不少
+Is that enough, Da Ye? It is quite a lot.
+
+31
+00:01:25,040 --> 00:01:25,680
+
+32
+00:01:27,000 --> 00:01:28,240
+# 咱打一鲜姜汁
+let's make some ginger juice.
+
+33
+00:01:28,240 --> 00:01:29,080
+
+34
+00:01:29,080 --> 00:01:30,960
+# 来一点点水
+add some water
+
+35
+00:01:30,960 --> 00:01:33,080
+# 粉碎机
+blender
+
+36
+00:01:33,080 --> 00:01:34,920
+# 这个菜 关键点就在这
+the key for this dish is here
+
+37
+00:01:34,920 --> 00:01:40,320
+# 鲜姜汁进去就压下羊肉的膻味
+fresh ginger juice can cover the gamy flavor 
+
+38
+00:01:40,320 --> 00:01:42,960
+# 然后提一下羊肉的香味
+then the meaty smell will appear
+
+39
+00:01:42,960 --> 00:01:46,400
+# 咱这姜汁儿进去了 来一勺盐
+after we add the ginger juice, put a spoon of salt
+
+40
+00:01:46,400 --> 00:01:49,560
+# 这盐得底口稍微足一点
+we need add enough salt at the beginning
+
+41
+00:01:49,560 --> 00:01:53,920
+# 胡椒粉 白胡椒
+pepper which is white pepper
+
+42
+00:01:53,920 --> 00:01:57,440
+# 这都是在腌羊肉里边必须的
+these are all the must-have ingredients for marinating the lamb
+
+43
+00:01:57,440 --> 00:02:01,600
+# 搅拌均匀  别使太大的劲
+mix evenly, but do not stir too hard
+
+44
+00:02:01,600 --> 00:02:03,280
+# 因为咱这肉块让它整点
+because we want the lamb to be complete
+
+45
+00:02:03,280 --> 00:02:06,960
+# 然后咱们来一点点的酱油
+then, let's add some soy sauce
+
+46
+00:02:06,960 --> 00:02:11,840
+# 最好黄豆酱油 味道还挺浓
+better to use soybean soy sauce. It has strong flavor.
+
+47
+00:02:11,840 --> 00:02:13,120
+# 这里边不要加鸡蛋
+do not put egg
+
+48
+00:02:13,120 --> 00:02:17,760
+# 直接上干粉 玉米淀粉
+use the corn startch to cover it
+
+49
+00:02:17,760 --> 00:02:20,960
+# 这淀粉不要太大
+we dont need too much
+
+50
+00:02:20,960 --> 00:02:25,320
+# 也是抄拌 拌匀了它就行了
+still stirring it. After fully mix, it is done
+
+51
+00:02:25,320 --> 00:02:29,240
+# 其实这淀粉是锁住原料的水分
+actually this corn startch is used for locking the water inside the ingredients
+
+52
+00:02:29,240 --> 00:02:31,520
+# 另外增加原料的嫩度
+additionally to keep its tenderness
+
+53
+00:02:31,520 --> 00:02:35,840
+# 还有起到了一个外焦里嫩的脆感
+make its crust crispy with tender inside
+
+54
+00:02:35,840 --> 00:02:39,680
+# 待会儿滑肉的时候油温稍微高一点
+When we stir the lamb cubes, the oil temperature should be a bit high 
+
+55
+00:02:39,680 --> 00:02:42,040
+# 比咱们滑肉的时候要高
+higher than usual
+
+56
+00:02:42,040 --> 00:02:44,880
+# 拌点油 封住
+put some oil , lock it up
+
+57
+00:02:44,880 --> 00:02:47,560
+# 这油可以大一点 没事
+We can use a large amount of oil. It's fine
+
+58
+00:02:47,560 --> 00:02:51,600
+# 一会还回到油锅里头 一点不浪费
+later we pour back to the oil pot which means no waste
+
+59
+00:02:51,600 --> 00:02:55,560
+# 别人的香菜都是切成段直接码盘底下
+Others cut cilantro into peices then just put it on the bottom of the plate
+
+60
+00:02:55,560 --> 00:02:59,240
+# 当时我们老哥哥说你这个香菜
+My old buddy taught me that the cilantro
+
+61
+00:02:59,240 --> 00:03:03,040
+# 只有把叶子给它搁到盘底下行
+you can only put the leave on the bottom. 
+
+62
+00:03:03,040 --> 00:03:05,840
+# 因为它直接羊肉一腾它就熟了
+because it will be cooked after you put the lamb on top.
+
+63
+00:03:05,840 --> 00:03:09,000
+# 这个梗一定要下锅
+stems also need to be used
+
+64
+00:03:09,000 --> 00:03:11,320
+# 它是什么 给它切成粒
+what do we need to do with it? Chop it into small dices.
+
+65
+00:03:11,320 --> 00:03:13,840
+
+66
+00:03:13,840 --> 00:03:17,280
+# 你看同样做羊肉 同样做孜然羊肉
+See, people make the same dish, make the cumin lamb
+
+67
+00:03:17,280 --> 00:03:20,120
+# 每个人的手法都不一样
+but people cook differently
+
+68
+00:03:20,120 --> 00:03:24,720
+# 今天我看到亮子这个手法还是挺新鲜的
+today i found it is novel to see Liangzi's method.
+
+69
+00:03:24,720 --> 00:03:28,280
+# 你看他用的全是叶
+you see, all he used are leaves
+
+70
+00:03:28,280 --> 00:03:31,600
+# 洋葱芯不要 咱们要它这个瓤
+onion pulp, don't need. We need the outer layers
+
+71
+00:03:31,600 --> 00:03:35,720
+# 就是外边这层皮儿 芯儿太嫩
+It is the external skin. The pulp is too tender
+
+72
+00:03:35,720 --> 00:03:37,640
+
+73
+00:03:37,640 --> 00:03:41,200
+# 孜然 千万不要用孜然粉
+cumin. Don't use the powder
+
+74
+00:03:41,200 --> 00:03:43,720
+# 孜然粉吃着到时候它糊嘴
+Cumin powder will stick on your month. 
+
+75
+00:03:43,720 --> 00:03:46,200
+# 咱们要孜然粒 吃它那香
+we need the cumin seeds. It is aromatic.
+
+76
+00:03:46,200 --> 00:03:48,240
+# 小火煸炒就行
+use low heat to stir up.
+
+77
+00:03:48,240 --> 00:03:52,920
+# 大爷香味出来了 很酥了 差不多了
+Da Ye, it becomes aromatic, seems like crispy, should be done. 
+
+78
+00:03:52,920 --> 00:03:55,440
+# 再炒就过火了 正合适
+If we stir a bit longer, it will be too much. Now is about right.
+
+79
+00:03:55,440 --> 00:03:58,400
+# 辣椒面要细辣椒面 香啊
+chili powder, we need the finely grinded one. smells good.
+
+80
+00:03:58,400 --> 00:04:01,640
+# 干炒也是 就是给它焙一下
+also need to fry it without oil, just heat it up.
+
+81
+00:04:01,640 --> 00:04:04,680
+# 因为把那生辣椒味给它焙出去
+just get rid of raw chili flavor
+
+82
+00:04:04,680 --> 00:04:06,200
+# 要辣椒的香
+we only need the aroma
+
+83
+00:04:06,200 --> 00:04:07,440
+
+84
+00:04:08,360 --> 00:04:11,600
+# 咱们起锅烧上油
+let's start cooking, add the oil
+
+85
+00:04:11,600 --> 00:04:15,480
+# 我做肉菜比较费油
+I need a lot of oil when I make meat dishes.
+
+86
+00:04:15,480 --> 00:04:18,280
+# 因为有时候这东西少了油它却确实不行
+since sometimes the meat is truely not so good without the oil
+
+87
+00:04:18,280 --> 00:04:20,960
+# 现在咱把肉一滑基本上就能吃了
+now the lamb just need to be slightly fry and it can be eaten.
+
+88
+00:04:20,960 --> 00:04:22,480
+# 它就这几味料
+only need a few condiments
+
+89
+00:04:22,480 --> 00:04:25,480
+# 实际上羊肉这东西料不需要太多
+actually dont need too much condiments for lamb
+
+90
+00:04:25,480 --> 00:04:27,400
+# 吃羊肉的本味和鲜味
+just taste the ordinary smell and umami.
+
+91
+00:04:27,400 --> 00:04:30,600
+# 网友要在家做 就这几个步骤掌握好了
+if you guys wanna cook at home, just know these steps well
+
+92
+00:04:30,600 --> 00:04:33,200
+# 这盘菜成功率很高
+easy to success. 
+
+93
+00:04:33,200 --> 00:04:35,480
+# 这个放进去别着急动
+put this inside, dont hurry to touch it
+
+94
+00:04:36,440 --> 00:04:39,800
+# 因为咱们肉浆的时候 这粉子上的就合适
+Because we added the right amount of starch. 
+
+95
+00:04:39,800 --> 00:04:41,680
+# 不用复油炸 不用
+Don't need to fry the second time? no
+
+96
+00:04:41,680 --> 00:04:45,600
+# 这个也不能把它的水分炸的太干
+we shouldn't fry it for too long to loose its moisture.
+
+97
+00:04:45,600 --> 00:04:48,080
+# 因为太干了到时候没口感了
+if it is too dry,  it will not have the right texture.
+
+98
+00:04:48,080 --> 00:04:50,000
+# 这就差不多了
+here we go
+
+99
+00:04:51,200 --> 00:04:52,480
+# 搁盆里头
+put into the pot
+
+100
+00:04:52,480 --> 00:04:54,920
+# 油温让它高一点 一次成型
+Heat up the oil temperature, so we make it one-shot
+
+101
+00:04:54,920 --> 00:04:57,080
+
+102
+00:04:57,080 --> 00:04:59,640
+# 这比第一锅炸的酥
+more crispy than the first pot
+
+103
+00:04:59,640 --> 00:05:03,000
+# 为什么 因为量合适了
+you know why , because the amount is right.
+
+104
+00:05:03,000 --> 00:05:05,240
+# 这个看到了吧 就让它外边
+see it, just keep it outside
+
+105
+00:05:05,240 --> 00:05:07,320
+# 有点焦焦的小边
+outside a bit burnt
+
+106
+00:05:07,320 --> 00:05:09,320
+# 但是还不能说是脆的
+but it still can't be crispy.
+
+107
+00:05:09,320 --> 00:05:14,400
+# 因为它要外焦里嫩这焦是边上的焦
+becuase it needs tender with a crispy crust, the crispy crust is the burnt parts on the edge.
+
+108
+00:05:14,400 --> 00:05:18,840
+# 里边还是嫩的 这就行了
+inside is still tender, that's enough
+
+109
+00:05:18,840 --> 00:05:21,280
+
+110
+00:05:21,280 --> 00:05:23,720
+# 实际上这个连调味都不用调
+In fact, we don't even need seasoning
+
+111
+00:05:23,720 --> 00:05:26,760
+# 这主要就是腌底口的时候调好了
+It is because the flavor is set during the marination.
+
+112
+00:05:26,760 --> 00:05:28,200
+# 一次就成了
+one-shot
+
+113
+00:05:29,920 --> 00:05:32,600
+# 这个葱一定要给它爆香
+the onion need to be fry till fragrant.
+
+114
+00:05:33,760 --> 00:05:40,520
+# 这时候香味一出来 来点酱油
+after the aroma come out, add some soy sauce
+
+115
+00:05:40,520 --> 00:05:44,880
+# 羊肉 翻炒
+stir fry the lamb
+
+116
+00:05:46,600 --> 00:05:47,760
+# 小锅翻的
+Look his techniques!
+
+117
+00:05:47,760 --> 00:05:50,120
+# 孜然粒 撒进去
+Add the cumin seeds
+
+118
+00:05:50,120 --> 00:05:52,040
+# 您爱吃孜然咱就多来一点
+If you like cumin, you can add more
+
+119
+00:05:52,040 --> 00:05:55,120
+# 一定要让它粒粒都粘上孜然
+let every cube dip with the cumin seeds
+
+120
+00:05:55,120 --> 00:05:57,120
+# 还可以撒点芝麻
+also can add some sesame
+
+121
+00:05:57,120 --> 00:06:00,840
+# 辣椒面 喜欢吃辣的你也可以多来
+chili power, can put more if you like
+
+122
+00:06:00,840 --> 00:06:06,480
+
+123
+00:06:06,480 --> 00:06:10,680
+# 这个香菜梗 这是点睛之笔
+the cilantro stems, this is the key
+
+124
+00:06:10,680 --> 00:06:16,160
+# 叫什么神笔马良 画龙点睛之笔
+which is called the finishing touch
+
+125
+00:06:16,160 --> 00:06:20,360
+# 一定要让它孜然粒匀匀的粘在肉上
+must let the seeds evenly attached on the cubes
+
+126
+00:06:20,360 --> 00:06:23,560
+# 看着就香 闻着就香
+looks nice, smell also nice
+
+127
+00:06:23,560 --> 00:06:25,480
+# 二伯先吃 我拍您
+Er Bai you eat first, i take shot of you
+
+128
+00:06:27,040 --> 00:06:29,680
+# 肯定是先给大爷吃 您离我远点
+Surely, Da Ye need to get the first bite. Please stand a bit away
+
+129
+00:06:29,680 --> 00:06:34,120
+# 您先吃师父 奖励奖励
+Master you eat first. It is the reward.
+
+130
+00:06:34,120 --> 00:06:36,480
+# 我刚才偷着吃半天了
+i have secretly eaten a long time.
+
+131
+00:06:36,480 --> 00:06:37,800
+
+132
+00:06:38,560 --> 00:06:40,480
+# 我来一武吃的你看着大爷
+i just grab it
+
+133
+00:06:42,600 --> 00:06:45,360
+# 这个口感跟片儿绝对截然不同
+this texture is truly different from the sliced style
+
+134
+00:06:45,360 --> 00:06:47,440
+# 而且它的配料简单
+and the ingredients are simple
+
+135
+00:06:47,440 --> 00:06:50,840
+# 而且它搭配的四种料的搭配最强
+the four condiments' combination is the best
+
+136
+00:06:50,840 --> 00:06:52,200
+# 现在最关键是什么
+now what's the key
+
+137
+00:06:52,200 --> 00:06:55,960
+# 是这孜然粒你嚼到嘴里边咯吱咯吱香
+it's the aroma in your mouth, when you chewing the cumin. 
+
+138
+00:06:55,960 --> 00:06:58,520
+# 一定要吃这个孜然粒的香
+the aroma of the cumin seed is the key.
+
+139
+00:06:58,520 --> 00:07:04,280
+# 腌料足 姜汁打的好 去膻
+The marinade is great, the ginger juice is good. It gets rid of the gamy flavor.
+
+140
+00:07:04,280 --> 00:07:06,080
+# 这味儿一次性加足
+Add enough flavoring in one-shot.
+
+141
+00:07:06,080 --> 00:07:08,760
+# 还有一个重要的在哪
+another point is
+
+142
+00:07:08,760 --> 00:07:13,880
+# 孜然和辣椒面是炒的 干炒之后干焙
+the cumin seeds and chili powder are fried. toast it after frying.
+
+143
+00:07:13,880 --> 00:07:16,080
+# 焙的火候恰到好处
+The degree of toasting is about right.
+
+144
+00:07:16,080 --> 00:07:18,000
+# 香味一下激发出来
+it brings out the aroma
+
+145
+00:07:18,000 --> 00:07:20,360
+# 我就说最后一个感受
+i just say my last feeling
+
+146
+00:07:20,360 --> 00:07:23,640
+# 今天我吃的这盘孜然羊肉是最好的
+today this cumin lamb is the best
+
+147
+00:07:23,640 --> 00:07:27,120
+# 别的都不好吃
+better than others
+
+148
+00:07:27,120 --> 00:07:31,640
+# 我乌鲁木齐的老大哥要听见 他得多高兴
+if my old buddy from Urumqi heard this, he will be very happy
+
+# shift forward 00:07:41,800
+
+149
+00:00:00,000 --> 00:00:03,570
+# 问二伯平时吃什么东西能够防脱发
+Er Bai, what does you eat usually to prevent hair loss?
+
+150
+00:00:03,570 --> 00:00:06,039
+# 其实和自己的生活习惯有关系
+actually it is related to your living style.
+
+151
+00:00:06,339 --> 00:00:06,773
+# 第一
+first
+
+152
+00:00:06,773 --> 00:00:09,075
+# 好的心态这是最关键的东西
+healthy mindset is the key
+
+153
+00:00:09,075 --> 00:00:09,843
+# 还有一样
+another
+
+154
+00:00:09,843 --> 00:00:10,543
+# 千万别熬夜
+do not stay up too late
+
+155
+00:00:11,144 --> 00:00:12,479
+# 多吃一些黑的东西
+eat more dark colour food
+
+156
+00:00:12,479 --> 00:00:14,447
+# 豆类啊 五谷啊
+like beans and whole grains
+
+157
+00:00:14,447 --> 00:00:16,750
+# 芝麻啊 什么黑豆啊这些黑东西
+sesame and black beans these kinds of black colour food
+
+158
+00:00:16,983 --> 00:00:18,051
+# 特别是桑葚
+specially the mulberry
+
+159
+00:00:19,552 --> 00:00:23,890
+# 我们可以用山楂 荷叶 决明子冲水喝
+We can drink water with Chinese hawthorn, lotus leaf, cassia seeds
+
+160
+00:00:23,890 --> 00:00:26,760
+# 其实您都不知道 网友都说您这头发是假的
+you might not know, some people say your hair is fake
+
+161
+00:00:26,760 --> 00:00:29,029
+# 好多人都说您这头发做发型了
+many of them say you make hairstyle
+
+162
+00:00:29,029 --> 00:00:29,763
+# 没有没有
+Absolutely not
+
+163
+00:00:29,763 --> 00:00:30,430
+# 还有一个
+still have one more
+
+164
+00:00:30,430 --> 00:00:33,033
+# 基本我每天洗澡的时候挠这个头发
+I scratch my head almost everyday when i shower
+
+165
+00:00:33,033 --> 00:00:34,367
+# 基本一百七到二百下
+170 to 200 times
+
+166
+00:00:35,535 --> 00:00:37,003
+# 梳头 梳理呀
+Comb my hair from time to time
