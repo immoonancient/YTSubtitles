@@ -270,8 +270,8 @@ function confirmSubtitlesStage() {
     }
 
     const formatter = urlParams.istest
-      ? 'http://localhost:3000/tools/format'
-      : 'https://ytsubtitler-adposter.appspot.com/tools/format';
+      ? 'http://localhost:3000/tools/format-structured'
+      : 'https://ytsubtitler-adposter.appspot.com/tools/format-structured';
 
     let rawResult;
     resolveFullUrl()
@@ -296,8 +296,9 @@ function confirmSubtitlesStage() {
         }
       ).then(
         formatted => {
-          params.setParam('subtitles', formatted);
+          params.setParam('subtitles', JSON.stringify(formatted));
           params.setParam('name', name);
+          console.log(formatted);
           if (format === 'srt' || format === 'sbv')
             params.setParam('format', format);
           pre.textContent = params.subtitles;
