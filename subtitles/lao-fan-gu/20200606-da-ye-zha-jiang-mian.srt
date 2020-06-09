@@ -1,9 +1,8 @@
 # https://youtu.be/VgXbZspMnd8
 
-# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 标题
 # 【國宴大師•大爺炸醬麵】大媽專屬炸醬麵，大爺料理四十年，關鍵在麵碼，老北京炸醬麵究竟有幾種麵碼？|老飯骨
 # State Banquet Master Chef - Da Ye's Zhajiangmian. 40-years-old recipe.
-# |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
@@ -16,7 +15,9 @@
 # So what’s the secret of having a harmony family ? Da Ye teachs you, what are you waiting for? Learn this dish and cook it for your lover !
 # PS. Er Bai has also cooked Zhajiangmian some time ago, his recipe is a bit more complicated, here’s the address :
 # https://www.youtube.com/watch?v=iCFTNH4MlAg&t=59s
+
 # import intro
+
 # 字幕
 
 1
@@ -147,7 +148,7 @@ It’s just cooking a meal. No, it’s different
 26
 00:01:01,080 --> 00:01:04,760
 # 那是代表着好多情感
-That represents so much love. 
+That represents so much love.
 
 27
 00:01:04,760 --> 00:01:08,080
@@ -520,97 +521,97 @@ It’s great to have a chief at home
 
 # shift forward 00:04:51,800
 
-104
+102
 00:00:00,000 --> 00:00:05,005
 # 有网友问 老北京传统炸酱面的面码都有什么
 Some friends want to know, what are the accompaniments for the traditional Beijing Zhajiangmian
 
-105
+103
 00:00:05,005 --> 00:00:06,840
 # 其实最好吃的大白菜
 In fact the best is the cabbage
 
-106
+104
 00:00:07,240 --> 00:00:09,009
 # 有芹菜 芹菜末
 Chinese celery, chop it in small cube
 
-107
+105
 00:00:09,309 --> 00:00:11,044
 # 有的有扁豆
 Some use the hyacinth beans
 
-108
+106
 00:00:11,044 --> 00:00:11,745
 # 豆芽
 Bean sprouts
 
-109
+107
 00:00:12,379 --> 00:00:13,680
 # 黄瓜
 Cucumber
 
-110
+108
 00:00:13,847 --> 00:00:14,914
 # 冬天的心里美
 Chinese roseheart radish
 
-111
+109
 00:00:14,914 --> 00:00:17,550
 # 这季节呢 还可以搁点香椿
 In this season, you can put some xiangchun
 
-112
+110
 00:00:17,884 --> 00:00:19,986
 # 春天可以搁点香椿
 Yeah in sprint we put the xiangchun
 
-113
+111
 00:00:20,120 --> 00:00:23,490
 # 一半凑够八种面码就够了
 Normally 8 accompaniments are enough
 
-114
+112
 00:00:23,490 --> 00:00:25,492
 # 这八种都是自己喜欢什么就加什么么
 So the choice of these 8 accompaniments depends on yourself ?
 
-115
+113
 00:00:25,492 --> 00:00:26,459
 # 不是
 No
 
-116
+114
 00:00:26,459 --> 00:00:28,161
 # 但是基本有一个定位
 But there is a standard
 
-117
+115
 00:00:28,161 --> 00:00:33,566
 # 你比如说像白菜啊 茄丝 黄瓜丝啊 芹菜啊
 For example the cabbage, the sliced eggplant，the sliced cucumber and Chinese celery
 
-118
+116
 00:00:33,967 --> 00:00:36,603
 # 芹菜切丁
 Chop the celery in cube
 
-119
+117
 00:00:36,603 --> 00:00:38,405
 # 还有青蒜
 And green garlic
 
-120
+118
 00:00:38,405 --> 00:00:40,373
 # 还有青豆
 And green peas
 
-121
+119
 00:00:40,373 --> 00:00:43,710
 # 青豆嘴儿 绿豆嘴儿 黄豆芽
 Green peas, green beans，soy sprouts
 
-122
+120
 00:00:43,710 --> 00:00:45,845
 # 二伯回答问题很全面
 Er Bai’s answer is very complete
