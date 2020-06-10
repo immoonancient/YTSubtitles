@@ -1,17 +1,8 @@
 # https://youtu.be/NF30CVGHYAQ
 
-# **视频链接**：https://youtu.be/NF30CVGHYAQ
-
-# <备注内容，如视频时长、发布日期等等（如果无需备注，请删除此行）>
-
-# 请翻译以下全部内容
-
-# ```
-
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•炸雪糕】夏日清涼小甜品：炸雪糕外皮酥脆，冰淇淋不化的秘訣！火候是關鍵！ Fried Ice Cream|老飯骨
 # State Banquet Master Chef – Fried ice cream. Summer refreshing dessert 
-# |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
@@ -25,7 +16,9 @@
 # The fried ice cream has a crispy coating with a little ice on the inside of the ice cream even after being fried, the mouth feeling is both hot and cold, it’s an interesting mix-up feeling in the mouth.
 # In the end of the video we will explain how does Er Bai practice his iron hand! He did all that for 50 cents?!
 # Inside the kitchen, the entire space is filled with hard-working sweat all year around and accidental cuts, spills and mishaps. State Banquet Master Chefs preserve and pass down skills through their hard works, imprint medals with through their scars.
-import intro
+
+# import intro
+
 # 字幕
 
 1
@@ -503,8 +496,7 @@ The key is to keep the inside unmelted
 # 冻着呢 这就是火候掌握的准确
 It is, that’s how accurate the temperature and time is controlled
 
-98
-shift forward 00:04:51,100 
+# shift forward 00:04:51,100 
 
 99
 00:00:00,000 --> 00:00:01,680
