@@ -10,7 +10,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•炸雪糕】夏日清涼小甜品：炸雪糕外皮酥脆，冰淇淋不化的秘訣！火候是關鍵！ Fried Ice Cream|老飯骨
-# State Banquet Master Chef – Summer refreshing dessert: Fried ice cream with crispy crust, the key to keeping ice cream hard! The temperature is crucial!
+# State Banquet Master Chef – Fried ice cream. Summer refreshing dessert 
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -23,9 +23,9 @@
 # Hello friends! The whether is piping hot today, you’ve got to cool it down with some ice cream! This time I’m bringing you with a delicious and refreshing dessert – fried ice cream!
 # The batter used in this dessert is called Cui Pi Hu, this can be used to fry fruits, also very delicious. The process of making this batter is very clear, I hope you all can learn this once you’ve followed along this time.
 # The fried ice cream has a crispy coating with a little ice on the inside of the ice cream even after being fried, the mouth feeling is both hot and cold, it’s an interesting mix-up feeling in the mouth.
-# In the end of the video we will explain how does Er Bo practice his iron hand! He did all that for 50 cents?!
+# In the end of the video we will explain how does Er Bai practice his iron hand! He did all that for 50 cents?!
 # Inside the kitchen, the entire space is filled with hard-working sweat all year around and accidental cuts, spills and mishaps. State Banquet Master Chefs preserve and pass down skills through their hard works, imprint medals with through their scars.
-
+import intro
 # 字幕
 
 1
@@ -49,12 +49,12 @@ Fried ice cream
 5
 00:00:10,600 --> 00:00:12,640
 # 一般的说 稍微有一点闪失
-Normally it fails
+Normally if there are any mistake
 
 6
 00:00:12,640 --> 00:00:14,280
 # 这就会失败
-If there is a tiny bit of mistake
+It will fail
 
 7
 00:00:14,280 --> 00:00:16,800
@@ -87,7 +87,7 @@ Then another large spoon of custard powder to bring up the colour and flavour
 13
 00:00:29,720 --> 00:00:32,960
 # 这是面粉 标准粉 九勺
-This is normal flour, nine spoons
+This is all purpose flour, nine spoons
 
 14
 00:00:32,960 --> 00:00:37,960
@@ -107,7 +107,7 @@ What do you call this batter? Crispy crust batter
 17
 00:00:43,840 --> 00:00:46,920
 # 你看这水他一点一点的稀释
-Look how he slowly adds water to the mixture
+Look, he slowly adds water to the mixture
 
 18
 00:00:46,920 --> 00:00:48,600
@@ -252,7 +252,7 @@ Goes well with bananas, apples, grapes and watermelons.
 46
 00:02:03,480 --> 00:02:04,880
 # 炸虾都行
-Even with shrimps (Tempura)
+Even with shrimps
 
 47
 00:02:04,880 --> 00:02:07,000
@@ -330,7 +330,7 @@ No problems
 62
 00:02:49,560 --> 00:02:51,480
 # 好了这不能再炸了 再炸就化了
-Ok don’t fry no more otherwise it melts
+Ok don’t fry any longer otherwise it will melt
 
 63
 00:02:51,480 --> 00:02:55,680
@@ -340,22 +340,22 @@ Look friends, quickly put them in your mouth once it came out (P.S Not recommend
 64
 00:02:55,680 --> 00:03:01,640
 # 外边很焦脆 里边似化非化 还带点小冰碴
-The outer crust is crispy and the inside is half melted with some ice on the inside
+The outer crust is crispy and the inside is half melted with some ice inside
 
 65
 00:03:02,520 --> 00:03:05,000
 # 二伯这是你的了
-This is yours Er Bo
+This is yours, Er Bai
 
 66
 00:03:06,480 --> 00:03:08,160
 # 化了么 有点硬心儿么
-Is it melted? Does it have a bit of hard heart on the inside?
+Is it melted? Does it have a bit of hard inside?
 
 67
 00:03:08,160 --> 00:03:11,640
 # 这壳酥酥的 但是酥而不艮
-The coat is crispy yet not
+The coat is crispy yet not hard to chew
 
 68
 00:03:11,640 --> 00:03:14,360
@@ -373,7 +373,7 @@ Someone wanted to eat then they came
 71
 00:03:21,600 --> 00:03:23,360
 # 来啊 来人
-Come, come everyone
+Come, come everybody
 
 72
 00:03:23,360 --> 00:03:25,840
@@ -413,27 +413,27 @@ Very Attractive indeed
 79
 00:03:43,800 --> 00:03:47,360
 # 现代化产品 一百八十度
-Modern product with 180 degrees
+Modern product. 180 degrees
 
 80
 00:03:47,360 --> 00:03:50,040
 # 看见没有 热了再加点
-Look, add a bit (of heat) after it’s heated
+Look, add a bit (of oil) after it’s too hot
 
 81
 00:03:50,040 --> 00:03:51,920
 # 因为什么比一百八十度稍微有点高了
-The reason being, it’s over 180 degrees
+Because it’s over 180 degrees
 
 82
 00:03:51,920 --> 00:03:54,080
 # 要回到一百八十度
-Cool it back to 180 degrees
+Cool it down, back to 180 degrees
 
 83
 00:03:54,080 --> 00:03:56,280
 # 亮子 准备 拿盘儿
-Liang, get ready to bring a plate
+Liang Zi, get ready, bring a plate
 
 84
 00:03:56,280 --> 00:03:58,200
@@ -473,7 +473,7 @@ You see this is Huo Hou (The control on temperate and time)
 91
 00:04:17,200 --> 00:04:19,720
 # 外边是烫嘴 里边是冰牙
-It’s hot on the out side while cold on the inside
+It’s hot on the outside while cold inside
 
 92
 00:04:19,720 --> 00:04:22,280
@@ -504,12 +504,12 @@ The key is to keep the inside unmelted
 It is, that’s how accurate the temperature and time is controlled
 
 98
-00:04:39,880 --> 00:00:02,000
+shift forward 00:04:51,100 
 
 99
 00:00:00,000 --> 00:00:01,680
 # 悄悄的胡说八道您还记得吧
-Let’s gossip behind his back, do you remember the other day
+Do you still remember 'Let’s gossip behind his back‘ (a online friend)?
 
 100
 00:00:01,680 --> 00:00:02,400
@@ -524,12 +524,12 @@ She replied that the emotionless iron hand has just back in town
 102
 00:00:05,800 --> 00:00:08,440
 # 说直接从油里把酥肉拿出来
-Saying that picking out crispy meat straight out of boiling oil with his bare hand
+Saying that you pick the crispy meat straight out of the boiling oil with your bare hand
 
 103
 00:00:08,440 --> 00:00:09,960
 # 就喂刚强吃
-Then feed Gang Qiang with that
+Then fed Gang Qiang
 
 104
 00:00:10,480 --> 00:00:11,880
@@ -554,7 +554,7 @@ Unlike nowadays we have natural gas and everything
 108
 00:00:22,200 --> 00:00:23,880
 # 那时候小孩不懂事啊
-Kids at that age knows nothing
+Kids at that age knew nothing
 
 109
 00:00:23,880 --> 00:00:25,480
@@ -564,7 +564,7 @@ Then trying to pick out coal balls (from the stove)
 110
 00:00:25,480 --> 00:00:28,520
 # 谁把煤球拿出来给谁多少钱
-Whoever get the coal ball out gets some money
+Whoever get the coal ball out got some money
 
 111
 00:00:28,960 --> 00:00:31,080
@@ -574,7 +574,7 @@ That’s nuts
 112
 00:00:31,720 --> 00:00:32,640
 # 直接下手了
-Straight up going for it with bare hands
+Straightly use bare hands
 
 113
 00:00:32,640 --> 00:00:34,120
@@ -589,7 +589,7 @@ Then the reward was only 50 cents
 115
 00:00:36,000 --> 00:00:38,040
 # 那手全烫焦了
-The hand is completely burnt
+The hand was completely burnt
 
 116
 00:00:38,400 --> 00:00:38,920
@@ -609,7 +609,7 @@ Then my hands become iron hands just like that over time.
 119
 00:00:46,680 --> 00:00:49,080
 # 然后再加上长期工作 油啊
-Together with working in the kitchen and dealing with oil for so many years
+Besides, working in the kitchen and dealing with oil for so many years
 
 120
 00:00:49,080 --> 00:00:51,480
@@ -624,7 +624,7 @@ We don’t even care if some hot oil spills on us
 122
 00:00:53,640 --> 00:00:55,560
 # 就过去哎呦 有这种反应
-But we used to react to that a long time ago
+But we used to react when it happened
 
 123
 00:00:55,560 --> 00:00:58,560
@@ -654,5 +654,5 @@ It’s all from hot oil
 128
 00:01:03,640 --> 00:01:04,920
 # 这是刀伤
-And this is form knife
+And this is from knife
 ```
