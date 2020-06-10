@@ -496,7 +496,7 @@ The key is to keep the inside unmelted
 # 冻着呢 这就是火候掌握的准确
 It is, that’s how accurate the temperature and time is controlled
 
-# shift forward 00:04:51,100 
+# shift forward 00:04:54,800 
 
 99
 00:00:00,000 --> 00:00:01,680
@@ -647,4 +647,3 @@ It’s all from hot oil
 00:01:03,640 --> 00:01:04,920
 # 这是刀伤
 And this is from knife
-```
