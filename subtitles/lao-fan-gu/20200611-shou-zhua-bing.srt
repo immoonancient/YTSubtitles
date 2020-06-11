@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•手抓餅】家庭版手抓餅！酥脆綿軟、蔥香四溢，手抓餅起酥的秘訣原來在這裡！|老飯骨
-# Flaky Chinese Scallion Pancake. Crispy and soft pancake with rich scallion aroma. (Secrets of the pancake is now sharing!)
+State Banquet Master Chef - Flaky Chinese Scallion Pancake. Crispy and soft.
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,10 +13,10 @@
 # 視頻最後還有我們的老飯骨叨叨叨環節，看大爺與二伯的莫逆之交！
 # 今日互動小話題：你是從哪道菜認識老飯骨的？
 
-# Hi everyone, people from the North always have a fancy for dough foods. Today, we are presenting homemade flaky Chinese scallion pancake for you.
+# Hello friends, people from the North always have a fancy for dough foods. Today, we are presenting homemade flaky Chinese scallion pancake for you.
 # Crispy is the most important thing for scallion pancake. It’s not hard to make the pancake crispy after you watch this video and find the secret trick. You can cook it at home.
 # Getting too hard to eat is another problem for this kind of pancakes. It’s better to eat the pancake on the same day you make it. Otherwise, you can freeze the pancake straight away after you roll it out as a circle without cooking it. You can cook it whenever you want to have it.
-# The last part of this video is our chatting and sharing time. We are going to share sworn friendship between Da Ye and Er Bo.
+# The last part of this video is our chatting and sharing time. We are going to share sworn friendship between Da Ye and Er Bai.
 # Our discussion topic today is – Which is the dish you get to know us from?
 
 # 字幕
@@ -34,7 +34,7 @@ Flaky scallion pancake
 3
 00:00:04,520 --> 00:00:06,880
 # 中筋面粉不要太高筋
-All purpose flour (plain flour), not high gluten flour (strong flour).
+All purpose flour, not high gluten flour (strong flour).
 
 4
 00:00:06,880 --> 00:00:08,360
@@ -44,7 +44,7 @@ Pancake made from high gluten flour
 5
 00:00:08,360 --> 00:00:09,200
 # 出来之后比较硬
-Would be too stiff to eat.
+Would be too tough to eat.
 
 6
 00:00:09,200 --> 00:00:11,120
@@ -64,7 +64,7 @@ Roughly 6 Liang(300g) water in half kg flour
 9
 00:00:16,280 --> 00:00:18,480
 # 是温水还是 温水
-Should be warm water or warm water?
+Should be warm water or? warm water.
 
 10
 00:00:19,880 --> 00:00:22,600
@@ -79,7 +79,7 @@ This way can make the dough more crispy, adding lard is for crusted top purpose.
 12
 00:00:27,520 --> 00:00:29,600
 # 你看这面水放进去之后
-Look, after I put this dough in the water,
+Look, after I put the water in this dough,
 
 13
 00:00:29,600 --> 00:00:34,280
@@ -327,17 +327,17 @@ Now we spread some salt on top of it.
 62
 00:02:34,720 --> 00:02:37,920
 # 如果家里边有花椒盐也行
-If you could, pepper salt is okay as well.
+If you have, pepper salt is okay as well.
 
 63
 00:02:37,920 --> 00:02:41,320
 # 你要不加其它东西它也有底味 也香
-There is no need to add other stuff. It has genuine taste. Taste and smells good.
+There is no need to add other stuff. It has base taste. Taste and smells good.
 
 64
 00:02:41,320 --> 00:02:43,360
 # 你要是面一点味道没有就不行了
-It’s not okay if the dough doesn’t have any genuine taste from the wheat and flour.
+It’s not okay if the dough doesn’t have any base taste from the wheat and flour.
 
 65
 00:02:43,360 --> 00:02:46,200
@@ -403,7 +403,7 @@ De (local modal particle of Beijing area), after we slice it, we can roll it up.
 78
 00:03:19,520 --> 00:03:20,760
 # 不要怕油出来
-No need to afraid if oil are spreading out.
+Don't be afraid if oil is spreading out.
 
 79
 00:03:20,760 --> 00:03:24,960
@@ -646,12 +646,12 @@ Jiao Ni Liang flaky pancake, show you how to make your pancake flaky and sparkle
 129
 00:05:44,400 --> 00:05:47,440
 # 每次都是人家二伯给我吃
-Er Bo feed me every time.
+Er Bai feed me every time.
 
 130
 00:05:47,440 --> 00:05:48,920
 # 二伯
-Er Bo.
+Er Bai
 
 131
 00:05:48,920 --> 00:05:52,320
@@ -689,7 +689,7 @@ Crispy, Soft inside, Rich aroma of scallion and oil, tender.
 
 139
 00:06:08,960 --> 00:06:09,240
-
+shift forward 00:06:14,240
 140
 00:00:00,000 --> 00:00:01,760
 # 我们哥俩走到一起
@@ -708,17 +708,17 @@ Actually Xiao Yu
 143
 00:00:07,080 --> 00:00:08,240
 # 主要是为网友
-is assisting our online audience.
+is to assist our online audiences.
 
 144
 00:00:08,480 --> 00:00:09,880
 # 在评论当中
-In the feedbacks,
+In the comments,
 
 145
 00:00:10,040 --> 00:00:12,760
 # 网友提出了很多一些疑问
-Online audience ask some questions,
+Online audiences ask some questions,
 
 146
 00:00:12,760 --> 00:00:15,240
@@ -728,7 +728,7 @@ Xiao Yu gathers these questions,
 147
 00:00:15,520 --> 00:00:16,720
 # 都统计出来
-and stats them.
+and count them.
 
 148
 00:00:17,240 --> 00:00:18,200
@@ -743,7 +743,7 @@ Provide answers to our online audiences.
 150
 00:00:21,080 --> 00:00:22,520
 # 其实很多时候她挺不容易的
-In point of fact, it’s not a easy job for her.
+In fact, it’s not a easy job for her.
 
 151
 00:00:22,560 --> 00:00:25,320
@@ -898,7 +898,7 @@ If we didn’t have
 181
 00:01:10,400 --> 00:01:12,040
 # 共同的想法和愿望
-Same thoughts and aspiration
+the same thoughts and aspirations
 
 182
 00:01:12,040 --> 00:01:13,800
@@ -908,7 +908,7 @@ It is impossible for us to walk through this long journey together.
 183
 00:01:14,360 --> 00:01:16,720
 # 可能二伯想朝东走
-(There might be a situation) Er Bo wants to walk towards east,
+(There might be a situation) Er Bai wants to walk towards east,
 
 184
 00:01:16,720 --> 00:01:18,280
@@ -943,7 +943,7 @@ What is our intention?
 190
 00:01:28,120 --> 00:01:29,920
 # 传播的是中华美食
-Propagandize Chinese cuisines.
+Promote Chinese cuisines.
 
 191
 00:01:29,960 --> 00:01:32,040
@@ -958,12 +958,12 @@ Hence, we have the same goal and ideas.
 193
 00:01:35,720 --> 00:01:37,600
 # 而且还有一种共同的担当
-And we can saddle this together.
+And we can address this together.
 
 194
 00:01:37,920 --> 00:01:39,320
 # 其实大家都付出了很多
-In truth, everyone demonstrates a lot.
+In truth, everyone has contributed a lot.
 
 195
 00:01:39,360 --> 00:01:40,040
@@ -973,32 +973,32 @@ Right?
 196
 00:01:40,040 --> 00:01:41,440
 # 今天早上起8点就来了
-We woke up at 8 o’clock in the morning.
+We arrived here at 8 am in the morning.
 
 197
 00:01:41,680 --> 00:01:42,960
 # 你说现在都10点多了
-Now it is ten.
+Now it is ten pm.
 
 198
 00:01:42,960 --> 00:01:43,760
 # 还没拍完
-We are still on.
+We still haven't finished
 
 199
 00:01:43,760 --> 00:01:45,920
 # 还有俩菜 拍完了就12点了
-There are another two dishes to go. After that, it will be 12 o’clock.
+There are another two dishes. After that, it will be 12 am.
 
 200
 00:01:45,920 --> 00:01:47,880
 # 其实有时候我跟大爷说
-Sometimes, I just tole Da Ye that
+Sometimes, I told Da Ye that
 
 201
 00:01:48,120 --> 00:01:50,200
 # 这么大岁数也挺辛苦的
-It is toilsome to do this at his age.
+It is hard work for his age.
 
 202
 00:01:50,320 --> 00:01:52,080
@@ -1073,12 +1073,12 @@ Too hard.
 216
 00:02:14,120 --> 00:02:15,440
 # 二伯就是郭德纲
-Er Bo can be Guo De Gang.( well-known Chinese comedy actor)
+Er Bai can be Guo De Gang.( well-known Chinese crosstalk comedian)
 
 217
 00:02:15,520 --> 00:02:16,200
 # 我就是于谦
-I can be Yu Qian.( another well-known Chinese comedy actor)
+I can be Yu Qian.( another well-known Chinese crosstalk comedian)
 
 218
 00:02:17,080 --> 00:02:17,960
@@ -1098,12 +1098,12 @@ In old ways,
 221
 00:02:20,760 --> 00:02:21,960
 # 大家 就侯先生
-Mr Hou (another well-known Chinese comedy actor)
+Mr Hou (a senior Chinese crosstalk comedian)
 
 222
 00:02:22,240 --> 00:02:23,720
 # 大家
-Everyone.
+Master.
 
 223
 00:02:23,920 --> 00:02:25,840
