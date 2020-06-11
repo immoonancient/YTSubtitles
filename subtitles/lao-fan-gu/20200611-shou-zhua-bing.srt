@@ -19,6 +19,8 @@ State Banquet Master Chef - Flaky Chinese Scallion Pancake. Crispy and soft.
 # The last part of this video is our chatting and sharing time. We are going to share sworn friendship between Da Ye and Er Bai.
 # Our discussion topic today is – Which is the dish you get to know us from?
 
+# import intro
+
 # 字幕
 
 1
@@ -689,7 +691,9 @@ Crispy, Soft inside, Rich aroma of scallion and oil, tender.
 
 139
 00:06:08,960 --> 00:06:09,240
-shift forward 00:06:14,240
+
+# shift forward 00:06:14,240
+
 140
 00:00:00,000 --> 00:00:01,760
 # 我们哥俩走到一起
