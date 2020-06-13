@@ -1580,6 +1580,16 @@
       "cn": "油饼",
       "en": "youbing (deep-fried cake)",
       "category": "dish"
+    },
+    {
+      "cn": "泡打粉",
+      "en": "baking powder",
+      "category": "condiment"
+    },
+    {
+      "cn": "小苏打",
+      "en": "baking soda",
+      "category": "condiment"
     }
   ]
 }
