@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•醬香鹹菜絲】比肉還香，在家就能做的小菜，夾火燒、夾饅頭，喝粥、拌麵條，都是絕配！|老飯骨
-# [State Banquet Master Chef: Salted turnip julienne with soy sauce aroma] - All-match side dish at home, yummier than meat!
+# State Banquet Master Chef - Soy Sauce Salted Turnip Julienne. Easy and Yummy Side Dish!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,8 +13,10 @@
 # 出處來自軟炸魚條這期視頻，小友們可以去複習一下！⬇️
 # https://www.youtube.com/watch?v=Rev4LJsvpfo
 
-# Hello friends, today our senior sister is presenting a home-made side dish “salted turnip julienne with soy sauce aroma”, even yummier than meat! The most critical step of this dish is to wash the salted turnip julienne thoroughly -- getting rid of its saline taste and then squeezing water off it, so called “clear food’s original taste if it has; add new taste if it doesn’t”. The principle of cuisine is really wonderful!
-# At the end of this video Da Ye will answer a question: what is the best way to fry soft paste? This question comes from a previous video “golden and crispy soft fried fish fingers”. You could review it via this link: https://www.youtube.com/watch?v=Rev4LJsvpfo.
+# Hello friends, today our Da Shi Jie (senior female apprentice) shares a home-made side dish “ Soy Sauce Salted Turnip Julienne”, even yummier than meat! The most critical step of this dish is to wash the salted turnip julienne thoroughly -- getting rid of the saltiness and then squeezing water off it, so called “clear food’s original flavor if it has; add new flavor if it doesn’t”. The principle of cuisine is really wonderful!
+# At the end of this video Da Ye answers a question: what is the best way to make the batter for-fried stuff? This question comes from a previous video “golden and crispy soft fried fish fingers”. You could review it via this link: https://www.youtube.com/watch?v=Rev4LJsvpfo.
+
+# import intro
 
 # 字幕
 
@@ -31,7 +33,7 @@ And put some salted vegetables into a Huo Shao -- this is the life
 3
 00:00:06,520 --> 00:00:08,880
 # 特别家常的酱香咸菜丝
-Very home-made salted turnip julienne with soy sauce
+Home-made Soy Sauce Salted Turnip Julienne
 
 4
 00:00:08,880 --> 00:00:10,760
@@ -57,7 +59,7 @@ Then we just need to cut it into juliennes
 9
 00:00:20,840 --> 00:00:23,200
 # 我是我师父收的第一个女徒弟
-I am the first female disciple of my master
+I am the first female apprentice of my master
 
 10
 00:00:23,200 --> 00:00:24,520
@@ -67,7 +69,7 @@ So in the cooking industry
 11
 00:00:24,520 --> 00:00:26,080
 # 他们都管我叫大师姐
-They all call me “senior sister”
+They all call me “Da Shi Jie”
 
 12
 00:00:26,080 --> 00:00:28,200
@@ -115,7 +117,7 @@ My master once taught me that
 21
 00:00:49,560 --> 00:00:52,720
 # 有味使其出 无味使其入
-“clear food’s original taste if it has; add new taste if it doesn’t”
+“clear food’s original flavor if it has; add new flavor if it doesn’t”
 
 22
 00:00:52,720 --> 00:00:56,400
@@ -125,7 +127,7 @@ I’ve never heard this from your master
 23
 00:00:56,400 --> 00:01:00,280
 # 把咸菜的咸味给它洗出去
-Get rid of the saline taste from the salted turnip
+Get rid of the saltiness from the salted turnip
 
 24
 00:01:00,280 --> 00:01:03,040
@@ -150,7 +152,7 @@ Cinnamon, star anise
 28
 00:01:09,800 --> 00:01:11,760
 # 这个还真不是桂皮 这是肉桂
-Actually this is not cinnamon, but cassia
+Actually this is not cinnamon, but Chinese cassia (chinese cinnamon)
 
 29
 00:01:11,760 --> 00:01:13,800
@@ -195,12 +197,12 @@ Here comes the most critical step, pay attention please
 37
 00:01:31,480 --> 00:01:33,160
 # 有味使其出 无味使其入
-Clear food’s original taste if it has; add new taste if it doesn’t
+Clear food’s original flavor if it has; add new flavor if it doesn’t
 
 38
 00:01:33,160 --> 00:01:34,720
 # 这就是烹饪原理
-This is the principle of cuisine
+This is the basic principle of cooking
 
 39
 00:01:34,720 --> 00:01:38,880
@@ -286,7 +288,7 @@ And also there’s no saline taste now, they are more crunchy
 56
 00:02:18,640 --> 00:02:21,120
 # 师父师伯咱们开始炒咸菜
-Master and mater’s brother, let’s begin cooking
+Master and master uncle, let’s begin cooking
 
 57
 00:02:21,120 --> 00:02:24,080
@@ -306,7 +308,7 @@ Cook until you can smell the aroma
 60
 00:02:29,840 --> 00:02:31,800
 # 如果家里边您要是有葱油的话
-If you have scallion oil	 at home
+If you have scallion oil at home
 
 61
 00:02:31,800 --> 00:02:34,320
@@ -396,7 +398,7 @@ Remember no salt
 78
 00:03:15,720 --> 00:03:19,160
 # 千万别搁盐 搁盐就咸了
-Never add salt, otherwise it become salty finally
+Never add salt, otherwise it will be too salty
 
 79
 00:03:19,160 --> 00:03:23,280
@@ -461,12 +463,12 @@ Because it makes the dish look better, red and bright
 91
 00:03:56,680 --> 00:03:58,960
 # 这烹饪的绝学在哪儿 你看
-So where is the secret of cuisine, take a look
+So where is the secret of cooking, take a look
 
 92
 00:03:58,960 --> 00:04:02,080
 # 挤干净了 缩了没味儿了
-Dryly squeezed, shrinked and tasteless
+(Turnips has been) squeezed, shrinked and now tasteless
 
 93
 00:04:02,080 --> 00:04:05,640
@@ -549,7 +551,7 @@ We have steamed about 30 mimutes
 109
 00:04:49,000 --> 00:04:51,280
 # 香么 香 太香了
-Does it smell good? Yes, very much!
+Does it smell good? Yes, very good!
 
 110
 00:04:51,280 --> 00:04:56,440
@@ -657,6 +659,8 @@ This is the life
 131
 00:05:55,880 --> 00:05:58,680
 
+# shift forward 00:06:06,500
+
 132
 00:00:00,000 --> 00:00:02,400
 # 上回您做了一个软炸鱼条
@@ -735,7 +739,7 @@ With different moisture
 147
 00:00:36,760 --> 00:00:40,680
 # 我们在调糊当中要采取不同的方法来对应
-We need to use different approaches when making paste
+We need to use different approaches when making batter
 
 148
 00:00:41,160 --> 00:00:43,600
@@ -780,7 +784,7 @@ And then wrap with some oil
 156
 00:01:01,800 --> 00:01:04,520
 # 这个软炸糊一定很酥 也很脆
-The soft fried paste must still be crispy
+The soft fried batter will still be crispy
 
 157
 00:01:04,800 --> 00:01:05,640
@@ -795,12 +799,12 @@ We can make it just with the three things above
 159
 00:01:07,360 --> 00:01:09,600
 # 只是这个配比关系要合适
-As long as the proportion is proper
+As long as the proportion is right
 
 160
 00:01:09,600 --> 00:01:10,600
 # 一点问题没有
-There’s no any problem
+No Problem
 
 161
 00:01:11,200 --> 00:01:11,800
