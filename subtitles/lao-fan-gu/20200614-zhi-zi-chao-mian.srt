@@ -1,7 +1,5 @@
 # https://youtu.be/p9rEI5ezxQQ
 
-# _________________________
-
 # 【国宴大师•】好吃到可以摆地摊儿的炙子炒面！酱香浓郁、用料超足，撒上孜然，吃面比吃肉还香！|老饭骨
 # State Banquet Master Chef - Sizzling Fried Noodles. More delicious than Meat!
 
@@ -13,10 +11,10 @@
 # 要注意的是，牛肉要想做的嫩，还得做好这几个细节，小友们快点击视频学起来！
 
 # Introduction
-Hello friends, recently it is encouraged to set up your own street stalls in many Chinese cities. We are sharing a popular street food dish: sizzling fried noodles. This is good enough for your own street food stall.
+# Hello friends, recently it is encouraged to set up your own street stalls in many Chinese cities. We are sharing a popular street food dish: sizzling fried noodles. This is good enough for your own street food stall.
 # This fried noodle is based on the traditional cast iron BBQ and it tastes even better than the meat dish.
-Even though we are cooking a noodle dish, we have a lot of other ingredients such as beef. It is perfect for the midnight snacking.
-In order to make the beef tender, you need to make sure do well on some details. Click the video and learn it!
+# Even though we are cooking a noodle dish, we have a lot of other ingredients such as beef. It is perfect for the midnight snacking.
+# In order to make the beef tender, you need to make sure do well on some details. Click the video and learn it!
 
 # import intro
 
@@ -269,7 +267,7 @@ Pour this out
 51
 00:02:00,200 --> 00:02:02,920
 # 润锅 润锅很重要
-Run Guo (completely coat the wok with oil).  It’s very important, 
+Run Guo (completely coat the wok with oil).  It’s very important,
 
 52
 00:02:02,920 --> 00:02:05,560
@@ -370,7 +368,7 @@ Some soy sauce to bring up the flavor.
 72
 00:02:52,280 --> 00:02:53,840
 # 这个菜绝对好吃
-It will be really good. 
+It will be really good.
 
 73
 00:02:53,840 --> 00:02:56,560
@@ -494,7 +492,7 @@ That’s how it’s supposed to be.
 98
 00:04:01,600 --> 00:04:05,560
 # 我可吃了 您吃 您给多提意见大爷
-May I? Sure, give me some suggestions, Da Ye. 
+May I? Sure, give me some suggestions, Da Ye.
 
 99
 00:04:05,560 --> 00:04:07,720
