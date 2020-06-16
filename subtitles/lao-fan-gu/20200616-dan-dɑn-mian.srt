@@ -2,15 +2,17 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•擔擔麵】四川名小吃擔擔麵老配方，二伯再現近乎失傳技藝，做法簡單，味道巴適得板！| 在家炒菜如何控制火候 |老飯骨
-# Traditional recipe of a famous Sichuan snack: Dan Dan Noodles! Er Bai presents the cooking skills that are nearly lost. Simple but extremely delicious!
+# State Banquet Master Chef - Dan Dan Noodles. Simple but extremely delicious!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
 # 小友們好，今天二伯帶着擔擔麵的老配方來了！擔擔麵是四川地區著名的麵食小吃，二伯做的呢是當初他在力力餐廳實習時，著名面點老師傅都國良的版本。這做法簡單，味道卻不一般，其中紅油可謂是擔擔麵的靈魂，大傢伙兒可要看仔細嘍！
 # 本期視頻末尾還有大爺二伯為小友們答疑解惑：在家炒菜如何控制火候，一定不要錯過哦！
-# Hi everyone! Today Er Bai comes with the traditional recipe of Dan Dan Noodles, a famous snack in Sichuan. He learned this recipe from a famous Chinese pastry chef, Master Du Guoliang, during his internship at Li Li Restaurant. The recipe is simple, but produces an amazing flavor. In particular, the red chili oil is the soul of this dish. Please take a good look!
-# At the end of this video, Da Ye and Er Bai will also introduce you how to control the temperature when cooking at home. Be sure not to miss it!
+# Hello friends! Today Er Bai comes with the traditional recipe of Dan Dan Noodles, a famous snack in Sichuan. He learned this recipe from a famous Chinese pastry chef, Master Du Guoliang, during his internship at Li Li Restaurant. The recipe is simple, but produces an amazing flavor. In particular, the red chili oil is the soul of this dish. Please take a good look!
+# At the end of this video, Da Ye and Er Bai also answers the question about how to control the temperature when cooking at home. Be sure not to miss it!
+
+# import intro
 
 # 字幕
 
@@ -53,7 +55,7 @@ Dan Dan Noodles
 9
 00:00:14,440 --> 00:00:17,160
 # 一定要买正宗的四川宜宾芽菜
-You must buy authentic 'Ya Cai' (Sichuan preserved mustard greens) from Yibin, Sichuan
+You must buy authentic 'Sichuan Yibin Ya Cai' (preserved mustard greens made from Yibin, Sichuan) 
 
 10
 00:00:17,160 --> 00:00:20,320
@@ -68,7 +70,7 @@ Wash it clean would be fine
 12
 00:00:21,840 --> 00:00:24,680
 # 但是这味儿又不能完全洗掉了
-You shouldn't remove the taste entirely
+You shouldn't remove the flavor entirely
 
 13
 00:00:24,680 --> 00:00:26,480
@@ -116,12 +118,12 @@ Cut some ginger. Smash it
 22
 00:00:49,240 --> 00:00:51,520
 # 还得来点这个 葱绿
-We also need some of this. Scallion leaves
+We also need some of this. Green part of the scallion 
 
 23
 00:00:51,520 --> 00:00:54,760
 # 这就慢慢的沁炸 没什么可复杂的
-Simply soak-fry it. Nothing complicated
+Simply soak-fry it. Not complicated
 
 24
 00:00:54,760 --> 00:00:56,880
@@ -149,7 +151,7 @@ We used to mix it with water, master
 29
 00:01:05,680 --> 00:01:09,920
 # 对拌水也可以  今天又学一招
-- Yeah, mixing with water is also ok. - That's another new trick today
+- Yeah, mixing with water is also ok. Learnt another new trick today
 
 30
 00:01:09,920 --> 00:01:12,520
@@ -169,7 +171,7 @@ This recipe of Dan Dan Noodles... You see, it's simple
 33
 00:01:17,880 --> 00:01:19,040
 # 它跟别人做法不一样
-But different from how other people cooks it
+But different from how other people cook it
 
 34
 00:01:19,040 --> 00:01:21,120
@@ -339,7 +341,7 @@ It can also reproduce the best taste
 67
 00:02:44,880 --> 00:02:48,040
 # 简单当中它不是我的味道不好
-In short, it's not that it tastes bad
+Even though it is simple, but doesn't mean that it tastes bad
 
 68
 00:02:48,040 --> 00:02:49,280
@@ -379,7 +381,7 @@ But tastes even better
 75
 00:03:01,960 --> 00:03:05,800
 # 这个技艺几乎没了 我今天还原给你们
-This recipe is almost lost. I reproduce it for you here now
+This recipe is almost gone. I reproduce it here for you today
 
 76
 00:03:05,800 --> 00:03:08,160
@@ -553,11 +555,11 @@ Have some more!
 # 要把它分类炒开了
 # Stir-fry each ingredient separately
 # 能用碗汁的 我们兑个碗汁
-# For example, if 'bowl-sauce' (prepare all condiments in one bowl in advance) is applicable, you can make one
+# If 'bowl-sauce' (prepare all condiments in one bowl in advance) is applicable, you can make one
 # 比如说荤料的东西我们先滑了
-# Slightly fry the meat before cooking
+# For example, slightly fry the meat before cooking
 # 滑好以后捞出来
-# Fish the meat out of the oil
+# then take the meat out
 # 刷完锅我们再升温炒一些配料
 # Rinse the wok, raise the temperature and stir-fry some other ingredients
 # 这样把它分段给解开了
