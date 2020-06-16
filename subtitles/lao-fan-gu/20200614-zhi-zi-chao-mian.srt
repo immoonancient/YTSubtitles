@@ -3,7 +3,7 @@
 # _________________________
 
 # 【国宴大师•】好吃到可以摆地摊儿的炙子炒面！酱香浓郁、用料超足，撒上孜然，吃面比吃肉还香！|老饭骨
-# [State Banquet MasterChef] fried noodles cooked on cast iron plate. So delicious that you can open a street food stall with it.
+# State Banquet Master Chef - Sizzling Fried Noodles. More delicious than Meat!
 
 # 简介
 
@@ -13,10 +13,12 @@
 # 要注意的是，牛肉要想做的嫩，还得做好这几个细节，小友们快点击视频学起来！
 
 # Introduction
-# Dear fans, recently it is encouraged to set up your own street stalls in many Chinese cities. We are sharing a popular street food dish: fried noodles cooked on a cast iron plate. This is good enough for your own street food stall.
+Hello friends, recently it is encouraged to set up your own street stalls in many Chinese cities. We are sharing a popular street food dish: sizzling fried noodles. This is good enough for your own street food stall.
 # This fried noodle is based on the traditional cast iron BBQ and it tastes even better than the meat dish.
-# Indeed, we are cooking a noodle dish, but we have a lot of other ingredients such as beef. It is perfect for the midnight snacking.
-# We are also sharing some secret details to make sure that the beef is nice and tender.
+Even though we are cooking a noodle dish, we have a lot of other ingredients such as beef. It is perfect for the midnight snacking.
+In order to make the beef tender, you need to make sure do well on some details. Click the video and learn it!
+
+# import intro
 
 # 字幕
 
@@ -43,7 +45,7 @@ The noodles are going to taste better than the meat.
 5
 00:00:08,120 --> 00:00:09,640
 # 炙子炒面 大爷
-Daye, we are making the fried noodles on the cast iron plate.
+Da Ye, we are making the fried noodles on the cast iron plate.
 
 6
 00:00:09,640 --> 00:00:12,880
@@ -81,7 +83,7 @@ When it hits the heat
 13
 00:00:29,280 --> 00:00:32,000
 # 所以比较松 大爷说的太对了
-So it stays loose (Daye is right)
+So it stays loose (Da Ye is right)
 
 14
 00:00:32,000 --> 00:00:33,840
@@ -139,7 +141,7 @@ It further tenderizes the meat
 25
 00:00:58,600 --> 00:01:02,160
 # 非常嫩了 如果说再腌上半个小时更嫩
-It is already very tender, and it will keep tenderizing if you marinate it for another 30 minutes.
+It is already very tender. If you marinate it for another 30 minutes, it will be more tender.
 
 26
 00:01:02,160 --> 00:01:05,720
@@ -189,12 +191,12 @@ Then we add some oil
 35
 00:01:27,440 --> 00:01:29,200
 # 封上油就润了
-Look now juicy it is.
+With oil, it will be moist.
 
 36
 00:01:29,200 --> 00:01:31,320
 # 切点辅料 洋葱别太少了
-Now, we will chop some onions for the garnish.
+Chop other ingredients. The amount of onions shouldn't be too little.
 
 37
 00:01:31,320 --> 00:01:32,480
@@ -204,7 +206,7 @@ Carrots
 38
 00:01:32,480 --> 00:01:35,360
 # 这葱丝来点 您这配料可不少啊
-Leek (that’s quite some garnish)
+Green onion jubilee. There are a lot of ingredients.
 
 39
 00:01:35,360 --> 00:01:37,680
@@ -285,7 +287,7 @@ Let’s cook more beef, it looks better.
 55
 00:02:08,480 --> 00:02:10,440
 # 先别动 一点都没粘
-Don’t move it just yet, it won’t stick.
+Don’t move, it won’t stick.
 
 56
 00:02:10,440 --> 00:02:13,440
@@ -368,7 +370,7 @@ Some soy sauce to bring up the flavor.
 72
 00:02:52,280 --> 00:02:53,840
 # 这个菜绝对好吃
-This is going to taste so good.
+It will be really good. 
 
 73
 00:02:53,840 --> 00:02:56,560
@@ -403,7 +405,7 @@ The noodles are freshly made.
 79
 00:03:09,240 --> 00:03:11,840
 # 在家都能做出酒店的味出来
-You can replicate the tastes from a restaurant.
+You can replicate the restaurant tastes at home
 
 80
 00:03:11,840 --> 00:03:15,480
@@ -492,7 +494,7 @@ That’s how it’s supposed to be.
 98
 00:04:01,600 --> 00:04:05,560
 # 我可吃了 您吃 您给多提意见大爷
-May I? (Sure, let me know your feedbacks)
+May I? Sure, give me some suggestions, Da Ye. 
 
 99
 00:04:05,560 --> 00:04:07,720
@@ -500,7 +502,7 @@ May I? (Sure, let me know your feedbacks)
 100
 00:04:07,720 --> 00:04:10,600
 # 刚强 真香
-It tastes wonderful.
+Gang Qiang, delicious!
 
 101
 00:04:10,600 --> 00:04:15,080
@@ -528,7 +530,7 @@ The beef is crispy, fragrant and tender.
 106
 00:04:24,400 --> 00:04:29,920
 # 这面这孜然辣椒面加的好
-With the cumin and chili flakes.
+The cumin and chili flakes are really good in the noodle.
 
 107
 00:04:29,920 --> 00:04:32,160
@@ -575,7 +577,7 @@ It is so delicious.
 117
 00:04:57,320 --> 00:05:00,480
 # 番茄酱和番茄沙司的区别
-What’s difference between tomato ketchup and tomato sauce?
+What’s difference between tomato sauce and ketchup?
 
 118
 00:05:00,480 --> 00:05:01,800
@@ -585,12 +587,12 @@ Quite a large difference.
 119
 00:05:01,800 --> 00:05:03,800
 # 因为番茄沙司是
-Tomato sauce
+Ketchup is
 
 120
 00:05:03,800 --> 00:05:08,000
 # 通过番茄酱进一步的进行调味
-Is basically tomato ketchup with some further seasoning.
+basically tomato sauce with some further seasoning.
 
 121
 00:05:08,000 --> 00:05:09,960
@@ -600,27 +602,27 @@ It’s a type of seasoning sauce
 122
 00:05:09,960 --> 00:05:12,840
 # 你看我们在 M记 开封菜
-When we go to McDonalds or KFC
+See, in McDonalds or KFC
 
 123
 00:05:12,840 --> 00:05:15,960
 # 吃的薯条 或者一些干炸食品
-When we order some deep-fried food like French fries
+The french fries, or other deep-fried food
 
 124
 00:05:15,960 --> 00:05:19,320
 # 大家蘸上番茄沙司吃 就很有味道
-It tastes better with the tomato sauce
+We dip with ketchup, tastes good.
 
 125
 00:05:19,320 --> 00:05:21,760
 # 但是我们做菜 用的番茄酱
-But we usually use tomato ketchup for cooking
+But we usually use tomato sauce for cooking
 
 126
 00:05:21,760 --> 00:05:24,280
 # 我们用一般不用番茄沙司
-We hardly use tomato sauce
+We hardly use ketchup
 
 127
 00:05:24,280 --> 00:05:26,880
@@ -630,7 +632,7 @@ Because we do not know what extra seasoning is in the sauce.
 128
 00:05:26,880 --> 00:05:29,280
 # 所以番茄酱里面是没有味道的
-There is no extra seasoning in the tomato ketchup
+There is no extra seasoning in the tomato sauce
 
 129
 00:05:29,280 --> 00:05:31,960
@@ -655,7 +657,7 @@ Or some dishes with fruits.
 133
 00:05:37,960 --> 00:05:39,840
 # 特别恰到好处
-It is better to use tomato ketchup.
+It is better to use tomato sauce.
 
 134
 00:05:39,840 --> 00:05:42,560
@@ -680,7 +682,7 @@ Or some other cooking methods,
 138
 00:05:49,760 --> 00:05:52,600
 # 它适当的少量的加一些番茄酱
-You can add some tomato ketchup
+You can add some tomato sauce
 
 139
 00:05:52,600 --> 00:05:54,280
