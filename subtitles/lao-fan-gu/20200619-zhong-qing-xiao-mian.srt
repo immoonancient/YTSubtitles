@@ -2,7 +2,7 @@
 
 # 标题
 # 【國宴大師•重慶小面】辣椒和麻椒的巔峰組合，別小看每一碗重慶小面| 大爺大媽的愛情故事 (1) | 老飯骨
-# State Banquet Master Chef: Chongqing Xiao Mian (Chongqing Noodles) & Da Ye's love story
+# State Banquet Master Chef - Chongqing Xiao Mian (Chongqing Noodles) & Da Ye's love story
 
 # 简介
 
@@ -11,7 +11,7 @@
 # 軟糯的豌豆，咸香的雜醬，筋道的麵條，再配上香的不行的辣椒油和麻椒油，大爺二伯吃了都直呼過癮！這重慶小面啊，可一點兒都不小！
 # 本期節目最後，還有大爺講述他和大媽的愛情故事。大爺大媽究竟是怎麼認識的，八卦的小友可千萬別錯過了！
 # Hello friends! Previously we asked what kind of noodles you want to see. Some friends replied 'Chongqing Xiao Mian' (Chongqing Noodles), and here it comes!
-# This time Da Ye's disciple, Huang Guohui, will present to you how to cook Chongqing Noodles.
+# This time Da Ye's apprentice, Huang Guohui, presents how to cook Chongqing Noodles.
 # With soft peas, aromatic sauce, al dente noodles, and incredibly fragrant chili pepper and Sichuan peppercorn oil, Da Ye and Er Bai enjoyed this dish so much. Though it's named 'Xiao Mian' (literally 'Small noodles'), never look down upon it!
 # At the end of this video, Da Ye will talk about his love story with Da Ma. If you are interested in how they knew each other, don't miss it!
 
@@ -84,7 +84,7 @@ The best peppercorns must be from Sichuan. Green ones
 15
 00:00:28,720 --> 00:00:33,560
 # 把它粉碎了 不用炒也不用炸 直接生的
-Grind it.  No need to stir-fry or fry. Do it raw
+Grind it.  No need to stir-fry or fry. Use raw.
 
 16
 00:00:33,560 --> 00:00:36,120
@@ -92,7 +92,7 @@ Grind it.  No need to stir-fry or fry. Do it raw
 17
 00:00:36,120 --> 00:00:39,120
 # 因为生的麻椒它的香味出不来
-Raw Sichuan peppercorns don't fully release its aroma
+Raw Sichuan peppercorn doesn't fully release its aroma
 
 18
 00:00:39,120 --> 00:00:42,600
@@ -122,7 +122,8 @@ Put it down. Don't get burnt
 23
 00:00:52,840 --> 00:00:56,760
 # 你看油呲进去 冒的是油花儿
-See? When the hot oil goes in, bubbles go up #这里我觉得'油花'指的应该是花椒中本来含有的芳香油在热油的温度下沸腾造成的泡泡
+See? When the hot oil goes in, bubbles go up 
+#这里我觉得'油花'指的应该是花椒中本来含有的芳香油在热油的温度下沸腾造成的泡泡
 
 24
 00:00:56,760 --> 00:01:01,680
@@ -243,7 +244,7 @@ Doubanjiang from Pixian, Sichuan is the best
 48
 00:02:05,040 --> 00:02:06,280
 # 因为它比较粗一点
-Since it's a bit crude
+Since it's a bit coarse
 
 49
 00:02:06,280 --> 00:02:08,360
@@ -288,7 +289,7 @@ and its color
 57
 00:02:29,960 --> 00:02:33,040
 # 豆瓣酱在四川和重庆那边
-Doubanjiang can be found in every family
+Doubanjiang, in Sichuan and Chongqing
 
 58
 00:02:33,040 --> 00:02:35,080
@@ -373,7 +374,7 @@ Add some Chinese cooking wine to remove the odor
 74
 00:03:13,680 --> 00:03:19,200
 # 最好用前肩肉稍微肥瘦均匀
-We'd better use pork shoulder (Boston butt), which gives a balanced fat/lean ratio
+We'd better use pork shoulder, which gives a balanced fat/lean ratio
 
 75
 00:03:19,200 --> 00:03:22,320
@@ -386,12 +387,12 @@ Also, the muscle fiber of this part is relatively fine
 77
 00:03:25,120 --> 00:03:29,280
 # 看到了吧 重庆小面一步二步三步
-See? The step-by-step protocol of Chongqing Xiao Mian
+See? Step-by-step to make Chongqing Xiao Mian
 
 78
 00:03:29,280 --> 00:03:32,960
 # 每一步都特别精细 锅洗一下
-Each step is very sophisticated. Rinse the wok now
+Each step is very meticulous. Rinse the wok now
 
 79
 00:03:32,960 --> 00:03:37,840
@@ -401,12 +402,12 @@ Next, boil the peas in a pressure cooker
 80
 00:03:37,840 --> 00:03:40,520
 # 豌豆一定是带皮的
-Peas with coat, of course
+Peas must still have coat with it
 
 81
 00:03:40,520 --> 00:03:44,080
 # 干的豌豆最少要泡个十个小时以上
-The peas must be soaked for over 10 hours (before cooking)
+The dry peas must be soaked for over 10 hours (before cooking)
 
 82
 00:03:44,080 --> 00:03:46,760
@@ -486,7 +487,7 @@ Crushing brings out the aroma
 97
 00:04:23,480 --> 00:04:25,840
 # 接下来最关键的步骤就把这
-The most important step next
+Next, the most important step
 
 98
 00:04:25,840 --> 00:04:27,520
@@ -521,7 +522,7 @@ Otherwise the soup would be too sticky. Not clear enough
 104
 00:04:41,160 --> 00:04:44,480
 # 就这样的小的勺子就一点点
-Just a little bit with such a small spoon
+Just a little bit with a small spoon like this
 
 105
 00:04:44,480 --> 00:04:47,920
@@ -566,12 +567,12 @@ Must use the correct soy sauce, but not too much
 113
 00:05:11,960 --> 00:05:16,280
 # 接下来放这个辣椒 搅拌均匀了
-Then the chili oil. Mix it up
+Then the chili oil. Mix it well
 
 114
 00:05:16,280 --> 00:05:19,240
 # 这也是根据自己的 对根据个人口味
--This also follows your preference. -Yep, as you like
+-This also depends on your personal taste. -Yep, as you like
 
 115
 00:05:19,240 --> 00:05:21,320
@@ -651,7 +652,7 @@ The noodles will stick together if boiled over 2 minutes
 130
 00:05:57,600 --> 00:06:01,160
 # 这就是北京的话 锅挑儿
-In Beijing, this is called 'Guo Tiaoer' (literally noodles picked out of the pot)
+In Beijing, this is called 'Guo Tiaoer' (literally pick noodles out of the pot)
 
 131
 00:06:01,160 --> 00:06:04,280
@@ -691,7 +692,7 @@ Very aromatic. It's already good from its look
 138
 00:06:22,160 --> 00:06:25,440
 # 把面拌匀 尝尝这个小面味道怎么样
-Mix the noodles up and try how it's like?
+Mix the noodles well. Try and see how does it taste?
 
 139
 00:06:25,440 --> 00:06:28,640
@@ -735,7 +736,7 @@ It feels in your mouth... All kinds of aroma
 148
 00:06:43,680 --> 00:06:46,280
 # 谁都不夺谁 谁都不抢谁
-They superpose together, but not fighting with or excluding each other
+They are not fighting with or excluding each other
 
 149
 00:06:46,280 --> 00:06:49,320
@@ -889,7 +890,7 @@ However, my job
 180
 00:08:00,840 --> 00:08:02,640
 # 也不是一个好职业
-was not a good one, either
+was not a good one either
 
 181
 00:08:02,640 --> 00:08:03,120
@@ -989,52 +990,52 @@ Her grandma was like
 200
 00:08:42,360 --> 00:08:44,080
 # 咱家姑娘
-Our girl
+"Our girl, "
 
 201
 00:08:44,080 --> 00:08:45,480
 # 找一厨师好啊
-A chef was a perfect choice for her
+" A chef was a perfect choice for her "
 
 202
 00:08:45,480 --> 00:08:47,680
 # 咱这姑娘也不会做饭
-She could not cook
+"She doesn't know how to cook"
 
 203
 00:08:47,680 --> 00:08:49,600
 # 找一厨师想做什么
-If she married a chef
+"If she marries a chef,"
 
 204
 00:08:49,600 --> 00:08:50,960
 # 想吃什么
-He would cook
+"then if there are something she want to have"
 
 205
 00:08:50,960 --> 00:08:52,160
 # 都能给会做
-whatever she wanted to eat
+"(her husband) can make it for her."
 
 206
 00:08:52,160 --> 00:08:53,880
 # 厨师好 又顾家
-A chef was good. Also a chef takes more care of the family
+"A chef is good, and can take care of the family."
 
 207
 00:08:53,880 --> 00:08:56,680
 # 这是给我一个评价
-That's my wife's grandma's evaluation on me
+That's her evaluation of me. 
 
 208
 00:08:56,680 --> 00:08:57,680
 # 找一个老师
-For me, what's the best point
+(For me), marry a teacher
 
 209
 00:08:57,680 --> 00:08:58,840
 # 特别好在哪呢
-to marry a teacher?
+is ideal. why?
 
 210
 00:08:58,840 --> 00:08:59,720
@@ -1049,7 +1050,7 @@ She has a regular working schedule
 212
 00:09:02,320 --> 00:09:03,440
 # 有寒暑假
-She also has winter and summer holidays
+She also has winter and summer vacations
 
 213
 00:09:03,440 --> 00:09:06,120
@@ -1064,7 +1065,7 @@ She would be on holiday if the kid was on holiday
 215
 00:09:08,800 --> 00:09:10,680
 # 孩子上学她也上学
-She goes to school when the kid does
+She went to school when the kid started semester 
 
 216
 00:09:10,680 --> 00:09:12,240
@@ -1149,7 +1150,7 @@ Later when we further contacted with each other
 232
 00:09:39,640 --> 00:09:43,560
 # 确实我们相处得非常好
-We indeed went on very well
+We indeed went very well
 
 233
 00:09:43,560 --> 00:09:44,440
@@ -1169,7 +1170,7 @@ Indeed, we experienced the priority
 236
 00:09:48,960 --> 00:09:50,240
 # 这种优越
-during winter and summer holidays
+during winter and summer vacations
 
 237
 00:09:50,240 --> 00:09:51,360
@@ -1214,7 +1215,7 @@ Her family did not ask me for a high bride price
 245
 00:10:05,240 --> 00:10:07,520
 # 我觉得这点挺宽容我的
-They were easy on me
+I think they were lenient
 
 246
 00:10:07,520 --> 00:10:12,920
@@ -1314,4 +1315,4 @@ Was it you?
 265
 00:10:51,040 --> 00:03:47,440
 # 说到这儿我就特别感慨
-That was a story with much emotion...
+For that part, I feel particularly emotional...
