@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•茄子汆儿面&西瓜露】大爷的绝招！老北京地道茄子汆儿面搭配火爆全网的老式甜饮西瓜露，一口透心儿凉！|老饭骨
-# [State Banquet Master Chef-Blanching noodles with eggplant & syrup of watermelon]Secret receipt from Da Ye! Authentic Beijing Blanching Noodles with eggplant and popular traditional syrup of sweet watermelon.
+# State Banquet Master Chef - eggplant noodles & syrup watermelon. Authentic!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -12,13 +12,15 @@
 # 吃碗面，当然少不了来点甜饮消暑了，西瓜味儿的甜饮可是夏日必备！
 # 西瓜露也是老北京人儿时的味道，现在做的人也少了。西瓜露不仅清热解渴、还非常润喉舒服，做法也非常简单，小友们吃完饭可别忘了来一碗，这都是咱们老祖宗留下的好东西！
 # 最详细的文字版配方也已经放在视频后面了，大家想保存图片也可以在微信公众号搜索“老饭骨”！小友们可一定要尝尝看，这味儿绝了！
-# Hi everyone. This time I will bring two dishes for you. Blanching noodles with eggplant and syrup of watermelon.
-# Blanching noodles with eggplant is Da Ye’s silver bullets. This dish has the rich aroma of meat and eggplant. Da Ye cooked once at home, everyone loves it. So Da Ye wants to share this recipe with all our online friends!
-# We can have noodles without our cooling summer drink! Watermelon flavoured drink is a must have in summer!
-# Syrup of watermelon is our childhood memory for all Beijing people, but there are less people making it now. Syrup of Watermelon can not only clear summer heat, smooth sore throat, and it is easy to make as well.
+# Hello friends! This time we share two dishes with you. eggplant noodles & syrup watermelon.
+# Eggplant noodles with is Da Ye’s specialty. This dish has the rich aroma of meat and eggplant. Da Ye cooked once at home, everyone loves it. So Da Ye wants to share this recipe with all our online friends!
+# When having noodles, we certainly need some dessert to cool down! Watermelon flavoured sweet drink is a must have one in summer!
+# Syrup watermelon is our childhood memory for all Beijing people, but there are less people making it now. Syrup Watermelon can not only clear summer heat, but also smooth sore throat, It is easy to make as well.
 # Don't forget to have some after meal. This is precious dish passing by our ancestors.
-# Detailed recipe presents at the end of the video. If you would save the picture, please search Laofangu in Wechat!
+# Detailed recipe presents at the end of the video. If you would save the picture, please search "Laofangu" in Wechat Official Account!
 # Please try them! The taste is splendid!
+
+# import intro
 
 # 字幕
 
@@ -35,12 +37,12 @@ The noodles are so delicious.
 3
 00:00:03,120 --> 00:00:05,760
 # 大爷就是大爷
-A good sword remains always sharp.
+Da Ye is Da Ye. (A good sword remains always sharp.)
 
 4
 00:00:05,760 --> 00:00:07,760
 # 最家常的茄子汆儿面
-The homeliest blanching noodles with eggplant.
+The homeliest eggplant noodle.
 
 5
 00:00:07,760 --> 00:00:11,200
@@ -53,7 +55,7 @@ dice eggplant into larger pieces
 7
 00:00:14,160 --> 00:00:17,240
 # 一会一煸一炒 没了
-otherwise they will be shirked while stir-frying.
+otherwise they will be shirked too small after stir-frying.
 
 8
 00:00:17,240 --> 00:00:21,040
@@ -78,17 +80,17 @@ What kind of eggplants should we buy? Lighter ones.
 12
 00:00:28,400 --> 00:00:34,400
 # 那茄子一说沉了 籽儿多了 老了
-If eggplant is heavier, which means it contains more seeds and overgrew the best edible time.
+If eggplant is heavier, which means it contains more seeds. Too ripe.( past the best edible time)
 
 13
 00:00:34,400 --> 00:00:36,400
 # 刚强给我倒点油
-Add some oil for me, Gang Qiang.
+Gang Qiang, add some oil for me.
 
 14
 00:00:36,400 --> 00:00:40,360
 # 还得倒 油少了不好吃 茄子吸油
-Add more, less oil makes untasted eggplant. Eggplant will absorb oil.
+Add more, less oil makes untasted eggplant. Eggplant absorbs oil.
 
 15
 00:00:40,360 --> 00:00:42,720
@@ -113,12 +115,12 @@ Meat lovers can add more meat, otherwise, cut less.
 19
 00:00:51,960 --> 00:00:55,760
 # 但是我们一定要搁点什么 肥瘦的五花肉
-But, what we should add? Streaky pork.
+But, what we should add? Pork belly.
 
 20
 00:00:55,760 --> 00:00:58,680
 # 茄子不能加水 就干煸
-Don't add water with eggplant. Just Stir-frying alone.
+Shouldn't add water in the eggplant. Just Stir-frying alone.
 
 21
 00:00:58,680 --> 00:01:01,040
@@ -153,27 +155,27 @@ Check out the shirked eggplants. Okay.
 27
 00:01:15,240 --> 00:01:17,920
 # 这俩大茄子就煸出这么点儿来
-Two large eggplants just produced these much left.
+Two large eggplants just left these (little) amount.
 
 28
 00:01:17,920 --> 00:01:20,520
 # 这茄子味浓 香吧
-Very rich eggplant aroma. Smells good.
+The aroma of the eggplant is very rich. Smells good.
 
 29
 00:01:20,520 --> 00:01:22,640
 # 今天我这个茄子汆儿面
-Today, my blanching noodles with eggplant
+Today, my eggplant noodle
 
 30
 00:01:22,640 --> 00:01:26,920
 # 还有一个小秘方 我们拍点蒜
-have another secret tip. Bat some garlics with knife.
+have another secret tip. Smash some garlics with knife.
 
 31
 00:01:26,920 --> 00:01:29,520
 # 因为吃茄子蒜不能少
-Because we can't be having eggplants without garlic.
+Because we can't have eggplants without garlic.
 
 32
 00:01:29,520 --> 00:01:33,200
@@ -238,7 +240,7 @@ Some oil might be mixed with meat juice, (the oil) is turbid.
 44
 00:02:10,120 --> 00:02:13,560
 # 那个不行 出来以后容易腥
-That is not okay as the meat will have fishy smell.
+That is not okay as the meat will have unpleasant taste and smell.
 
 45
 00:02:13,560 --> 00:02:15,600
@@ -271,12 +273,12 @@ Huangjiu rice wine, soy sauce
 51
 00:02:39,560 --> 00:02:42,160
 # 我就事儿把这瓶子给清了
-I used up the rest in this bottle with this dish.
+I used up the rest in this bottle.
 
 52
 00:02:42,160 --> 00:02:44,040
 # 没酱油不好吃
-No soy sauce will give you unpalatable taste.
+Without soy sauce, it doesn't taste good.
 
 53
 00:02:44,040 --> 00:02:44,880
@@ -383,7 +385,7 @@ Taste one. Add in.
 75
 00:03:52,520 --> 00:03:57,240
 # 关火了 慢慢咕嘟着 余热
-Turn off the fire. Cooking it slowly with exhaust heat.
+Turn off the fire. Cooking it slowly with residual heat.
 
 76
 00:03:57,240 --> 00:03:59,480
@@ -403,17 +405,17 @@ add it in.
 79
 00:04:06,520 --> 00:04:11,920
 # 这个面就不用去过水 锅挑 出锅喽
-No need to blanch in cold water, colander, ready to serve.
+No need to blanch in cold water, get it out directly from pot. ready to serve.
 
 80
 00:04:11,920 --> 00:04:14,960
 # 今天的量都够足的
-We have enough foods today.
+Food today all come in big portion. 
 
 81
 00:04:14,960 --> 00:04:20,160
 # 喜兴 现在就把茄子汆给它上上
-Pour the eggplants and meat mixture on top of it.
+Looks good. Pour the eggplants and meat mixture on top of it.
 
 82
 00:04:20,160 --> 00:04:20,960
@@ -421,12 +423,12 @@ Pour the eggplants and meat mixture on top of it.
 83
 00:04:20,960 --> 00:04:24,200
 # 在疫情当中 我在家给做了一回
-At this pandemic moment, I cooked this dish at home.
+At this pandemic period, I cooked this dish at home.
 
 84
 00:04:24,200 --> 00:04:27,360
 # 全家人大受欢迎
-My whole family loves it a lot.
+My family love it a lot.
 
 85
 00:04:29,240 --> 00:04:31,040
@@ -436,7 +438,7 @@ Grab a spoon. Er Bai.
 86
 00:04:34,040 --> 00:04:36,360
 # 吃茄子一定要有醋蒜
-Garlic vinegar is a must have with eggplant.
+For eggplant, you must accompany with some garlic vinegar.
 
 87
 00:04:36,360 --> 00:04:39,000
@@ -454,7 +456,7 @@ Just a bite. I had noodle dishes all day.
 90
 00:04:46,480 --> 00:04:48,760
 # 这蒜加的好
-The garlic is the punch line.
+The garlic is the highlight.
 
 91
 00:04:48,760 --> 00:04:51,160
@@ -493,7 +495,7 @@ Let me tell you something, Xiao Wei.
 99
 00:05:09,400 --> 00:05:12,560
 # 大爷就是大爷
-A good sword remains always sharp.
+Da Ye is Da Ye (A good sword remains always sharp.)
 
 100
 00:05:12,560 --> 00:00:01,320
