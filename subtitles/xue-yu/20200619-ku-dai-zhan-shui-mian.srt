@@ -1,7 +1,6 @@
 # https://youtu.be/THuwUxiPLgw
 
 # 字幕
-# <1
 
 1
 00:00:01,920 --> 00:00:04,000
@@ -298,4 +297,3 @@ Second, bowls as big as basins
 # 关 注
 # 雪 鱼 探 店
 Subscribe to Xueyu
->
