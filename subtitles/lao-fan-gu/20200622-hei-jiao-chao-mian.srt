@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•黑椒炒面】一招做出椒香干爽的海鲜黑椒炒面，让人胃口大开的美食！大爷大妈的爱情故事 (2)|老饭骨
-# State Banquet Master Chef - Black pepper fried noodles. Appetizing seafood fried noodles! & Da Ye and Da Ma's love story (2)
+# State Banquet Master Chef - Black pepper fried noodles. Da Ye & Da Ma's love story (2)
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,8 +13,10 @@
 # 答案全在今天咱们这期视频里咯！快点击视频看二伯现场教学还有大爷大妈婚礼上发生的故事！
 # Hello friends! Today we present to you an appetizing seafood fried noodles with black pepper!
 # It's very simple to cook this dish, but you need to pay special attention to how to marinate the shrimp. Also, we will introduce you how to compensate for the spicy flavor of black pepper.
-# At the end of this video, we will continue to talk about the love story of Da Ye and Da Ma. As most people have professional chefs to prepare their wedding banquet, who is in charge of the wedding banquet of our state banquet master chef? What else happened on Da Ye's wedding?
+# At the end of this video, we will continue to talk about the love story of Da Ye and Da Ma. As most people have professional chefs to prepare their wedding banquet, who was in charge of the wedding banquet for our state banquet master chef? What else did happen on Da Ye's wedding?
 # All the answers can be found in this video! Click to see Er Bai's demonstration and the stories on Da Ye and Da Ma's wedding!
+
+# import intro
 
 # 字幕
 
@@ -261,7 +263,7 @@ As the name is 'Black pepper seafood fried noodles'
 51
 00:02:13,520 --> 00:02:18,560
 # 香味出来了 够了吧 蚝油
-Here comes the aroma. That's enough. Oyster sauce?
+The aroma comes out. Is it enough? Oyster sauce?
 
 52
 00:02:18,560 --> 00:02:20,400
@@ -307,7 +309,7 @@ Leek sprout
 61
 00:02:45,640 --> 00:02:47,520
 # 鲜味汁 一点就够
-'Savory sauce'. Just a little #理论上这里应该是maggi sauce，不知道为什么每次都用别的字代替
+'Savory sauce' (Maggi sauce). Just a little #理论上这里应该是maggi sauce，不知道为什么每次都用别的字代替
 
 62
 00:02:47,520 --> 00:02:51,520
@@ -345,7 +347,7 @@ Xiao wei, this is yours. Taste it, let me hold the camera
 69
 00:03:10,240 --> 00:03:12,320
 # 小魏评价评价 不好就是不好
-Your commet? Don't worry if you think it's bad
+Xiao wei, make some comments. Don't worry if you think it's bad
 
 70
 00:03:12,320 --> 00:03:14,040
@@ -461,7 +463,7 @@ At that time, I asked many other people for help
 93
 00:04:12,040 --> 00:04:13,480
 # 别人都定出去了
-But they were all busy
+But they were all busy (with banquets)
 
 94
 00:04:13,480 --> 00:04:15,720
@@ -736,7 +738,7 @@ Then a force-seven wind started outside
 148
 00:05:52,680 --> 00:05:53,520
 # 我一看不行
-I thought that, this is not gonna be OK
+I thought that it was not gonna be OK
 
 149
 00:05:53,520 --> 00:05:55,360
@@ -921,12 +923,12 @@ exhausted and sleepy
 185
 00:06:57,120 --> 00:06:59,240
 # 再加上我在看我的形象
-And my figure was...
+And my appearance was...
 
 186
 00:06:59,240 --> 00:07:00,320
 # 人就变了
-My figure changed
+My appearance changed
 
 187
 00:07:00,320 --> 00:07:02,640
@@ -1021,7 +1023,7 @@ in my small kitchen
 205
 00:07:27,960 --> 00:07:29,960
 # 我是一边招待客人
-I was attending to the guests
+I was entertaining my guests
 
 206
 00:07:29,960 --> 00:07:31,680
@@ -1031,7 +1033,7 @@ while cooking
 207
 00:07:31,680 --> 00:07:33,080
 # 做饭我还得悄悄的
-But I had to cook 'screctly'
+But I had to cook 'secretly'
 
 208
 00:07:33,080 --> 00:07:35,040
@@ -1116,7 +1118,8 @@ When other people get married
 224
 00:07:55,760 --> 00:07:57,200
 # 该入洞房了
-It was time to get into the 'bridal chamber' #请检查这里，感觉怎么翻译都有歧义...
+It was time to "ru dong fang" (go to bed together for new-married couple)
+#请检查这里，感觉怎么翻译都有歧义...
 
 225
 00:07:57,200 --> 00:07:58,760
@@ -1151,17 +1154,17 @@ Then I told Da Ma
 231
 00:08:10,000 --> 00:08:13,720
 # 我说今天虽然是新婚的夜晚
-I said, though this is our wedding night
+I said “though this is our wedding night,
 
 232
 00:08:13,720 --> 00:08:17,320
 # 但是我今天确实照顾不了你
-I am sorry but I can't take care of you
+"I am sorry, but I can't take care of you"
 
 233
 00:08:17,320 --> 00:08:19,480
 # 我说我已经累了
-I was already tired out
+"I am already exhausted. "
 
 234
 00:08:19,480 --> 00:08:20,360
