@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•层酥烧饼】国宝级面点大师亲授层酥烧饼酥脆绵软的诀窍！这些规矩一定不能少！大爷大妈的爱情故事(4) |老饭骨
-# State Banquet Master Chef - 'Ceng Su Shao Bing' (Crispy layered pancake) & Da Ye and Da Ma's love story (4)
+# State Banquet Master Chef - Crispy layered pancake. Da Ye and Da Ma's love story (4)
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -10,16 +10,18 @@
 # 小友们好！之前就看到有小友们说想学这层酥烧饼。但是大爷二伯也不是专门做面点的，为了让大家学到最地道的层酥烧饼的诀窍，这次特地请到了咱们国宝级的面点大师，上过舌尖上的中国的王师傅，也就是我们的大大爷来传授给大家！
 # 做这层酥烧饼，你别看它个头小小的，里头的规矩可不少。谨记咱大大爷传授的这些绝招儿，在家里头小友们也能做好！
 # P.S上期讲到了大爷大妈的婚后生活，这次聊聊大爷在中央党校讲课的那些事儿！想不到咱大爷初中还是个大学霸呢！
-# Hello friends! Some friends told us that they wanted to learn how to make 'Ceng Su Shao Bing' (Crispy layered pancake). However, Da Ye and Er Bai are not professional pastry chefs. To show everyone the most authentic cooking tricks of this snack, we specially invited a national-treasure-level master pastry chef for shooting this video. Master Wang, aka 'Da Da Ye' (literally elder Da Ye), who once showed up in the documentary 'A Bite of China', will teach you how to make the pancake.
+# Hello friends! Some friends told us that they wanted to learn how to make 'Ceng Su Shao Bing' (Crispy layered pancake). However, Da Ye and Er Bai are not professional pastry chefs. To show everyone the most authentic cooking tricks of this snack, we specially invited a national-treasure-level master pastry chef for shooting this video. Master Wang, aka 'Da Da Ye' (literally elder Da Ye), who once showed up in the documentary 'A Bite of China', teaches you how to make the pancake.
 # Even though the pancake is small, there are a lot of 'rules' hidden inside. If you keep what you learn from Da Da Ye in mind, you'll be able to cook it in your home.
-# P.S. We talked about Da Ye and Da Ma's life after their marriage last time. This time, we'll tell the stories when Da Ye was teaching cooking in the Party School of the Central Committee of CPC. Da Ye was an excellent student when he was in middle school!
+# P.S. We talked about Da Ye and Da Ma's life after their marriage last time. This time, we tell the stories when Da Ye was teaching cooking in the Party School of the Central Committee of CPC. Da Ye was an excellent student when he was in middle school!
+
+# Import intro
 
 # 字幕
 
 1
 00:00:00,200 --> 00:00:02,760
 # 你看看都烤成腰圆似的
-See? Their shapes are like that of kidney
+See? Their shapes are like kidney
 
 2
 00:00:02,760 --> 00:00:04,160
@@ -75,7 +77,7 @@ To show everyone how to make it at home. Let's get started now
 13
 00:00:29,880 --> 00:00:33,480
 # 我们把半斤的面粉倒入这里头
-Let's pour half a jin (250 g) of flour into this (bowl)
+Let's pour half jin (250 g) of flour into this (bowl)
 
 14
 00:00:33,480 --> 00:00:34,800
@@ -253,12 +255,12 @@ The dough is now swelling
 49
 00:02:08,320 --> 00:02:11,760
 # 铺点干面 咱们给它开长
-Sprinkle some dry flour and let's spread the dough
+Sprinkle some dry flour and let's roll the dough
 
 50
 00:02:11,760 --> 00:02:14,840
 # 越擀的薄层次不就越多么
-The thinner you spread it, the more layers you'll get
+The thinner you roll it, the more layers you'll get
 
 51
 00:02:14,840 --> 00:02:18,040
@@ -273,7 +275,7 @@ Don't make it too round, that'll be ugly
 53
 00:02:21,960 --> 00:02:26,800
 # 已经擀成这样之后 把油酥抹上
-After spreading, smear the 'You Su'
+After rolling it like this, smear the 'You Su'
 
 54
 00:02:26,800 --> 00:02:32,720
@@ -457,7 +459,7 @@ You must roll the dough into the shape of a kidney
 91
 00:04:38,160 --> 00:04:43,600
 # 你们要喜欢圆的也行  这个就是好看
-It's ok if you like circular ones. It's just the looking
+It's ok if you like circular ones. This (shape) looks good. 
 
 92
 00:04:43,600 --> 00:04:48,360
@@ -507,7 +509,7 @@ If you start baking directly after dipping the sesames
 101
 00:05:12,080 --> 00:05:14,360
 # 这时候就滋滋剌剌的
-There'll be a noise while baking
+They'll be uneven while baking
 
 102
 00:05:14,360 --> 00:05:15,880
@@ -755,12 +757,12 @@ Most importantly, rest it well
 151
 00:07:54,480 --> 00:07:57,120
 # 饧起来 在进行烤
-Let it rest until it swells up. Then start baking
+Let it rest until it rises up. Then start baking
 
 152
 00:07:57,120 --> 00:08:01,040
 # 如果饧起来往这一颠 它就不再起了
-If it's bumped after swelling up, it'll never return to the original shape
+If it's bumped after rising up, it'll never return to the original shape
 
 153
 00:08:01,040 --> 00:08:05,600
@@ -958,7 +960,7 @@ for me to be a teacher
 192
 00:09:22,920 --> 00:09:24,640
 # 等我第一天去的时候
-But when I arrived there for the first time
+But when I arrived there for the first day
 
 193
 00:09:24,640 --> 00:09:26,240
@@ -1103,7 +1105,7 @@ It was in November
 221
 00:10:07,240 --> 00:10:09,600
 # 穿了一个毛衣全湿透了
-I was wearing a sweater, but it was soaked in my sweat
+I was wearing a sweater, but it was soaked with my sweat
 
 222
 00:10:09,600 --> 00:10:10,880
@@ -1198,7 +1200,7 @@ Ok
 240
 00:10:41,800 --> 00:10:43,560
 # 这4节课我是一耍完嘴
-When I finished my talk on the four classes
+When I finished my talk after the four classes
 
 241
 00:10:43,560 --> 00:10:45,360
