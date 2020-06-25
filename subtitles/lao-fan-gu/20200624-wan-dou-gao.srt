@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•豌豆糕】夏日必備！老式甜品開啟一整個夏天的清涼，是你記憶中的味道嗎？大爺大媽的愛情故事(3) |老飯骨
-# State Banquet Master Chef - Wan Dou Gao (Pea cake), a must-have dessert in summer! Da Ye and Da Ma's love story (3)
+# State Banquet Master Chef - Wan Dou Gao (Pea cake). Da Ye and Da Ma's love story (3)
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -11,6 +11,8 @@
 # ps.大爺大媽的愛情故事持續更新中……
 # Hello friends! Today we share a traditional Chinese dessert, 'Wan Dou Gao' (pea cake). Uncoated peas are boiled into a paste, which is accompanied by sugar, gardenia water, dried persimmon, and sweet osmanthus jam. It's absolutely a sweet and delicious snack that clears out your internal heat in this hot summer, suitable for both the elderly and kids!
 # Ps. The love story of Da Ye and Da Ma is still being updated!
+
+# import intro
 
 # 字幕
 
@@ -25,7 +27,7 @@ See? This is totally different from the 'Wan Dou Huang' pea cake, right?
 3
 00:00:04,760 --> 00:00:08,520
 # 这要夏天 来这么一块 爽
-It's absolutely cool to have such a piece in the hot summer
+It will cool you down in the hot summer
 
 4
 00:00:08,520 --> 00:00:09,680
@@ -86,17 +88,17 @@ If not enough, boil it for half an hour then
 16
 00:00:44,000 --> 00:00:47,520
 # 咱们看自己家的火 放点碱
-The time depends on your cooking stove. Add some soda
+The time depends on your cooking stove. Add some soda ash
 
 17
 00:00:47,520 --> 00:00:50,200
 # 过去老的手法都放点碱
-In classic protocols, soda is often used under such situations
+In classic protocols, soda ash is often used under such situations
 
 18
 00:00:50,200 --> 00:00:54,360
 # 不放碱还不好吃 大约有四克的碱
--It'll taste bad without soda. -This is about 4 grams of soda
+-It'll taste bad without soda ash. -This is about 4 grams of soda
 
 19
 00:00:54,360 --> 00:00:57,680
@@ -106,12 +108,12 @@ Some people may suffer from too much stomach acid after eating peas
 20
 00:00:57,680 --> 00:01:01,120
 # 放了碱就不胃酸了 酸碱中和了
--This problem can be settled by adding soda. -Soda can neutralize acid #这里化学上说是不对的...不过neutralize也可以有抵消的意思
+-This problem can be settled by adding soda ash. -Soda ash can neutralize acid #这里化学上说是不对的...不过neutralize也可以有抵消的意思
 
 21
 00:01:01,120 --> 00:01:04,640
 # 第二条就是容易烂
-What else, the peas become mushy faster (with soda)
+What else, the peas become mushy faster (with soda ash)
 
 22
 00:01:04,640 --> 00:01:06,040
@@ -131,7 +133,7 @@ Here I want to introduce you guys the tricks of boiling beans
 25
 00:01:16,480 --> 00:01:20,640
 # 我们煮豆的时候适当地放点碱 少放水
-When boiling beans, you can add a moderate amount of soda, but add less water
+When boiling beans, you can add a moderate amount of soda ash, but add less water
 
 26
 00:01:20,640 --> 00:01:24,640
@@ -171,12 +173,12 @@ In this way, the beans are chilled and boiled repeatedly
 33
 00:01:42,960 --> 00:01:45,200
 # 它迅速的开花儿
-They'll 'blossom' (become stewed and soft) very fast
+They'll 'blossom' (break from inside) very fast
 
 34
 00:01:45,200 --> 00:01:48,920
 # 所以碱的作用非常好
-So the soda plays an important role here
+So the soda ash plays an important role here
 
 35
 00:01:48,920 --> 00:01:51,880
@@ -273,12 +275,12 @@ Generally... If you soak the peas in advance
 55
 00:02:55,520 --> 00:02:57,320
 # 第二天蒸可不爱烂了
-They won't become soft if you steam them for a long time on the second day
+It's hard to steam it to soft on the second day
 
 56
 00:02:57,320 --> 00:03:00,360
 # 而且就得现加碱现熬
-You need to boil it on time with soda
+You need to boil it with soda ash right when you want to make it
 
 57
 00:03:00,360 --> 00:03:02,440
@@ -323,7 +325,7 @@ Done
 65
 00:03:28,040 --> 00:03:32,240
 # 我把这个 桂花酱 糖桂花
-Let me add the sweet osmanthus jam. Sugar osmanthus jam
+Let me add the sweet osmanthus jam. Osmanthus jam
 
 66
 00:03:32,240 --> 00:03:36,240
@@ -413,7 +415,7 @@ Also with a light fragrance of sweet osmanthus
 85
 00:04:46,880 --> 00:04:50,480
 # 我告诉你这要夏天 来这么一块 爽
-I bet it's absolutely cool to have such a piece in the hot summer
+I bet if you have a piece like this, it will cool you down in the hot summer
 
 86
 00:04:50,480 --> 00:04:52,480
@@ -526,27 +528,27 @@ But when we had a kid
 108
 00:05:44,520 --> 00:05:45,800
 # 我再没有钱
-We couldn't spare more money
+We didn't have spare money
 
 109
 00:05:45,800 --> 00:05:48,040
 # 我只能说有钱多给
-So I could only say that, we send them more money if we have extra
+So I could only say that, we sent them more money if we have extra
 
 110
 00:05:48,040 --> 00:05:49,080
 # 没钱少给
-Otherwise, we send less
+Otherwise, we sent less
 
 111
 00:05:49,080 --> 00:05:50,240
 # 再没钱我不给
-If it's worse, we don't send money to them
+In the worst case, we didn't send money.
 
 112
 00:05:50,240 --> 00:05:51,640
 # 但是我希望
-But I was hoping that
+But I hoped that
 
 113
 00:05:51,640 --> 00:05:53,320
@@ -601,7 +603,7 @@ So both of our families
 123
 00:06:07,480 --> 00:06:08,880
 # 还对我们还是很谅解的
-were very forgiving on us
+were very understanding.
 
 124
 00:06:08,880 --> 00:06:10,880
@@ -656,7 +658,7 @@ However, 2 yuan worthed a lot back then
 134
 00:06:25,120 --> 00:06:26,880
 # 能买好多东西
-You could buy a lot of stuff with 2 yuan
+You could buy a lot of stuffs with 2 yuan
 
 135
 00:06:26,880 --> 00:06:28,200
@@ -686,7 +688,7 @@ that we were living a hard life
 140
 00:06:34,640 --> 00:06:36,720
 # 能拿回4块钱的东西回来
-So we could actually return with 4-yuan stuff
+So we could actually return with 4-yuan stuffs
 
 141
 00:06:36,720 --> 00:06:39,280
