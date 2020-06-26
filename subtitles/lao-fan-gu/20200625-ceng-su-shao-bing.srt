@@ -14,7 +14,7 @@
 # Even though the pancake is small, there are a lot of 'rules' hidden inside. If you keep what you learn from Da Da Ye in mind, you'll be able to cook it in your home.
 # P.S. We talked about Da Ye and Da Ma's life after their marriage last time. This time, we tell the stories when Da Ye was teaching cooking in the Party School of the Central Committee of CPC. Da Ye was an excellent student when he was in middle school!
 
-# Import intro
+# import intro
 
 # 字幕
 
