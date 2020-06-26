@@ -799,9 +799,6 @@ We can only respect him. Thank you, Da Da Ye
 # 祝您老健康长寿 谢谢
 -I wish you health and longevity! -Thank you!
 
-160
-00:08:23,200 --> 00:00:02,000
-
 161
 00:08:34,200 --> 00:08:35,880
 # 一天给30块钱
