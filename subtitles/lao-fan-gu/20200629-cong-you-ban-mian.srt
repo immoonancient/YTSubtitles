@@ -13,6 +13,8 @@
 # In addition, we specially weighed each ingredient to give you a quantitative impression.
 # ps. The love story of Da Ye and Da Ma is still being updated at the end of this video!
 
+# import intro
+
 # 字幕
 
 1
@@ -33,7 +35,7 @@ The aroma of scallion and soy sauce
 4
 00:00:05,920 --> 00:00:08,240
 # 干贝的香 香味马上出来了
-The aroma of dried scallop. It's coming out fast
+The aroma of dried scallop. It's coming out immediately.
 
 5
 00:00:08,240 --> 00:00:10,440
@@ -207,7 +209,7 @@ You shouldn't boil it for more than 15 minutes. Otherwise,
 40
 00:01:46,480 --> 00:01:48,920
 # 因为酱油 盐味本身还有盐
-Because there's already salt in soy sauce
+Because soy sauce itself contains salt
 
 41
 00:01:48,920 --> 00:01:50,680
@@ -242,7 +244,7 @@ Just like in the song
 47
 00:02:05,880 --> 00:02:08,200
 # 你看碎了吧 对碎了
--See? It's broken into pieces. -Yes
+-See? It's broken into thin slices. -Yes
 
 48
 00:02:08,200 --> 00:02:13,360
@@ -327,7 +329,7 @@ See? When the green onion just turns yellow
 64
 00:02:52,360 --> 00:02:53,760
 # 然后把这个火关了
-Stop heating
+Turn off the heat
 
 65
 00:02:53,760 --> 00:02:57,120
@@ -420,7 +422,7 @@ When the dried scallop is rubbed into pieces
 83
 00:03:37,360 --> 00:03:39,880
 # 不要一起下得慢慢的下
-Don't add it altogether. Add it slowly
+Don't add it all together. Add it slowly
 
 84
 00:03:39,880 --> 00:03:43,120
@@ -455,7 +457,7 @@ The dried shrimp... Simply peel it
 90
 00:03:58,800 --> 00:04:02,480
 # 剥去虾的外皮  每个细节都很重要
-Remove the shrimp shell. Each detail matters
+Remove the shrimp shell. Every detail matters
 
 91
 00:04:02,480 --> 00:04:04,960
@@ -475,7 +477,7 @@ Just the oil that we used for frying the dried scallop
 94
 00:04:08,840 --> 00:04:10,880
 # 鲜上加鲜 火小一点点
--There's a double savory taste! -Use low heat
+-There's a double savory taste! -Use lower heat
 
 95
 00:04:10,880 --> 00:04:12,760
@@ -495,7 +497,7 @@ Fry both sides into pale yellow
 98
 00:04:18,760 --> 00:04:21,320
 # 把这虾的香味煎出来就可以了
-Fry out the aroma of the shrimp
+Fry the aroma of the shrimp out
 
 99
 00:04:21,320 --> 00:04:24,320
@@ -555,7 +557,7 @@ You shouldn't boil the noodles for over 2 minutes
 110
 00:04:51,160 --> 00:04:55,440
 # 如果时间煮久了面会坨 没有面的筋道
-If too long, the noodles will stick together and lose the chewy texture
+If boiling it for too long, the noodles will stick together and lose the chewy texture
 
 111
 00:04:55,440 --> 00:04:57,480
@@ -701,17 +703,17 @@ The savory tastes of shrimp and dried scallop all fuse with the noodles
 140
 00:06:14,360 --> 00:06:16,600
 # 回头再给您煮一碗
-Let me make one more serving for you later
+Let me make another one for you later
 
 141
 00:06:16,600 --> 00:06:19,280
 # 太香了 大爷别光我吃
-So delicious. I'm not eating alone, Da Ye
+So delicious. Da Ye, I'm not eating alone.
 
 142
 00:06:19,280 --> 00:06:21,600
 # 这口可以吧 这口可不小
-That's a large mouthful of noodles
+-How about this? -That's a large mouthful of noodles
 
 143
 00:06:23,160 --> 00:06:25,760
@@ -754,10 +756,9 @@ Forget about the shooting. Let me have one more bowl of noodles
 151
 00:06:44,160 --> 00:06:46,000
 # 好吃啊 好吃
-So delicious!
+- So delicious! - Delicious!
 
 152
-00:06:46,120 --> 00:00:02,000
 
 153
 00:06:55,840 --> 00:06:57,360
@@ -787,7 +788,7 @@ I exchanged 12 banknotes at our accounts office
 158
 00:07:04,800 --> 00:07:07,640
 # 特别新的新票
-The newest banknotes. Freshly made
+The newest banknotes. 
 
 159
 00:07:07,640 --> 00:07:08,520
@@ -947,7 +948,7 @@ At that time, when we visited our families
 190
 00:08:01,680 --> 00:08:03,000
 # 给双方的父母
-We used to send our parents
+We gave our parents
 
 191
 00:08:03,000 --> 00:08:04,200
@@ -957,7 +958,7 @@ We used to send our parents
 192
 00:08:04,200 --> 00:08:05,720
 # 那边拿20
-For both mine and hers
+For both, mine and hers
 
 193
 00:08:05,720 --> 00:08:07,680
@@ -1072,7 +1073,7 @@ It was 2.8 yuan
 215
 00:08:42,680 --> 00:08:45,520
 # 2块8毛钱那就半个月的生活费了
-2.8 yuan was the total life expense of half a month
+2.8 yuan was the life expense for half a month
 
 216
 00:08:45,520 --> 00:08:46,600
@@ -1127,7 +1128,7 @@ I bought 5 jin of oranges (2.5 kg)
 226
 00:09:00,960 --> 00:09:02,680
 # 搁在网兜里边
-They were put in a net pocket
+They were put in a net bag
 
 227
 00:09:02,680 --> 00:09:04,040
@@ -1217,7 +1218,7 @@ So I went to a college
 244
 00:09:34,200 --> 00:09:36,960
 # 在两三年当中
-During the 2 or 3 years
+During the 2 to 3 years
 
 245
 00:09:36,960 --> 00:09:38,400
@@ -1347,7 +1348,7 @@ I didn't have a chance
 270
 00:10:20,520 --> 00:10:24,480
 # 我直接从初中来到酒店
-I started working at a restaurant after graduating from a middle school
+I started working at a restaurant after middle school
 
 271
 00:10:24,480 --> 00:10:27,280
