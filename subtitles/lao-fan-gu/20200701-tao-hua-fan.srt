@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•桃花泛】快失传的宫廷菜名菜——桃花泛！酸甜可口，附上快速上浆方法和最强锅巴的做法！大爷大妈的爱情故事(6) |老饭骨
-# State Banquet Master Chef - Chinese imperial cuisine 'Tao Hua Fan' (Floating peach blossom). Da Ye & Da Ma's love story (6)
+# State Banquet Master Chef - Tao Hua Fan. Da Ye & Da Ma's love story (6)
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -11,10 +11,12 @@
 # 这道菜是大爷向83年中国第一届烹饪大赛获得十佳厨师的常静老师傅学习的。
 # 在教大家做这道菜的同时，大爷还会分享最快速的上浆方法，专门上白汁儿菜的上浆方法，蛋清淀粉糊！喜欢吃锅巴的小友也不要错过，最强的锅巴做法都在视频里了！
 # P.S本期是大爷大妈爱情故事的完结篇，小友们还想听大爷讲哪些故事呢？快留言告诉我们！
-# Hello friends! This is a very special video, as Da Ye shows how to cook a famous Chinese imperial cuisine 'Tao Hua Fan' (Floating peach blossom), which is almost lost.
+# Hello friends! This is a very special video, as Da Ye shows how to cook a famous Chinese imperial cuisine 'Tao Hua Fan' (Floating peach blossom), which is almost gone.
 # Da Ye learned this dish from Master Chang Jing, who was one of the 'Best 10 Chefs' that were awarded in the first Chinese cooking competition in 1983.
 # While teaching how to cook this dish, Da Ye will also show the fastest way of 'Shang Jiang' (coat the food with batter). The batter is the mixture of egg white and starch, which is specially for dishes with white sauce. Also, don't miss the video if you like crispy rice crust. The best way of cooking rice crust is also included!
 # P.S This is the last episode of Da Ye and Da Ma's love story. What stories do you want to hear from Da Ye? Please comment and tell us!
+
+# import intro
 
 # 字幕
 
@@ -24,7 +26,7 @@
 2
 00:00:03,520 --> 00:00:04,920
 # 教大家怎么做锅巴
-Let me show you how to cook crispy rice crust
+Let me show you how to make crispy rice crust
 
 3
 00:00:04,920 --> 00:00:06,800
@@ -52,7 +54,7 @@ Tomato sauce is better than ketchup
 8
 00:00:16,360 --> 00:00:19,880
 # 这是83年咱们中国第一次搞烹饪大赛
-In 1983, the first cooking competition was held in China
+In 1983, it was the first time China started to organize a cooking competition
 
 9
 00:00:19,880 --> 00:00:22,120
@@ -87,7 +89,7 @@ Today I'm taking this opportunity
 15
 00:00:34,240 --> 00:00:37,000
 # 先把这锅巴 教大家怎么做
-to teach everyone how to cook the crispy rice crust first
+to teach everyone how to make the crispy rice crust first
 
 16
 00:00:37,000 --> 00:00:38,400
@@ -142,7 +144,7 @@ Close the lid and bake it for a while
 26
 00:01:04,920 --> 00:01:09,280
 # 然后放气 再盖盖儿再烤 再放气
-Then open the lid to release the vapor. Then close the lid, bake it, and release the vapor again
+Then open the lid to release the steam. Then close the lid, bake it, and release the steam again
 
 27
 00:01:09,280 --> 00:01:11,040
@@ -192,7 +194,7 @@ After half an hour, we can turn off the oven
 36
 00:01:32,040 --> 00:01:34,520
 # 关完了敞开盖 让它放放气
-Then open the door to release the vapor
+Then open the door to release the steam
 
 37
 00:01:34,520 --> 00:01:38,320
@@ -242,12 +244,12 @@ Its original name was
 46
 00:01:58,600 --> 00:02:02,320
 # 叫番茄锅巴虾仁 是个烩菜 烩菜就是汁多
-'Crispy rice crust and shrimp with tomato sauce'. It should be a 'stewed dish' with much sauce
+'Crispy rice crust and shrimp with tomato sauce'. It should be a 'stewed dish' with a lot of sauce
 
 47
 00:02:02,320 --> 00:02:04,200
 # 你看我们这虾仁处理好了
-Now the shrimps have been processed
+See, we have prepared the shrimps
 
 48
 00:02:04,200 --> 00:02:08,800
@@ -387,7 +389,7 @@ Also, the shrimps won't clump up while stir-frying
 75
 00:03:28,480 --> 00:03:34,600
 # 看看这锅巴 现在放放气 再烤会
-Take a look at the rice. Now release the vapor and bake it for a while again
+Take a look at the rice. Now release the steam and bake it for a while again
 
 76
 00:03:34,600 --> 00:03:36,880
@@ -579,7 +581,7 @@ Let's take a look at the rice crust
 115
 00:05:32,480 --> 00:05:37,240
 # 再烤烤 烤完了出来晾着
-Bake it for some more time. Then take it out and chill it outside
+Bake it for more time. Then take it out and chill it outside
 
 116
 00:05:38,440 --> 00:05:41,240
@@ -702,7 +704,7 @@ As well as some winter mushroom
 142
 00:06:50,160 --> 00:06:51,760
 # 别介啊 大爷我还没吃够呢
-Don't be in a hurry, Da Ye. I haven't had enough yet
+No hurry, Da Ye. I haven't had enough yet
 
 143
 00:06:52,320 --> 00:06:53,680
@@ -720,7 +722,7 @@ You brothers are having a fight
 146
 00:07:03,720 --> 00:07:04,640
 # 相当多了
-That was much money
+That was a lot of money
 
 147
 00:07:04,640 --> 00:07:07,000
@@ -945,7 +947,7 @@ Da Ma returned from work
 191
 00:08:35,960 --> 00:08:36,760
 # 咱家多一个
-There is a ...
+(Commented) "There is a ..."
 
 192
 00:08:36,760 --> 00:08:37,120
@@ -955,12 +957,12 @@ you know
 193
 00:08:37,120 --> 00:08:38,560
 # 新鲜物
-New thing in our home!
+"New thing in our home!"
 
 194
 00:08:38,560 --> 00:08:40,000
 # 彩电搬家来了
-The color TV is here
+"The color TV is here"
 
 195
 00:08:40,000 --> 00:08:41,720
@@ -1258,6 +1260,6 @@ Ok?
 Thank you, Da Ye
 
 254
-00:10:25,280 --> 00:03:26,640
+00:10:25,280 --> 00:10:27,900
 # 今天就聊到这吧
 Let's finish here
