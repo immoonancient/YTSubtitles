@@ -2,14 +2,14 @@
 
 # 标题
 # <大西北早餐真硬核，2米面条抓进碗，加羊肠卖11元！人多炉灶都坐满>
-# Breakfast in Northwestern China-Lamb Sausage Noodles
+# Breakfast in Northwestern China-Lamb Sausage Noodles, 11 yuan for 2 meter long noodles
 
 # 简介
 
 # <探寻世界美味，从南吃到北，从白吃到黑，我是雪鱼。
 # 从这期开始，雪鱼将开始新的旅程，探索中国大西北的美食风味。首站来到青海省西宁市，这是一个高原城市，昼夜温差大，整座城市沿着河流分布，两面环山，风景如画。早上起来，我就直奔一家西宁当地很有名气的早餐店，专门来吃羊肠抓面！顾名思义，就是羊肠加面。一碗素面是5元，加羊肠辣子卖到11元，3个阿姨在透明半开放的厨房里忙碌。这个面条的一大特点是特别长，需要用手抓到碗里，一根面最长可以达到2米，甚至3米，加上羊肠的面，需要在滚烫的热水里冒几下直到烫熟，最后加辣椒、醋等调味品，看上去非常诱人。老顾客除了要一碗羊肠抓面，还会点一碗牛头肉，牛头肉筋道有味，配合蒜泥辣椒的香气，更让人爱不释手。在西宁的早上吃这样一碗羊肠面，真是热量非常高，管饱暖和舒服！>
 # Explore delicious foods, from south to north during days and nights. I’m Xueyu
-# From this episode, Xueyu will start a new journey to explore local specials in Northwestern China. The first stop is Xining, the capitol of Qinghai province. It’s a city on the plateau with a huge temperature difference between the days and nights. The city sits on a river with mountains surrounding. What a view! This morning, I went directly to a famous breakfast place for its lamb sausage noodles. As the name implies, it’s noodle with lamb sausages. Noodles alone is 5 yuan. Noodles along with lamb sausages and chili oil is 11 yuan. There are 3 aunties in a clear, semi-open kitchen. The noodles are really long and they need to be grabbed by hands into the bowl. A noodle can be as long as 2 meters or even 3. The noodles with lamb sausages need to be blanched in the boiling water. Then dress them with vinegar and chili oil, making it seem so good. The frequent customers often order a bowl of beef head meat with the noodles. The beef head meet is chewy and rich. The garlic sauce and the chili oil adds another dimension to its aroma. A bowl of lamb sausage noodles in the morning of Xining gives you enough calories for the cold. Make you feel full, warm and comfortable!
+# Starting from this episode, Xueyu will start a new journey to explore local delicacies in Northwestern China. The first stop is Xining, the capitol of Qinghai province. It’s a city on the plateau with a huge temperature difference between the days and nights. The city sits on a river with mountains surrounding. What a view! This morning, I went directly to a famous breakfast place for its lamb sausage noodles. As the name implies, it’s noodle with lamb sausages. Plain noodles is 5 yuan. Noodles along with lamb sausages and chili oil is 11 yuan. There are 3 aunties working in a clear, semi-open kitchen. The noodles are really long and they need to be grabbed by hands into the bowl. A noodle can be as long as 2 meters or even 3. The noodles with lamb sausages need to be blanched in the boiling water. Then dress them with vinegar and chili oil, giving them a appetizing appearance. The frequent customers often order a bowl of beef head meat with the noodles. The beef head meet is chewy and rich. The garlic sauce and the chili oil adds another dimension to its aroma. A bowl of lamb sausage noodles in the morning of Xining gives you enough calories for the cold. Make you feel full, warm and comfortable!
 
 # 字幕
 
@@ -33,7 +33,7 @@ But I’m here this time
 4
 00:00:05,920 --> 00:00:10,280
 # 不仅仅是来看风景 还有品尝大西北的美食
-For not only the views, but also to taste the northwestern cuisines
+For not only the scenery, but also to taste the northwestern cuisines
 
 5
 00:00:14,800 --> 00:00:17,720
@@ -48,12 +48,12 @@ There appeared a new feature on my watch
 7
 00:00:22,040 --> 00:00:26,320
 # 我现在在海拔2千多米的高原上
-I’m now on an altitude more than 2000 meters
+that I’m now on an altitude more than 2000 meters
 
 8
 00:00:29,360 --> 00:00:32,920
 # 司机师傅告诉我们 在青海旅游就要注意两点
-The driver told us there are two important things for visiting Qinghai
+The driver told us there are two important things when you visit Qinghai
 
 9
 00:00:32,920 --> 00:00:34,180
@@ -63,7 +63,7 @@ One is sun screening
 10
 00:00:34,200 --> 00:00:36,720
 # 因为这边的紫外线特别强烈
-Because the ultraviolet here is extreme
+Because the ultraviolet here is strong
 
 11
 00:00:36,720 --> 00:00:39,640
@@ -113,7 +113,7 @@ What can I get you?
 20
 00:01:32,780 --> 00:01:34,780
 # 一份羊肠面 再加一份牛头肉
-An order of lamb sausage noodles with an order of beef head meat
+ A portion of lamb sausage noodles with an bowl of beef head meat
 
 21
 00:01:36,960 --> 00:01:38,960
@@ -128,12 +128,12 @@ Everybody was staring at me
 23
 00:01:44,000 --> 00:01:47,900
 # 我意识到我可能答非所问
-I realized I was answering to not what has been asked
+I realized I was not answering to what had been asked
 
 24
 00:01:47,940 --> 00:01:49,940
 # 通过不断的比划和重复 我想要的是
-I had to repeat and show with hands to let them understand what I wanted
+I had to make gesture repeatedly to let them understand what I wanted were
 
 25
 00:01:50,560 --> 00:01:52,560
@@ -143,32 +143,32 @@ An order of lamb sausage noodles with an order of beef head meat
 26
 00:01:58,800 --> 00:02:00,800
 # 这种摊在桌子上的
-These noodles on the table
+These thin noodles on the table
 
 27
 00:02:00,840 --> 00:02:02,840
 # 要不断用手抓 不断散落的
-Need constantly grabbing and scattering
+that are grabbed constantly and scattering all around
 
 28
 00:02:02,840 --> 00:02:04,380
 # 金黄色的细面条
-They are golden yellow thin noodles
+with a golden yellow colour
 
 29
 00:02:04,840 --> 00:02:06,840
 # 是用鸡蛋 面粉和食用碱做成的
-Made of eggs, flour and baking soda
+are made with eggs, flour and soda ash
 
 30
 00:02:07,180 --> 00:02:09,680
 # 把它煮到七八分熟后 捞出来过凉水
-Boil them to medium well and cool them in water
+Boil them until medium well and cool them in water
 
 31
 00:02:10,120 --> 00:02:12,520
 # 处理好的面条 就会放在店里最显眼的位置
-The noodles are then put in the most obvious place once ready
+The noodles are then put at the most obvious place once ready
 
 32
 00:02:13,400 --> 00:02:16,140
@@ -193,7 +193,7 @@ The meat will be in the slotted spoon with the noodles
 36
 00:02:22,280 --> 00:02:26,020
 # 经历几次漏勺开花 最后一同进入碗中
-Blanching a few times and together in the bowl
+Blanching a few times and put it in the bowl together
 
 37
 00:02:48,860 --> 00:02:53,260
@@ -208,7 +208,7 @@ Today we have the lamb sausage noodles
 39
 00:03:16,080 --> 00:03:19,280
 # 除了面以外，我们还要了一份牛头肉 共消费22元
-Besides the noodles, we ordered some beef head meat too. It cost 22 yuan in total
+Besides the noodles, we ordered some beef head meat too. It costs 22 yuan in total
 
 40
 00:03:19,800 --> 00:03:22,160
@@ -223,7 +223,7 @@ Lamb sausage noodles. As the name implies, it’s noodle with lamb sausages
 42
 00:03:39,360 --> 00:03:44,080
 # 面是提前用个鸡蛋 面粉 食用碱一起和出来的
-The dough was made of eggs, flour and baking soda
+The noodles were made of eggs, flour and soda ash
 
 43
 00:03:44,680 --> 00:03:47,380
@@ -293,7 +293,7 @@ These sausages are darker in color
 56
 00:04:45,300 --> 00:04:48,500
 # 里面就是用羊的内脏加调料做出来的
-The ingredients are the lamb guts with seasoning
+The ingredients are lamb offal with seasoning
 
 57
 00:04:49,220 --> 00:04:51,520
@@ -308,12 +308,12 @@ It’s made of bean flour and seasonings
 59
 00:04:57,320 --> 00:05:00,280
 # 吃面肠就像吃山药一样，面面的口感
-The dough sausages have a starchy taste like Chinese yam
+The dough sausages have a grainy texture like Chinese yam
 
 60
 00:05:01,980 --> 00:05:04,740
 # 外面的肠衣是脆的 里面是绵的
-The outside is crunchy and the inside is delicate
+The sausage casing is crunchy and the inside is delicate
 
 61
 00:05:06,940 --> 00:05:09,020
@@ -343,12 +343,12 @@ The sausages with the chili oil taste more spicy and delicious
 66
 00:05:39,420 --> 00:05:41,420
 # 会吃肠子的人 都知道
-Everybody having sausages knows it
+Those who enjoy sausages would know 
 
 67
 00:05:42,220 --> 00:05:44,740
 # 像羊肠这种东西 就是把内壁洗干净
-To make lamb sausages, first we need to clean the interior
+To make lamb sausages, first we need to clean its internal surface
 
 68
 00:05:45,240 --> 00:05:48,080
@@ -358,7 +358,7 @@ But leave the intestine fat on there
 69
 00:05:48,720 --> 00:05:51,400
 # 因为有肠壁油 羊肠吃起来才会更香
-It’s the fat that contains the aroma of sausages
+It’s the fat that makes the sausages more aromatic
 
 70
 00:05:51,760 --> 00:05:54,080
@@ -378,12 +378,12 @@ Need to be careful with that
 73
 00:06:09,360 --> 00:06:12,940
 # 很多人听到羊肠面这个名字 听起来是很重口的
-The name lamb sausage noodles sounds pretty heavy-taste
+The name lamb sausage noodles sounds pretty intimidatinf
 
 74
 00:06:12,940 --> 00:06:14,900
 # 所以说内心会比较排斥
-Some people may be resistant to only the name
+Some people may be refused to try it 
 
 75
 00:06:14,900 --> 00:06:16,840
@@ -413,7 +413,7 @@ It’s also a table
 80
 00:06:38,760 --> 00:06:43,980
 # 很多人就是围着炉子一边吃面一边喝汤
-Many people sit around this stove to have noodles and soup
+Many people sit around this stove to have noodles and soup at the same time
 
 81
 00:06:50,500 --> 00:06:53,940
