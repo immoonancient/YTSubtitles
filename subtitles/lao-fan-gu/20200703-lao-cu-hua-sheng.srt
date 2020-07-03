@@ -49,7 +49,7 @@ A drunk food, "Lao Cu Hua Sheng" ("peanuts in aged vinegar")
 00:00:18,120 --> 00:00:21,480
 # 今天要用的花生是这种小粒的花生
 # 注：不太确定“小粒花生”这样译对不对，请检查
-Today we're gonna use peanuts of small granules
+Today we're gonna use small-seed peanuts
 
 9
 00:00:21,480 --> 00:00:22,960
@@ -346,7 +346,7 @@ Don't look down upon tiny dishes
 67
 00:03:18,920 --> 00:03:21,840
 # 现在我这胃已经炸开了
-It's exploding in my stomach
+It feels extraordinary!
 
 68
 00:03:21,840 --> 00:03:24,080
