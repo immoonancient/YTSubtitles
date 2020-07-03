@@ -121,7 +121,7 @@ As we fry longer and longer
 22
 00:01:01,200 --> 00:01:03,200
 # 这油越来越变成小泡
-The bubbles become smallers
+The bubbles become smaller
 
 23
 00:01:03,200 --> 00:01:05,800
@@ -152,12 +152,12 @@ I think we can take them out
 28
 00:01:16,400 --> 00:01:19,200
 # 然后咱们这盘子上放张吸油纸
-Then we put a piece of oil-aborbing paper on this tray
+Then we put a piece of oil-absorbing paper on this tray
 
 29
 00:01:19,200 --> 00:01:21,560
 # 把这油吸一下
-To aborb some oil
+To absorb the oil
 
 30
 00:01:21,560 --> 00:01:25,560
@@ -218,7 +218,7 @@ First put in some sugar
 00:01:57,760 --> 00:02:04,560
 # 这糖要多少 糖有一百克
 - How much sugar?
-- 100g of sugar
+- 100 g of sugar
 
 42
 00:02:04,560 --> 00:02:10,280
@@ -228,7 +228,7 @@ Then we add some salt to taste
 43
 00:02:10,280 --> 00:02:16,080
 # 这陈醋可以二百克
-We can put up to 200g of "Chencu" vinegar
+We can put up to 200 g of "Chencu" vinegar
 
 44
 00:02:16,080 --> 00:02:18,120
@@ -238,22 +238,22 @@ This time we don't need that much
 45
 00:02:18,120 --> 00:02:22,240
 # 咱们香醋 就是镇江香醋
-"Xiangcu" vinegar. That's Zhenjiang vinegar
+"Xiangcu" vinegar, aka Zhenjiang vinegar
 
 46
 00:02:22,240 --> 00:02:25,320
 # 刚才咱们（陈醋）倒了有一百克
-We just added about 100g of "Chencu" vinegar
+We just added about 100 g of "Chencu" vinegar
 
 47
 00:02:25,320 --> 00:02:29,680
 # 咱们这香醋有六十克就可以了
-For "Xiangcu" vinegar, 60g are enough
+For "Xiangcu" vinegar, 60 g is enough
 
 48
 00:02:29,680 --> 00:02:34,080
 # 这清香米醋有二十克 酸味稳定
-20g of rice vinegar, with a stable acidity
+20 g of rice vinegar, with a stable sourness
 
 49
 00:02:34,080 --> 00:02:36,640
@@ -368,8 +368,6 @@ The crunchiness in the mouth
 # 这个真好
 This is so good
 
-72
-00:03:29,960 --> 00:00:02,000
 
 73
 00:03:37,280 --> 00:03:38,760
