@@ -2,16 +2,16 @@
 
 # 标题
 # 【國宴大師•三瓜燉排骨】究竟哪三瓜？湯鮮味清、肉香骨爛，一招教你變廢為寶，這三瓜絕了！|老飯骨
-# State Banquet Master Chefs’Stewed Pork Ribs with 3 Melons, savory soup with tender meat
+# State Banquet Master Chefs - Stewed Pork Ribs with 3 Melons. Savory soup with tender meat
 
 # 简介
 
 # 小友們好，今天咱二伯要給大傢伙兒露一手了！
-# Hey friends! It’s Er Bai’s time to teach us today.
+# Hello friends! Today Er Bai will teach us something.
 # 三瓜燉排骨，究竟是哪三種瓜，小友們猜得到嗎？
-# Stewed pork ribs with 3 melons, can you guys guess which 3 of the melons are?
+# Stewed pork ribs with 3 melons, can you guess what melons are these?
 # 這樣燉出來的排骨肉爛、湯鮮，配上三瓜的清香，絕了！
-# Using this way to stew pork ribs creates tender meat and clear soup with umami flavour, complement with the light fragrance of the melons, awesome!
+# Stewing pork ribs in this way creates tender meat and clear soup with umami flavour, complement with the light fragrance of the melons, awesome!
 # ps.本期節目最後放出精彩幕後花絮，絕對不容錯過哦！
 # Ps, There are some interesting behind the scenes at the end of this video, don’t miss it!
 
@@ -53,7 +53,7 @@ Watermelon rinds that are not commonly used, winter melon and bitter melon, 3 ki
 8
 00:00:20,000 --> 00:00:22,760
 # 这里还一块鸡呢 我借点鲜味
-Here’s a piece of chicken meat too, I need it’s umami flavour
+Here’s a piece of chicken, I need its umami flavour
 
 9
 00:00:22,760 --> 00:00:23,520
@@ -86,7 +86,7 @@ Why are you smiling, don’t be so happy
 15
 00:00:35,160 --> 00:00:36,560
 # 我夸你两句你就乐啊
-You are this happy even I just complimented you with a few sentences
+You are happy like this when I just complimented you with a few sentences
 
 16
 00:00:36,560 --> 00:00:38,760
@@ -106,7 +106,7 @@ Us as northern China families would remove its rinds
 19
 00:00:45,280 --> 00:00:47,600
 # 到粤菜连瓤儿都不去
-They would not even remove the flesh and the seeds
+They would not even remove the seeds and the soft flesh
 
 20
 00:00:47,600 --> 00:00:49,280
@@ -116,7 +116,7 @@ And they left the rinds on it too
 21
 00:00:49,280 --> 00:00:51,200
 # 这瓤咱都留着煲水用
-Well we keep the flesh to use during boiling the water
+Well we keep the seed to use during boiling the water
 
 22
 00:00:51,200 --> 00:00:53,280
@@ -139,7 +139,7 @@ Bitter melons in Northern China are more bitter with a more intense flavour
 26
 00:01:05,160 --> 00:01:06,760
 # 小魏 再搁点黄酒
-Xiao Wei, please add some Huangjiu rice wine in it
+Xiao Wei, add some Huangjiu rice wine in it
 
 27
 00:01:06,760 --> 00:01:08,680
@@ -212,7 +212,7 @@ Huangjiu rice wine
 41
 00:01:46,720 --> 00:01:49,360
 # 这瓤不用扔 把这水煲一下
-Don't throw away the flesh, boil the water together with it
+Don't throw away the seed, boil the water together with it
 
 42
 00:01:49,360 --> 00:01:51,280
@@ -230,7 +230,7 @@ The water is boiled, master. Pour it into high pressure cooker
 45
 00:02:00,560 --> 00:02:02,720
 # 地道啊 关火
-It's authentic, turn off the flame
+It's authentic, turn off the heat
 
 46
 00:02:02,720 --> 00:02:04,960
@@ -253,8 +253,8 @@ Scallions, cilantro and "Xiaomila" chili pepper
 50
 00:02:12,440 --> 00:02:14,280
 # 水开了师父 我给倒进去了
-The water is boiled now master, I will add the melons into the wok
-
+The water is boiling now master, I will add the melons into the wok
+00:02:15,000 --> 00:02:20,000
 # 去一下瓜的苦味 三瓜下锅焯一下
 # Remove the bitterness of the melons by blanching them for a while
 
@@ -363,7 +363,7 @@ Season it, salt
 73
 00:03:19,640 --> 00:03:22,120
 # 压上 再压五分钟
-Cook it for more 5 minutes
+Cook it for 5 more minutes
 
 74
 00:03:22,120 --> 00:03:22,840
@@ -407,7 +407,7 @@ How is it, Da Ye?
 83
 00:03:38,640 --> 00:03:40,040
 # 鲜
-Strong umami flavour
+Umami
 
 84
 00:03:40,040 --> 00:03:42,440
@@ -553,7 +553,7 @@ Nontheless, you still have to try a little bit of it
 113
 00:05:05,520 --> 00:05:07,080
 # 那秘制鸡还没蒸呢吧
-The special made chicken is not done yet
+The special made chicken has not been steamed yet
 
 114
 00:05:08,680 --> 00:05:09,720
