@@ -27,6 +27,10 @@
           "description": "Reviwers to request when a new pull request for the channel is created",
           "type": "array",
           "items": { "type": "string" }
+        },
+        "subscription_issue": {
+          "description": "Issue to subscribe for new subtitle translation notifications",
+          "type": "number"
         }
       }
     }
