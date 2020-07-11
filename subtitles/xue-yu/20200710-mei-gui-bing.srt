@@ -173,7 +173,7 @@ The top side is actually on the bottom
 35
 00:02:24,200 --> 00:02:27,520
 # 我说袋子的下面才是（玫瑰饼）的上面
-I mean the top side of the rose cake is on the bottom of the bag
+I mean, the top of the rose cake faces the bottom of the bag
 
 36
 00:02:30,880 --> 00:02:34,480
