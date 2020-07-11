@@ -9,7 +9,8 @@
   {
     "folder": "xue-yu",
     "label": "雪鱼探店",
-    "nicknames": ["雪鱼", "胖鱼", "胖头鱼"]
+    "nicknames": ["雪鱼", "胖鱼", "胖头鱼"],
+    "subscription_issue": 1270
   },
   {
     "folder": "hua-nong-brothers",
@@ -20,7 +21,8 @@
     "folder": "lao-fan-gu",
     "label": "老饭骨",
     "nicknames": ["老飯骨"],
-    "reviewers": ["lulufun"]
+    "reviewers": ["lulufun"],
+    "subscription_issue": 1269
   },
   {
     "folder": "chan-xiao-qi",
