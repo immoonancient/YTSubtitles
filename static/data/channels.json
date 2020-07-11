@@ -3,7 +3,8 @@
     "folder": "wang-gang",
     "label": "美食作家王刚",
     "nicknames": ["王刚", "刚哥"],
-    "reviewers": ["NoraZheng"]
+    "reviewers": ["NoraZheng"],
+    "subscription_issue": 1266
   },
   {
     "folder": "xue-yu",
