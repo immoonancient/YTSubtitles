@@ -28,7 +28,7 @@ It’s boiled white and dense.
 3
 00:00:03,000 --> 00:00:04,920
 # 操作当中的最爆点在哪儿 简单
-What is the best part while cooking this dish?—Simpleness.
+What is the best part while cooking this dish? - Simple.
 
 4
 00:00:04,920 --> 00:00:07,520
@@ -42,12 +42,12 @@ Traditionally you can even operate with an spoon.
 6
 00:00:08,760 --> 00:00:10,720
 # 您能气死我
-You piss me off Sir.
+You piss me off, Sir!
 
 7
 00:00:10,720 --> 00:00:12,040
 # 您说啊
-What say you, Sir.
+Then, what's your comment?
 
 8
 00:00:12,040 --> 00:00:13,000
@@ -75,7 +75,7 @@ First peel the skin.
 13
 00:00:22,960 --> 00:00:24,760
 # 青萝卜白萝卜都行是吧
-Green radish and white radish both work?
+Green radish and white radish both work, right?
 
 14
 00:00:24,760 --> 00:00:29,240
@@ -90,7 +90,7 @@ These are common ingredients.
 16
 00:00:33,280 --> 00:00:35,400
 # 辛苦您帮我坐点水 好
-Would you boil some water for me? Good.
+Would you boil some water for me? Sure.
 
 17
 00:00:35,400 --> 00:00:39,560
@@ -100,7 +100,7 @@ Julienne the radish.
 18
 00:00:39,560 --> 00:00:41,440
 # 咱们这萝卜丝切好了
-Our radish silvers are ready.
+Our radish julienne are ready.
 
 19
 00:00:41,440 --> 00:00:44,640
@@ -120,7 +120,7 @@ Good? Good, we don’t want the pungent taste.
 22
 00:00:51,600 --> 00:00:54,880
 # 这行了关火 你看这米油 没问题了
-Alright turn off the heat. It’s all set, the rice oil oozes out.
+Alright turn off the heat. It’s all set, the rice soup oozes out.
 
 23
 00:00:54,880 --> 00:00:55,920
@@ -145,7 +145,7 @@ Then we have this kind of dish as successor.
 27
 00:01:02,440 --> 00:01:06,120
 # 水开了 咱把萝卜丝下锅焯一下
-The water ‘s boiling, blanch the radish silvers.
+The water ‘s boiling, blanch the radish julienne.
 
 28
 00:01:06,120 --> 00:01:07,920
@@ -175,7 +175,7 @@ This way it melts into your mouth.
 33
 00:01:17,840 --> 00:01:20,160
 # 再有还可以配点金针菇啊
-And you can also get some needle mushroom.
+And you can also get some Enokitake mushroom.
 
 34
 00:01:20,160 --> 00:01:22,640
@@ -185,8 +185,8 @@ This kind of mushrooms.
 35
 00:01:22,640 --> 00:01:27,920
 # 虾丸鱼片这都行 因为萝卜吃腥
-注释：check afterwards
-Shrimp balls, fillet are all good choices. Radish can balance their fishy odor.
+# 注释：check afterwards
+Shrimp balls, fish fillet are all good choices. Radish can balance their fishy odor.
 
 36
 00:01:27,920 --> 00:01:29,920
@@ -226,7 +226,7 @@ Let’s pour out the water.
 43
 00:01:46,640 --> 00:01:50,200
 # 把米油过滤出来
-Filter out the rice oil.
+Filter out the rice soup.
 
 44
 00:01:50,200 --> 00:01:53,920
@@ -358,17 +358,17 @@ Taste great!
 71
 00:03:05,600 --> 00:03:06,960
 # 爆点在哪儿呢 健康
-What makes this dish extraordinary? —Wholesomeness.
+What makes this dish extraordinary? - Healthy 
 
 72
 00:03:06,960 --> 00:03:09,560
 # 最爆点 操作当中的最爆点
-What is the best part while cooking this dish?.
+What is the best part while cooking this dish?
 
 73
 00:03:09,560 --> 00:03:10,600
 # 简单
-—Simpleness
+Simple.
 
 74
 00:03:10,600 --> 00:03:12,120
@@ -381,7 +381,7 @@ You pissed me off, Sir!
 76
 00:03:13,880 --> 00:03:15,400
 # 您说
-What say you, Sir?
+Then, what's your comment?
 
 77
 00:03:15,400 --> 00:03:17,040
@@ -424,7 +424,7 @@ I thought to myself, what did I want to do with my life.
 85
 00:03:38,600 --> 00:03:40,080
 # 第一
-At the first place...
+Initially,
 
 86
 00:03:40,080 --> 00:03:41,160
