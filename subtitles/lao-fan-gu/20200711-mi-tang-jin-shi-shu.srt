@@ -574,7 +574,7 @@ And while writing my Chinese homework I never did change a single character on m
 115
 00:04:40,680 --> 00:04:42,440
 # 只要我写错了一个字
-As soon as I miswrote one character,
+As soon as I wrote even one character wrong,
 
 116
 00:04:42,440 --> 00:04:43,560
