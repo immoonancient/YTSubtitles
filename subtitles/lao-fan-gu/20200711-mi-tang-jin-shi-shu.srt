@@ -13,6 +13,8 @@
 # What is the best part of this dish? Let’s listen to the lectures from Da Ye. Can anyone tell what does Da Ye mean? Share your opinion in the comment section down below!
 # At the end of the video Da Ye gives some interesting sidelights on his past dream occupations, let’s find out together.
 
+# import intro
+
 1
 00:00:00,040 --> 00:00:01,560
 # 爆点在哪儿呢 健康
