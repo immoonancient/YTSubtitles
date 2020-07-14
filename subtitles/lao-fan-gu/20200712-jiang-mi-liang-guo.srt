@@ -1,0 +1,674 @@
+# https://youtu.be/gWEh87L7T5M
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•江米凉果】软糯清爽、酸甜可口，外宾都爱吃的北京老式甜品江米凉果！ |老饭骨
+# State Banquet Master Chef - Jiang Mi Liang Guo. Traditional Beijing dessert!
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 小友们好，大大爷又来给咱们露一手了！
+# 大大爷这次带给大家的是令外宾赞不绝口的北京老式甜品江米凉果！
+# 要想拿面粉当薄面，一定要把面粉蒸熟了，布也要拿矿泉水进行浸泡，入口的食物小友们一定要注意卫生！
+# 炎炎夏日，吃上一口这清爽软糯，酸酸甜甜的甜品，解暑又开胃！
+# Intro
+# Hello friends! Today Da Da Ye is going make us a traditional Beijing dessert Jiang Mi Liang Guo (glutinous rice cake with sweetened bean paste and citrus *)!
+# You must steam the flours before sprinkling them onto the rick cake, and soak the cloth with mineral water because food hygiene is super important!
+# It’s great to enjoy this refreshing, sweet and sour pasted dessert during summer time, which helps to relieve the summer heat and increase appetite.
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:03,400
+# 拍成小饼 把馅心抹上
+Pat them into small pieces, and put on the paste
+
+2
+00:00:03,400 --> 00:00:06,000
+# 就这样给它扔在里头
+Just dip it in like that
+
+3
+00:00:06,000 --> 00:00:08,360
+# 外宾们觉得特别爽口
+The foreign guests think it’s a tasty and refreshing dessert
+
+4
+00:00:08,360 --> 00:00:09,680
+# 吃了一盘以后又要一盘
+They kept ordering more
+
+5
+00:00:09,680 --> 00:00:11,240
+# 做一个江米凉果
+Let’s make a Jiang Mi Liang Guo ( glutinous rice cake with paste*)
+
+6
+00:00:11,240 --> 00:00:13,280
+# 过去这就是北京的小吃
+This is a dessert in Beijing from the past
+
+7
+00:00:13,280 --> 00:00:15,320
+# 家里头特别好做
+Super easy to make at home
+
+8
+00:00:15,320 --> 00:00:18,480
+# 很简单 有青红丝 有京糕
+It’s easy, and you just need some green and red strips made with citrus peels, Beijing haw jelly
+
+9
+00:00:18,480 --> 00:00:23,320
+# 有芝麻 有砂糖 还有面粉 豆沙
+Sesame, sugar, flours and sweetened red bean paste
+
+10
+00:00:23,320 --> 00:00:26,160
+# 把江米我们已经泡上了
+Steep glutinous rice in water
+
+11
+00:00:26,160 --> 00:00:28,840
+# 应该泡两个小时左右
+For about two hours
+
+12
+00:00:28,840 --> 00:00:32,040
+# 现在先把这蒸上 这个已经泡完了
+Now we are going to steam it
+
+13
+00:00:32,040 --> 00:00:36,120
+# 我们淘一淘 我们搁的是半斤的糯米
+Let’s wash them, and we used half jin ( 250g) glutinous rice
+
+14
+00:00:36,120 --> 00:00:37,920
+# 我们找这样一平盘
+Let’s find a flat plate
+
+15
+00:00:37,920 --> 00:00:41,680
+# 它受热面积（大） 它好蒸
+With bigger heating area it will be steamed faster
+
+16
+00:00:41,680 --> 00:00:43,960
+# 把这个米搁在这里头
+Put the glutinous rice into it
+
+17
+00:00:43,960 --> 00:00:47,840
+
+18
+00:00:47,840 --> 00:00:49,440
+# 不能有糟蹋
+shouldn't waste any
+
+19
+00:00:49,440 --> 00:00:53,400
+# 这个我们用三百克左右的水
+Let’s use about 300g water
+
+20
+00:00:53,400 --> 00:00:55,040
+# 这样（用平盘）成熟的快
+It’s faster to cook with a flat plate
+
+21
+00:00:55,040 --> 00:00:59,720
+# 锅开了啊 蒸二十分钟左右就行了
+Water is boiled, now just steam it for 20 mins
+
+22
+00:00:59,720 --> 00:01:02,240
+# 这个也是（水开后）开开盖
+Same with this one, take off the lid after the water is boiled
+
+23
+00:01:02,240 --> 00:01:06,400
+# 干屉布搁在里头 干蒸 要干蒸
+Put a dry sheet of cloth in the pot , then dry steam
+
+24
+00:01:06,400 --> 00:01:11,680
+# 之后我们把面粉给它搁在里头 四两左右
+We put about 4 Liang ( 0.2 kg) flours in it
+
+25
+00:01:11,680 --> 00:01:15,320
+# 干蒸面粉 主要是让它当这个薄面
+It has to be dry steamed to be the thin layer outside
+
+26
+00:01:15,320 --> 00:01:19,480
+# 因为咱们这个是马上制完了就能吃的
+Because this one we can eat it right after making it
+
+27
+00:01:19,480 --> 00:01:23,640
+# 直接入口的 所以我们必须得蒸熟了面
+We have to make sure it's cooked, so we can eat it directly
+
+28
+00:01:23,640 --> 00:01:25,920
+# 用生面就不行了
+Do not use flours that’s not steamed
+
+29
+00:01:25,920 --> 00:01:29,640
+# 这个蒸多长时间呢 这个有一刻钟就可以了
+Steam it with about 15 mins
+
+30
+00:01:29,640 --> 00:01:32,320
+# 一个二十分钟 一个一刻钟 对
+The other one was 20 mins, and this one is 15 mins. Yes
+
+31
+00:01:32,320 --> 00:01:34,280
+# 这个青红丝是老北京的
+These green and red strips made with citrus peels is a traditional ingredient in old Beijing
+
+32
+00:01:34,280 --> 00:01:37,200
+# 一种当配头当配色用的
+That you use for color dressing
+
+33
+00:01:37,200 --> 00:01:40,760
+# 做沙琪玛 自来红都要搁上青红丝
+It’s used when making Sha Qi Ma and Moon Cake
+
+34
+00:01:40,760 --> 00:01:43,880
+# 下一步咱们给它改刀 切了
+Next, we are going to cut them
+
+35
+00:01:43,880 --> 00:01:46,560
+# 切细致点改 切成末
+Mince them finely
+
+36
+00:01:46,560 --> 00:01:50,680
+# 没有青红丝 我就劝大家买点果料
+If you don’t have these strips at home, I would advise you to buy some dry fruit ingredients
+
+37
+00:01:50,680 --> 00:01:51,840
+# 什么颜色都有
+With all different kinds of colors
+
+38
+00:01:51,840 --> 00:01:55,880
+# 这个青红丝咱们都给改改刀
+Now we mince all of these strips
+
+39
+00:01:55,880 --> 00:01:58,720
+# （青红丝）味道好吃 就是用橘皮制作的
+They taste great, and they are made by citrus peels
+
+40
+00:01:58,720 --> 00:02:01,960
+# 原来我们做的时候 尤其夏天
+Before when we make this, especially during summer
+
+41
+00:02:01,960 --> 00:02:05,560
+# 外宾们出去旅游 回来的时候
+When the foreign guests come back from outside
+
+42
+00:02:05,560 --> 00:02:07,880
+# 我们就给他端一盘这个
+We will serve them this dessert
+
+43
+00:02:07,880 --> 00:02:09,360
+# 吃了一盘又要一盘
+And they kept ordering more
+
+44
+00:02:09,360 --> 00:02:12,200
+# 觉得特别爽口 特别清凉
+Because it’s tasty and refreshing
+
+45
+00:02:12,200 --> 00:02:15,880
+# 再有就是搁点京糕 就是山楂糕
+Plus, you should put some haw jelly in
+
+46
+00:02:15,880 --> 00:02:19,920
+# 也切成小颗粒 我跟我徒弟也说
+Dice them to small pieces, that’s what I always tell my student
+
+47
+00:02:19,920 --> 00:02:23,080
+# 不管做什么你做细就好
+Whatever you do, as long as you can make every part is done carefully (you will be successful)
+
+48
+00:02:23,080 --> 00:02:29,560
+# 把芝麻 砂糖搁在里头
+Put sesame and sugar in it
+
+49
+00:02:29,560 --> 00:02:32,160
+# 这芝麻一定焙熟 炒熟
+The sesame has to be baked
+
+50
+00:02:32,160 --> 00:02:35,000
+# 另外咱们搁上青红丝
+Now we put the green and red citrus strips in
+
+51
+00:02:35,000 --> 00:02:38,040
+# 颜色就好看了 五颜六色的
+The colors are great, very colorful
+
+52
+00:02:38,040 --> 00:02:42,000
+# 再把这京糕丁搁在里头 打散
+Now put the haw jelly dices in to it and mix in
+
+53
+00:02:42,000 --> 00:02:43,280
+# 这个就可以了
+Now it is done
+
+54
+00:02:43,280 --> 00:02:45,920
+# 差不多了 关火
+Almost, let’s turn the fire
+
+55
+00:02:45,920 --> 00:02:47,560
+# 这（江米）米饭蒸的
+The glutinous rice is cooked
+
+56
+00:02:47,560 --> 00:02:50,760
+# 这个让它凉一凉
+Let it chill for a bit
+
+57
+00:02:50,760 --> 00:02:54,240
+# 这个咱们也蒸熟了 兜出来
+The flours are cooked too, take them out
+
+58
+00:02:55,200 --> 00:02:59,200
+# 给它团团 熟的面粉
+Gathering them together, it is cooked flour
+
+59
+00:02:59,760 --> 00:03:01,880
+# 咱们研一研 过箩
+Let's grind and sieve it
+60
+00:03:01,880 --> 00:03:05,760
+# 干蒸完了之后过过小箩 成面粉
+After we steamed it, sieve it so we get fine flour
+61
+00:03:05,760 --> 00:03:07,560
+# 我们拿这个当薄面
+We use this to sprinkle on the ball.
+62
+00:03:07,560 --> 00:03:12,560
+# 再有用咱们的矿泉水 把布给它浸泡
+We need to use the mineral water to soak the cloth
+63
+00:03:12,560 --> 00:03:14,240
+# 因为咱们直接入口的
+Because we are going to eat it directly
+
+64
+00:03:14,240 --> 00:03:18,440
+# 各位网友们别不在乎 一定讲究卫生
+We should pay attention to food hygiene when making it
+
+65
+00:03:18,440 --> 00:03:20,160
+# 咱们下一步你瞧
+Here’s the next step
+
+66
+00:03:20,160 --> 00:03:27,040
+# 把咱们蒸好的江米 搁在这儿
+Let’s put the glutinous rice here
+
+67
+00:03:27,040 --> 00:03:29,080
+# 真黏糊
+So sticky
+
+68
+00:03:29,080 --> 00:03:36,280
+# 用这个（湿的）豆包布 碾压
+Grind it within this wet cloth
+
+69
+00:03:36,280 --> 00:03:39,680
+# 我又跟您学一小窍门
+I just learned another trick from you
+
+70
+00:03:39,680 --> 00:03:46,400
+# 也让人看见有米粒 似有似无的
+Keep some rice still shaped
+
+71
+00:03:46,400 --> 00:03:48,920
+# 大功就告成了 你看
+Now it’s done, you see
+
+72
+00:03:48,920 --> 00:03:50,120
+
+73
+00:03:51,360 --> 00:03:55,480
+# 这个就把咱们刚才弄的面
+Now here’s the flours we steamed
+
+74
+00:03:55,480 --> 00:03:56,680
+# 千万不能搁生面
+Do NOT use flours that are not steamed
+
+75
+00:03:56,680 --> 00:04:01,160
+# 完了之后把这个倒在里头
+Pour them in after
+
+76
+00:04:01,160 --> 00:04:02,960
+# 这基本上就行了
+It’s almost done
+
+77
+00:04:02,960 --> 00:04:07,480
+
+78
+00:04:07,480 --> 00:04:11,160
+# 这夏天摆一盘儿  那叫舒服
+It’s great to eat a plate during summer time
+
+79
+00:04:11,160 --> 00:04:15,240
+# 吃一口是一口啊 吃了这口想下口
+You would want to keep eating it, nonstop
+
+80
+00:04:15,240 --> 00:04:16,880
+# 行了 搓成条
+Ok, rub it into a strip
+
+81
+00:04:16,880 --> 00:04:20,840
+# 这个咱们做成小剂儿
+And we split it into small parts
+
+82
+00:04:20,840 --> 00:04:24,320
+# 这个馅儿咱们随便弄 多种多样
+You can customize the paste in any way you like
+
+83
+00:04:24,320 --> 00:04:26,000
+# 能做好多种
+There’s many ways
+
+84
+00:04:26,000 --> 00:04:31,000
+# 做完了之后就好办了 撒点熟面
+After that it’s easy, just sprinkle some cooked flours onto it
+
+85
+00:04:31,000 --> 00:04:32,560
+# 这个就开始做了
+Now we are making it
+
+86
+00:04:32,560 --> 00:04:37,800
+# 各网友回去立竿见影 因为家里头特别好做
+Everyone can just make it after watching this video, and it’s easy to make
+
+87
+00:04:37,800 --> 00:04:40,080
+# 不是说多难的
+It’s not super hard
+
+88
+00:04:40,080 --> 00:04:45,120
+# 你看揪完小剂儿就这样拍成小饼
+After you split them into parts, pat them into a small round shaped cake
+
+89
+00:04:45,120 --> 00:04:46,760
+# 把馅儿心抹上
+Put the paste in
+
+90
+00:04:46,760 --> 00:04:49,520
+# 就这样给它扔在里头
+Just dip it in like that
+
+91
+00:04:49,520 --> 00:04:51,680
+# 就用三个手指头
+Only use 3 fingers
+
+92
+00:04:51,680 --> 00:04:55,760
+# 三个手指头一掐 它就粘上了
+Pinch with three fingers to stick the dressing on
+
+93
+00:04:55,760 --> 00:05:00,600
+# 你看看五颜六色的 漂亮 真好看
+It’s colorful, so pretty
+
+94
+00:05:00,600 --> 00:05:02,800
+# 王师傅做东西都不用装饰
+Chef Wang doesn’t do dressing when making them
+
+95
+00:05:03,600 --> 00:05:08,320
+# 这省事 但是一定要要求卫生
+It’s easy, but you have to pay attention to food hygiene
+
+96
+00:05:08,320 --> 00:05:10,280
+# 就让它立即挺起来
+Let it straighten up immediately
+
+97
+00:05:10,280 --> 00:05:13,280
+# 有的做来做去就倒了
+Some fell during the process
+
+98
+00:05:13,280 --> 00:05:16,600
+# 不能让它倒 让它直着
+It can’t be fell on one side, make it straight
+
+99
+00:05:16,600 --> 00:05:19,320
+# 让它直着 这样才好看
+We have to make sure it’s straight, so it looks nice
+
+100
+00:05:19,320 --> 00:05:21,400
+# 中间再来一个 就行了
+Plus another one in the middle
+
+101
+00:05:21,400 --> 00:05:24,760
+# 这叫什么 江米凉果 凉的啊
+What’s it called? Jiang Mi Liang Guo? It’s cold.
+
+102
+00:05:24,760 --> 00:05:26,880
+# 过去这就是北京的小吃
+This is a dessert in Beijing from the past
+
+103
+00:05:26,880 --> 00:05:32,040
+# 这一捏你瞧 省事儿 OK 了
+Just shape it like this, it’s easy, OK
+
+104
+00:05:32,040 --> 00:05:34,360
+# 行了 下冰箱
+It’s good. Now we put it into the fridge.
+
+105
+00:05:34,360 --> 00:05:36,240
+# 还真凉
+It’s pretty cold
+
+106
+00:05:36,240 --> 00:05:38,240
+# 王师傅给接过来了
+Wang Shi Fu passed it over here
+
+107
+00:05:38,240 --> 00:05:39,640
+
+108
+00:05:39,640 --> 00:05:42,480
+# 行么 不是行吗 真好看
+Is it good? Yea it looks awesome.
+
+109
+00:05:42,480 --> 00:05:46,040
+# 我觉着这个凉着特别好吃
+I love it when it’s cold
+
+110
+00:05:46,040 --> 00:05:48,960
+# 一镇凉了它也挺实了
+It’s pretty solid after it’s chilled
+
+111
+00:05:48,960 --> 00:05:53,600
+# 这个口感我们要求 糯米一定要软糯
+We ask that the glutinous rice has to be soft and chewy
+
+112
+00:05:53,600 --> 00:05:56,320
+# 京糕的酸甜 芝麻的香
+The sweet and sour taste of the haw jelly and fragrant of the sesame
+
+113
+00:05:56,320 --> 00:06:00,320
+# 另外我们还有砂糖
+We also got the sugar
+
+114
+00:06:00,320 --> 00:06:02,440
+# 吃起来咔吱咔吱的
+Which is crunchy
+
+115
+00:06:02,440 --> 00:06:07,960
+# 而且有芝麻吃起来也嚼得越来越香
+And the sesame gives it a special fragrant when you chew it
+
+116
+00:06:07,960 --> 00:06:12,320
+# 所以这个夏天吃着特别的凉爽
+So it’s very refreshing for summer
+
+117
+00:06:12,320 --> 00:06:13,960
+# 看着就好吃
+Looks delicious
+
+118
+00:06:13,960 --> 00:06:15,320
+# 你先给大大爷来一口
+Let Da Da Ye try it first
+
+119
+00:06:15,320 --> 00:06:18,280
+# 大爷尝  我不要
+Da Ye Try it, I don’t want to
+
+120
+00:06:18,280 --> 00:06:19,640
+
+121
+00:06:20,800 --> 00:06:23,520
+# 我们这是尊敬长辈
+We are showing respect to elders
+
+122
+00:06:23,520 --> 00:06:25,680
+# 大爷给了我没法给了
+I can’t do it after Da ye did it already
+
+123
+00:06:25,680 --> 00:06:27,720
+# 二伯你先来
+Er bai you go first
+
+124
+00:06:27,720 --> 00:06:28,720
+# 我来一块
+Let me try one
+
+125
+00:06:28,720 --> 00:06:31,520
+
+126
+00:06:31,520 --> 00:06:33,840
+# 吃着砂糖了么 咔吱咔吱
+Did you hear the sugar when chewing it?
+
+127
+00:06:33,840 --> 00:06:35,760
+# 我尝尝
+Let me try it
+
+128
+00:06:35,760 --> 00:06:40,520
+
+129
+00:06:40,520 --> 00:06:43,240
+# 真香 外边糯 里边的果料
+Smells amazing, it has a soft glut shell with fruit ingredients
+
+130
+00:06:43,240 --> 00:06:46,040
+# 加上豆沙馅的那种糯香
+Plus the of fragrant of the sweetened red bean paste
+
+131
+00:06:46,040 --> 00:06:47,920
+# 比粽子好吃
+It’s better than Zong Zi （traditional Chinese rice-pudding）
+
+132
+00:06:47,920 --> 00:06:51,920
+# 谢谢大大爷 谢谢二伯 谢谢大爷
+Thank you Da da ye, Er Bai, thank you Da ye
+
+133
+00:06:51,920 --> 00:06:52,960
+# 大大爷辛苦了
+Da da ye did a great job
+
+134
+00:06:52,960 --> 00:06:55,000
+
+135
+00:06:55,000 --> 00:06:55,600
