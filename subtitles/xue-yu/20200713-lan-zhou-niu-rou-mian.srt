@@ -15,12 +15,12 @@ I’m in Lanzhou now and how can we skip the Lanzhou beef noodles
 3
 00:00:32,280 --> 00:00:34,360
 # 但是 你走在大街小巷上 你会发现
-I found an interesting fact walking on the streets
+I found an interesting fact while walking on the streets
 
 4
 00:00:34,360 --> 00:00:36,960
 # 他们的牌子上 没有一家写的是拉面馆
-None of their signs say ramen
+None of their signs say lamian ("hand pulled noodles")
 
 5
 00:00:36,960 --> 00:00:39,680
@@ -35,7 +35,7 @@ Let’s have a look in this beef noodles restaurant behind
 7
 00:00:42,400 --> 00:00:45,720
 # 兰州的牛肉面 和我以前吃的有什么不同
-What is different in Lanzhou’s beef noodles
+See how Lanzhou’s beef noodles are different from those I had before
 
 8
 00:01:06,900 --> 00:01:08,900
@@ -50,7 +50,7 @@ Hi, I’d like a bowl of beef noodles
 10
 00:01:18,160 --> 00:01:19,680
 # 粗细 拌面的时候告诉他
-Teel the staff how wide would you like the noodles
+Tell the staff how wide would you like the noodles
 
 11
 00:01:19,680 --> 00:01:22,200
@@ -110,7 +110,7 @@ Fourthly, the garlic greens and chives are green
 22
 00:04:28,920 --> 00:04:31,480
 # 五黄是因为面条里面加了蓬灰
-Finally, the noodles are yellow because of the baking soda in them
+Finally, the noodles are yellow because of the "peng hui" (plant ash) in them
 
 23
 00:04:31,480 --> 00:04:34,400
@@ -135,12 +135,12 @@ This plate is the beef shank meat
 27
 00:04:43,760 --> 00:04:45,240
 # 此外呢 还加了一个卤蛋
-Also a spiced egg
+Also a braised egg
 
 28
 00:04:45,240 --> 00:04:48,320
 # 在当地 这个就叫 肉蛋双飞
-It’s called the protein bomb here
+It’s called "meat and egg flying together" here
 
 29
 00:04:56,400 --> 00:05:00,800
@@ -231,12 +231,12 @@ Now let’s turn our noodles into the deluxe version
 46
 00:06:40,480 --> 00:06:44,120
 # 一般来说 都是实物与图片不符
-Usually the food doesn’t seem the same from the ads
+Usually it's like the product doesn't match the picture
 
 47
 00:06:44,120 --> 00:06:47,760
 # 现在我们来还原图片
-Now let’s get the ad version
+Now let’s reproduce the picture
 
 48
 00:06:49,200 --> 00:06:51,640
@@ -246,7 +246,7 @@ One more egg
 49
 00:06:56,400 --> 00:06:59,760
 # 现在就是肉 蛋 面齐飞
-Right now it’s the protein bomb with the carbohydrate bomb
+Right now it’s the "meat, egg and noodles all flying together"
 
 50
 00:07:00,440 --> 00:07:02,440
@@ -361,7 +361,7 @@ Tourists in Lanzhou also will definitely come and taste
 72
 00:09:24,120 --> 00:09:26,720
 # 吃完牛肉面 到黄河第一桥来看一看
-After the beef noodles, let’s see the first Yellow River bridge
+After the beef noodles, let’s see the "No.1 Yellow River Bridge"
 
 73
 00:09:27,000 --> 00:09:29,600
@@ -371,17 +371,17 @@ The Zhongshan bridge is the first bridge built across Yellow River
 74
 00:09:29,600 --> 00:09:32,200
 # 素有 天下黄河第一桥 的美称
-So it’s called the first Yellow River bridge
+So it’s has the fame of "The No.1 Yellow River Bridge"
 
 75
 00:09:32,240 --> 00:09:35,920
 # 在没有修建它之前 想跨越黄河 是件很困难的事情
-It was very difficult to go across yellow river before building it
+It was very difficult to go across Yellow River before building it
 
 76
 00:09:35,920 --> 00:09:38,760
 # 修建之后 不仅方便了两岸的经济生活
-The building of the bridge not only make the people’s lives more convenient
+The building of the bridge not only makes people’s life more convenient
 
 77
 00:09:38,760 --> 00:09:42,160
