@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•江米凉果】软糯清爽、酸甜可口，外宾都爱吃的北京老式甜品江米凉果！ |老饭骨
-# State Banquet Master Chef - “Jiang Mi Liang Guo” traditional Beijing dessert (glutinous rice cake with paste*)!
+# State Banquet Master Chef - Jiang Mi Liang Guo. Traditional Beijing dessert!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,8 +13,10 @@
 # 炎炎夏日，吃上一口这清爽软糯，酸酸甜甜的甜品，解暑又开胃！
 # Intro
 # Hello friends! Today Da Da Ye is going make us a traditional Beijing dessert Jiang Mi Liang Guo (glutinous rice cake with sweetened bean paste and citrus *)!
-# You must steam the flours before sprinkling them onto the rick cake, and wash the cloth with bottled water because food hygiene is super important!
-# It’s great to enjoy this refreshing, sweet and sour pasted dessert during summer time helps to relieve the summer heat and increase appetite.
+# You must steam the flours before sprinkling them onto the rick cake, and soak the cloth with mineral water because food hygiene is super important!
+# It’s great to enjoy this refreshing, sweet and sour pasted dessert during summer time, which helps to relieve the summer heat and increase appetite.
+
+# import intro
 
 # 字幕
 
@@ -76,12 +78,12 @@ For about two hours
 12
 00:00:28,840 --> 00:00:32,040
 # 现在先把这蒸上 这个已经泡完了
-Now we are going to put it on steam
+Now we are going to steam it
 
 13
 00:00:32,040 --> 00:00:36,120
 # 我们淘一淘 我们搁的是半斤的糯米
-Let’s wash them, and we used half jin ( jin = 500g) glutinous rice
+Let’s wash them, and we used half jin ( 250g) glutinous rice
 
 14
 00:00:36,120 --> 00:00:37,920
@@ -104,7 +106,7 @@ Put the glutinous rice into it
 18
 00:00:47,840 --> 00:00:49,440
 # 不能有糟蹋
-Can’t waste any
+shouldn't waste any
 
 19
 00:00:49,440 --> 00:00:53,400
@@ -149,7 +151,7 @@ Because this one we can eat it right after making it
 27
 00:01:19,480 --> 00:01:23,640
 # 直接入口的 所以我们必须得蒸熟了面
-We have to make sure it’s cooked after steaming, so we can eat it directly
+We have to make sure it's cooked, so we can eat it directly
 
 28
 00:01:23,640 --> 00:01:25,920
@@ -169,7 +171,7 @@ The other one was 20 mins, and this one is 15 mins. Yes
 31
 00:01:32,320 --> 00:01:34,280
 # 这个青红丝是老北京的
-These green and red strips made with citrus peels is a Beijing old tradition
+These green and red strips made with citrus peels is a traditional ingredient in old Beijing
 
 32
 00:01:34,280 --> 00:01:37,200
@@ -249,7 +251,7 @@ Dice them to small pieces, that’s what I always tell my student
 47
 00:02:19,920 --> 00:02:23,080
 # 不管做什么你做细就好
-Anything you do, just make sure every part is done to the smallest detail
+Whatever you do, as long as you can make every part is done carefully (you will be successful)
 
 48
 00:02:23,080 --> 00:02:29,560
@@ -304,28 +306,28 @@ The flours are cooked too, take them out
 58
 00:02:55,200 --> 00:02:59,200
 # 给它团团 熟的面粉
-Mix the
+Gathering them together, it is cooked flour
 
 59
 00:02:59,760 --> 00:03:01,880
 # 咱们研一研 过箩
-
+Let's grind and sieve it
 60
 00:03:01,880 --> 00:03:05,760
 # 干蒸完了之后过过小箩 成面粉
-
+After we steamed it, sieve it so we get fine flour
 61
 00:03:05,760 --> 00:03:07,560
 # 我们拿这个当薄面
-
+We use this to sprinkle on the ball.
 62
 00:03:07,560 --> 00:03:12,560
 # 再有用咱们的矿泉水 把布给它浸泡
-
+We need to use the mineral water to soak the cloth
 63
 00:03:12,560 --> 00:03:14,240
 # 因为咱们直接入口的
-Because we are going to eat it directly from it
+Because we are going to eat it directly
 
 64
 00:03:14,240 --> 00:03:18,440
@@ -401,7 +403,7 @@ It’s great to eat a plate during summer time
 79
 00:04:11,160 --> 00:04:15,240
 # 吃一口是一口啊 吃了这口想下口
-You would want to keep eating it nonstop
+You would want to keep eating it, nonstop
 
 80
 00:04:15,240 --> 00:04:16,880
