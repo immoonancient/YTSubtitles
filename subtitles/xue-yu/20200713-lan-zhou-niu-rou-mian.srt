@@ -2,8 +2,6 @@
 
 # 字幕
 
-# <1
-
 1
 00:00:01,920 --> 00:00:07,520
 # 甘肃·兰州
@@ -394,5 +392,4 @@ It also strengthens the communications between Lanzhou and the Northwestern Chin
 00:10:02,920 --> 00:10:06,280
 # 关  注
 # 雪 鱼  探 店
-Subscribe please 
->
+Subscribe please
