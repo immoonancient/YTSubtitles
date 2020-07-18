@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•贵妃鸡】皮脆肉嫩又多汁，传统老菜贵妃鸡的改良版！浸鸡的诀窍在这里！ |老饭骨
-# [State Banquet Master•Guifei Chicken] The crispy skin and tender and juicy meat is an improved version of the traditional old dish, the Royal Chicken! The trick to dip the chicken is here! | Old Rice Bone
+# [State Banquet Master•Guifei Chicken] The crispy skin and tender and juicy meat is an improved version of the traditional old dish, the Royal Chicken!  | Lao Fan Gu
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -12,11 +12,11 @@
 # 最后要关火浸熟，做出来的汤汁儿让人回味无穷！
 # 这次带给大家两种调味儿的蘸料，姜汁儿和豉油汁儿，姜汁儿更能吃出鸡肉的本味儿，地道！
 # 喜欢吃鸡的小友们记得在评论里留下你们还想看哪种鸡肉的做法呢？
-# Hello friends! Today, the old rice bones bring you a traditional old dish-chaise chicken.
-# The chaise has to be boiled three times in ice water, its skin will be more crisp and tender.
+# Hello friends! Today, Lao Fan Gu is bringing you a traditional old dish chicken.
+# The chicken has to be boiled three times in ice water, its skin will be more crisp and tender.
 # Finally, turn off the heat and immerse, the soup made will make people have an aftertaste!
 # This time I will bring you two kinds of seasoning dip, ginger juice and soy sauce, ginger juice can eat the original taste of chicken, authentic!
-# Children who like to eat chicken remember to leave in the comments what kind of chicken you want to see?
+# Friends who like to eat chicken remember to leave in the comments what kind of chicken you want to see?
 
 # <视频字幕>
 
