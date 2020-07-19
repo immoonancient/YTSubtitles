@@ -1,9 +1,8 @@
 # https://youtu.be/_ybXYdvgTME
 
-# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 标题
 # 【国宴大师•贵妃鸡】皮脆肉嫩又多汁，传统老菜贵妃鸡的改良版！浸鸡的诀窍在这里！ |老饭骨
 # State Banquet Master Chef - Guifei Chicken. Crispy skin and tender and juicy meat.
-# |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
@@ -19,8 +18,6 @@
 # Friends who like to eat chicken remember to leave in the comments what kind of chicken you want to see?
 
 # import intro
-
-# <视频字幕>
 
 1
 00:00:00,000 --> 00:00:02,280
@@ -284,7 +281,7 @@ Dried shrimp
 54
 00:02:05,080 --> 00:02:06,880
 # 枸杞子 干贝
-Chinese Goji scallops
+Chinese Goji, dry scallops
 
 55
 00:02:06,880 --> 00:02:09,120
