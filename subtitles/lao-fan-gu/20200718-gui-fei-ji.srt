@@ -1,0 +1,772 @@
+# https://youtu.be/_ybXYdvgTME
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•贵妃鸡】皮脆肉嫩又多汁，传统老菜贵妃鸡的改良版！浸鸡的诀窍在这里！ |老饭骨
+# State Banquet Master Chef - Guifei Chicken. Crispy skin and tender and juicy meat.
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 小友们好！今天老饭骨给大家带来一道传统老菜——贵妃鸡。
+# 贵妃鸡要三煮三过冰水，它的皮质才会更加脆嫩爽滑。
+# 最后要关火浸熟，做出来的汤汁儿让人回味无穷！
+# 这次带给大家两种调味儿的蘸料，姜汁儿和豉油汁儿，姜汁儿更能吃出鸡肉的本味儿，地道！
+# 喜欢吃鸡的小友们记得在评论里留下你们还想看哪种鸡肉的做法呢？
+# Hello friends! Today, Lao Fan Gu bring you a traditional old dish chicken.
+# The chicken has to be boiled and soaked in ice water for three times, its skin will then be more crisp and tender.
+# Finally, turn off the heat and immerse, the soup has a pleasant aftertaste!
+# This time I will bring you two kinds of seasoning dip, ginger sauce and seasoned soy sauce. Ginger sauce can taste the original flavor of chicken, authentic!
+# Friends who like to eat chicken remember to leave in the comments what kind of chicken you want to see?
+
+# import intro
+
+# <视频字幕>
+
+1
+00:00:00,000 --> 00:00:02,280
+# 转圈 涮涮
+Circling in the water
+
+2
+00:00:02,280 --> 00:00:03,880
+# 你看看 冰水
+Look at the ice water
+
+3
+00:00:03,880 --> 00:00:05,520
+# 没有这么折磨的
+Nobody tortures (the chicken) like you
+
+4
+00:00:05,520 --> 00:00:07,000
+# 这就对了
+now it's right
+
+5
+00:00:07,000 --> 00:00:09,560
+# 后(六)宫粉黛无颜色 贵妃鸡
+Gui Fei Chicken makes all other chickens look less intriguing
+
+6
+00:00:09,560 --> 00:00:12,680
+
+7
+00:00:12,680 --> 00:00:15,280
+# 三黄鸡 在家其实用仔鸡也行
+San Huang chicken, you can use young chicken at home.
+
+8
+00:00:15,280 --> 00:00:16,880
+# 鸡腿都行 对 没错
+Drumsticks are fine, right? Yes.
+
+9
+00:00:16,880 --> 00:00:19,080
+# 我先拿盐搓 入味
+I rub it with salt to add some flavor
+
+10
+00:00:19,080 --> 00:00:21,760
+# 烹调前加味 腌制一下
+Add flavor before cooking and marinate
+
+11
+00:00:21,760 --> 00:00:23,680
+# 这是一个很传统的老菜
+This is a traditional dish
+
+12
+00:00:23,680 --> 00:00:25,800
+# 现在做的人也不多了
+There are not many people who can cook it now
+
+13
+00:00:25,800 --> 00:00:29,160
+# 我记得当年北京饭店就有过
+I remember the Beijing Hotel used to serve this
+
+14
+00:00:29,160 --> 00:00:31,640
+# 我们在原有基础上我们稍微改良改良
+We improved slightly based on the original version
+
+15
+00:00:31,640 --> 00:00:34,400
+# 更适应现代人的是需求
+To make it more suitable for modern people’s demand
+
+16
+00:00:34,400 --> 00:00:38,080
+# 你看我们把这个鸡就抓吧抓吧
+You see, let's rub this chicken
+
+17
+00:00:38,080 --> 00:00:39,440
+# 就差不多了
+It's almost done
+
+18
+00:00:39,440 --> 00:00:42,880
+# 小葱把它装到鸡肚子里边了
+Put shallots in the chicken’s belly
+
+19
+00:00:42,880 --> 00:00:45,040
+# 加两片姜 提个味
+Add two slices of ginger to bring out the taste
+
+20
+00:00:45,040 --> 00:00:47,640
+# 肛门这块 我再把这块剌了去
+The anus part, I will chop this part out
+
+21
+00:00:47,640 --> 00:00:50,160
+# 细节是吧 细节 这东西不能要
+The details are very important, this can not be used
+
+22
+00:00:50,160 --> 00:00:53,440
+# 拿牙签一别 防止小葱漏出来
+Take a toothpick and prevent the green onions from leaking out
+
+23
+00:00:53,440 --> 00:00:56,120
+# 再来一根 一着热它就紧实了
+Let’s get another one, it will become firm when heated
+
+24
+00:00:56,120 --> 00:00:57,800
+# 这就行了是吧
+That's all right
+
+25
+00:00:57,800 --> 00:01:01,640
+# 开始洗澡了 这桶够大
+I'm giving the chicken a bath. This bucket is big enough
+
+26
+00:01:01,640 --> 00:01:04,160
+# 转圈 涮涮
+Circling in the water
+
+27
+00:01:04,160 --> 00:01:06,280
+
+28
+00:01:06,280 --> 00:01:07,800
+# 你看看冰水
+Look at the ice water
+
+29
+00:01:07,800 --> 00:01:10,880
+# 这样一下把这个鸡皮就激脆了
+This will make the chicken skin crispy
+
+30
+00:01:10,880 --> 00:01:13,680
+# 为什么有时候说脆皮鸡那皮不够脆
+Why is it sometimes said that the crispy chicken skin is not crispy enough
+
+31
+00:01:13,680 --> 00:01:15,240
+# 其实就没经过这（一步）
+Actually, they didn’t go through this (step)
+
+32
+00:01:15,240 --> 00:01:17,600
+# 这爪子怎么不去 多碍事儿
+Why didn’t you get rid of this chicken feet?
+
+33
+00:01:17,600 --> 00:01:18,640
+# 那就不要了得了
+Then let’s get rid of it
+
+34
+00:01:18,640 --> 00:01:20,440
+
+35
+00:01:20,440 --> 00:01:22,920
+# 这行了  又来一次
+This is done. - Another one
+
+36
+00:01:22,920 --> 00:01:24,440
+# 师父这一共得几次
+Master, how many times do we need to repeat this process? 
+
+37
+00:01:24,440 --> 00:01:25,880
+# 三次就行 三次是吧
+Three times will do. Three times, right?
+
+38
+00:01:25,880 --> 00:01:27,600
+# 稍微烫一下是吧
+blench it a bit, right?
+
+39
+00:01:27,600 --> 00:01:29,280
+# 又下了冰水了
+Ice water again
+
+40
+00:01:29,280 --> 00:01:33,320
+# 一次比一次鼓 越来越紧实 更加脆
+It’s are getting tighter and crisper every time
+
+41
+00:01:33,320 --> 00:01:36,640
+# 我们控控水 又来一次
+We drain out the water again
+
+42
+00:01:36,640 --> 00:01:40,120
+# 你折磨这小鸡 给折磨的够呛
+You’ve tortured the chick enough
+
+43
+00:01:40,120 --> 00:01:42,960
+# 贵妃鸡没有这么折磨的
+There is no one torture like you
+
+44
+00:01:42,960 --> 00:01:46,120
+# 好了 越来越来越重了这鸡
+Okay, this chicken is getting heavier and heavier
+
+45
+00:01:46,120 --> 00:01:46,960
+# 再来一下
+One more time
+
+46
+00:01:46,960 --> 00:01:49,360
+# 网友朋友们这个在家做的凉透了
+Netizens and friends, cool it down thoroughly when you cook at home
+
+47
+00:01:49,360 --> 00:01:52,600
+# 这样的话鸡皮才脆
+In this way, the chicken skin is crispy
+
+48
+00:01:52,600 --> 00:01:54,800
+# 鸡泡上 先下料
+Soak the chicken first
+
+49
+00:01:54,800 --> 00:01:56,920
+# 师父您给介绍介绍这几个料吧
+Master, please introduce these ingredients
+
+50
+00:01:56,920 --> 00:02:00,720
+# 枣 大枣
+Dates, big dates
+
+51
+00:02:00,720 --> 00:02:02,360
+# 干柠檬片
+Dried lemon slices
+
+52
+00:02:02,360 --> 00:02:03,800
+# 香叶
+bayleave
+
+53
+00:02:03,800 --> 00:02:05,080
+# 海米虾干
+Dried shrimp
+
+54
+00:02:05,080 --> 00:02:06,880
+# 枸杞子 干贝
+Chinese Goji scallops
+
+55
+00:02:06,880 --> 00:02:09,120
+# 栀子 花椒
+Gardenia, Sichuan Pepper
+
+56
+00:02:09,120 --> 00:02:11,680
+# 先煮它一会 小焦你给加上味吧
+Let’s cook it for a while. Xiao Jiao season it a bit
+
+57
+00:02:11,680 --> 00:02:14,000
+# 我把这鸡爪子给它斩一斩
+I cut this chicken feet
+
+58
+00:02:14,000 --> 00:02:18,200
+# 你还给贵妃修脚 修一修
+You even get to trim foot for Gui Fei
+
+59
+00:02:18,200 --> 00:02:20,480
+# 然后我把这个给调点味
+Then let me season it a bit
+
+60
+00:02:20,480 --> 00:02:23,280
+# 一勺（盐）再来一勺 两勺
+One spoon (salt) and another spoon, two spoons
+
+61
+00:02:23,280 --> 00:02:26,560
+# 三勺 让它稍微有点底味就行
+Three spoons to give it a little bit of base flavor. 
+
+62
+00:02:26,560 --> 00:02:29,640
+# 来点白胡椒
+Some white pepper
+
+63
+00:02:29,640 --> 00:02:30,840
+# 来点葱姜
+Some green onion and ginger
+
+64
+00:02:30,840 --> 00:02:31,640
+# 葱段
+Shallots
+
+65
+00:02:31,640 --> 00:02:32,480
+
+66
+00:02:32,480 --> 00:02:35,040
+# 齐活 让它稍微的煮一会儿
+let it cook for a while
+
+67
+00:02:35,040 --> 00:02:36,600
+# 煮它十分八分的就行了
+Just cook it for about 8-10 mins
+
+68
+00:02:36,600 --> 00:02:38,560
+# 其实过去老师傅传承下来
+In fact, the master passed down this technique
+
+69
+00:02:38,560 --> 00:02:40,520
+# 贵妃的汁相对来讲简单
+Gui Fei sauce is relatively simple
+
+70
+00:02:40,520 --> 00:02:42,480
+# 根据现在人的这个需求
+According to the needs of people now
+
+71
+00:02:42,480 --> 00:02:44,560
+# 我们可以调新派的汁
+We can make modern sauce
+
+72
+00:02:44,560 --> 00:02:46,480
+# 只要好吃就没问题
+As long as it tastes good
+
+73
+00:02:46,480 --> 00:02:49,000
+# 好了十分钟到了二伯 关火吧
+Alright, it has been ten minutes, Er Bai. Turn off the heat.
+
+74
+00:02:49,000 --> 00:02:54,000
+# 黄酒 网友们注意了 关了火加黄酒
+Huangjiu cooking wine, netizens pay attention here: turn off the fire and then add cooking wine
+
+75
+00:02:54,000 --> 00:02:55,400
+# 酒味就出来了
+The taste of wine comes out
+
+76
+00:02:57,280 --> 00:03:00,000
+# 咱们弄浓一点
+Let's make it thicker
+
+77
+00:03:00,000 --> 00:03:02,600
+# 洗着冰水浴的鸡 下锅
+Ice-water bath and wash the chicken pot
+
+78
+00:03:02,600 --> 00:03:04,720
+# 师父这儿还有俩爪 扔进去
+Master, there are still two feet, throw them in
+
+79
+00:03:04,720 --> 00:03:08,920
+# 得嘞盖盖儿 咱先闷着吧 二十五分钟
+You have to cover it, let it simmer for 25 minutes
+
+80
+00:03:08,920 --> 00:03:10,040
+
+81
+00:03:10,040 --> 00:03:13,000
+# 关火浸熟
+Turn off the heat and soak
+
+82
+00:03:13,760 --> 00:03:17,960
+# 这时候你来点吧 那我做个蘸料
+At this time, you can do something. I'll make a dipping sauce
+
+83
+00:03:17,960 --> 00:03:20,960
+# 蘸料也很讲究 粤式吃法是用沙姜
+Dipping sauces are exquisite. Cantonese use sand ginger.
+
+84
+00:03:20,960 --> 00:03:23,800
+# 但是咱们家里边有这个大姜就使这个
+But we have this normal ginger at home, we just make this
+
+85
+00:03:23,800 --> 00:03:26,080
+# 加点盐 加点盐就不滚了
+Add some salt
+
+86
+00:03:26,080 --> 00:03:28,280
+# 你看这姜汁都出来了
+Look, all this ginger juice is coming out
+
+87
+00:03:28,280 --> 00:03:30,800
+# 师父您看这个行吗 这差不多了
+Master You see this all right this almost
+
+88
+00:03:30,800 --> 00:03:33,120
+# 你看这出来这汁就味浓
+You see, the juice is strong
+
+89
+00:03:33,120 --> 00:03:35,960
+# 稍微来点小细葱花 齐活
+Little bit of diced green onion to touch it up
+
+90
+00:03:35,960 --> 00:03:38,520
+# 我们烧一锅 要呲点油
+Let's heat a pot of oil and pour some oil
+
+91
+00:03:38,520 --> 00:03:40,160
+# 这里边搁点盐 稍微来点盐
+Put some salt here, some salt
+
+92
+00:03:40,160 --> 00:03:41,280
+# 让它有点底味
+Give it a bit of base flavor
+
+93
+00:03:41,280 --> 00:03:42,720
+# 师父我犯了个错误
+Master, I made a mistake
+
+94
+00:03:42,720 --> 00:03:45,880
+# 应该先把姜蓉呲熟了 再搁小葱花 没事
+The ginger should be cooked first and then add the chopped green onions. It's ok.
+
+95
+00:03:45,880 --> 00:03:48,800
+# 咱们来点花生油香 花生油香啊
+Let's have some peanut oil, peanut oil is fragrant
+
+96
+00:03:48,800 --> 00:03:52,920
+
+97
+00:03:52,920 --> 00:03:55,040
+# 你再给他弄个豉油汁
+You made another soy sauce for him
+
+98
+00:03:55,040 --> 00:03:57,720
+# 直接花生油加蒸鱼豉油
+Simply use peanut oil with steamed fish soy sauce
+
+99
+00:03:59,400 --> 00:04:02,040
+# 花生油呲出来也香
+The peanut oil smells good
+
+100
+00:04:03,400 --> 00:04:04,400
+# 切两刀小米辣
+Cut two Xiaomi spicy
+
+101
+00:04:04,400 --> 00:04:06,800
+# 找点香菜 稍微切点大梗
+Find some coriander and cut some big stems
+
+102
+00:04:06,800 --> 00:04:11,000
+# 咱们给它倒进去 这样味道更香了
+Let's pour it in so it smells more fragrant
+
+103
+00:04:11,000 --> 00:04:13,640
+# 轻轻地熬制 香味出来了
+Simmer gently, the fragrance comes out
+
+104
+00:04:13,640 --> 00:04:16,160
+
+105
+00:04:16,160 --> 00:04:17,960
+# 这叫一个香
+This smells really good
+
+106
+00:04:17,960 --> 00:04:21,080
+# 齐活 两个汁 想吃哪个吃哪个
+All done, two sauce, have whichever one you want to eat
+
+107
+00:04:21,080 --> 00:04:24,000
+# 黄瓜（胡萝卜）切成长方的东西
+Cucumber (carrot) cut into long squares
+
+108
+00:04:24,000 --> 00:04:25,480
+# 白萝卜
+White radish
+
+109
+00:04:25,480 --> 00:04:27,640
+# 这
+# 鸡应该说是差不多了、
+This chicken is almost done,
+
+110
+00:04:27,640 --> 00:04:30,480
+# 能扎进去了 不冒血水了 那就熟了
+If you can poke through it without blood coming out then it’s all cooked
+
+111
+00:04:30,480 --> 00:04:34,440
+# 另外这个鸡实际上是越嫩越好吃师父
+In addition, this chicken is actually more delicious if it’s more tender
+
+112
+00:04:34,440 --> 00:04:35,480
+# 捞出来了啊
+getting it out
+
+113
+00:04:35,480 --> 00:04:39,120
+# 网友朋友们 冰又准备好了 降温皮更脆
+Netizens and friends, the ice is ready again to cool the skin and make it crispier
+
+114
+00:04:39,120 --> 00:04:40,760
+# 再来点黄酒
+Some more yellow wine
+
+115
+00:04:40,760 --> 00:04:42,360
+
+116
+00:04:42,360 --> 00:04:44,000
+# 提提味 好啦
+Bring out the flavor, Well that’s it
+
+117
+00:04:44,000 --> 00:04:46,800
+# 交给你了 好勒 这鸡已经好了
+I'll leave it to you . alrighty, this chicken is ready
+
+118
+00:04:46,800 --> 00:04:48,160
+# 我先给它斩一下
+I'll cut it first
+
+119
+00:04:48,160 --> 00:04:49,360
+# 头 对
+Head right
+
+120
+00:04:50,320 --> 00:04:51,240
+# 放这儿
+Put it here
+
+121
+00:04:51,240 --> 00:04:55,360
+
+122
+00:04:55,360 --> 00:04:57,520
+# 码一鸡形就行
+make a chicken shape
+
+123
+00:04:57,520 --> 00:05:01,840
+# 顺着它这骨头剔出去 老菜必须得脱骨
+Take the bone out of it, if this is cooked in the old fashion then the bones must be removed
+
+124
+00:05:01,840 --> 00:05:03,000
+# 然后怎么切呢
+Then how to cut it
+
+125
+00:05:03,000 --> 00:05:06,040
+# 斜着片就为了夹这个 明白了吧
+I sliced it at an angle so that it can wrap this, do you understand?
+
+126
+00:05:06,040 --> 00:05:08,040
+# 斜着片 大斜坡
+Slice diagonally with a large slope
+
+127
+00:05:08,040 --> 00:05:10,640
+# 整个的片完了整个挪过来 必须得切开
+After the whole film is finished, the whole move must be cut
+
+128
+00:05:10,640 --> 00:05:13,120
+# 一片萝卜 一片黄瓜
+A slice of radish and a slice of cucumber
+
+129
+00:05:13,120 --> 00:05:15,440
+# 一片萝卜 一片黄瓜
+A slice of radish and a slice of cucumber
+
+130
+00:05:15,440 --> 00:05:18,080
+# 你就顺着这个码 码成一鸡形
+You just follow this to present it and form a chicken shape
+
+131
+00:05:18,080 --> 00:05:20,440
+# 让它有点鸡的样
+Make it look like a chicken
+
+132
+00:05:20,440 --> 00:05:22,600
+# 码一过桥 让它有个弧度
+Make a bridge shape so that it has an arc
+
+133
+00:05:22,600 --> 00:05:26,880
+# 这就对了 这就行了
+That's right, that's it
+
+134
+00:05:26,880 --> 00:05:30,080
+# 咱们浇点原汤进去 贵妃鸡
+Let's pour some original soup in, royal chicken
+
+135
+00:05:30,080 --> 00:05:34,200
+
+136
+00:05:34,200 --> 00:05:38,320
+# 清爽 颜色美观
+Refreshing and beautiful colors
+
+137
+00:05:38,320 --> 00:05:42,280
+# 让它整个洇出来这汤 没这汤还真不好看
+Let it bleed out of this soup, it would not look good without this soup
+
+138
+00:05:42,280 --> 00:05:44,640
+# 然后浇满了就行了 好嘞
+Then poured over, all done
+
+139
+00:05:44,640 --> 00:05:46,160
+# 贵妃鸡
+Gui Fei Chicken
+
+140
+00:05:46,160 --> 00:05:48,240
+# 还得配俩汁儿呐
+You have to match with two sauces
+
+141
+00:05:48,240 --> 00:05:50,320
+# 大爷您看 蘸点儿汁儿吃
+Da Ye, look, dip some sauce and eat it
+
+142
+00:05:51,240 --> 00:05:53,600
+# 我先吃一个豉油汁的
+I will have it with soy sauce first
+
+143
+00:05:58,040 --> 00:06:02,880
+# 皮脆 肉嫩 汁的味道十足
+The skin is crispy and the meat is tender and juicy, full of flavor
+
+144
+00:06:02,880 --> 00:06:04,120
+# 姜汁
+Ginger sauce
+
+145
+00:06:04,120 --> 00:06:06,560
+
+146
+00:06:06,560 --> 00:06:08,080
+# 大爷 地道
+Da Ye this is authentic
+
+147
+00:06:09,440 --> 00:06:10,400
+# 评价的话
+If I had to comment on this
+
+148
+00:06:10,400 --> 00:06:13,160
+# 姜汁比豉油汁香
+Ginger sauce is more fragrant than soy sauce
+
+149
+00:06:14,120 --> 00:06:16,000
+# 回味无穷啊
+Endless aftertaste
+
+150
+00:06:16,000 --> 00:06:17,640
+
+151
+00:06:17,640 --> 00:06:20,760
+# 滑 嫩 弹 真棒
+Slippery and tender this is so good
+
+152
+00:06:20,760 --> 00:06:23,360
+# 回眸一笑百媚生
+"She could melt one's heart with her coquettish smile,"
+
+153
+00:06:23,360 --> 00:06:25,840
+# 后宫粉黛无颜色
+"All of the powdered faces of the ladies in waiting from the six palaces paled in comparison." (These are quotes from 'Song of Everlasting Regret')
+
+154
+00:06:25,840 --> 00:06:27,200
+# 贵妃鸡
+Gui Fei Chicken
+
+155
