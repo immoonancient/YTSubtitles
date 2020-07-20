@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•九轉大腸】甜酸苦辣咸，人生五味，焦香軟嫩，鼎鼎大名的經典魯菜在家就能做 |老飯骨
-# 【National Banquet Master · Nine Turn Intestines】 this famous classic Shandong cuisine can be made at home|Lao Fan Gu
+# State Banquet Master Chef - Braised Intestines in Brown Sauce. Classic Shandong Cuisine
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -11,20 +11,22 @@
 # 不知道有沒有小友願意在家挑戰一下，做這道有名的九轉大腸呢？
 
 # Introduction
-# Hello friends, a lot of people have left us a message before, hoping to see us to make a Nine Turn Intestines, and I will teach you today. Nine Turn Intestines is a well-known classic Shandong cuisine with sweet, sour, bitter, spicy, salty, all flavors, ruddy color, thin and tender, mellow taste, fat but not greasy!
-# I don't know if any friends are willing to challenge at home to make this famous Nine Turn Intestines?
+# Hello friends, a lot of people have left us a message before, hoping to see us to make a Braised Intestines in Brown Sauce (Jiuzhuan Pork Intestine/Nine Turn Intestines), and today we will teach you this dish. It is a well-known classic Shandong cuisine with sweet, sour, bitter, spicy, salty, all flavors, ruddy color, thin and tender, mellow taste, fat but not greasy!
+# Are there any friends who will challenge yourself to make this famous dish at home?
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:03,160
 # 这个菜目前是我吃过最好的九转大肠
-This dish is the best Nine Turn Intestines I have ever eaten.
+This dish is the best Braised Intestines I have ever eaten.
 
 2
 00:00:03,160 --> 00:00:04,000
 # 九转大肠
-Nine Turn Intestines
+Braised Intestines in Brown Sauce
 
 3
 00:00:04,000 --> 00:00:05,280
@@ -72,7 +74,7 @@ Every cook has his own way to do this.
 12
 00:00:21,640 --> 00:00:25,480
 # 有搁醋的 有搁盐的 他那搁醋搁盐呢
-Some use vinegar, some use salt shelf. He is using salt.
+Some use vinegar, some use salt. He uses both.
 
 13
 00:00:25,480 --> 00:00:28,040
@@ -98,12 +100,12 @@ We used to tear it off
 00:00:38,480 --> 00:00:40,920
 # 专门炼一种大油
 
-# and used to refine lard.
+and used it to refine lard.
 
 18
 00:00:40,920 --> 00:00:45,720
 # 煎灌肠啊 做一些下水的菜 它出来以后香
-It would make some dishes such as Fried enema smell good.
+It would make some dishes such as Fried enema, or other offal dishes, smell good.
 
 19
 00:00:45,720 --> 00:00:48,080
@@ -168,7 +170,7 @@ Netizens joked that it's not five flavors
 31
 00:01:16,320 --> 00:01:20,320
 # 是六味 脏器味 没有这脏器味还不行
-It’s six flavors, organ smell, and it’s not good without organ smell.
+It’s six flavors, organ flavor, and it’s not good without organ flavor.
 
 32
 00:01:20,320 --> 00:01:22,600
@@ -203,17 +205,17 @@ Ready-made Amomum powder is available in the market, we didn’t manage to buy i
 38
 00:01:35,560 --> 00:01:37,080
 # 没买着咱就自己磨一下
-Even though we didn’t manage to buy it, it’s fine, we’ll polish it ourselves.
+Even though we didn't find it, we can grind it ourselves.
 
 39
 00:01:37,080 --> 00:01:38,640
 # 就跟似的 咱焙花椒 小火
-In the same way as we roast sichuan peppercorn with small fire.
+In the same way as we roast sichuan peppercorn, use low heat.
 
 40
 00:01:38,640 --> 00:01:42,560
 # 您看焯水的时候它这个肠子是鼓起来的
-The intestine bulges when being blanched.
+The intestine bulges while blanching. 
 
 41
 00:01:42,560 --> 00:01:46,760
@@ -308,7 +310,7 @@ Now we have the flavor.
 59
 00:02:40,080 --> 00:02:43,040
 # 少搁点酱油 这还不能颜色太重
-Add a little of soy sauce, otherwise the colour would become too deep.
+Add a little of soy sauce, otherwise the colour would become too dark.
 
 60
 00:02:43,040 --> 00:02:45,120
@@ -488,7 +490,7 @@ The first step is to fry sugar.
 95
 00:04:08,480 --> 00:04:10,240
 # 油水炒 少搁点油
-With a little of oil water.
+With a little of oil and water. 
 
 96
 00:04:10,240 --> 00:04:12,640
@@ -501,17 +503,17 @@ Ok, the oil is hot enough, pour it out.
 98
 00:04:12,880 --> 00:04:17,200
 # 水油炒 冰糖
-Fry crystal sugar with oil water.
+Fry crystal sugar with oil and water.
 
 99
 00:04:18,480 --> 00:04:21,360
 # 冰糖必须水油 化的快
-Have to use water oil so that it melt fast.
+Crystal sugar have to use water and oil so that it melt fast.
 
 100
 00:04:21,360 --> 00:04:24,440
 # 相比好掌握一些 颜色还好看
-Easier to control and better color we can get.
+Easier to control and the color looks better.
 
 101
 00:04:24,440 --> 00:04:26,720
@@ -541,7 +543,7 @@ It is wrong to fry it until it is bitter.
 106
 00:04:39,360 --> 00:04:41,760
 # 这个糖不停的在锅里边搅动
-Stir the sugar nonstopply.
+Keep stirring the sugar in the wok
 
 107
 00:04:41,760 --> 00:04:44,360
@@ -566,7 +568,7 @@ Watery like honey, golden color.
 111
 00:04:56,080 --> 00:04:58,760
 # 这时候拔丝最好了
-Now it’s the best time to wire drawing.
+Now it’s the best status to make candied dishes 
 
 112
 00:04:59,760 --> 00:05:02,800
@@ -576,7 +578,7 @@ Keep going, now the there are no bubbles.
 113
 00:05:02,800 --> 00:05:08,000
 # 适当这火小一点 拿下来
-Turn down the fire a little bit, take it down.
+Turn down the heat a little bit, take it down.
 
 114
 00:05:08,000 --> 00:05:13,520
@@ -664,7 +666,7 @@ Ensure the aroma of spring onion and ginger is freed from it
 131
 00:06:05,040 --> 00:06:07,280
 # 把火关小点
-Turn down the fire a bit.
+Turn down the heat a bit.
 
 132
 00:06:07,280 --> 00:06:10,400
@@ -761,7 +763,7 @@ Add more salt.
 152
 00:07:10,440 --> 00:07:12,680
 # 这颜色还不够
-The color is not good.
+The color is not deep enough.
 
 153
 00:07:12,680 --> 00:07:15,000
@@ -786,7 +788,7 @@ Now we have the color is good, and it would be the right color when we pour it o
 157
 00:07:24,520 --> 00:07:30,200
 # 这时候就开始把葱姜挑出来了 挑干净
-Now pick out all the scallion nd ginger.
+Now pick out all the scallion and ginger.
 
 158
 00:07:30,200 --> 00:07:32,960
@@ -881,7 +883,7 @@ Beautiful.
 178
 00:08:19,440 --> 00:08:22,200
 # 你看见没有 它自然收汁
-Did you see that? The liquids are reduced and absorbed themselves.
+Did you see that? The liquids are reduced and concentrated themselves.
 
 179
 00:08:22,200 --> 00:08:24,560
@@ -947,12 +949,12 @@ With all the sauce.
 192
 00:09:01,520 --> 00:09:04,520
 # 这点汁收的 绝了
-The liquids are reduced and absorbed in a so fantastic way.
+The liquids are reduced and concentrated in a such fantastic way.
 
 193
 00:09:04,520 --> 00:09:08,040
 # 香菜末点中间
-Put some minced parsley in the middle.
+Put some minced cilantro in the middle.
 
 194
 00:09:08,040 --> 00:09:11,760
@@ -965,7 +967,7 @@ It has some green color and looks better.
 196
 00:09:12,280 --> 00:09:15,160
 # 来点山楂解腻 山楂罐头就行
-Add some hawthorn so the dish wouldn’t be greasy, hawthorn can could work.
+Add some hawthorn so the dish wouldn’t be greasy, hawthorn works here.
 
 197
 00:09:15,160 --> 00:09:17,280
@@ -1021,7 +1023,7 @@ Da Ye, this dish
 208
 00:09:39,680 --> 00:09:44,120
 # 凝结着我跟小魏几十年的感情
-condense my relationship with Little Wei for decades
+condense my relationship with Xiao Wei for decades
 
 209
 00:09:44,120 --> 00:09:46,240
