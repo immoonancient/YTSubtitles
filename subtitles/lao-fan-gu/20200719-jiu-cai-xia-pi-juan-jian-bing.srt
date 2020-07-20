@@ -11,7 +11,7 @@
 # Hello friends, today Lao Fangu is going to teach us a kind of appetizer: Shrimp Skin and Chinese chive wrap!
 # The key points of this cuisine are how to toast the shrimp skin, seasoning the cooking oil with green onion and chilli first. The fried shrimp skin and chive we made by following the video, would be amazing! You can eat with jianbing (it is like pita, but crispier), lettuces. Da Ye and Er Bai could not stop eating! They need one more!
 
-# Import intro
+# import intro
 
 # 字幕
 
