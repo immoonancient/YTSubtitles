@@ -29,6 +29,11 @@
 
 ## 常见问题
 
+- Q: 这是什么性质的字幕组？
+- A: 我们都是志愿者，出于兴趣贡献一些业余时间制作字幕，从而能与全世界更多的人分享我们喜欢的中文 YouTube 频道。
+
+<!---->
+
 - Q: 为什么选择 GitHub 作为工作平台？为什么不用 YouTube 的[原生字幕制作工具](https://support.google.com/youtube/answer/6054623)？
 - A: YouTube 原生工具不太适合我们的团队化合作模式。相比之下，GitHub 有很多很实用的功能
   * [Issue](https://github.com/immoonancient/YTSubtitles/issues) 用于进度管理
