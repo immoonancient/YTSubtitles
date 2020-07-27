@@ -1,18 +1,16 @@
 # https://youtu.be/i2KWIWUW2dM
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
-# <甘肃临洮热凉面，早上来一碗可加卤肉肥肠，老吃家一坐下就剥蒜，连卤汁都不剩>
-# <Hot-Cold Noodle in Lintao, Gansu Prov. Have a one with braised meat and pork intestine in the morning, it’s so tasty that you want to finish them all.>
+# 甘肃临洮热凉面，早上来一碗可加卤肉肥肠，老吃家一坐下就剥蒜，连卤汁都不剩
+# Hot-Cold Noodle in Lintao, Gansu Prov. Have a one with braised meat and pork intestine in the morning, it’s so tasty that you want to finish them all.
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
-# <早就听闻临洮热凉面，于是乎我从兰州直奔临洮。这儿的热凉面是被本地人当作早餐食用的，刚出锅的面条烫嘴，阿姨会将其放置在案板上，撒上菜籽油防止粘连，凉透的面条上浇上热卤汁，再根据个人喜好加上肉片、肥肠、鸡蛋等，一盘丰盛的临洮热凉面就做好了！这老吃家早上一来，就先剥蒜，喝一口面汤，吃一口蒜，最后连面带卤汁统统吃干净！>
-# <I heard the Lintao’s hot-cold noodle for a long time, so I went there from Lanzhou. The noodle is treated as breakfast in the local, the noodle is extremely hot when it comes out from the boiled pot, so she will put it on a board, mixed with colza oil to prevent the noodles stick to each other, and pour over the noodles with hot braised sauce, come with multiple selections from sliced meat, pork intestine, braised egg, etc. A plate of hearty Lintao’s specialty noodles is well prepared!
+# 早就听闻临洮热凉面，于是乎我从兰州直奔临洮。这儿的热凉面是被本地人当作早餐食用的，刚出锅的面条烫嘴，阿姨会将其放置在案板上，撒上菜籽油防止粘连，凉透的面条上浇上热卤汁，再根据个人喜好加上肉片、肥肠、鸡蛋等，一盘丰盛的临洮热凉面就做好了！这老吃家早上一来，就先剥蒜，喝一口面汤，吃一口蒜，最后连面带卤汁统统吃干净！
+# I heard the Lintao’s hot-cold noodle for a long time, so I went there from Lanzhou. The noodle is treated as breakfast in the local, the noodle is extremely hot when it comes out from the boiled pot, so she will put it on a board, mixed with colza oil to prevent the noodles stick to each other, and pour over the noodles with hot braised sauce, come with multiple selections from sliced meat, pork intestine, braised egg, etc. A plate of hearty Lintao’s specialty noodles is well prepared!
 
 # 字幕
-
-# <1
 
 1
 00:00:01,880 --> 00:00:04,960
@@ -765,4 +763,4 @@ Aright, today’s video will be stop right here
 150
 00:11:24,360 --> 00:11:28,560
 # 关  注
-雪 鱼 探 店
+# 雪 鱼 探 店
