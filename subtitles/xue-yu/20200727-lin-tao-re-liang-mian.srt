@@ -2,13 +2,14 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 甘肃临洮热凉面，早上来一碗可加卤肉肥肠，老吃家一坐下就剥蒜，连卤汁都不剩
-# Hot-Cold Noodle in Lintao, Gansu Prov. Have a one with braised meat and pork intestine in the morning, it’s so tasty that you want to finish them all.
+# Hot-Cold Noodles in Lintao, Gansu. With braised pork and intestine, you want to finish them all!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
 # 早就听闻临洮热凉面，于是乎我从兰州直奔临洮。这儿的热凉面是被本地人当作早餐食用的，刚出锅的面条烫嘴，阿姨会将其放置在案板上，撒上菜籽油防止粘连，凉透的面条上浇上热卤汁，再根据个人喜好加上肉片、肥肠、鸡蛋等，一盘丰盛的临洮热凉面就做好了！这老吃家早上一来，就先剥蒜，喝一口面汤，吃一口蒜，最后连面带卤汁统统吃干净！
-# I heard the Lintao’s hot-cold noodle for a long time, so I went there from Lanzhou. The noodle is treated as breakfast in the local, the noodle is extremely hot when it comes out from the boiled pot, so she will put it on a board, mixed with colza oil to prevent the noodles stick to each other, and pour over the noodles with hot braised sauce, come with multiple selections from sliced meat, pork intestine, braised egg, etc. A plate of hearty Lintao’s specialty noodles is well prepared!
+# I heard about Lintao’s hot-cold noodles for a long time, so I went there from Lanzhou. The locals eat it as breakfast. The noodles are extremely hot when taken out from the pot, so they are then put on a board, mixed with rapeseed oil to prevent sticking, and cool down. Then the noodles are poured over with hot braised sauce and served with multiple ingredients including sliced meat, pork intestine, braised egg, etc. A deluxe plate of Lintao’s specialty noodles is well prepared!
+# Old customers would arrive tn the morning and start with peeling garlic, then have noodle soup and garlic together, and finally finish the everything off including noodles and even the sauce!
 
 # 字幕
 
@@ -31,7 +32,7 @@ I was kind of interested when I noticed the name of the Hot-Cold noodles.
 00:00:14,920 --> 00:00:18,400
 # 这个面
 # 到底是热的呢还是凉的
-Is the noodle hot or cold?
+Are the noodles hot or cold?
 
 5
 00:00:18,400 --> 00:00:21,360
@@ -41,11 +42,12 @@ I did a lot of research on this one, but still got confused.
 6
 00:00:21,360 --> 00:00:26,120
 # 索性就直接来临洮看一看 热凉面到底是什么样子
-Therefore, I thought why not come to this city, and see what is it look like?
+Therefore, I thought why not come to this city, and see what it looks like?
 
 7
 00:00:27,160 --> 00:00:37,040
 # 歌曲：小镇故事多  充满喜和乐
+(Singing)
 
 8
 00:00:42,160 --> 00:00:45,240
@@ -65,12 +67,12 @@ What’s the difference between the cold one and the hot one?
 11
 00:01:08,040 --> 00:01:09,960
 # 凉的就是拌了一下油
-Cold one is stirred with some oil
+Cold one is mixed with some oil
 
 12
 00:01:10,120 --> 00:01:12,920
 # 热的就是直接从锅里捞出来的
-Hot one is come right out from the pot
+Hot one is taken out right from the pot
 
 13
 00:01:12,920 --> 00:01:14,320
@@ -85,12 +87,12 @@ Hot one? Right!
 15
 00:01:15,200 --> 00:01:16,220
 # 要宽面条还是细面条
-With the wide noodle or the thin noodle?
+With wide noodles or thin noodles?
 
 16
 00:01:16,280 --> 00:01:17,420
 # 要细的
-The thin one
+Thin
 
 17
 00:01:17,420 --> 00:01:18,680
@@ -125,7 +127,7 @@ You can have a seat
 23
 00:01:27,960 --> 00:01:29,200
 # 行 行 好 谢谢
-Aright, thanks
+Alright, thanks
 
 24
 00:01:39,280 --> 00:01:40,520
@@ -140,12 +142,12 @@ You’re welcome
 26
 00:01:41,400 --> 00:01:46,160
 # 到面馆里吃面 落座之后会上一碗面汤
-If you are going to the noodle house, they normally would bring a bowl of noodle soup to your table after you have sat
+If you are going to a noodle house, you get a bowl of noodle soup after getting seated
 
 27
 00:01:49,400 --> 00:01:54,480
 # 这边一看就是吃面的地方 桌子上摆着蒜
-You would know this place is for you to having noodles when you have seen the garlic on the table
+You would know this is the place for noodles when you spot the garlic on the table
 
 28
 00:01:54,480 --> 00:01:57,920
@@ -160,22 +162,22 @@ It’s huge
 30
 00:02:10,680 --> 00:02:15,520
 # 它这个面条是浸在卤子里的 这个卤子会倒两遍
-This noodle is immersed in the braised sauce, they will pour over twice
+This noodle is immersed in the braised sauce, which they pour twice
 
 31
 00:02:15,520 --> 00:02:17,840
 # 第一遍呢 就是在底下打个底
-The first time will put some underneath
+In the first time, it's poured at the bottom
 
 32
 00:02:17,840 --> 00:02:21,960
 # 还要把面条翻一下 让这个面条都有卤子
-And flip over the noodles to ensure it is fully covered by the sauce
+And flip over the noodles to ensure they are fully covered by the sauce
 
 33
 00:02:21,960 --> 00:02:24,520
 # 第二个部分呢 就是再倒一勺卤子
-Second part will be pouring over the sauce another time
+Second part will be pouring the sauce another time
 
 34
 00:02:24,520 --> 00:02:28,440
@@ -210,17 +212,17 @@ Ordered meat and egg in this
 40
 00:03:08,000 --> 00:03:12,440
 # 好喜欢吃辣子下的肉 吃起来香香的
-I like to have the meat with some hot chili, so luscious
+I like to have the meat with some hot chili, it's so tasty
 
 41
 00:03:16,920 --> 00:03:20,240
 # 我感觉要的豪华版的 根本就不是来吃面的
-I feel like I’m not came here to having these noodles with this deluxe version
+With this deluxe version, I feel like I didn't come here for noodles
 
 42
 00:03:20,240 --> 00:03:22,840
 # 好像是来吃肉的
-Seems in order to having these meats instead
+I feel like I'm here for the meat instead
 
 43
 00:03:27,520 --> 00:03:30,960
@@ -230,7 +232,7 @@ These noodles are just like the beef noodles that I had few days ago in Lanzhou
 44
 00:03:30,960 --> 00:03:35,720
 # 都是这种比较劲道的口感 而且颜色都是淡黄色
-They shared the same chewy texture and both in light-yellow color
+They share the same al dente texture and are both in light-yellow color
 
 45
 00:03:37,120 --> 00:03:40,800
@@ -255,7 +257,7 @@ Do you want to add some meat? Are you okay with spicy chili?
 49
 00:03:46,640 --> 00:03:49,400
 # 连环地问 到底吃什么样的面条
-Ask you a serial of questions, what do you want specifically?
+A serial of questions on what you want specifically
 
 50
 00:03:49,400 --> 00:03:53,000
@@ -275,12 +277,12 @@ And vinegar, spicy chili, garlic juice, are indispensable parts of its flavor
 53
 00:04:00,720 --> 00:04:03,400
 # 流水的面馆 铁打的调料 都是这三样
-Noodle houses are normally come with these flowed processes and fixed sauces
+All noodle houses come with these three condiments
 
 54
 00:04:03,400 --> 00:04:07,200
 # 最近吃的都是这三样
-I’m having the same flavors lately
+All I had recently are with these three
 
 55
 00:04:10,880 --> 00:04:14,360
@@ -300,27 +302,27 @@ And I’m making the slurping sound for every single bite
 58
 00:04:19,880 --> 00:04:21,520
 # 吃着吃着就会发现
-While in the meantime,
+In the meantime,
 
 59
 00:04:21,520 --> 00:04:26,120
 # 卤汁包裹下的面条 味道好像更饱满一些
-You will find out the sauce wrapped noodles will become more flavorful
+You will find out the noodles covered with sauce seem more flavorful
 
 60
 00:04:26,200 --> 00:04:29,400
 # 吃完了热凉面呢  我打算去他们的厨房看一看
-After finished this noodle, I’m going to have a look in their kitchen
+After finishing the noodles, I’m going to have a look in their kitchen
 
 61
 00:04:29,400 --> 00:04:32,920
 # 因为我感觉里面的气氛好像是异常火爆
-Cause I feel like it’s so hearty in there
+Because I feel like it’s so active in there
 
 62
 00:04:32,920 --> 00:04:34,560
 # 正好借这个机会看一看
-With this chance, I’m going to checkout
+With this chance, I’m going to check it out
 
 63
 00:04:34,560 --> 00:04:36,680
@@ -330,12 +332,12 @@ How they make the hot-cold noodles
 64
 00:04:50,800 --> 00:04:54,520
 # 走进厨房 首先能够看到的是他们切肉的场景
-First, you will see they are cutting the meat after you walked into the kitchen
+Right after entering the kitchen, you will see they are cutting meat
 
 65
 00:04:54,520 --> 00:04:58,240
 # 在这边倒是没有看到大刀剁肉 这种酣畅淋漓的场面
-You won’t see they are chopping the meat exuberantly with heavy knifes
+You won’t see them chop the meat exuberantly with heavy cleavers
 
 66
 00:04:58,240 --> 00:05:02,960
@@ -345,7 +347,7 @@ Instead, they are using this little triangular blade to slice the meat.
 67
 00:05:03,160 --> 00:05:05,000
 # 肉切到什么程度
-How thin do you have to cut this meat to?
+How thin do they have to cut this meat to?
 
 68
 00:05:05,000 --> 00:05:06,680
@@ -360,27 +362,27 @@ Like this one
 70
 00:05:12,800 --> 00:05:16,880
 # 这边放在面里的肉 不仅有肘子肉 还有卤肥肠
-The meat they are offering are not limited to pork shoulder, but also braised pork intestine
+The meats they offer include pork knuckle and braised pork intestine
 
 71
 00:05:16,880 --> 00:05:20,960
 # 在卤肉的旁边 就是一小碟 一小碟的卤肥肠
-Beside the pork shoulder, there have putted pork intestine into each single small plate
+Next to the pork knuckle, there are small plates of pork intestine
 
 72
 00:05:20,960 --> 00:05:24,480
 # 肉是提前做出来的 切出来会比较干
-Since the meat is cooked already a while ago, and a bit of dry when you cut it
+Since the meat was cooked a while ago, it's a bit of dry when you cut it
 
 73
 00:05:24,480 --> 00:05:29,520
 # 所以说 切过的肉 还要在后面的大锅里再冒（烫）一下
-Therefore, the sliced meats are going to quick boil for a moment
+Therefore, the sliced meat will be quickly boiled for a moment
 
 74
 00:05:29,520 --> 00:05:31,840
 # 出锅的时候 还会再放一些老汤
-They will put some broth in it when it come out from the pot
+They will put some broth in it when it comes out from the pot
 
 75
 00:05:31,840 --> 00:05:35,160
@@ -400,7 +402,7 @@ The noodles in this shop are pretty like the Lanzhou beef noodles
 78
 00:05:45,080 --> 00:05:46,840
 # 需要现场拉出来
-They need stretch the dough in the same time
+They need to pull the noodles live
 
 79
 00:05:46,840 --> 00:05:50,760
@@ -420,12 +422,12 @@ There is a saying about Lintao’s Hot-Cold noodles
 82
 00:05:56,120 --> 00:06:01,360
 # 这个面需要  三遍水 三遍蓬灰 九九八十一道揉
-This noodle need go through many processes
+This noodles need to go through water for 3 times, ash for three times and countless kneading
 
 83
 00:06:01,360 --> 00:06:06,600
 # 就是为了让这个面拉起来更有韧性 吃起来是劲道
-To ensure the noodles will be more chewy
+To ensure the noodles will be more al dente
 
 84
 00:06:30,880 --> 00:06:33,440
@@ -455,25 +457,25 @@ How long should you knead this dough for?
 89
 00:06:47,200 --> 00:06:50,240
 # 半个小时吧
-Around half hour
+Around half an hour
 
 90
 00:07:11,520 --> 00:07:15,200
 # 小哥 这个过程叫溜条 还是叫溜条
 # —
 # 、
-Is the word Liu pronounced with first tone or fourth tone?
+Bro, is the process called "liū tiáo" or "liù tiáo"?
 
 91
 00:07:15,200 --> 00:07:17,120
 # 叫溜条
 # —
-First tone
+"liū tiáo"
 
 92
 00:07:17,120 --> 00:07:20,240
 # 就是把面团揪成一块块的
-Just need to pull this dough into pieces
+Just need to pinch this dough into pieces
 
 93
 00:07:23,360 --> 00:07:25,560
@@ -498,12 +500,12 @@ The guy who are pulling the dough is kind of interesting
 97
 00:07:34,320 --> 00:07:39,000
 # 他刚才把面条丢进锅里 然后冲着我说
-He just throws the noodles into the pot and saying to me
+He just threw the noodles into the pot and said to me
 
 98
 00:07:39,000 --> 00:07:40,600
 # 这个东西很简单
-This thing is very easy
+"This thing is very easy"
 
 99
 00:07:40,600 --> 00:07:43,200
@@ -528,7 +530,7 @@ It’s very simple
 103
 00:08:41,760 --> 00:08:47,640
 # 小姐姐 我想问一下 凉面还有热凉面的区别
-Hey, Miss. I want asking what’s the difference between cold noodles and hot-cold noodles?
+Hey, Miss. Can I know the difference between cold noodles and hot-cold noodles?
 
 104
 00:08:47,640 --> 00:08:51,400
@@ -538,12 +540,12 @@ Cold noodles are made directly from the pot and mixed up with some oil
 105
 00:08:51,400 --> 00:08:52,840
 # 晾凉了 就是凉面
-Wait it’s getting cold, then it will be cold noodles
+Wait until it's cold, then it will be cold noodles
 
 106
 00:08:52,840 --> 00:08:56,800
 # 热面就是面直接从锅里捞出来 直接调上汤汁 就是热的
-Hot noodles are the same but pouring over some broth and sauce when it come out from the pot.
+Hot noodles are taken out directly from the pot and poured with sauce. It's still hot
 
 107
 00:08:56,800 --> 00:08:59,040
@@ -573,7 +575,7 @@ The degree of thinness and thickness will depend on
 112
 00:09:09,520 --> 00:09:11,440
 # 这个就看个人口味了
-Personal favors
+Personal preferences
 
 113
 00:09:11,440 --> 00:09:13,920
@@ -598,12 +600,12 @@ The miss just said
 117
 00:09:18,680 --> 00:09:22,000
 # 凉面和热凉面在做法和操作上的区别
-The distinctions of method and how to handle between cold noodles and hot-cold noodles
+The distinction between how to make cold noodles and hot-cold noodles is that
 
 118
 00:09:22,000 --> 00:09:25,200
 # 就是热凉面不经过拌油冷却这个过程
-It’s hot-cold noodles are not required of having the processes of mixing with the oil and wait it become cold
+Hot-cold noodles do not require the processes of mixing with oil and cooling down
 
 119
 00:09:25,200 --> 00:09:27,360
@@ -613,17 +615,17 @@ In fact, cold noodles are the original one
 120
 00:09:27,360 --> 00:09:29,640
 # 那个时候都是挑着担子在外面卖
-People used to sell the cold noodles outside by carrying around them with Danzi
+People used to carry around and sell cold noodles outside with carry poles
 
 121
 00:09:29,640 --> 00:09:33,040
 # 担子的一边的放的是已经用油拌好的凉面
-The one side of Danzi is filled with oil mixed cold noodles
+One side of the pole is filled with cold noodles that are already mixed with oil
 
 122
 00:09:33,040 --> 00:09:34,720
 # 另一边呢 放的是热汤
-And the other side is filled with the hot broth
+And the other side is filled with hot broth
 
 123
 00:09:34,720 --> 00:09:36,200
@@ -633,7 +635,7 @@ And later, there’s cold noodle house
 124
 00:09:36,200 --> 00:09:38,960
 # 有的顾客说可以把面直接放在热卤里
-And some customers said the noodles can be put into the gravy
+And some customers said the noodles can be put into the hot gravy
 
 125
 00:09:38,960 --> 00:09:41,160
@@ -648,7 +650,7 @@ At that time, Hot-Cold noodles began to appear
 127
 00:09:44,440 --> 00:09:48,280
 # 这么看来 热凉面应该是凉面发展的产物吧
-Seems the hot-cold noodles should be the product of cold noodles development in this way
+Seems that hot-cold noodles are the product of cold noodles developed to a new stage
 
 128
 00:09:50,280 --> 00:09:51,240
@@ -658,17 +660,17 @@ And there is another point
 129
 00:09:51,240 --> 00:09:54,480
 # 吃凉面和吃热凉面 和季节有很大的关系
-The seasonality is also mostly related of choosing cold noodles and hot-cold noodles
+Whether to eat cold noodles or hot-cold noodles has a high degree of seasonality
 
 130
 00:09:54,480 --> 00:09:59,000
 # 像这种天气 来碗凉面 可能更配一些
-A bowl of cold noodles will be more fitted in these days
+A bowl of cold noodles is probably better in these days
 
 131
 00:10:03,680 --> 00:10:07,360
 # 奶奶 吃面之前要先剥蒜吗
-Hi Miss, do you have to peel the garlic before you having the noodles?
+Hi ma'am, do we have to peel the garlic before having the noodles?
 
 132
 00:10:07,360 --> 00:10:09,360
@@ -678,12 +680,12 @@ This garlic
 133
 00:10:09,360 --> 00:10:13,400
 # 吃这个蒜配面里面的肉
-Eat this garlic with the meat from the noodles
+The garlic pairs with the meat from the noodles
 
 134
 00:10:13,400 --> 00:10:17,840
 # 奶奶 您经常来吃凉面吗
-Hi Miss, do you come to here all the time?
+Hi ma'am, do you come to here often?
 
 135
 00:10:17,840 --> 00:10:19,520
@@ -698,12 +700,12 @@ Their cold noodles are very good
 137
 00:10:22,280 --> 00:10:27,640
 # 凉面是咱们这边特色是吧
-Cold noodles are the specialty of here?
+Cold noodles are the local specialty?
 
 138
 00:10:27,640 --> 00:10:30,480
 # 临洮的特色面
-Lintao’s special noodles
+Lintao’s specialty noodles
 
 139
 00:10:30,480 --> 00:10:34,160
@@ -713,22 +715,22 @@ Did you order the hot-cold noodles or the cold noodles?
 140
 00:10:34,160 --> 00:10:37,840
 # 凉的 它那个汤不是热的吗
-Cold one, but the broth is still hot?
+The cold one. The broth is still hot, isn't it?
 
 141
 00:10:37,840 --> 00:10:39,320
 # 夏天吃这个好
-It’s good of having this one in the summer
+It’s good to have it in summer
 
 142
 00:10:42,720 --> 00:10:45,200
 # 在临洮 满大街的都是凉面店
-There are full of cold noodle houses in Lintao
+Lintao is full of cold noodle houses
 
 143
 00:10:45,200 --> 00:10:47,600
 # 凉面呢 大家从早上起来就可以吃
-Everyone can have the cold noodles right start from the day
+Everyone can have cold noodles starting from the morning
 
 144
 00:10:47,600 --> 00:10:49,360
@@ -753,7 +755,7 @@ The one that I had is bit of too much
 148
 00:10:59,080 --> 00:11:00,880
 # 好了 今天的视频就到这
-Aright, today’s video will be stop right here
+Aright, today’s video will stop right here
 
 149
 00:11:02,240 --> 00:11:04,720
@@ -764,3 +766,4 @@ Aright, today’s video will be stop right here
 00:11:24,360 --> 00:11:28,560
 # 关  注
 # 雪 鱼 探 店
+Please subscribe
