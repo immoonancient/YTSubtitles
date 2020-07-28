@@ -2,12 +2,12 @@
 
 # 标题
 # 【国宴大师•牛肉酱】老饭骨独家香菇牛肉酱，吃出满满牛肉粒、菇香味浓，这味儿绝了！附各种醋的区别（上）|老饭骨
-# Lao Fan Gu Exclusive Shiitake Mushroom Beef Paste & Decode Different Types of Vinegar (part 1)
+# State Banquet Master Chefs - Exclusive Shiitake Mushroom Beef Paste. Decode Vinegars Part 1
 
 # 简介
 
 # 小友们好！又到周一了，老饭骨又为大家上菜咯！
-# Hi dear friends, it is Monday again, Lao Fan Gu are bringing you more dishes!
+# Hello Friends, it is Monday again, Lao Fan Gu bring you more dishes!
 # 这次带来的是香菇牛肉酱——牛肉颗颗分明、饱满多汁，吸收了香菇的香味。
 # Today we want to introduce our exclusive Shiitake Mushroom Beef Paste-flavorful with juicy beef and aroma from Shiitake Mushroom.
 
@@ -16,7 +16,9 @@
 # 片尾还有大爷回答小友们的问题：各种醋的区别到底是什么呢？小友们可要记得收看哦！
 # It is perfect with rice, noodles as well as Mantou (aka Chinese steamed buns)!
 # But please be patient during cooking since dehydrating by slow-cooking is helpful for longer storage.
-# At the end of this video, Da Ye is going to answer the question from comments: what is the difference between kinds of vinegar? Please don’t miss it!
+# At the end of this video, Da Ye is going to answer the question from comments: what is the difference between different types of vinegar? Please don’t miss it!
+
+# import intro
 
 # 字幕
 
@@ -234,7 +236,7 @@ star anise, tsao-ko, white cardamom, bay leaf, (dried chili pepper)
 44
 00:01:43,000 --> 00:01:45,000
 # 一个白芷就行了
-And just one baizhi should be good
+And just one angelica should be good
 
 45
 00:01:45,000 --> 00:01:48,680
@@ -345,7 +347,7 @@ It smells good
 67
 00:02:43,880 --> 00:02:47,800
 # 再来点葱姜 这点要说一下
-And some leek and ginger. And one thing to point out-
+And some green onion and ginger. And one thing to point out-
 
 68
 00:02:47,800 --> 00:02:49,720
@@ -494,12 +496,12 @@ And now we have the baked sesame
 98
 00:04:06,960 --> 00:04:09,840
 # 然后撒在里边 熟芝麻
-Add to the paste. It is cooked sesame.
+Add it to the paste. It is cooked sesame.
 
 99
 00:04:09,840 --> 00:04:11,480
 # 你说这酱能不香么
-How can this possibly not smell wonderful?
+How can this not smell good?
 
 100
 00:04:11,480 --> 00:04:14,520
@@ -572,7 +574,6 @@ And beef processing method by the master is great too
 perfect
 
 114
-00:04:49,840 --> 00:00:02,000
 
 115
 00:04:53,320 --> 00:04:55,440
@@ -582,7 +583,7 @@ One of our comments is
 116
 00:04:55,440 --> 00:04:57,000
 # 讲讲不同类型的醋
-‘What is the difference between kinds of vinegar?’
+‘What is the difference between different types of vinegar?’
 
 117
 00:04:57,000 --> 00:04:59,240
@@ -767,7 +768,7 @@ Just like liquor
 153
 00:05:50,040 --> 00:05:51,200
 # 他有多少度
-It has its alcohol content
+It has its percent of acidity
 
 154
 00:05:51,200 --> 00:05:52,280
@@ -822,7 +823,7 @@ Even when you have half bottle of vinegar left there
 164
 00:06:06,080 --> 00:06:08,520
 # 但是醋在用的时候就不好用了
-It will become not as easy to use as at the beginning
+It will become harder to use compared to the beginning
 
 165
 00:06:08,520 --> 00:06:10,760
@@ -932,7 +933,7 @@ and has stable flavor
 186
 00:06:35,080 --> 00:06:36,920
 # 现在我们因为文化交流
-Because of cultural exchanging,
+Because of cultural communication,
 
 187
 00:06:36,920 --> 00:06:38,960
@@ -1010,6 +1011,6 @@ for salads
 So these vinegars are basically what we have in China
 
 202
-00:06:58,720 --> 00:02:15,680
+00:06:58,720 --> 00:07:00,000
 # 基本都是这样
 Basically like this
