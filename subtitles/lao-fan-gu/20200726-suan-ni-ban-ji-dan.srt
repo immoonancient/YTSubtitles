@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•蒜泥拌鸡蛋】一学就会的山东家常早点，浓浓蒜香，鸡蛋原来还能这样吃！附各种淀粉的用途（下）|老饭骨
-# [State Banquet Master Chef: Boiled eggs with mashed garlic] - Homely breakfast from Shandong, very easy to learn and delicious! Attached starch usage (continued)
+# State Banquet Master Chef - Boiled eggs with mashed garlic. Homely breakfast from Shandong.
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -11,7 +11,12 @@
 # 这道菜大师姐在山东吃过之后就再也忘不了了，满满蒜香。并且做法简单，几分钟就能做好。
 # 小友们周末要是睡个懒觉，来个蒜泥拌鸡蛋，配上大白馒头和稀饭，这味儿，绝了！
 # 片尾大爷和二伯继续给大家聊聊关于淀粉的那些事儿，如果还有不清楚的地方，小友们记得在评论区告诉大爷和二伯！
-# Hello friends, Friday evening comes again! This time Da Ye and Er Bai will share a homely dish from Shandong --  boiled eggs with mashed garlic. Da Shijie said she would never forget this dish since she tasted it in Shandong -- full of garlic aroma. Cooking this dish only takes several minutes, so it is very easy. It would be perfect, if we eat this dish together with Mantou (aka Chinese steamed buns) and congee, especially on a lazy weekend morning! At the end of this video, Da Ye and Er Bai will continue to talk about the usage of starch, so please feel free to leave your comments if there’s anything unclear to you!
+# Hello friends, Friday evening comes again! This time Da Ye and Er Bai will share a homely dish from Shandong --  boiled eggs with mashed garlic. 
+Da Shijie said she would never forget this dish since she tasted it in Shandong -- full of garlic aroma. Cooking this dish only takes several minutes, so it is very easy. 
+It would be perfect, if we eat this dish together with Mantou (aka Chinese steamed buns) and congee, especially on a lazy weekend morning! 
+At the end of this video, Da Ye and Er Bai will continue to talk about the usage of starch, so please feel free to leave your comments if there’s anything unclear to you!
+
+# import intro
 
 # 字幕
 
@@ -140,7 +145,7 @@ Put them here first
 27
 00:00:56,080 --> 00:00:58,520
 # 这个菜咱们鸡蛋不能煮成溏心儿
-We shouldn’t use tender eggs in this dish
+We shouldn’t use soft boiled eggs in this dish
 
 28
 00:00:58,520 --> 00:01:01,040
@@ -225,7 +230,7 @@ Eat dry food when busy, and wet food when idle
 46
 00:01:34,840 --> 00:01:37,440
 # 不闲不忙 干稀搭配
-If you are both not busy and not idle, you could mix dry and wet food together
+If you are not busy nor idle, you could mix dry and wet food together
 
 47
 00:01:37,440 --> 00:01:39,320
@@ -255,12 +260,12 @@ Yes, very easy
 52
 00:01:48,440 --> 00:01:50,880
 # 先给我大伯来一个 先给师父
-Da Bo eat fist, my master
+Da Bo eat fist. - Give to your master first
 
 53
 00:01:50,880 --> 00:01:52,840
 # 您看这大馒头
-Look at the bid white Mantou
+Look at the big white Mantou
 
 54
 00:01:52,840 --> 00:01:56,760
@@ -275,7 +280,7 @@ Take half, break off in the middle
 56
 00:01:59,080 --> 00:02:02,680
 # 你看看 先给你师父 先给大爷
-Look, give it to your master first, Da Ye
+Look, give it to your master first. Give it to Da Ye
 
 57
 00:02:02,680 --> 00:02:06,320
@@ -327,12 +332,12 @@ Look, you eat too fast to take a photo
 00:02:32,640 --> 00:02:36,560
 # 这个菜也是我在山东淄博第一次吃到
 
-# I ate this dish the first time in Zibo Shandong
+The first time I ate this dish was in Zibo Shandong
 
 68
 00:02:36,560 --> 00:02:38,240
 # 后来我就忘不了了
-And can’t forget it since then
+And I can’t forget it since then
 
 69
 00:02:38,240 --> 00:02:39,640
@@ -752,7 +757,5 @@ Yes
 Thanks
 
 154
-00:05:04,880 --> 00:01:55,200
 
 155
-00:03:09,840 --> 00:00:02,000
