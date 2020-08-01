@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•】夏季开胃小凉菜：酸辣瓜条，爽口开胃，脆嫩多汁，调出万能凉拌汁！大爷二伯的日常|老饭骨
-# Spicy and Sour Cucumber with All Purpose Sauce
+# State Banquet Master Chefs - Spicy and Sour Cucumber with All Purpose Sauce
 
 # 简介
 
@@ -20,7 +20,7 @@
 1
 00:00:00,000 --> 00:00:02,440
 # 重要宴会都上过这道菜 很精品
-This is a banquet dish, very classical
+This is a banquet dish, a delicate dish
 
 2
 00:00:02,440 --> 00:00:04,760
@@ -93,7 +93,7 @@ Let’s remove the seeds
 16
 00:00:34,880 --> 00:00:37,960
 # 为什么呢 因为黄瓜心它容易出汤
-To remove extra moisture
+Why? To remove the extra moisture
 
 17
 00:00:37,960 --> 00:00:41,160
@@ -108,7 +108,7 @@ So they look pretty
 19
 00:00:43,120 --> 00:00:45,600
 # 这个黄瓜条切完了 咱们杀上盐
-Once we cut the cucumber, sprinkle some salt on it
+Once we finish cutting the cucumber, sprinkle some salt on it
 
 20
 00:00:45,600 --> 00:00:49,360
@@ -123,7 +123,7 @@ It’s okay to go a little heavy on salt
 22
 00:00:50,840 --> 00:00:54,320
 # 待会咸味一出汤以后就带走了
-It will be removed with the moisture
+It will be gone with the moisture
 
 23
 00:00:54,320 --> 00:00:55,840
@@ -246,12 +246,12 @@ Da Ye, there’s no overt sesame oil aroma now
 47
 00:02:02,200 --> 00:02:04,320
 # 全是辣椒和葱姜丝的味
-It’s full of the aromas of chili, spring onion and ginger
+It’s full of the aroma of chili, spring onion and ginger
 
 48
 00:02:04,320 --> 00:02:05,520
 # 葱姜丝的香味出来了
-The aromas of ginger and spring onion has been released
+The aroma of ginger and spring onion has been released
 
 49
 00:02:05,520 --> 00:02:08,680
@@ -266,7 +266,7 @@ Beijing rice vinegar, it’s popular
 51
 00:02:13,680 --> 00:02:15,840
 # 然后咱们光是米醋的味道不够
-Just vinegar is not enough
+Just rice vinegar is not enough
 
 52
 00:02:15,840 --> 00:02:18,440
@@ -322,7 +322,7 @@ Once the sauce is made
 63
 00:02:47,040 --> 00:02:50,080
 # 可以放在冰箱里 它也不坏
-It can be kept in the fridge it doesn’t go bad
+It can be kept in the fridge. It doesn’t go bad
 
 64
 00:02:50,080 --> 00:02:52,760
@@ -355,7 +355,7 @@ Whatever taste you like is the best
 70
 00:03:06,200 --> 00:03:09,040
 # 咱们这边差不多了 晾凉
-It’s dones let’s remove it from the wok and let it cool
+It’s done. Let’s remove it from the wok and let it cool
 
 71
 00:03:09,040 --> 00:03:11,560
@@ -428,7 +428,7 @@ Drain it all out
 85
 00:03:41,040 --> 00:03:46,040
 # 您看咱们这个汁也凉了 越凉越粘稠
-The sauce has cooled down
+The sauce has cooled down, and become thick
 
 86
 00:03:46,040 --> 00:03:48,200
@@ -478,12 +478,12 @@ Look at the cucumber
 95
 00:04:06,920 --> 00:04:11,960
 # 皮儿朝上 而且瓜条宽窄长短都一样了
-Face the skin-side up, keep them the same length
+Face the skin-side up. All the strips have the same size
 
 96
 00:04:11,960 --> 00:04:14,360
 # 这样摆出来就整齐好看
-To make it look nicely
+So that it looks nice and neat
 
 97
 00:04:14,360 --> 00:04:16,320
@@ -508,7 +508,7 @@ No extra decorations keep it simple
 101
 00:04:31,400 --> 00:04:34,240
 # 四十年前的味道 一点都没走味儿
-Taste like how it is 40 years ago, nothing has changed
+Tastes like how it was 40 years ago, nothing has changed
 
 102
 00:04:34,240 --> 00:04:36,640
@@ -518,7 +518,7 @@ Why do we always say that starters are important
 103
 00:04:36,640 --> 00:04:39,800
 # 到一酒店吃饭 进门的菜是什么菜
-Because they are the first dished you see
+Because, what are the first dishes you see when dining?
 
 104
 00:04:39,800 --> 00:04:41,800
@@ -528,7 +528,7 @@ Not mains but appetizers
 105
 00:04:41,800 --> 00:04:45,240
 # 重要宴会其实都上过这道菜 很精品
-This dish has been presented on important banquits, it’s very classical
+This dish has been presented on important banquets, it’s very delicate
 
 106
 00:04:45,240 --> 00:04:47,200
@@ -552,7 +552,7 @@ Flavours are all similar
 
 0:04:55,140 --> 0:04:59,440
 # 今天让我们来康康宝藏男孩郑秀生的日常
-Today, let’s see Treasure Boy Zhe Xiu Sheng’s (Da ye) daily life
+Today, let’s see Treasure Boy Zhe Xiusheng’s (Da Ye) daily life
 
 0:04:59,800 --> 0:05:01,340
 # 他喜欢唱歌
@@ -560,7 +560,7 @@ He likes singing
 
 0:05:08,580 --> 0:05:10,740
 # 随时来两首小曲
-He sings as he please
+He sings as he pleases
 
 0:05:14,720 --> 0:05:16,220
 # 他用实力卖萌
@@ -568,7 +568,7 @@ He acts cute
 
 0:05:17,600 --> 0:05:19,500
 # 实力模仿魏刚强
-Imitate Wei Gang Qiang (Er Bai’s apprentice)
+Imitate Wei Gangqiang (Er Bai’s apprentice)
 
 0:05:20,640 --> 0:05:21,640
 # 大爷
@@ -588,11 +588,11 @@ You must hold a positive attitude
 
 0:05:27,240 --> 0:05:28,580
 # 要给这些孩子们
-Tell theories
+You must be able to tell the descendants
 
 0:05:28,600 --> 0:05:30,280
 # 讲出些门门道道来
-To the descendant
+the theories and methodology
 
 0:05:30,480 --> 0:05:34,280
 # 家有大厨 就是幸福
@@ -604,7 +604,7 @@ Do you like Da Ye like this?
 
 0:05:37,600 --> 0:05:41,100
 # 今天我们来盘点一下颜值担当孙立新
-Let’s now talk about handsom Sun Li Xin (Er Bai)
+Let’s now talk about handsome Sun Lixin (Er Bai)
 
 0:05:42,120 --> 0:05:43,540
 # 他沉迷诗歌
@@ -612,9 +612,11 @@ He loves poetry
 
 0:05:43,540 --> 0:05:47,060
 # 爹娘深深的系着我的爱恋
+(Reading a poem)
 
 0:05:47,720 --> 0:05:50,120
 # 期待着如期般的守望
+(Reading a poem)
 
 0:05:50,840 --> 0:05:51,980
 # 他金句频频
@@ -630,7 +632,7 @@ Let us, chefs to warm the world
 
 0:05:58,140 --> 0:05:59,220
 # 他多才多艺
-He is versatil
+He is versatile
 
 0:05:59,520 --> 0:06:01,020
 # 我还学过织毛衣呢
