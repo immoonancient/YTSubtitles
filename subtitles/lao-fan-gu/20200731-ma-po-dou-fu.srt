@@ -12,10 +12,12 @@
 # 片尾大爷和二伯接着教小友们用醋，醋的篇章说完了，老饭骨叨叨叨下节课小友们想听点什么呢？
 
 # Hello friends, this is a highly requested video.
-# ErBai has taught how to cook MapoTofu and Youtiao creatively, if you haven't checked that already, it's here ▶▶▶https://youtu.be/8d2F9vBASxo
-# This time, DaYe will show you how to do it at home, while speaking the Sichuan accent and using the traditional
+# Er Bai has taught how to cook Mapo Tofu and Youtiao creatively, if you haven't checked that already, it's here ▶▶▶https://youtu.be/8d2F9vBASxo
+# This time, Da Ye will show you how to do it at home, while speaking the Sichuan accent and using the traditional
 # PiXian broad bean paste. What can possibly go wrong?
-# In the end, DaYe and ErBai continue their talk on Chinese vinegar, and that concludes the chapter on vinegar, what do you want to lean next?
+# In the end, Da Ye and Er Bai continue their talk on Chinese vinegar, and that concludes the chapter on vinegar, what do you want to learn next?
+
+# import intro
 
 # 字幕
 
@@ -47,7 +49,7 @@ fully of umami and warm,
 6
 00:00:08,040 --> 00:00:10,520
 # 川菜的老菜 麻婆豆腐
-An old traditional Sichuan dish, MapoTofu
+An old traditional Sichuan dish, Mapo Tofu
 
 7
 00:00:13,280 --> 00:00:16,160
@@ -82,12 +84,12 @@ Slice the top layer from the Tofu
 13
 00:00:30,560 --> 00:00:34,600
 # 今天这个豆腐 就买的是嫩豆腐
-We bought the tender tofu today
+We bought the soft tofu today
 
 14
 00:00:34,600 --> 00:00:37,320
 # 这烧的麻婆豆腐才好吃呢 对
-That's what makes the MapoTofu tasty (bingo)
+- That's what makes the Mapo Tofu tasty - Right.
 
 15
 00:00:37,320 --> 00:00:41,120
@@ -102,7 +104,7 @@ Some boiling water and a pinch of salt
 17
 00:00:43,480 --> 00:00:46,640
 # 这个放盐呢 就是要让豆腐通过加热
-The salt helps reducing the gaminess
+The salt helps reducing the unpleasant taste
 
 18
 00:00:46,640 --> 00:00:51,560
@@ -117,7 +119,7 @@ So that the tofu won't break easily. Now leave it, don't stir
 20
 00:00:55,000 --> 00:00:57,320
 # 像老豆腐 换一遍到两遍水
-For aged tofu, you need to blanch it in fresh water twice
+For hard tofu, you need to blanch it in fresh water twice
 
 21
 00:00:57,320 --> 00:00:59,240
@@ -187,12 +189,12 @@ Alrighty, the Sichuan peppercorn is cooled
 34
 00:01:29,520 --> 00:01:33,400
 # 做椒盐儿啊 花椒面啊
-You have to toast the peppercorn fresh, when making pepper-salt and ground pepper
+If you are making pepper-salt or ground pepper,
 
 35
 00:01:33,400 --> 00:01:34,680
 # 都是要现焙 香
-You have to toast the peppercorn fresh, when making pepper-salt and ground pepper
+You have to toast the peppercorn when you need, more fragrant. 
 
 36
 00:01:36,760 --> 00:01:40,720
@@ -227,12 +229,12 @@ Let's do some condiments
 42
 00:01:51,840 --> 00:01:54,800
 # 你像二伯做宫保鸡丁
-Like the Kung-pao chicken ErBai made,
+Like the Kung-pao chicken Er Bai made,
 
 43
 00:01:54,800 --> 00:01:57,680
 # 那切的是大葱花 这叫小葱花
-he diced the leek larger, we dice it finer this time
+he diced the green onion larger, we dice it finer this time
 
 44
 00:01:59,880 --> 00:02:04,680
@@ -267,12 +269,12 @@ Garlic sprouts, done.
 50
 00:02:17,160 --> 00:02:19,920
 # 可以开火了
-It's ready to roll!
+It's ready to cook!
 
 51
 00:02:21,000 --> 00:02:25,320
 # 多倒点 花生油 剁好的牛肉末
-In with oil, and minced beef
+Add generous amount of oil, and minced beef
 
 52
 00:02:25,320 --> 00:02:30,200
@@ -287,7 +289,7 @@ You have to cook the bean paste thoroughly, cook it until crunchy and fragrant
 54
 00:02:40,280 --> 00:02:41,440
 # 下葱姜小料
-In with scallion and ginger
+add in the scallion and ginger
 
 55
 00:02:47,680 --> 00:02:48,880
@@ -317,7 +319,7 @@ Some add the ground chili when finishing
 60
 00:02:58,960 --> 00:03:02,720
 # 那就不对了 一定把这香气给放出来
-that's very incorrect. Add it now will let it release its flavour better
+that's incorrect. Add it now will let it release its flavour better
 
 61
 00:03:02,720 --> 00:03:04,320
@@ -357,7 +359,7 @@ A bit of sugar though. (you can really smell it now)
 68
 00:03:28,280 --> 00:03:32,600
 # 再早啊 做麻婆豆腐不搁糖
-In earlier times, you don't add sugar making MapoTofu
+In earlier times, you don't add sugar making Mapo Tofu
 
 69
 00:03:32,600 --> 00:03:34,440
@@ -387,12 +389,12 @@ Now, tofu in
 74
 00:03:46,600 --> 00:03:51,000
 # 这个时候呢 我们为了让这个味道更加柔
-To make the dish taste more balanced and coherent from bottom up,
+To make the taste of this dish more round,
 
 75
 00:03:51,000 --> 00:03:55,160
 # 从上到底 都能吃出这个味道是统一的味道
-To make the dish taste more balanced and coherent from bottom up,
+more balanced and coherent from bottom up,
 
 76
 00:03:55,160 --> 00:03:56,840
@@ -402,12 +404,12 @@ We put in part of the ground Sichuan pepper now
 77
 00:03:56,840 --> 00:03:59,640
 # 可以提前烧 提前搁里边一部分
-Give it some head start
+can put some first
 
 78
 00:03:59,640 --> 00:04:02,680
 # 因为我们先吃 先麻啊
-
+because we can feel the numbness 
 79
 00:04:02,680 --> 00:04:05,040
 # 最后出锅的时候还要撒
@@ -481,7 +483,7 @@ There basically are two ways this dish is presented:
 93
 00:04:53,600 --> 00:04:55,200
 # 一种是汁儿大的
-one is wee bit saucy,
+one is with more sauce. 
 
 94
 00:04:55,200 --> 00:04:59,040
@@ -491,7 +493,7 @@ let's do that today, saucy kind
 95
 00:04:59,040 --> 00:05:02,120
 # 还有一种是窄汁的 有的是用砂锅上的
-another kind is a bit less sauce, presented in a clay pot, or on a dish
+another kind is with less sauce, presented in a clay pot, or on a dish
 
 96
 00:05:02,120 --> 00:05:04,160
@@ -516,7 +518,7 @@ Same with this, two steps
 100
 00:05:17,840 --> 00:05:19,520
 # 这就行了 出锅
-That's ready now, out goes the MapoTofu
+That's ready now, out goes the Mapo Tofu
 
 101
 00:05:19,520 --> 00:05:24,360
@@ -551,7 +553,7 @@ Remember we put some in earlier? Just evenly spread it on top.
 107
 00:05:45,160 --> 00:05:48,200
 # 二伯 这都是VIP待遇
-That's VIP service for Erbar there
+That's VIP service for Er Bai
 
 108
 00:05:48,200 --> 00:05:49,640
@@ -581,12 +583,12 @@ The flavours were blended so nicely.
 113
 00:06:12,360 --> 00:06:14,480
 # 真的大爷 这不是表扬你
-Not to praise you my man, it's really, really good
+Really Da Ye! Not flattering you. 
 
 114
 00:06:14,480 --> 00:06:15,960
 # 这做的真的好
-Not to praise you my man, it's really, really good
+It's really, really good
 
 115
 00:06:15,960 --> 00:06:17,280
@@ -594,7 +596,7 @@ Not to praise you my man, it's really, really good
 116
 00:06:24,280 --> 00:06:25,800
 # 有网友请大爷二伯
-Some of you asked DaYe and ErBai
+Some of you asked Da Ye and Er Bai
 
 117
 00:06:25,800 --> 00:06:27,360
@@ -694,22 +696,22 @@ like Beijing dishes using Beijing's rice wine vinegar
 136
 00:06:55,640 --> 00:06:57,480
 # 你要做乌鱼蛋汤
-You got to use Beijing's rice wine vinegar when making the Wuyu fish soup with egg.
+when making the Wuyu fish soup with egg,
 
 137
 00:06:57,480 --> 00:06:58,440
 # 必须得是使米醋
-You got to use Beijing's rice wine vinegar when making the Wuyu fish soup with egg.
+You have to use Beijing's rice wine vinegar.
 
 138
 00:06:58,440 --> 00:06:59,840
 # 虽说香醋什么的
-Although those other vinegars have more fragrance, and taste
+Although those other vinegars
 
 139
 00:06:59,840 --> 00:07:00,520
 # 味道很好
-Although those other vinegars have more fragrance, and taste
+have more fragrance, and taste
 
 140
 00:07:00,520 --> 00:07:02,560
@@ -719,37 +721,37 @@ they are also a bit too overwhelming.
 141
 00:07:02,560 --> 00:07:04,800
 # 它就不能使这些东西
-So they cannot be used in dishes like sweet-sour fish
+So they cannot be used in dishes
 
 142
 00:07:04,800 --> 00:07:05,720
 # 包括做糖醋鱼
-So they cannot be used in dishes like sweet-sour fish
+including sweet-sour fish
 
 143
 00:07:05,720 --> 00:07:06,640
 # 可以用米醋
-You can use rice wine vinegar, or white vinegar
+You can use rice wine vinegar
 
 144
 00:07:06,640 --> 00:07:07,760
 # 也可以用白醋
-You can use rice wine vinegar, or white vinegar
+ or white vinegar
 
 145
 00:07:07,760 --> 00:07:09,840
 # 但是绝不能用颜色深的醋
-But don't use dark-colored kinds.
+But you shouldn't use dark-colored kinds.
 
 146
 00:07:09,840 --> 00:07:11,640
 # 你比如说像杭州菜的
-For example in Hangzhou dishes (a city near Shanghai)
+For example some Hangzhou dishes
 
 147
 00:07:11,640 --> 00:07:12,520
 # 西湖醋鱼
-West-lake vinaigrette fish,
+West Lake Fish in Vinegar Gravy
 
 148
 00:07:12,520 --> 00:07:13,960
@@ -759,7 +761,7 @@ you can use vinegars like Zhengjiang vinegar
 149
 00:07:13,960 --> 00:07:15,000
 # 镇江香醋
-you can use vinegars like Zhengjiang vinegar
+ Zhengjiang vinegar
 
 150
 00:07:15,000 --> 00:07:16,880
@@ -769,17 +771,17 @@ But in recent years chefs have changed,
 151
 00:07:16,880 --> 00:07:17,400
 # 人家不在用
-They no longer use Zhengjiang vinegar
+They no longer use
 
 152
 00:07:17,400 --> 00:07:18,680
 # 镇江香醋
-They no longer use Zhengjiang vinegar
+Zhengjiang vinegar
 
 153
 00:07:18,680 --> 00:07:20,400
 # 人家还为了柔和颜色
-They mix Zhengjiang vinegar and rice wine vinegar
+To make the color more soft,
 
 154
 00:07:20,400 --> 00:07:23,040
@@ -789,47 +791,47 @@ to create a specific taste and color.
 155
 00:07:23,040 --> 00:07:25,400
 # 他还跟镇江香醋和米醋
-to create a specific taste and color.
+They use Zhengjiang vinegar and rice wine vinegar
 
 156
 00:07:25,400 --> 00:07:26,840
 # 两种醋
-to create a specific taste and color.
+two types of vinegars
 
 157
 00:07:26,840 --> 00:07:28,360
 # 调和得出来
-to create a specific taste and color.
+to mix and make the sauce.
 
 158
 00:07:28,360 --> 00:07:29,480
 # 西湖醋鱼
-Making the West-lake vinaigrette fish taste even better.
+The changes made West Lake Fish in Vinegar Gravy
 
 159
 00:07:29,480 --> 00:07:31,000
 # 所以这味道就更好
-Making the West-lake vinaigrette fish taste even better.
+taste even better.
 
 160
 00:07:31,000 --> 00:07:31,920
 # 所以说这个东西
-It all boils down to the fact that Chinese culture is quite regional,
+It all boils down to the fact that
 
 161
 00:07:31,920 --> 00:07:32,480
 # 就是说
-It all boils down to the fact that Chinese culture is quite regional,
+that is to say
 
 162
 00:07:32,480 --> 00:07:33,760
 # 就说我们中国文化
-It all boils down to the fact that Chinese culture is quite regional,
+Our Chinese culture
 
 163
 00:07:33,760 --> 00:07:35,440
 # 还是区域地域文化
-It all boils down to the fact that Chinese culture is quite regional,
+is quite regional,
 
 164
 00:07:35,440 --> 00:07:36,080
@@ -839,27 +841,27 @@ Right
 165
 00:07:36,080 --> 00:07:37,080
 # 每个地域的东西
-The eating habit depends quite heavily on the region
+Different region 
 
 166
 00:07:37,080 --> 00:07:38,960
 # 喜欢吃它喜欢的东西
-The eating habit depends quite heavily on the region
+like to have what they like.
 
 167
 00:07:38,960 --> 00:07:39,960
 # 但是总的来说
-But to summarize, if the dish is dark in color
+But to summarize
 
 168
 00:07:39,960 --> 00:07:41,440
 # 颜色重的
-But to summarize, if the dish is dark in color
+if the dish is dark in color
 
 169
 00:07:41,440 --> 00:07:41,880
 # 是吧
-But to summarize, if the dish is dark in color
+right?
 
 170
 00:07:41,880 --> 00:07:45,000
@@ -869,32 +871,32 @@ you use a darker-colored vinegar.
 171
 00:07:45,000 --> 00:07:46,560
 # 有的是增香的
-Some enhances its fragrance, while some adds umami
+Some enhances its fragrance
 
 172
 00:07:46,560 --> 00:07:47,480
 # 有的是提鲜的
-Some enhances its fragrance, while some adds umami
+ while some adds umami
 
 173
 00:07:47,480 --> 00:07:48,200
 # 你看香醋
-The fragrant kind is there for the specific taste.
+See fragrant vinegars, 
 
 174
 00:07:48,200 --> 00:07:48,800
 # 他就是香
-The fragrant kind is there for the specific taste.
+it is fragrant.
 
 175
 00:07:48,800 --> 00:07:50,760
 # 米醋香度就不够
-Rice wine vinegar is just lacking that, because it just adds acidity
+Rice wine vinegar is just lacking that fragrance.
 
 176
 00:07:50,760 --> 00:07:52,360
 # 他只是提的酸味
-Rice wine vinegar is just lacking that, because it just adds acidity
+ it just adds acidity
 
 177
 00:07:52,360 --> 00:07:54,960
@@ -919,12 +921,12 @@ Rice wine vinegar, that's all you can use.
 181
 00:08:00,800 --> 00:08:01,320
 # 其它醋
-If you use other kinds,
+other kinds,
 
 182
 00:08:01,320 --> 00:08:02,280
 # 烹上以后
-If you use other kinds,
+If you use them,
 
 183
 00:08:02,280 --> 00:08:04,080
@@ -934,7 +936,7 @@ you either have too dark color,
 184
 00:08:04,080 --> 00:08:04,760
 # 二一个是味儿太重
-or it's too punchy.
+or it's too strong.
 
 185
 00:08:04,760 --> 00:08:05,360
