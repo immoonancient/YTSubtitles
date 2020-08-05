@@ -1,7 +1,7 @@
 # https://youtu.be/UE7p_n7kYHc
 
 # 国宴大师•胎菊绿豆爽】败火解暑小甜饮——胎菊绿豆爽！细腻丝滑、香甜柔和，夏季养生就靠它！拔丝的制作方法|老饭骨
-# [State Banquet Master Chef - Mung bean soup seasoned with chrysanthemum] A seasonal sweet drink good for heatiness! Fine and silky, fragrant and sweet. All you need to preserve good health in summer  + How to make syrup coating dish | Lao Fan Gu
+# State Banquet Master Chef - Mung bean soup seasoned with chrysanthemum. 
 
 # 小友們好！夏日炎炎，老飯骨為大傢伙兒準備了一道敗火解暑的小甜飲——胎菊綠豆爽。
 # 這道甜飲做法簡單，口感絲滑細膩，還有著香甜的菊花味兒。
@@ -9,9 +9,11 @@
 # 夏天要來上這麼一碗，沁心涼，過癮！
 # 片尾還有拔絲的製作方法，想知道如何做好拔絲，小友們可一定要記得觀看！
 
-# Hi Friends! The sun is glaring and the weather is getting hot. Lao Fan Gu have prepared a seasonal sweet drink that can ease the heatiness for everyone - Mung bean soup seasoned with chrysanthemum. It is simple to make, fine and silky and it has the sweet aroma of chrysanthemum.
-# This dish does not only taste good, but also aids to ease the heatiness. Back in 2003 when Da Ye was at Xiao Tangshan, he will have a bowl of mung bean congee each day. If you have a bowl of this during summer, it will cool your whole body down and will be very satisfying.
-# At the end of the video there will be methods on how to make any syrup coating dish. If you want to know how to make syrup coating dishes properly, please remember to give it a watch!
+# Hello Friends! The sun is glaring and the weather is getting hot. Lao Fan Gu prepare a seasonal sweet drink that can make you feel cool and ease - Mung bean soup seasoned with chrysanthemum. It is simple to make, fine and silky and it has the sweet aroma of chrysanthemum.
+# This dish does not only taste good, but also aids to ease the heatiness. Back in 2003, when Da Ye was at Xiao Tangshan Hospital, he had a bowl of mung bean congee every day. If you have a bowl of this during summer, you can feel it cool your whole body down and very satisfied.
+# At the end of the video, we discuss the method on how to make candied-shell dish. If you want to know how to make it properly, please remember to watch it!
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:03,560
@@ -29,12 +31,12 @@ Mung bean soup seasoned with chrysanthemum
 4
 00:00:14,440 --> 00:00:17,400
 # 绿豆头天晚上搁冰箱里边泡了一宿
-Those mung beans have been in the fridge soaking in water since last night
+We have soaked those mung bean in the fridge for a night 
 
 5
 00:00:17,400 --> 00:00:20,320
 # 天儿热（不放冰箱）容易变质 就麻烦了
-Mung beans can go bad quite easily in hot weathers, there will be trouble if it is not place in the fridge while rehydrating
+(If you didn't put it in the fridge), Mung beans can go bad quite easily in the hot weather.
 
 6
 00:00:20,320 --> 00:00:22,040
@@ -49,17 +51,17 @@ You picked some real good ingredients today
 8
 00:00:24,480 --> 00:00:27,240
 # 让人家心情静下来 你知为什么
-It can give people a calm and relaxing mood after consuming, do you know why?
+It can make people feel calm and relaxed. Do you know why?
 
 9
 00:00:27,240 --> 00:00:29,160
 # 03年我 在小汤山的时候
-When I was at Xiao Tangshan back in 2003
+In 2003, when I worked in the Xiao Tangshan (Hospital),
 
 10
 00:00:29,160 --> 00:00:31,960
 # 每天要喝一顿绿豆粥 解毒
-I will drink some mung bean congee every day to cleanse my body
+I drank some mung bean congee every day, to refresh my body
 
 11
 00:00:31,960 --> 00:00:34,720
@@ -69,7 +71,7 @@ The water is boiling now, pour in all the hydrated mung beans
 12
 00:00:34,720 --> 00:00:36,480
 # 我看您那儿还放着碱面呢
-I see you have some cooking soda there
+I see you have some soda ash here
 
 13
 00:00:36,480 --> 00:00:37,800
@@ -84,7 +86,7 @@ Let’s put some in
 15
 00:00:38,760 --> 00:00:41,040
 # 大爷就是大爷
-Got to listen to Da Ye’s suggestions, he is experienced
+Da Ye is experienced!
 
 16
 00:00:41,040 --> 00:00:43,360
@@ -94,12 +96,12 @@ Actually, if you add a little soda when cooking mung beans
 17
 00:00:43,360 --> 00:00:46,240
 # 它出来的颜色也漂亮
-It gives the mung bean a prettier colour
+the color of the soup will be prettier.
 
 18
 00:00:46,240 --> 00:00:49,000
 # 也别太多 就是两克到三克
-you do not need too much, 2-3 grams should do the trick
+you do not need too much, 2-3 grams is enough
 
 19
 00:00:49,400 --> 00:00:51,440
@@ -109,17 +111,17 @@ Now place the lid on
 20
 00:00:51,440 --> 00:00:53,080
 # 前两期节目我说过这个
-I discussed about this 2 shows ago
+I talked about this techniques in the past shows
 
 21
 00:00:53,080 --> 00:00:56,280
 # 比如熬一锅粥 先放少半锅水
-For example, if you are making a pot of congee, you should start with less than half of a pot of water
+For example, if you are making a pot of congee, you should start with less than half pot of water
 
 22
 00:00:56,280 --> 00:00:59,120
 # 火还不能开太大 给它一个加热时间
-Also make sure the heat is not too high, you want to give it some time to come up to temperature
+Also make sure the heat is not too high, hence it takes some time to heat up
 
 23
 00:00:59,120 --> 00:01:01,920
@@ -129,7 +131,7 @@ Add a little bit of cold water into the pot as soon as it starts to boil
 24
 00:01:01,920 --> 00:01:05,520
 # 通过热胀冷缩 这豆很快就开花
-Because heat expand and cold contracts, this will allow the beans to burst from its skin very quickly
+Because the thermal expansion and contraction, the beans can be cooked in a very short time.
 
 25
 00:01:05,520 --> 00:01:08,440
@@ -139,17 +141,17 @@ It is starting to boil now, let’s add a little bit of cold water
 26
 00:01:08,440 --> 00:01:11,160
 # 火可以关小一点 让它慢慢开
-You can turn the heat lower, let it boil gently
+Turn the heat down, let it boil gently
 
 27
 00:01:11,160 --> 00:01:13,240
 # 我看有点发浑了
-I can see that the water is getting a bit cloudy now
+I can see that the water is getting cloudy now
 
 28
 00:01:13,240 --> 00:01:15,640
 # 说明这豆有开嘴儿的了
-This means some mung beans is starting to burst from their skins
+This means some beans are bursting from their skins
 
 29
 00:01:15,640 --> 00:01:17,280
@@ -159,17 +161,17 @@ Just let it boil, don’t rush
 30
 00:01:17,280 --> 00:01:23,760
 # 刚强来 掀锅 又加一次 这就差不多了
-Gangqiang, open the lid and add some cold water again, this should do it
+Gangqiang, open the lid and add some cold water again. That will do.
 
 31
 00:01:23,760 --> 00:01:26,040
 # 开锅喽 再看看
-The mung beans are cooked, have a look
+The mung beans are cooked, take a look
 
 32
 00:01:26,040 --> 00:01:29,640
 # 这汤留着 冰镇一下多棒 你看开花了
-You can keep the poaching liquid, chill it in the fridge and it will be delicious. Look at how the beans burst from their skins
+You can keep the soup, chill it in the fridge and it will be delicious. See, the beans are bursting from their skins
 
 33
 00:01:29,640 --> 00:01:30,480
@@ -177,17 +179,17 @@ You can keep the poaching liquid, chill it in the fridge and it will be deliciou
 34
 00:01:31,320 --> 00:01:33,040
 # 先把豆捞出来
-Darin out the mung beans first
+Strain the mung beans first
 
 35
 00:01:33,040 --> 00:01:36,480
 # 原汤还得留着 你看全张嘴了
-We need to keep the poaching liquid. Look, all the beans burst from their skins
+Keep the bean soup. Look, all the beans burst from their skins
 
 36
 00:01:36,480 --> 00:01:39,040
 # 咱为了提高速度（过凉水）
-For time purposes we are running the beans under cold water
+To save some time, we are running the beans under cold water
 
 37
 00:01:39,040 --> 00:01:40,920
@@ -202,12 +204,12 @@ You can add white rock sugar now, let it melt on its own
 39
 00:01:43,440 --> 00:01:45,000
 # 这水就不要了大爷
-Da Ye we don’t need to add extra water into the blender
+Da Ye, we don’t need to add water into the blender
 
 40
 00:01:45,000 --> 00:01:47,560
 # 少来 要不你转不起来
-Just add a little touch, otherwise the blender will have a hard time blending.
+You need some, otherwise it is hard to blend.
 
 41
 00:01:47,560 --> 00:01:49,280
@@ -215,17 +217,17 @@ Just add a little touch, otherwise the blender will have a hard time blending.
 42
 00:01:49,280 --> 00:01:52,960
 # 倒出一盆里头 一会胎菊水搁进去 真棒
-Place the puree into a big bowl, we will add the chrysanthemum water later, it will be extraordinary
+Pour the puree into a big bowl, we will add the chrysanthemum water later. Great!
 
 43
 00:01:52,960 --> 00:01:54,680
 # 好过箩
-Ok, lets pass the puree through the sieve
+Ok, let's sieve the puree. 
 
 44
 00:01:54,680 --> 00:01:56,800
 # 为什么这可以用手你知道吗
-Do you know why we can use our hands for this?
+Do you know why we can use our hands here?
 
 45
 00:01:56,800 --> 00:01:58,520
@@ -235,12 +237,12 @@ Because we are going to heat this up again
 46
 00:01:58,520 --> 00:02:01,960
 # 这可千万别倒 擓两勺熬粥 千万别糟蹋
-Do not through this away (thick mung bean paste), you can add two spoons of this when making porridge, please don’t waste it
+Do not throw this away (thick mung bean paste), you can add two spoons of this when making porridge. Don’t waste it
 
 47
 00:02:01,960 --> 00:02:03,320
 # 你要是不放冰箱也行
-It is alright if you don’t put this (thick mung bean paste) inside a fridge
+It is alright to leave it outside.
 
 48
 00:02:03,320 --> 00:02:07,440
@@ -250,7 +252,7 @@ Let it sit in room temperature for 3 days and you will have fermented bean dregs
 49
 00:02:07,440 --> 00:02:09,040
 # 绝对是好东西 真的
-This is some really good stuff
+That is really good! - True!
 
 50
 00:02:10,480 --> 00:02:11,760
@@ -265,22 +267,22 @@ Da Ye look, chrysanthemum water
 52
 00:02:14,160 --> 00:02:15,400
 # 大爷都搁里了啊
-Da Ye poured all of it into the wok
+Da Ye, pour them all in the wok
 
 53
 00:02:15,400 --> 00:02:19,120
 # 过出这绿豆沙来 下锅还要勾一点芡
-After adding the sieved mung bean puree, we still need to add some slurry
+After adding the sieved mung bean puree, we still need some slurry
 
 54
 00:02:19,120 --> 00:02:21,240
 # 搁点淀粉或者糯米粉
-Add some starch or sticky rice powder
+Add some starch or sticky rice flour
 
 55
 00:02:21,240 --> 00:02:24,960
 # 不勾芡不行 它沉底儿 融不了
-Adding slurry is a must, otherwise all the solid will sink to the bottom and will not mix well together
+You have to add the slurry, to prevent the solid sinking to the bottom and not mixed evenly.
 
 56
 00:02:24,960 --> 00:02:28,120
@@ -288,7 +290,7 @@ Adding slurry is a must, otherwise all the solid will sink to the bottom and wil
 57
 00:02:28,120 --> 00:02:30,280
 # 藕粉糯米粉都行
-Lotus root powder and stick rice powder both works
+Both Lotus root starch and stick rice flour works here.
 
 58
 00:02:30,280 --> 00:02:32,440
@@ -298,27 +300,27 @@ Stir until the soup is at a similar consistency as rice congee
 59
 00:02:32,440 --> 00:02:36,160
 # 这种喝起来就比较柔 比较爽
-This kind of consistency is very silky when drinking, very refreshing
+This kind of consistency is smooth and make you feel refreshed
 
 60
 00:02:36,160 --> 00:02:38,240
 # 当我们要冷冻（冷藏）了以后
-If we decide refrigerate this
+After it is refrigerated,
 
 61
 00:02:38,240 --> 00:02:40,440
 # 它比现在还要稠一些
-Its consistency will be a bit thicker
+It will be thicker than this.
 
 62
 00:02:40,440 --> 00:02:44,600
 # 藕粉 菱角粉 马蹄粉 糯米粉
-Lotus root powder, water caltrop powder, water chestnut powder, sticky rice powder
+Lotus root powder, water caltrop powder, water chestnut powder, sweet rice flour
 
 63
 00:02:44,600 --> 00:02:46,320
 # 家里有什么都行
-Use whatever you got at home
+Use whatever you have in home
 
 64
 00:02:46,320 --> 00:02:48,200
@@ -352,7 +354,7 @@ Mung bean soup seasoned with chrysanthemum
 71
 00:03:06,040 --> 00:03:07,920
 # 大爷您尝尝
-Da Ye, please have a taste
+Da Ye, give it a try
 
 72
 00:03:07,920 --> 00:03:15,480
@@ -386,7 +388,6 @@ Drink this will help everyone to ease their heatiness
 Ease the heatiness, Cleansing the body
 
 79
-00:03:24,960 --> 00:00:02,000
 
 80
 00:03:34,720 --> 00:03:37,480
@@ -396,17 +397,17 @@ Before making any syrup coating dish
 81
 00:03:37,480 --> 00:03:39,640
 # 要把原材料都炸好
-All the ingredients need to be pre-fried
+All the ingredients need to be fried first
 
 82
 00:03:39,640 --> 00:03:40,920
 # 炸成半成品
-Fried until it is semi-finished
+Fried till it is cooked,  
 
 83
 00:03:40,920 --> 00:03:42,360
 # 就先定型
-so its shape is fixed
+and the shape is fixed
 
 84
 00:03:42,360 --> 00:03:44,640
@@ -426,17 +427,17 @@ When the sugar in the pan is fully melted
 87
 00:03:48,880 --> 00:03:52,840
 # 然后把该炸的原料二次复炸
-Start the second frying of the ingredients
+Fry the ingredient the second time
 
 88
 00:03:52,840 --> 00:03:53,880
 # （复）炸完以后
-After the ingredients are done frying for the second time
+After it is done, 
 
 89
 00:03:53,880 --> 00:03:54,960
 # 这糖色还没炒（好）呢
-The sugar will still not yet be fully caramelized
+The sugar is still not fully caramelized
 
 90
 00:03:54,960 --> 00:03:56,400
@@ -456,22 +457,22 @@ Quickly add the ingredients to the wok with caramelized sugar
 93
 00:04:03,720 --> 00:04:06,160
 # 翻锅的时候要离火
-Make sure the wok is not in contact with any heat when tossing
+Take the wok off the heat while tossing. 
 
 94
 00:04:06,160 --> 00:04:08,160
 # 一点一点翻
-Toss the wok little by little
+Toss the wok slowly, one by one
 
 95
 00:04:08,160 --> 00:04:10,160
 # 不能翻完了翻匀了
-You cannot stop tossing even when all the ingredients are evenly coated with syrup
+You cannot stop tossing even when all the ingredients are coated evenly 
 
 96
 00:04:10,160 --> 00:04:10,880
 # 就倒入盘里了也不行
-Do not put it into the plate immediately as well
+You cannot put it into the plate as well
 
 97
 00:04:10,880 --> 00:04:12,120
@@ -481,17 +482,17 @@ Keep tossing
 98
 00:04:12,120 --> 00:04:13,280
 # 让他降低温度
-Let the ingredients cool down a little in the wok
+To cool it down
 
 99
 00:04:13,280 --> 00:04:17,760
 # 然后锅底下糖逐渐都包裹在原料上
-so all the syrup that are at the bottom of the wok covers the ingredient gradually and evenly
+and let the caramelized sugar in the bottom slowly cover the ingredients
 
 100
 00:04:17,760 --> 00:04:19,280
 # 这个时候再出盘
-Only plate when you reach this stage
+when you reach this stage, you can take it out and plate
 
 101
 00:04:19,280 --> 00:04:20,600
@@ -501,12 +502,12 @@ If you plate too early
 102
 00:04:20,600 --> 00:04:21,800
 # 装到盘里了
-As soon as the ingredients goes onto the plate
+When you put them in the plate,
 
 103
 00:04:21,800 --> 00:04:23,240
 # 那糖全留到盘底下去了
-the syrup will run down from the ingredients and settle all on to the plate
+the caramelized sugar is running down to the bottom
 
 104
 00:04:23,240 --> 00:04:25,160
@@ -546,10 +547,9 @@ The purpose of cooling it down
 111
 00:04:32,920 --> 00:04:34,920
 # 让糖均匀的裹在原料上
-Is to let the sugar settles on to the ingredient more evenly
+Is to make the sugar more evenly coated.
 
 112
 00:04:34,920 --> 00:04:37,280
 # 出来的效果就更好一些
-So the end result would be better
-
+to get better result.
