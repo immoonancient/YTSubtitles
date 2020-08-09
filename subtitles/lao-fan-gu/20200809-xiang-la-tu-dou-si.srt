@@ -1,9 +1,10 @@
 # https://youtu.be/YFE6_MR5VP4
 
-# [老飯骨] 香辣土豆丝 -https://youtu.be/YFE6_MR5VP4 #1352
-
+# 标题
 # 【国宴大师•香辣土豆丝】咸香酥脆，香辣土豆丝也能做出国宴的味道！家常易学，用料超简单！炒糖色|老饭骨
 # [State Banquet Master Chef: aromatic and spicy shredded potato] Salty, aromatic and crispy, the taste from the state banquet! Super simple ingredients and easy to learn! (learn making caramelized sugar in the end)
+
+# 简介
 
 # 小友们好，老饭骨今天带给大家一道特别简单的家常菜——香辣土豆丝。
 # 大家可别小瞧了这土豆丝，把家常菜做好了，也能上国宴！
@@ -15,6 +16,8 @@
 # The ingredients are very simple, and can be easily found at home, so we strongly recommend to have a try!
 # Don’t forget to upload your homework to our WeChat and Facebook accounts! Da Ye and Er Bai have collected lots of homeworks from our friends. Very appreciated to your support -- maybe your homework would show up in our next video!
 # At the end of this video, Da Ye also introduces the common sense to make caramelized sugar. It's worth your concern!
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:01,880
