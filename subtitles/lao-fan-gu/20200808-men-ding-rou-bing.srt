@@ -45,7 +45,7 @@ What a wonderful feeling that is!
 7
 00:00:11,440 --> 00:00:12,280
 # 宋军 干爹干爹
-Jun Song! Honorary father!
+Song Jun! - Honorary father!
 
 8
 00:00:12,360 --> 00:00:13,480
@@ -405,7 +405,7 @@ Look at this piece of beef
 79
 00:01:59,440 --> 00:02:01,000
 # 吃到嘴里一点水汽没有
-When you eat the meat filling made from it, no excess moisture will remain
+you will not feel moist when you eat it.
 
 80
 00:02:01,000 --> 00:02:02,320
@@ -500,7 +500,7 @@ Also, we only need to mince it to medium rough
 98
 00:02:27,160 --> 00:02:29,000
 # 中粗它有嚼劲儿
-Medium rough makes the final meat filling al dente, tenderly chewy
+This makes the filling al dente
 
 99
 00:02:29,040 --> 00:02:30,200
