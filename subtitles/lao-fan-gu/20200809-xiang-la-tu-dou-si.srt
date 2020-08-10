@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•香辣土豆丝】咸香酥脆，香辣土豆丝也能做出国宴的味道！家常易学，用料超简单！炒糖色|老饭骨
-# [State Banquet Master Chef: aromatic and spicy shredded potato] Salty, aromatic and crispy, the taste from the state banquet! Super simple ingredients and easy to learn! (learn making caramelized sugar in the end)
+# State Banquet Master Chef - aromatic and spicy shredded potato. Simple and easy!
 
 # 简介
 
@@ -12,10 +12,10 @@
 # 不要忘了来“老饭骨”公众号和Facebook交作业咯！大爷和二伯已经收集了很多大家伙的作品了，感谢小友们对老饭骨的支持，说不定你的作品就出现在下支视频里了！
 # 片尾大爷还给大家带来炒糖色的一些小常识，记得关注哦！
 # Hello friends, today we introduce a super simple homestyle dish -- aromatic and spicy shredded potatoes.
-# Don’t look down on shredded potato, because it can also show up in the state banquet if well cooked!
-# The ingredients are very simple, and can be easily found at home, so we strongly recommend to have a try!
-# Don’t forget to upload your homework to our WeChat and Facebook accounts! Da Ye and Er Bai have collected lots of homeworks from our friends. Very appreciated to your support -- maybe your homework would show up in our next video!
-# At the end of this video, Da Ye also introduces the common sense to make caramelized sugar. It's worth your concern!
+# Don’t look down on the shredded potato, because it can also show up in the state banquet if it is well cooked!
+# The ingredients are very simple, and can be easily found at home, so we strongly recommend you to give it a try!
+# Don’t forget to upload your homework to our WeChat and Facebook accounts! Da Ye and Er Bai have collected lots of homeworks from our friends. We appreciate your support very much -- maybe your homework will show up in our next video!
+# At the end of this video, Da Ye also explains how to make caramelized sugar. It's worth your attention!
 
 # import intro
 
@@ -27,7 +27,7 @@ When a foreign president (comes)
 2
 00:00:01,880 --> 00:00:05,280
 # 别给上牛扒 来盘土豆丝儿 吃美了
-Don’t serve steak, but instead shredded potato; that’s wonderful
+Don’t serve steak, but instead, serve this shredded potato; that’s wonderful
 
 3
 00:00:09,160 --> 00:00:10,640
@@ -67,12 +67,12 @@ The dish is more beautiful if we only use cilantro stems
 10
 00:00:23,280 --> 00:00:25,280
 # 来 咱们先炸点红油
-Okay, let’s cook some read chili oil first
+Okay, let’s cook some red chili oil first
 
 11
 00:00:25,280 --> 00:00:28,320
 # 第一步 葱的下脚料 炼点小葱油
-Firstly, the unused green onion parts, to make some onion oil
+Firstly, use the unused green onion parts, to make some onion oil
 
 12
 00:00:30,240 --> 00:00:34,320
@@ -97,7 +97,7 @@ Pour the hot oil on the chili powder
 16
 00:00:46,120 --> 00:00:49,080
 # 耗上 开始咱们准备炸土豆丝
-Let’s prepare for frying the shredded potatoes
+Let’s prepare to fry the shredded potatoes
 
 17
 00:00:50,040 --> 00:00:52,680
@@ -132,7 +132,7 @@ Because potatoes have too much starch inside
 23
 00:01:07,440 --> 00:01:09,960
 # 不漂水的话一会就上色了
-The color will be changed very soon if the potatoes have not has been washed
+The color will quickly turn brown if the potatoes have not been washed
 
 24
 00:01:09,960 --> 00:01:13,160
@@ -142,7 +142,7 @@ I have flushed them with water for about half an hour
 25
 00:01:13,160 --> 00:01:15,640
 # 在家为了省水换水也可以
-When at home,we could also wash them and change water several times to save water
+In order to save water at home, we could also wash and change water several times
 
 26
 00:01:15,640 --> 00:01:17,920
@@ -152,12 +152,12 @@ The oil temperature is eighty percent
 27
 00:01:17,920 --> 00:01:19,480
 # 在咱家的灶就是大火
-When cooking at home, we use large heat power
+When cooking at home, we use high heat
 
 28
 00:01:19,480 --> 00:01:21,800
 # 在饭店的时候就是小火 沁炸
-While in restaurant, we use small heat power
+While in restaurant, we use low heat
 
 29
 00:01:21,800 --> 00:01:24,040
@@ -177,7 +177,7 @@ Must use kitchen towel to absorb oil
 32
 00:01:28,400 --> 00:01:30,800
 # 看着油多 其实没那么多油
-The oil looks very much, but actually not
+The oil looks like a lot, but actually not
 
 33
 00:01:30,800 --> 00:01:33,280
@@ -202,7 +202,7 @@ Cilantro stems make the dish look more clean, while leaves is contrary
 37
 00:01:42,600 --> 00:01:44,760
 # 会影响菜的美观
-Will affect the beauty of the dish
+Will affect the presentation of the dish
 
 38
 00:01:44,760 --> 00:01:45,720
@@ -217,17 +217,17 @@ Okay
 40
 00:01:50,760 --> 00:01:54,800
 # 辣椒段 小火慢慢煸一下
-Chili segments, cook a little with low heat power
+Chili segments, cook a little with low heat
 
 41
 00:01:54,800 --> 00:01:56,360
 # 这会儿关火了开始
-Turn off heating
+Turn off the heat
 
 42
 00:01:56,360 --> 00:01:57,360
 # 关火一定关火
-Must turn off heating
+Must turn off the heat
 
 43
 00:01:59,400 --> 00:02:01,920
@@ -247,7 +247,7 @@ Salt, not enough, add a little more
 46
 00:02:08,720 --> 00:02:11,360
 # 为什么关火 开着火就糊了
-Why turn off heating? Otherwise the shredded potatoes will be burnt
+Why need to turn off the heat? Otherwise the shredded potatoes will be burnt
 
 47
 00:02:11,360 --> 00:02:13,480
@@ -282,12 +282,12 @@ Whether to add the red chilli oil now? Add it soon, master
 53
 00:02:28,160 --> 00:02:29,640
 # 搁吧现在
-Now add the red chilli oil
+Add it, now.
 
 54
 00:02:29,640 --> 00:02:32,400
 # 红油搁的时候咱得用一下篦子
-We need to use a fine-toothed comb
+We need to use a sieve
 
 55
 00:02:32,400 --> 00:02:34,720
@@ -302,7 +302,7 @@ Add cilantro, just mix them up to finish the cooking
 57
 00:02:42,880 --> 00:02:44,720
 # 这时候开一下大火
-Now use high heating power
+Now use the high heat
 
 58
 00:02:47,160 --> 00:02:48,440
@@ -312,17 +312,17 @@ Just toss the wok several times
 59
 00:02:48,440 --> 00:02:50,520
 # 香菜的味都出来了
-The smell of cilantro is out
+The aroma of cilantro is out
 
 60
 00:02:50,520 --> 00:02:53,560
 # 金黄色  这时候该关火了
-Golden color, now turn off the heating
+Golden color, now turn off the heat
 
 61
 00:02:53,560 --> 00:02:56,240
 # 撒上熟芝麻 刚才我炒的 出锅了
-Scatter the sesame I cooked just now, done
+Sprinkle the sesame I cooked just now, done
 
 62
 00:02:58,040 --> 00:02:59,680
@@ -332,7 +332,7 @@ Must get rid of the water
 63
 00:03:03,680 --> 00:03:05,320
 # 听着就酥脆
-Listen already crispy
+Listen, already crispy
 
 64
 00:03:05,320 --> 00:03:07,720
@@ -352,17 +352,17 @@ Look, it won’t collapse if we insert a chopstick
 67
 00:03:12,760 --> 00:03:15,480
 # 就跟盖房子似的 有根龙骨了
-Just like building a house, it has a keel
+Just like building a house, it has a joist 
 
 68
 00:03:16,120 --> 00:03:18,080
 # 这龙骨就是大爷
-Da Ye is the keel
+Da Ye is the joist
 
 69
 00:03:18,080 --> 00:03:20,440
 # 咱再轻轻的给拿下来
-Let’s take the keel away lightly
+Let’s take the chopstick away lightly
 
 70
 00:03:20,440 --> 00:03:22,520
@@ -402,7 +402,7 @@ An ordinary shredded potato dish
 77
 00:03:42,840 --> 00:03:45,160
 # 能做的这么精彩 这么有味道
-So wonderful and delicious
+can be so wonderful and delicious
 
 78
 00:03:45,160 --> 00:03:46,600
@@ -432,7 +432,7 @@ Don’t server steak
 83
 00:03:53,560 --> 00:03:55,640
 # 来盘土豆丝 吃美了
-But instead shredded potato; that’s wonderful
+But instead serve this shredded potato; that’s wonderful
 
 84
 00:04:00,320 --> 00:04:01,040
@@ -442,12 +442,12 @@ Some friends ask
 85
 00:04:01,040 --> 00:04:03,120
 # 能讲讲炒糖色吗
-Can you introduce how to make caramelized sugar
+Can you talk about how to make caramelized sugar
 
 86
 00:04:03,120 --> 00:04:04,880
 # 还有拔丝炒糖
-And crisp frying with syrup
+And syrup coating dishes
 
 87
 00:04:04,880 --> 00:04:06,200
@@ -477,7 +477,7 @@ What if we don’t have white rock sugar
 92
 00:04:15,080 --> 00:04:16,520
 # 我们就用棉白糖
-We could choose cotton sugar
+We could choose soft white sugar
 
 93
 00:04:16,520 --> 00:04:17,880
@@ -487,7 +487,7 @@ Or the granulated sugar
 94
 00:04:17,880 --> 00:04:19,680
 # 如果是棉白糖的话
-If cotton sugar
+If you are using soft white sugar 
 
 95
 00:04:19,680 --> 00:04:22,120
@@ -507,7 +507,7 @@ Then add some base oil
 98
 00:04:24,680 --> 00:04:26,080
 # 把绵白糖下锅
-Add cotton sugar
+Add soft white sugar in
 
 99
 00:04:26,080 --> 00:04:27,400
@@ -522,12 +522,12 @@ You need cold oil
 101
 00:04:29,080 --> 00:04:31,240
 # 所以刚开始起火的时候
-So at the beginning of cooking
+So at the beginning,
 
 102
 00:04:31,240 --> 00:04:33,160
 # 别太大 等糖化了以后
-Don’t use high heating power; when the sugar becomes melted
+Don’t use high heat; when the sugar becomes melted
 
 103
 00:04:33,160 --> 00:04:35,080
@@ -547,32 +547,32 @@ After heating slowly
 106
 00:04:38,160 --> 00:04:39,600
 # 开始变中火
-Change to medium heating power
+Change to medium heat
 
 107
 00:04:39,600 --> 00:04:41,520
 # 这糖就开始变色了
-Then the sugar color begins to change
+When the color begins to change
 
 108
 00:04:41,520 --> 00:04:42,520
 # 有点黄色的了
-A little yellow
+to a bit yellow
 
 109
 00:04:42,520 --> 00:04:46,640
 # 这个节骨眼是拔丝的火候
-At this moment it’s the perfect time for crisp frying with syrup
+It’s the perfect time for making sugar coated dishes.
 
 110
 00:04:46,640 --> 00:04:47,720
 # 继续往下找
-But if you continue heat
+But if you continue heating
 
 111
 00:04:47,720 --> 00:04:49,760
 # 炒的跟酱油色似的
-The sugar color will become like soy sauce
+The sugar color will be like soy sauce
 
 112
 00:04:49,760 --> 00:04:51,360
