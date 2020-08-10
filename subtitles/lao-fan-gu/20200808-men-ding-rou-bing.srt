@@ -7,8 +7,8 @@
 # 宋军既是二伯的干儿子也是徒弟，所以这次教大家门钉肉饼是毫无保留把看家本领全教大家了！
 # 小友们可得好好学呀！从和面开始到调馅儿，都有着标准化的用量，小友们可以按照这个菜谱学习，做出来基本上能够接近店里的味儿！
 # 最爽的时候就是做完肉饼，咬一小口，唰的一下那汁儿流出来！真正的多汁肉嫩、皮酥馅香！
-# Hello everyone! Today we invited Jun Song, the keeper and chef of Lao-Men-Kuang hotpot tripe and meat restaurant. He will bring us a bite of old Beijing: Doornail meat pie. Jun Song is both the pseudo son and disciple of Er Bai, so today he is going to share all the secret of making Doornail meat pie without any reservation! Audience, let’s learn about it by heart! Everything including making the dough and the meat filling has its own standard. You just need to follow the recipe to make a restaurant-standard Doornail meat pie!
-# The ecstasy of eating the meat pie comes from the moment when you take a small bite and the flavorful juice from the meat filling spread all over your mouth. It has truly tender, juicy filling and caramelized, crispy shell!
+# Hello everyone! Today we invited Song Jun, the keeper and chef of Lao-Men-Kuang hotpot tripe and meat restaurant. He brings us a bite of old Beijing: Doornail meat pie. Song Jun is the pseudo son and also one of Er Bai's disciples. Today he is going to share all the secret of making Doornail meat pie without any reservation! Let’s learn it by heart! Everything has its own standard, including making the dough and the meat filling. By following this recipe, you can make a restaurant quality doornail meat pie at home.
+# The ecstasy comes from the moment when you take a small bite and the flavorful juice from the meat filling spread all over your mouth. The filling of this pie is really juicy and tender, and the crust is super crispy!
 
 # import intro
 
