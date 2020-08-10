@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•话梅小番茄】话梅与雪碧的神奇组合你试过吗？夏日降温神器——话梅小番茄！蒸包子秘诀|老饭骨
-# State Banquet Master Chef – cherry tomato and pickled palm summer dessert. Tips for steamed dumplings
+# State Banquet Master Chef – cherry tomato and pickled plum summer dessert. Tips for steamed baozi
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,13 +13,13 @@
 # 片尾大爷还带给了大家蒸包子的小诀窍，学会你蒸的包子皮儿更软嫩白细，再也不会“露馅儿”了！
 
 # Intro
-# Hello Friends, today we are making a summer dessert, cherry tomato with huamei(pickled palm)
+# Hello Friends, today we are making a summer dessert, cherry tomato with huamei (pickled plums)
 
-# Many of our subscribers wanted to try a simpler recipe, and this is what we are doing today. Even those who don’t usually cook can try their hands. All you need are cherry tomatoes, rock sugar, huamei and Sprite!
+# Many subscribers want to try simpler recipes, and this is what we are doing today. Even the novice to cooking can try. All you need are cherry tomatoes, rock sugar, huamei and Sprite!
 
-# This simple and innovative dish utilizes the surprisingly refreshing combination of flavors of Sprite and Huamei, it will surely cool you down with its sweet and sour taste!
+# This simple and innovative dish utilizes the surprisingly refreshing combination of Sprite and Huamei. It will surely cool you down with its sweet and sour taste!
 
-# Towards the end of this video, Daye shares tips and tricks for making steamed dumplings. Once you learned these tricks, your dumpling will have tender and white wrapper, plus those dumplings of your will never spill out their fillings again!
+# Towards the end of this video, Da Ye shares tips and tricks for making baozi. Once you learned these tricks, your baozi will have soft and white wrapper, plus those baozi will never leak their fillings again!
 
 # 字幕
 
@@ -41,7 +41,8 @@ I was sweating just now, now I’m all cooled down.
 4
 00:00:07,480 --> 00:00:11,800
 # 话梅和XB的结合 真是完美
-The combination of Huamei and Sprint is just perfect!
+The combination of Huamei and Sprite is just perfect!
+(Huamei: pickled plums)
 
 5
 00:00:11,800 --> 00:00:15,480
@@ -56,12 +57,12 @@ and a little bit of Sprite.
 7
 00:00:17,480 --> 00:00:21,120
 # 这西红柿你看洗干净了 烫一下
-You see these tomatoes, I’ve already washed them, we will blench them.\
+You see these tomatoes, I’ve already washed them, we will blanch them.
 
 8
 00:00:21,120 --> 00:00:23,600
 # 烫一下待会咱把皮给它剥了
-Let’s blench them and peal them after.
+Let’s blanch them and peel them after.
 
 9
 00:00:23,600 --> 00:00:26,880
@@ -76,7 +77,7 @@ Today Er Bai looks very energetic, aye?
 11
 00:00:29,720 --> 00:00:33,240
 # 拿开水烫一下 然后拿凉水一激
-We blench these in boiling water, and immediately they go into cold water.
+We blanch these in boiling water, and immediately submerge them into cold water.
 
 12
 00:00:33,240 --> 00:00:33,720
@@ -89,7 +90,7 @@ You see this, Da Ye,
 14
 00:00:35,000 --> 00:00:36,280
 # 咱们先把皮剥了第一步
-Let’s peal the tomatoes for the first step.
+Let’s peel the tomatoes first.
 
 15
 00:00:36,280 --> 00:00:39,880
@@ -99,12 +100,12 @@ This is a very seasonal dish for the summer.
 16
 00:00:39,880 --> 00:00:41,720
 # 吃完了也很舒服
-Makes you very cozy after having it.
+Very cozy eating it
 
 17
 00:00:41,720 --> 00:00:44,520
 # 大爷知道 这菜不是一个老的传统菜
-Da Ye he knows, this is not a traditional dish.
+Da Ye, you know, this is not a traditional dish.
 
 18
 00:00:44,520 --> 00:00:45,840
@@ -114,17 +115,17 @@ Da Ye he knows, this is not a traditional dish.
 19
 00:00:45,840 --> 00:00:47,800
 # 你看最早大爷 咱们吃过那什么
-You see, Da Ye, back in our days we were eating, em,
+You see, Da Ye, back in our days, we used to eat, em,
 
 20
 00:00:47,800 --> 00:00:52,560
 # 苦瓜 然后刨成极薄的片
-bitter ground cut into very thin slices.
+bitter gourd cut into very thin slices.
 
 21
 00:00:52,560 --> 00:00:54,840
 # 然后XB往里一砸 直接冰箱一镇
-Dump in the sprint and throw it into the fridge.
+Dump it in the Sprite and throw it into the fridge.
 
 22
 00:00:54,840 --> 00:00:59,120
@@ -134,7 +135,7 @@ Seasonal cold dish for the summer, very cozy.
 23
 00:00:59,120 --> 00:01:02,000
 # 有的网友说了 想学正规的菜
-Some of our subscriber want to learn traditional and authentic dishes,
+Some of our subscribers want to learn traditional and authentic dishes,
 
 24
 00:01:02,000 --> 00:01:03,560
@@ -154,7 +155,7 @@ Something that they can cook in home kitchen, we will entertain them both.
 27
 00:01:10,280 --> 00:01:12,440
 # 大爷你看这个菜看似简单
-Da ya, this dish looks simple,
+Da Ye, this dish looks simple,
 
 28
 00:01:12,440 --> 00:01:14,680
@@ -194,12 +195,12 @@ Next step, right.
 35
 00:01:27,760 --> 00:01:29,560
 # 我们的菜很简单 话梅
-Our dish is simply. Huamei(pickled palm)
+Our dish is simple. Huamei
 
 36
 00:01:29,560 --> 00:01:31,320
 # 这第一次看见
-This is the first time I saw,
+This is the first time,
 
 37
 00:01:31,320 --> 00:01:34,200
@@ -229,7 +230,7 @@ The heat is turned on. Five (Huamei) is enough
 42
 00:01:44,320 --> 00:01:46,120
 # 可多可少 但是也别太多了
-This is flexable, but don’t add too many.
+This is flexible, but don’t add too many.
 
 43
 00:01:46,120 --> 00:01:48,840
@@ -244,7 +245,7 @@ No need for too much rock sugar. This dish is so easy.
 45
 00:01:51,880 --> 00:01:53,840
 # 这时候您再煮它一会 您再尝
-Let it boil for a bit. Try tasting it again now.
+Let it boil a bit. Try tasting it again now.
 
 46
 00:01:53,840 --> 00:01:56,960
@@ -262,7 +263,7 @@ The first sip must be surprisingly good.
 49
 00:01:59,480 --> 00:02:02,400
 # 这小甜水一喝 它关键是什么
-Ah this sweat soup, the thing is,
+Taste this dessert soup. The key is,
 
 50
 00:02:02,400 --> 00:02:06,920
@@ -277,7 +278,7 @@ Now it’s ready, all the rock sugar has melted.
 52
 00:02:09,160 --> 00:02:12,440
 # 过下箩 话梅里边有黑渣子
-Let’s sieve this, there is some black dross from the Huamei
+Let’s sieve this, there are some dark residuals from the Huamei
 
 53
 00:02:12,440 --> 00:02:16,480
@@ -287,12 +288,12 @@ See, it’s good to have a gauze to filter them out.
 54
 00:02:16,480 --> 00:02:19,680
 # 干净纱布 这个渣子完全都给清理干净了
-A clean piece of gauze. The dross is all filtered out.
+A clean piece of gauze. All residuals are filtered out.
 
 55
 00:02:19,680 --> 00:02:22,560
 # 然后这西红柿咱也稍微热一下就行了
-Now let’s heat the tomato for a bit,
+Now let’s heat the tomatoes a bit,
 
 56
 00:02:22,560 --> 00:02:24,560
@@ -307,7 +308,7 @@ Okey, fish them out. Don’t let it boil.
 58
 00:02:26,760 --> 00:02:28,120
 # 漂亮
-Nice.
+Beautiful.
 
 59
 00:02:28,120 --> 00:02:30,000
@@ -322,12 +323,12 @@ Let it continue to release its flavor.
 61
 00:02:32,120 --> 00:02:34,320
 # 泡会儿晾晾 晾晾下冰箱（冷藏）
-Let it sock and cool, then we can put it in the fridge(refrigerate, do not freeze).
+Let it soak and cool, then we can put it in the fridge (refrigerate, do not freeze).
 
 62
 00:02:34,320 --> 00:02:38,440
 # 这夏天 这要喝起来 诱人呐
-So tempting, drinking this in the summer.
+So tempting to drink this in the summer.
 
 63
 00:02:38,440 --> 00:02:41,360
@@ -347,7 +348,7 @@ I have a tightly kept secret that you haven’t discovered.
 66
 00:02:48,840 --> 00:02:49,840
 # 长这么大不吃西红柿
-I don’t eat tomatoes, haven’t eaten them all my life.
+I don’t eat tomatoes, haven’t eaten any in my life.
 
 67
 00:02:49,840 --> 00:02:52,560
@@ -362,12 +363,12 @@ This soup is good stuff.
 69
 00:02:57,600 --> 00:03:00,160
 # 大爷您尝尝 谢谢
-Da ye, try this. (Da Ye): Thanks
+Da Ye, try this. (Da Ye): Thanks
 
 70
 00:03:00,160 --> 00:03:03,120
 # 今天大热天给您降降温
-Cools your down in all this heat.
+Cools you down in all this heat.
 
 71
 00:03:03,120 --> 00:03:06,040
@@ -377,12 +378,12 @@ The sourness of the Huamei is just right.
 72
 00:03:06,600 --> 00:03:09,320
 # 先尝汤 凉爽
-Have some soup first, Most refreshing.
+Have some soup first. Refreshing.
 
 73
 00:03:09,320 --> 00:03:11,360
 # 我跟你说XB我都很少喝
-Let me tell you, I rarely drink sprite.
+Let me be honest, I rarely drink Sprite.
 
 74
 00:03:11,360 --> 00:03:15,880
@@ -397,17 +398,17 @@ Have a bowl of this in the summer will definitely relieve the heat.
 76
 00:03:21,040 --> 00:03:25,200
 # 这要在摊上卖大爷 这爆款 绝对的
-This is definitely going to be trending if you sell this at a stall.
+This is definitely going to be trendy if you sell this at a stall.
 
 77
 00:03:37,400 --> 00:03:38,400
 # 这网友问说
-One of our subscriber asked,
+One of our subscribers asked,
 
 78
 00:03:38,400 --> 00:03:40,000
 # 我蒸出来的包子皮
-“The wrapper of my steam dumplings, ”
+“The wrapper of my baozi, ”
 
 79
 00:03:40,000 --> 00:03:41,640
@@ -417,7 +418,7 @@ One of our subscriber asked,
 80
 00:03:41,640 --> 00:03:43,840
 # 但是总是没有外面卖的包子
-“never looks like the ones sold outside.”
+“they never look like the ones sold outside.”
 
 81
 00:03:43,840 --> 00:03:45,720
@@ -427,7 +428,7 @@ One of our subscriber asked,
 82
 00:03:45,720 --> 00:03:47,880
 # 而且底部总有一些透馅
-“ and the bottom always caves in”
+“ and the bottom is always broken”
 
 83
 00:03:47,880 --> 00:03:48,600
@@ -442,7 +443,7 @@ I don’t know if this subscriber
 85
 00:03:49,880 --> 00:03:52,360
 # 是用老肥还是酵母
-used sourdough or yeast.
+used pre-ferment or yeast.
 
 86
 00:03:52,360 --> 00:03:53,760
@@ -452,12 +453,12 @@ Assuming that yeast was used,
 87
 00:03:53,760 --> 00:03:56,480
 # 因为老肥现在很多人不常用
-as not many people use sourdough.
+as not many people use pre-ferment now.
 
 88
 00:03:56,480 --> 00:03:58,160
 # 因为酵母发了以后
-One you developed the yeast,
+Once you developed the yeast,
 
 89
 00:03:58,160 --> 00:04:00,720
@@ -482,12 +483,12 @@ They can skip it as well.
 93
 00:04:05,720 --> 00:04:07,480
 # 吃包子最好用熟馅
-It is best to make steamed dumplings with cooked stuffing.
+It is best to make baozi with cooked filling.
 
 94
 00:04:07,480 --> 00:04:09,200
 # 尽量别用生馅
-Try not to use raw stuffing.
+Try not to use raw filling.
 
 95
 00:04:09,200 --> 00:04:10,120
@@ -502,12 +503,12 @@ Because you would have to steam it for longer
 97
 00:04:11,600 --> 00:04:12,760
 # 就会长
-if using raw stuffing.
+if using raw filling.
 
 98
 00:04:12,760 --> 00:04:15,200
 # 就容易底蒸漏了
-It is more likely to lose the bottom(of the dumpling).
+It is more likely to break the bottom (of the baozi).
 
 99
 00:04:15,200 --> 00:04:17,680
@@ -542,7 +543,7 @@ Knead it.
 105
 00:04:27,160 --> 00:04:29,280
 # 揉一揉开始做剂儿
-Knead it and start making Jizi(small pieces of dough to be rolled out into wrappers)
+Knead it and start making Jizi (small pieces of dough to be rolled out into wrappers)
 
 106
 00:04:29,280 --> 00:04:31,320
@@ -572,7 +573,7 @@ Brush some oil (on the steamer basket).
 111
 00:04:37,280 --> 00:04:38,680
 # 把包子直接搁屉上
-Put it directly onto the steamer basket.
+Put the baozi directly onto the steamer basket.
 
 112
 00:04:38,680 --> 00:04:40,440
@@ -592,7 +593,7 @@ Let it rise.
 115
 00:04:42,320 --> 00:04:43,800
 # 十来分钟
-Around ten something minutes.
+Around ten minutes.
 
 116
 00:04:43,800 --> 00:04:44,880
@@ -607,6 +608,7 @@ All risen.
 118
 00:04:46,400 --> 00:04:47,120
 # OK
+OK
 
 119
 00:04:47,120 --> 00:04:49,000
@@ -621,12 +623,12 @@ Once the water begins to boil, count ten minutes.
 121
 00:04:51,920 --> 00:04:53,480
 # 你蒸了十五分钟坏了
-Steam for fifteen minutes it be overdone.
+Steaming for fifteen minutes makes it overdone.
 
 122
 00:04:53,480 --> 00:04:54,400
 # 底儿漏了
-The bottom will drop.
+The bottom will break.
 
 123
 00:04:54,400 --> 00:04:55,760
@@ -656,7 +658,7 @@ Let the steam condensate.
 128
 00:05:00,840 --> 00:05:03,480
 # 这包子出来就好了
-Then the steamed dumpling is done.
+Then the baozi is done.
 
 129
 00:05:03,480 --> 00:05:04,880
@@ -666,12 +668,12 @@ If you use raw fillings,
 130
 00:05:04,880 --> 00:05:06,280
 # 如果你蒸的时间再长
-If you still for longer,
+If you steam longer,
 
 131
 00:05:06,280 --> 00:05:08,400
 # 醒发的时间也长
-Rise for longer,
+Rise the dough longer,
 
 132
 00:05:08,400 --> 00:05:09,680
@@ -681,7 +683,7 @@ after it comes out,
 133
 00:05:09,680 --> 00:05:10,800
 # 这包子底下就漏了
-the bottom of the dumplings will drop.
+the bottom of the baozi will break.
 
 134
 00:05:10,800 --> 00:05:12,480
@@ -691,10 +693,4 @@ Try to use cooked fillings.
 135
 00:05:12,480 --> 00:05:14,440
 # 一定要用熟馅最好
-if making dumpling, cooked fillings is the best,
-
-136
-00:05:14,440 --> 00:03:25,800
-
-137
-00:00:00,000 --> 00:00:02,000
+When making baozing, cooked fillings are the best,
