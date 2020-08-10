@@ -145,7 +145,7 @@ are two of the most popular dishes in Lao-Men-Kuang.
 27
 00:00:37,320 --> 00:00:39,840
 # 这个是老北京的记忆
-This pie contains the old memories of Beijing
+This pie contains old memories of Beijing
 
 28
 00:00:39,840 --> 00:00:41,120
