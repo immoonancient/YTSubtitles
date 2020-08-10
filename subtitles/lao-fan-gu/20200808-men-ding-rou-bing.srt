@@ -1,7 +1,7 @@
 # https://youtu.be/-q4dKbHWbfw
 
 # 【国宴大师•门钉肉饼】一口爆汁儿的门钉肉饼，皮酥馅香、多汁肉嫩，掌柜的看家本领全在这儿了！ |老饭骨
-# [State Banquet Master Chef: Doornail meat pie] Juicy, mouth-watering Doornail meat pie, crunchy shell with delicious filling, juicy and tender meat, the master dish from the master chef is here!
+# State Banquet Master Chef - Doornail meat pie. Crispy outside with delicious filling inside.
 
 # 大家好，今天邀请到了老门框爆肚涮肉的掌门人宋军为我们带来老北京记忆中的味道——门丁肉饼。
 # 宋军既是二伯的干儿子也是徒弟，所以这次教大家门钉肉饼是毫无保留把看家本领全教大家了！
@@ -9,6 +9,8 @@
 # 最爽的时候就是做完肉饼，咬一小口，唰的一下那汁儿流出来！真正的多汁肉嫩、皮酥馅香！
 # Hello everyone! Today we invited Jun Song, the keeper and chef of Lao-Men-Kuang hotpot tripe and meat restaurant. He will bring us a bite of old Beijing: Doornail meat pie. Jun Song is both the pseudo son and disciple of Er Bai, so today he is going to share all the secret of making Doornail meat pie without any reservation! Audience, let’s learn about it by heart! Everything including making the dough and the meat filling has its own standard. You just need to follow the recipe to make a restaurant-standard Doornail meat pie!
 # The ecstasy of eating the meat pie comes from the moment when you take a small bite and the flavorful juice from the meat filling spread all over your mouth. It has truly tender, juicy filling and caramelized, crispy shell!
+
+# import intro
 
 1
 00:00:00,040 --> 00:00:02,080
@@ -18,12 +20,12 @@ See, this is fully cooked
 2
 00:00:03,040 --> 00:00:04,480
 # 一敲咔咔
-Tap on it, crispy
+Tap on it, "Ka-ka" (mimic the sound)
 
 3
 00:00:04,480 --> 00:00:06,640
 # 里头的肉丸是硬的齐了
-The meat filling hardens, meaning it’s done.
+When the meat filling is hard, it’s done.
 
 4
 00:00:06,760 --> 00:00:07,760
@@ -53,17 +55,17 @@ Hello, Da Ye
 9
 00:00:13,560 --> 00:00:14,240
 # 宋军好
-Hello, Jun Song
+Hello, Song Jun
 
 10
 00:00:14,480 --> 00:00:15,680
 # 和面 今儿做什么啊
-We are mixing dough. What are we cooking today?
+Mixing dough. What are we making today?
 
 11
 00:00:16,040 --> 00:00:16,440
 # 今儿做门丁
-Today we are cooking Doornail meat pie
+Today we are making Doornail meat pie
 
 12
 00:00:16,440 --> 00:00:18,040
@@ -73,12 +75,12 @@ Doornail meat pie
 13
 00:00:18,040 --> 00:00:20,000
 # 咱先和面啊 高筋粉
-Let’s start by mixing dough. Use high gluten flour
+Let’s mix dough first. Use high gluten flour
 
 14
 00:00:20,040 --> 00:00:21,680
 # 这可是你们家的看家的玩意儿
-This is the Trump Card of your restaurant!
+This is the trump card of your restaurant!
 
 15
 00:00:21,880 --> 00:00:22,920
@@ -88,7 +90,7 @@ Thanks for the compliment, Da Ye
 16
 00:00:22,960 --> 00:00:24,600
 # 用是凉水温水
-Should we use cold or warm water?
+Use cold or warm water?
 
 17
 00:00:24,600 --> 00:00:25,160
@@ -98,7 +100,7 @@ Warm water
 18
 00:00:25,200 --> 00:00:25,960
 # 搁多少水呢
-What’s the amount?
+How much?
 
 19
 00:00:25,960 --> 00:00:27,040
@@ -113,7 +115,7 @@ At least six “liang” (300 grams) of water per “jin” (500 grams) of flour
 21
 00:00:28,280 --> 00:00:29,720
 # 就相当于烙饼面呗
-It’s similar to making doughs for Chinese pancakes
+It’s similar to making dough for Chinese pancakes
 
 22
 00:00:29,880 --> 00:00:30,840
@@ -128,7 +130,7 @@ Yes
 24
 00:00:31,360 --> 00:00:32,800
 # 老门框的涮羊肉
-At Lao-Men-Kuang restaurant, lamb hot pot
+Lamb hotpot,
 
 25
 00:00:33,080 --> 00:00:34,520
@@ -138,12 +140,12 @@ and the Doornail meat pie
 26
 00:00:34,760 --> 00:00:37,160
 # 好多网友特别喜欢吃
-are the favorite meals by lots of our audience
+are two of the most popular dishes in Lao-Men-Kuang.
 
 27
 00:00:37,320 --> 00:00:39,840
 # 这个是老北京的记忆
-These dishes are old memories of Beijing
+This pie contains the old memories of Beijing
 
 28
 00:00:39,840 --> 00:00:41,120
@@ -153,12 +155,12 @@ But I think the most delicious (Doornail meat pie)
 29
 00:00:41,120 --> 00:00:41,880
 # 还是宋军他们家
-is made by Jun Song’s restaurant
+is made by Song Jun’s restaurant
 
 30
 00:00:41,920 --> 00:00:44,280
 # 你看一咬一口汤汁唰又出来了
-Take a bite and see the flavorful juice spread out
+Take a bite and then the juice is spreading out 
 
 31
 00:00:44,320 --> 00:00:45,520
@@ -168,7 +170,7 @@ Look at how we knead the dough,
 32
 00:00:45,560 --> 00:00:47,240
 # 必须得润 必须得和到位
-it needs to be smooth on the surface, every bit is evenly mixed
+Must knead utill the dough is smooth
 
 33
 00:00:47,240 --> 00:00:47,920
@@ -178,12 +180,12 @@ You cannot be lazy when kneading the dough
 34
 00:00:47,920 --> 00:00:49,480
 # 一点疙瘩都不行
-not any clumps are allowed
+The dough should not have any clumps.
 
 35
 00:00:49,920 --> 00:00:51,400
 # 这手有劲你看 有劲
-See how much strength we use
+See, he has a lot of strength. 
 
 36
 00:00:51,400 --> 00:00:54,200
@@ -193,7 +195,7 @@ This pair of cutie chubby hands have the strength!
 37
 00:00:55,040 --> 00:00:55,680
 # 没问题
-No problems now!
+No problem!
 
 38
 00:00:55,680 --> 00:00:56,920
@@ -228,7 +230,7 @@ Then let it rest for a while
 44
 00:01:07,480 --> 00:01:09,280
 # 你看这里边什么都没加
-We didn’t add anything else than water
+We didn’t add anything else other than flour and water
 
 45
 00:01:09,280 --> 00:01:10,400
@@ -238,7 +240,7 @@ Cover the dough with cling film while resting
 46
 00:01:10,480 --> 00:01:12,080
 # 你看这小面醒这
-See how we let the dough rest
+Let the dough rest
 
 47
 00:01:12,400 --> 00:01:17,200
@@ -263,12 +265,12 @@ Good
 51
 00:01:18,960 --> 00:01:20,880
 # 洗洗手 洗洗手
-Wash our hands
+Wash hands
 
 52
 00:01:20,880 --> 00:01:22,960
 # 洗洗手弄那个花椒水
-Next, we make Sichuan pepper leachate
+Next, we make Sichuan pepper extract
 
 53
 00:01:23,000 --> 00:01:25,240
@@ -278,7 +280,7 @@ Soak the Sichuan pepper with water
 54
 00:01:25,240 --> 00:01:27,000
 # 花椒水
-Sichuan pepper leachate
+Sichuan pepper extract
 
 55
 00:01:27,040 --> 00:01:28,480
@@ -333,7 +335,7 @@ What do we do with the pepper?
 65
 00:01:38,320 --> 00:01:39,720
 # 用开水泡泡
-Soaking it with boiling hot water
+Soaking it with boiling hot water? - Yes
 
 66
 00:01:39,760 --> 00:01:40,480
@@ -358,7 +360,7 @@ Use boiling hot water to fully extract the aroma of the Sichuan pepper
 70
 00:01:48,280 --> 00:01:49,520
 # 这会该剁馅
-Now we chop and mince the beef
+Now let's chop and mince the beef
 
 71
 00:01:49,520 --> 00:01:50,640
@@ -378,12 +380,12 @@ Because it contains enough fat
 74
 00:01:53,960 --> 00:01:55,240
 # 有油才香
-Only with fat comes the aroma
+The fat brings a nice aroma to the filling, 
 
 75
 00:01:55,280 --> 00:01:56,040
 # 肉才不柴
-And the meat filling won’t be chewy
+And makes it tender
 
 76
 00:01:56,240 --> 00:01:57,120
@@ -393,7 +395,7 @@ We can’t compromise the quality
 77
 00:01:57,120 --> 00:01:58,200
 # 肉要好要干松
-The surface of the beef should feel dry and loose
+The beef should feel dry and loose
 
 78
 00:01:58,200 --> 00:01:59,400
@@ -418,23 +420,22 @@ Second on how you mix the filling
 82
 00:02:04,000 --> 00:02:05,080
 # 二伯啊 哎
-Er Bai
-Yes?
+Er Bai. - Yes?
 
 83
 00:02:05,680 --> 00:02:07,560
 # 你得好好介绍一下宋军
-You should introduce Jun Song
+You should introduce Song Jun
 
 84
 00:02:08,080 --> 00:02:10,240
 # 宋军就是老门框的掌柜的
-Jun Song is the manager
+Song Jun is the owner
 
 85
 00:02:10,240 --> 00:02:11,080
 # 也是当家人
-And the keeper of Lao-Men-Kuang restaurant
+And the head chef of Lao-Men-Kuang restaurant
 
 86
 00:02:11,080 --> 00:02:11,920
@@ -464,17 +465,17 @@ The meat used for Doornail meat pie should not be ground by machine
 91
 00:02:17,080 --> 00:02:18,360
 # （要）用手切馅
-But need to be chopped
+It needs to be chopped
 
 92
 00:02:18,360 --> 00:02:19,160
 # 然后剁
-and mince by hand
+and minced by hand
 
 93
 00:02:19,160 --> 00:02:20,040
 # 为什么要剁
-The reason why we chop and mince by hand instead of by machine is that
+The reason to chop and mince by hand instead of by machine is that
 
 94
 00:02:20,080 --> 00:02:22,480
@@ -484,17 +485,17 @@ Ground meat (by machine) is not sticky enough
 95
 00:02:22,480 --> 00:02:23,560
 # 它不往一块走
-It does not stick together
+The meat does not stick together
 
 96
 00:02:23,560 --> 00:02:25,240
 # 腻乎就是抱团儿
-Sticky means they can form meatballs as filling
+Sticky means they can form meatballs easily
 
 97
 00:02:25,240 --> 00:02:27,160
 # 而且剁中粗就可以了
-Also, we only need to mince it medium rough
+Also, we only need to mince it to medium rough
 
 98
 00:02:27,160 --> 00:02:29,000
@@ -509,7 +510,7 @@ And taste better as we chew
 100
 00:02:30,200 --> 00:02:31,440
 # 一咬开一点皮吧
-Take a small bit of the shell
+Take a small bite of the crust
 
 101
 00:02:31,640 --> 00:02:32,560
@@ -539,7 +540,7 @@ I look forward to it
 106
 00:02:37,920 --> 00:02:38,920
 # 毫无保留
-Without hiding any secret
+Without hiding any secrets
 
 107
 00:02:39,640 --> 00:02:41,360
@@ -554,17 +555,17 @@ But this is my first time cooking it with
 109
 00:02:43,240 --> 00:02:43,960
 # 家用电饼铛
-electric griddle baking pan at home
+an electric griddle baking pan for home use
 
 110
 00:02:44,000 --> 00:02:46,160
 # 争取还原到店里的
-I will try my best to reproduce what we have in our restaurant
+I will try my best to reproduce the one we make in restaurant 
 
 111
 00:02:46,600 --> 00:02:47,840
 # 这种效果
-The same produce
+The same quality and taste
 
 112
 00:02:47,840 --> 00:02:50,560
@@ -579,22 +580,22 @@ Are different
 114
 00:02:52,400 --> 00:02:53,800
 # 大爷这个铛我都没使过
-I have never used this electric pan from Da Ye
+I have never used Da Ye's electric pan.
 
 115
 00:02:53,800 --> 00:02:55,800
 # 你没使过这是新买的
-Of course you haven’t! This is my newly purchased cookware
+Of course you haven’t! This is new.
 
 116
 00:02:55,800 --> 00:02:57,120
 # 就为宋军这次来
-Specifically selected for Jun Song
+Since Song Jun is coming, 
 
 117
 00:02:57,160 --> 00:02:58,480
 # 特地买了一个
-Specifically purchased for his cooking
+I bought this specifically for him.
 
 118
 00:02:59,280 --> 00:03:00,840
@@ -604,12 +605,12 @@ If I don’t cook the best Doornail meat pie,
 119
 00:03:00,880 --> 00:03:02,440
 # 都对不起这铛
-I will fail even the special baking pan!
+I will fail this new baking pan!
 
 120
 00:03:02,720 --> 00:03:03,400
 # 对
-Of course!
+Yes!
 
 121
 00:03:03,720 --> 00:03:04,320
@@ -624,7 +625,7 @@ It’s done! The meat does not stick to the knife
 123
 00:03:08,600 --> 00:03:11,680
 # 你看倍儿细腻
-See how even and finite the minced beef is
+See how even and fine the minced beef is
 
 124
 00:03:11,800 --> 00:03:12,400
@@ -634,7 +635,7 @@ Great!
 125
 00:03:12,400 --> 00:03:13,160
 # 搁一旁
-We put it aside
+Put it aside
 
 126
 00:03:15,520 --> 00:03:15,960
@@ -644,7 +645,7 @@ Good
 127
 00:03:16,000 --> 00:03:17,320
 # 我给你说我真欣赏宋军
-Let me be honest: I truly admire Jun Song
+To be honest, I truly admire Song Jun
 
 128
 00:03:17,360 --> 00:03:18,440
