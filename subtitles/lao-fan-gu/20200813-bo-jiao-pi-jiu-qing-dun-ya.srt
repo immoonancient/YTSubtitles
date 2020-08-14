@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•菠饺啤酒鸭】清香滋补，淮扬宴会名菜——菠饺啤酒清炖鸭！秋季进补去燥佳品！ |老饭骨
-# [State Banquet Masterchef] Spinach dumplings with beer braised duck, famous Huai-yang banquet cuisine. Tonic dish for the dry autumn.
+# State Banquet Masterchef - Spinach dumplings with beer braised duck.
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -10,7 +10,7 @@
 # 不知不觉就已经立秋了，大爷今天给大家带来一道清香滋补的好菜——菠饺啤酒清炖鸭！
 # It’s already autumn without our notice. Da Ye is bringing us a fragrant, nourishing cuisine: spinach dumplings with beer braised duck.
 # 冬喝鸡汤，夏补鸭汤。菠饺有着浓浓的肉香，一口下去汤汁四溢。啤酒经过烹煮只留下枣香味儿，鸭子的腥味也很好地祛除了！
-# Drink chicken soup in winter, duck soup in summer. Spinach dumplings have mellow meat flavor, spreading soup with a bite. After heating, beer only leaves date-like aroma and removes the gamey taste of the duck.
+# Drink chicken soup in winter, duck soup in summer. Spinach dumplings have mellow meat flavor, spreading soup with a bite. Beer only leaves date-like aroma after heating, and it removes the gamey taste of the duck.
 # 这道菜没有放鸡精和味精，用食材最天然的味道，做出最鲜美的汤菜！
 # This dish does not require chicken bouillon powder or MSG. From the most natural flavor, we make the most delicious soup dish!
 # 原料和步骤已经为小友们写出来了，小友们还有不清楚的地方可以在评论区里留言！
@@ -24,11 +24,11 @@
 # 1.将鸭子洗净，锅内放入葱、姜和黄酒煮开去腥后，原汤上锅煮40分钟（高压锅20分钟）
 # 1.Clean the duck, boil together with spring onions, ginger and Huang jiu (rice wine) to remove the gamey taste. Simmer for 40 minutes with the same soup (20 minutes if using a pressure cooker).
 # 2.菠菜加水榨汁和面，准备肉馅，包翡翠小饺子
-# 2.Process the spinach and use the spinach juice to mix the dough. Prepare meat fillings and make the “jade dumplings” (dumplings with spinach wrapper).
+# 2.Blend the spinach with water and use the spinach juice to make the dough. Prepare meat fillings and make the “jade dumplings” (dumplings with spinach wrapper).
 # 3.鸭子煲好后，鸭汤留好备用，鸭子改刀装深盘
 # 3.After braising, keep the duck soup and cut the duck into pieces. Put the duck pieces into a deep dish.
 # 4.盘中倒入啤酒，放入少量葱、姜和黄酒，倒入鸭汤，加入盐、白胡椒、少量白糖
-# 4.Pour beer into the deep dish, put a few spring onions, ginger and some Huangjiu rice wine. Pour in duck soup, add some salt, white pepper and white sugar.
+# 4.Pour beer into the deep dish, then put a few spring onions, ginger and some Huangjiu rice wine. Pour in duck soup, then add some salt, white pepper and white sugar.
 # 5.开火蒸40-60分钟
 # 5.Steam for 40-60 minutes
 # 6.翡翠饺煮好，放在鸭汤上，出锅！
@@ -54,7 +54,7 @@ See what color does the water change into?
 4
 00:00:06,160 --> 00:00:09,240
 # 这是淮扬菜的一个老菜 太漂亮了
-This is a traditional Huai Yang cuisine. Very beautiful!
+This is a traditional Huaiyang cuisine. Very beautiful!
 
 5
 00:00:09,240 --> 00:00:13,200
@@ -67,7 +67,7 @@ I cook the beer braised duck differently from others
 7
 00:00:15,480 --> 00:00:17,480
 # 我这是汤 汤菜
-I make it soup, a soup dish.
+Mine is soup, a soup dish.
 
 8
 00:00:17,480 --> 00:00:19,040
@@ -97,7 +97,7 @@ Then we add some spring onions and ginger to remove the gamey taste, and some Hu
 13
 00:00:29,800 --> 00:00:32,280
 # 鸭子光一个光板鸭子不行啊
-Duck is not going to make it with just a duck
+Duck (cuisine) is not going to make it with just a duck
 
 14
 00:00:32,280 --> 00:00:34,520
@@ -185,7 +185,7 @@ Let’s add some sesame oil.
 31
 00:01:15,560 --> 00:01:19,040
 # 和馅必须要搁香油
-One must add sesame oil in the filling
+One must add sesame oil when making the filling
 
 32
 00:01:19,040 --> 00:01:24,280
@@ -195,7 +195,7 @@ The filling is ready, let’s mix the dough.
 33
 00:01:24,280 --> 00:01:28,040
 # 这是菠菜搁上水用粉碎机把它打成蓉
-This is spinach, add some water and process them in a blender.
+This is spinach, add some water and blend it.
 
 34
 00:01:28,040 --> 00:01:29,880
@@ -205,7 +205,7 @@ This is called jade dumplings
 35
 00:01:29,880 --> 00:01:33,520
 # 用这菠菜蓉可以染虾球 叫翡翠虾
-The spinach cereal can color shrimp balls to make jade shrimp.
+The spinach puree can color shrimp balls and the dish is called jade shrimp.
 
 36
 00:01:33,520 --> 00:01:35,200
@@ -230,7 +230,7 @@ The dough is resting. Let’s check on the duck.
 40
 00:01:41,640 --> 00:01:44,400
 # 这个鸭子特别容易熟
-This duck is easily cooked.
+This duck is easily cooked well-done
 
 41
 00:01:44,400 --> 00:01:45,880
@@ -308,7 +308,7 @@ We will use another method to extract (the green color)
 56
 00:02:19,880 --> 00:02:21,880
 # 把这过一下箩
-Filter it (the spinach cereal)
+Filter it (the spinach puree)
 
 57
 00:02:21,880 --> 00:02:24,600
@@ -323,7 +323,7 @@ Now we boil it
 59
 00:02:25,880 --> 00:02:27,720
 # 最顶级的精华在这儿呢
-The top essence is here!
+The essence is here!
 
 60
 00:02:27,720 --> 00:02:29,160
@@ -353,7 +353,7 @@ Look at the water
 65
 00:02:41,840 --> 00:02:44,000
 # 四儿你看精华在这儿呢
-Si er, see the essence is over there
+Si er, see the essence is right here
 
 66
 00:02:44,000 --> 00:02:45,840
@@ -436,7 +436,7 @@ This is as the saying goes,
 82
 00:03:17,760 --> 00:03:20,120
 # 为什么你多来两趟有好处
-It is beneficial for you to come frequently
+It is beneficial for you to come here more frequently
 
 83
 00:03:20,120 --> 00:03:22,480
@@ -449,12 +449,12 @@ Follow Da Ye to learn some legacy knowledge.
 85
 00:03:24,360 --> 00:03:27,840
 # 你再搁水稀了 这颜色还是上不来
-If you add more water the dough would be too soft while the color is still not enough
+If you add more water the dough would be too soft while the color is still not (green) enough
 
 86
 00:03:28,520 --> 00:03:31,360
 # 我给拿这边来 搁案板上和
-I take it here on dough rolling board to knead
+Let me take it here, knead on the pastry board
 
 87
 00:03:31,360 --> 00:03:34,200
@@ -519,12 +519,12 @@ Sometimes in a luxury banquet,
 99
 00:04:03,840 --> 00:04:05,440
 # 我们让饺子还得让它好看
-We need to make the dumplings look pleasant
+We need to make the dumplings look pretty
 
 100
 00:04:05,440 --> 00:04:08,160
 # 有可能拿剪子给它铰了去
-We may trim it with scissors
+We may trim (the edge) with scissors
 
 101
 00:04:08,160 --> 00:04:11,840
@@ -572,12 +572,12 @@ The dumplings are made
 110
 00:04:26,080 --> 00:04:28,280
 # 为了怕它风干 用布咱盖一下
-To prevent them from air drying, we cover them with cloth
+To prevent them from getting too dry, we cover them with cloth
 
 111
 00:04:28,280 --> 00:04:31,600
 # 二伯饺子包好了 鸭子要改改刀
-Er Bai made the dumplings. The duck will be cut into pieces
+Er Bai made the dumplings. The duck need to be cut into pieces
 
 112
 00:04:31,600 --> 00:04:33,600
@@ -617,7 +617,7 @@ No need to debone at home. It tastes better after steaming (bone-in)
 119
 00:04:54,520 --> 00:04:57,480
 # 冬天讲就喝鸡汤 夏天讲就喝鸭汤
-It is in season and cultural to have chicken soup in winter and duck soup in summer
+It is seasonal and cultural to have chicken soup in winter and duck soup in summer
 
 120
 00:04:57,480 --> 00:05:03,120
@@ -673,7 +673,7 @@ Isn’t it beautiful? Now let’s season it.
 131
 00:05:32,360 --> 00:05:34,600
 # 我们是啤酒鸭 少不了啤酒
-We make beer braised duck, be generous on beer
+We make beer braised duck, be generous with the beer
 
 132
 00:05:34,600 --> 00:05:37,400
@@ -788,7 +788,7 @@ Notice on alteration of cook time
 154
 00:06:40,440 --> 00:06:42,640
 # 如果煮鸭子煮的比较烂糊
-If we precooked the duck well-done,
+If we precooked the duck to very soft texture,
 
 155
 00:06:42,640 --> 00:06:45,360
@@ -856,7 +856,7 @@ The shape (of the duck pieces) is maintained neatly
 168
 00:07:16,080 --> 00:07:19,480
 # 饺子马上就得  泡好的枸杞烫一下
-Dumplings are almost ready, blanch the soaked wolfberry
+Dumplings are almost ready, blanch the soaked wolfberries
 
 169
 00:07:19,480 --> 00:07:21,560
@@ -987,7 +987,7 @@ I have been craving for it for very long.
 195
 00:08:32,800 --> 00:08:38,960
 # 先喝汤 尝尝热啤酒的味道是什么味道
-Drink the soup first, taste how heated beer feels like
+Drink the soup first, try and see what the heated beer tastes like
 
 196
 00:08:38,960 --> 00:08:41,800
@@ -1042,7 +1042,7 @@ This dish has won many people’s heart back then
 206
 00:09:06,760 --> 00:09:09,880
 # 也接待过无数外宾
-And served numerous foreigners
+And served numerous foreign guests
 
 207
 00:09:09,880 --> 00:09:13,640
@@ -1128,4 +1128,3 @@ You are so good at complimenting people!
 Your compliment makes me very excited!
 
 224
-00:09:56,240 --> 00:00:02,000
