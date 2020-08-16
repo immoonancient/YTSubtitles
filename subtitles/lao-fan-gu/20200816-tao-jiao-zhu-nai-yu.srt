@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•桃胶煮艿芋】美容养颜小甜品：杏汁桃胶煮艿芋！软糯香甜不发胖，口感滑嫩超养生！ |老饭骨
-# State Banquet Master Chefs - Taro and Peach Gum in Apricot Milk, a Nourishing Dessert!
+# State Banquet Master Chefs - Taro and Peach Gum in Apricot Kernel Milk.
 
 # 简介
 
@@ -10,9 +10,11 @@
 # 这次的小甜品不仅颜值高，有红的黄的白的三种颜色，还非常的可口。
 # 艿芋搭配上杏汁，软糯香甜、美容养颜，还不快学起来吗？
 
-# Hello friends! Er Bai is in great moods recently, and he's bring another dessert to us!
+# Hello friends! Er Bai is in great moods recently, and he brings another dessert to us!
 # This time, the dessert has not only a good presence, with red, white and yellow, but is also very delicious.
-# Taros with apricot milk, soft, mushy, fragrant, sweet and nourishing. Let's learn it!
+# Taros with apricot kernel milk, soft, mushy, fragrant, sweet and nourishing. Let's learn it!
+
+# import intro
 
 # 字幕
 
@@ -21,7 +23,7 @@
 1
 00:00:00,000 --> 00:00:03,260
 # 白的红的黄的 加上打的杏仁浆
-White, red and yellow. Together with the apricot milk
+White, red and yellow. Together with the apricot kernel milk
 
 2
 00:00:03,260 --> 00:00:05,220
@@ -36,7 +38,7 @@ Fantastic
 4
 00:00:07,000 --> 00:00:08,860
 # (杏汁桃胶煮艿芋)
-Taro and Peach Gum in Apricot Milk
+Taro and Peach Gum in Apricot Kernel Milk
 
 # shift forward 00:00:09,020
 
@@ -59,7 +61,7 @@ Long time no see
 8
 00:00:05,080 --> 00:00:07,520
 # 大爷好 想大爷想师父了
-Hello, Da Ye. I miss my master Da Ye so much
+Hello, Da Ye. I miss my master and Da Ye so much
 
 9
 00:00:07,560 --> 00:00:10,200
@@ -149,7 +151,7 @@ Red kidney beans
 26
 00:00:46,960 --> 00:00:48,200
 # 这是杏仁
-These are apricots
+These are apricot kernels.
 
 27
 00:00:48,200 --> 00:00:51,240
@@ -160,7 +162,7 @@ These are apricots
 28
 00:00:51,280 --> 00:00:53,960
 # 我看这还弄两个杏仁露
-We also have some apricot milk
+We also have some apricot kernel milk
 
 29
 00:00:54,800 --> 00:00:57,480
@@ -190,12 +192,12 @@ Let's get started
 34
 00:01:10,120 --> 00:01:12,280
 # 咱们先磨杏仁是不是师父
-We start with grinding the apricots, master?
+We start with grinding the apricot kernel, master?
 
 35
 00:01:12,280 --> 00:01:15,400
 # 先把杏仁弄了 干杏仁泡了
-Apricots first. Soak the dried apricots
+Apricot kernel first. Soak the dried apricot kernel.
 
 36
 00:01:15,480 --> 00:01:17,480
@@ -205,7 +207,7 @@ Soak them well
 37
 00:01:17,480 --> 00:01:17,760
 # 这已经有杏仁露了 放它(杏仁)干嘛
-We already have apricot milk. Why do we still need it (aprocot)?
+We already have apricot kernel milk. Why do we still need it (apricot kernel)?
 
 38
 00:01:18,080 --> 00:01:19,200
@@ -519,17 +521,17 @@ We soaked it last night. It's already soft
 99
 00:04:09,200 --> 00:04:10,440
 # 这是倒杏汁了
-We are pouring in the apricot milk
+We are pouring in the apricot kernel milk
 
 100
 00:04:10,680 --> 00:04:13,560
 # 杏仁浸 这是关键
-Apricots must be soaked. That's the key
+Apricot kernel must be soaked. That's the key
 
 101
 00:04:13,560 --> 00:04:16,240
 # 榨好的杏汁
-Freshly milled apricot milk
+Freshly milled apricot kernel milk
 
 102
 00:04:18,040 --> 00:04:23,480
@@ -544,7 +546,7 @@ Don't waste the residue. It can be made into something good
 104
 00:04:27,840 --> 00:04:31,760
 # 熬点儿杏仁粥 在家里边这点东西被糟蹋了
-Make some apricot congee. It's home cooking, we shouldn't waste
+Make some apricot kernel congee. It's home cooking, we shouldn't waste
 
 105
 00:04:34,800 --> 00:04:36,160
@@ -564,7 +566,7 @@ Smells so good. I can't waste it
 108
 00:04:47,080 --> 00:04:50,840
 # LL这里边也含汁
-The drink also contain apricot milk
+The drink also contain apricot kernel milk
 
 109
 00:04:52,200 --> 00:04:53,080
@@ -675,7 +677,7 @@ The softness and mushiness of Yunai, I mean the small taros
 130
 00:05:53,840 --> 00:05:55,440
 # 杏仁的香甜
-The sweetness and fragrance of apricot
+The sweetness and fragrance of apricot kernel
 
 131
 00:05:56,520 --> 00:05:59,080
@@ -746,7 +748,7 @@ White, red and yellow. So many colors
 144
 00:06:35,560 --> 00:06:40,120
 # 加上杏仁 打的杏仁浆 妙用
-Together with fresh apricot milk. Fantastic
+Together with fresh apricot kernel milk. Fantastic
 
 145
 00:06:40,760 --> 00:06:43,800
@@ -761,12 +763,12 @@ It's not away from its origin
 147
 00:06:46,520 --> 00:06:49,040
 # 杏仁茶是根本
-Apricot Cream is the origin
+Apricot kernel drink is the origin
 
 148
 00:06:49,160 --> 00:06:52,760
 # 他又加了点儿杏仁露
-He also added some apricot drink
+He also added some apricot kernel drink
 
 149
 00:06:53,280 --> 00:06:55,040
@@ -1124,7 +1126,7 @@ You know, this actually isn't worth a lot of money
 220
 00:09:13,200 --> 00:09:15,200
 # 但是记录你的人生
-But it has record your life
+But it has recorded your life
 
 221
 00:09:15,200 --> 00:09:16,120
