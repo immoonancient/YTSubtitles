@@ -42,7 +42,7 @@
 <!---->
 
 - Q: 我需要学习 GitHub 的各种复杂操作 (fork, branch, ...) 吗？
-- A: 基本不需要。普通组员掌握[投稿](tutorial/upload-subtitles-new.md)和[审核](docs/review-comment.md)步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
+- A: 基本不需要。普通组员掌握[投稿](tutorial/upload-subtitles-new.md)和[审核](tutorial/review-comment.md)步骤即可。其余的 GitHub 操作均已由 [bot](https://github.com/apps/ytsubtitles-bot) 代理。
 
 <!---->
 
