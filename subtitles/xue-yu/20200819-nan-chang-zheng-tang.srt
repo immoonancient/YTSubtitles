@@ -7,7 +7,7 @@
 # 简介
 
 # 吃惯了大西北的牛肉羊肉，我就直接跑到了江西。来这里发现原来不仅广东有靓汤，江西南昌也有。在南昌，比较出名的是瓦罐煨汤，除此之外，还有一种是用大蒸锅、电饭锅蒸出来的一盅盅的汤。食材丰富，种类丰富，用老式样的土炉子蒸4个小时，满满是时间的味道。根据食材的不同，一盅汤从16元到128元不等。这些汤只在晚上售卖，一直到凌晨3点，一晚上的时间顾客们就要喝掉10锅汤，真的超级nice。
-# Getting enough of mutton and beef in the "Great North-West", I dashed to Jiangxi Province directly, and discovered in Nanchang quite nice soup that I used to believe as exclusive to Guangdong Province. In Nanchang, clay-pot steamed soup is quite well-known. Except this, we have another kind of soup steamed in rice-cookers or huge steamers. There is a variety of ingredients and soups, steamed in traditional clay stoves for 4 hours - a taste nourished by time! According to its ingredients, the price of each soup ranges from 16 to 128 yuan. The soups are only sold during nighttime until 3 a.m. The soups taste so nice that 10 steamers of soups are consumed for just one night.
+# After getting enough mutton and beef in the "Great North-West", I dashed to Jiangxi Province directly. I discovered nice soups in Nanchang that I used to believe were exclusive to Guangdong Province. In Nanchang, clay-pot steamed soup is well-known. Aside from this, there is another kind of soup steamed in rice-cookers or huge steamers. Various ingredients and soups were steamed in traditional clay stoves for 4 hours, making a delicious taste nourished by time! According to its ingredients, the price of each soup ranges from 16 to 128 yuan. The soups are only sold during nighttime until 3 a.m. The soups taste so nice that 10 steamers of soups are consumed in just one night.
 # 地址：江西南昌青山南路徐军老汤店
 # 营业时间：16:00-03:00
 
@@ -32,22 +32,22 @@ One, two, three, four, five, six, seven, eight, nine, nine big steamers
 2
 00:00:14,200 --> 00:00:17,840
 # 一过来 就被门口的这几口大蒸锅吸引到
-Once I came here, my attention was caught by these huge steamers at the doorway
+These huge steamers at the doorway caught my attention as I arrived
 
 3
 00:00:17,840 --> 00:00:20,880
 # 这种蒸锅 只有小时候 我奶奶蒸馒头才用的
-This kind of steamers were only, when I was a kid, used by my granny to steam buns
+This kind of steamers were only used by my granny to steam buns when I was a kid
 
 4
 00:00:20,880 --> 00:00:22,440
 # 这里的空间特别大
-It got lots of room here
+It gets lots of room here
 
 5
 00:00:22,440 --> 00:00:26,520
 # 咱们也能看到这一盅盅的汤 都是摞了好几层
-And we can see these pots of soups piled up level by level
+And we can see these pots of soups piled up layer by layer
 
 6
 00:00:35,640 --> 00:00:37,840
@@ -57,13 +57,13 @@ See, full of ingredients
 7
 00:00:37,880 --> 00:00:41,360
 # 你看 这盅里有一只鸽子 整只的
-You see, here's a pigeon in this pot, a whole one
+See, here's a pigeon in this pot, a whole one
 
 8
 00:00:44,440 --> 00:00:47,520
 # 这还有  我没骗你 这都是满满的一锅
 - And mroe here!
-- Not lying, the steamer is full
+- I'm not lying, the steamer is full
 
 9
 00:00:47,520 --> 00:00:51,280
@@ -73,17 +73,17 @@ I didn't find this steamer, the largest one
 10
 00:00:51,280 --> 00:00:57,840
 # 它可以放四十多个 冬天要加四个这样的锅
-It can contain more than 40 pots. During the winter, we would have four more steamers like this one
+It can hold more than 40 pots. In winter, there would be four more steamers like this one
 
 11
 00:00:57,840 --> 00:00:59,920
 # 你看 他们这边有各种各样的汤
-You see, they have so many kinds of soups here
+See, they have so many kinds of soups here
 
 12
 00:00:59,920 --> 00:01:03,080
 # 比如说 鲍鱼 牛排
-Like, steak, abalone
+Such as steak or abalone
 
 13
 00:01:03,080 --> 00:01:07,280
@@ -93,7 +93,7 @@ The recommended ones are marked with asterisk
 14
 00:01:07,280 --> 00:01:11,480
 # 最低的只要16块钱 最高的能够达到128
-The cheapest one is 16 yuan. The most expansive one can take 128 yuan
+The least expensive one is 16 yuan. The most expansive one costs 128 yuan
 
 15
 00:01:15,840 --> 00:01:18,080
@@ -108,12 +108,12 @@ They look like pigeon eggs
 17
 00:01:31,520 --> 00:01:34,680
 # 要一个天麻蒸全鸽
-I would have a whole pigeon steamed with Tian Ma (Gastrodia)
+I would like the whole pigeon steamed with Tian Ma (Gastrodia)
 
 18
 00:01:34,680 --> 00:01:37,880
 # 再要一个小份的肉丝炒粉
-And a stir-fried rice noodle with pork strips
+And a small portion of stir-fried rice noodles with pork strips
 
 19
 00:01:37,880 --> 00:01:40,320
@@ -128,12 +128,12 @@ Should I pay now or later?
 21
 00:01:43,480 --> 00:01:46,480
 # 吃完了付也可以
-Paying after you finish will do as well
+You can pay after you finish
 
 22
 00:01:46,480 --> 00:01:47,640
 # 进去坐吗
-Seat inside?
+Are there seats available inside?
 
 23
 00:01:47,640 --> 00:01:49,880
@@ -143,22 +143,22 @@ We've got AC over there
 24
 00:01:58,800 --> 00:02:03,160
 # 哎呦 它这个是很烫的 刚从锅里拿出来
-Aiya, it burns! It is just taken out from the steamer
+Aiya, it is hot! It was just taken out from the steamer
 
 25
 00:02:03,160 --> 00:02:09,120
 # 我们要了一个48块钱的天麻蒸鸽子
-We've ordered a 48-yuan steamed pigeon and Tian Ma soup
+We've ordered a 48-yuan steamed pigeon with Tian Ma soup
 
 26
 00:02:09,880 --> 00:02:15,120
 # 这是一整只小鸽子 在汤里
-This is a whole little pigeon, in the soup
+This is a small cooked pigeon, in the soup
 
 27
 00:02:17,160 --> 00:02:18,120
 # 炒粉到了
-Here's your stir-fried rice noodle
+Here's your stir-fried rice noodles
 
 28
 00:02:18,120 --> 00:02:19,080
@@ -178,17 +178,17 @@ The soup looks clear
 31
 00:02:27,680 --> 00:02:30,720
 # 能够看到上面是有很多油花的
-And you can see many oil patches floating on the surface
+And you can see plenty of oil floating on the surface
 
 32
 00:02:36,560 --> 00:02:39,600
 # 太烫了 真是太烫了
-Burning, it really burns!
+It is really hot!
 
 33
 00:02:45,760 --> 00:02:49,920
 # 它这个汤是这种清甜当中带有一些甘甜
-The soup has a bit of sweetness
+The soup has a touch of sweetness in its clean and fresh taste
 
 34
 00:02:49,920 --> 00:02:52,640
@@ -203,7 +203,7 @@ Its umami is strong!
 36
 00:03:03,600 --> 00:03:06,480
 # 这个鸽子应该炖的时间很久了
-I guess the pigeon should have been steamed for quite a long while
+I believe the pigeon has been steamed for quite a while
 
 37
 00:03:06,480 --> 00:03:08,400
@@ -223,27 +223,27 @@ OMG
 40
 00:03:19,760 --> 00:03:21,800
 # 鸽子肉 炖的像什么
-The pigeon meat, is steamed like
+The pigeon meat, tastes like,
 
 41
 00:03:21,800 --> 00:03:23,920
 # 像肝的味道
-with a taste of liver
+like the taste of liver
 
 42
 00:03:23,920 --> 00:03:27,680
 # 就是放在嘴里咀嚼一下就可以化掉
-It melts in your mouth once you chew it
+It melts in your mouth with little chewing
 
 43
 00:03:37,960 --> 00:03:40,240
 # 好烫
-It burns
+It is hot
 
 44
 00:03:45,680 --> 00:03:52,760
 # 你看 我随便用筷子再划一下 肉又掉了
-See, I got the meat again with a simple move of my chopsticks
+See, I got the meat again with a simple touch of my chopsticks
 
 45
 00:03:53,840 --> 00:03:55,360
@@ -253,12 +253,12 @@ If you ask, how does it taste?
 46
 00:03:55,360 --> 00:03:59,120
 # 它就是拿中药材直接炖出来的
-It is stewed directly with Chinese herbal medicine
+It is steamed together with traditional Chinese medicine
 
 47
 00:03:59,120 --> 00:04:04,360
 # 甚至都会感觉不到咸味 只有鲜味
-You can't even taste the salt, only the umami
+You can't even taste the saltiness, only the umami
 
 48
 00:04:11,160 --> 00:04:15,320
@@ -268,12 +268,12 @@ Perhaps because there is a layer of oil, the heat underneath cannot disperse
 49
 00:04:15,320 --> 00:04:18,320
 # 这么久了 这个汤 还是很烫嘴的
-After such a while, this soup, still burns my lips
+After such a while, this soup is still very hot
 
 50
 00:04:22,680 --> 00:04:26,360
 # 这应该是我喝过最大盅的汤了
-This should be the largest pot of soup I've ever tasted
+This might be the largest pot of soup I've ever had
 
 51
 00:04:26,360 --> 00:04:30,040
@@ -288,22 +288,22 @@ The meat does not have any shape at all
 53
 00:04:38,480 --> 00:04:42,400
 # 江西这边真的是很爱吃粉 早上起来有拌粉
-People in Jiangxi are really fond of rice noodle. They have stir-and-mixed rice noodle for breakfast
+People in Jiangxi are really fond of rice noodles. They have stir-and-mixed rice noodles for breakfast
 
 54
 00:04:42,400 --> 00:04:45,160
 # 晚上呢 有炒粉
-And stir-fried rice noodle at night
+And stir-fried rice noodles in the evening
 
 55
 00:04:45,160 --> 00:04:48,160
 # 早上呢 是拌粉配瓦罐汤
-In the morning, there are clay-pot soup with stir-and-mixed rice noodle
+In the morning, there are clay-pot soup with stir-and-mixed rice noodles
 
 56
 00:04:48,160 --> 00:04:51,600
 # 晚上呢 也可以是炒粉配汤
-At night, stir-fried rice noodle also goes with soup
+In the evening, people also like stir-fried rice noodles with soup
 
 57
 00:05:01,000 --> 00:05:03,480
@@ -313,17 +313,17 @@ Why is he leaving?
 58
 00:05:03,480 --> 00:05:06,720
 # 刚要和老板说几句话 他竟然走了
-I just tried to say a few words with the keeper. Didn't expect that he left!
+I was trying to talk to the keeper. Didn't expect that he left!
 
 59
 00:05:07,280 --> 00:05:10,880
 # 老板 我问一下 咱这个汤 是作为宵夜吃的吗
-Just wanna ask, this soup we have, is it a kind of late-night snack?
+May I ask, the soup we have, is it a kind of late-night snack?
 
 60
 00:05:11,840 --> 00:05:20,520
 # 我们市民早晨一般没时间吃这种汤
-Our people generally don't have time for this kind of soup in the morning
+People generally don't have time for this kind of soup in the morning
 
 61
 00:05:20,520 --> 00:05:23,080
@@ -333,17 +333,17 @@ Because you need to sit here and taste it slowly
 62
 00:05:23,080 --> 00:05:26,960
 # 一个料多 另一个 可能温度也是高的
-For one thing, it has many ingredients, and for another, it's temperature is probably quite high
+For one thing, it has many ingredients; additionally, its temperature is quite high
 
 63
 00:05:26,960 --> 00:05:29,000
 # 汤要吃热的嘛
-Hot soup is the best
+Soup should be tasted hot
 
 64
 00:05:33,920 --> 00:05:39,560
 # 我们这里到现在是开了17年 就在这一个地方开
-We've been here since 2017, only in one place
+We've been here for 17 years, only at this place
 
 65
 00:05:39,560 --> 00:05:42,000
@@ -353,7 +353,7 @@ How long does the soup need to be steamed?
 66
 00:05:42,000 --> 00:05:48,720
 # 我们的汤 从头至尾 炖的时间最少一锅都要4个多小时
-From beginning to the end, at least 4 hours for one steamer
+From the beginning to the end, at least 4 hours for each batch of soup
 
 67
 00:05:48,720 --> 00:05:52,280
@@ -368,7 +368,7 @@ Which means the last one needs 4 hours
 69
 00:05:56,680 --> 00:05:59,040
 # 所以 到晚上才卖
-Thus, we are at nighttime to sell
+So you only sell in the evening
 
 70
 00:05:59,040 --> 00:06:04,160
@@ -378,12 +378,12 @@ Well, we start to prepare at 9 a.m.
 71
 00:06:04,160 --> 00:06:07,400
 # 一般我们是早上9点钟就开始上火
-It is usually that we start to turn on the fire at 9 a.m.
+We usually start to cook at 9 a.m.
 
 72
 00:06:07,400 --> 00:06:09,800
 # 到下午3点半钟就有吃的
-Until 3:30 p.m., the food is ready
+And we start serving from 3:30 p.m.
 
 73
 00:06:09,800 --> 00:06:12,240
@@ -398,12 +398,12 @@ Until 3 a.m., however
 75
 00:06:14,880 --> 00:06:17,200
 # 吃的东西就越少
-there will be less food when it is late
+there will be less food as it gets late
 
 76
 00:06:17,880 --> 00:06:20,000
 # 汤的分量不少
-The quantity of soup would not be little
+There are plenty of ingredients in the soup
 
 77
 00:06:25,800 --> 00:06:30,320
@@ -413,7 +413,7 @@ Because you need more ingredients for the taste
 78
 00:06:31,000 --> 00:06:37,920
 # 冬天卖的多 像我们冬天最少要加4个锅
-We can sell more at winter time. At winter, we need to add at least 4 steamers
+We sell more in winter. In winter, we need to add at least 4 steamers
 
 79
 00:06:37,920 --> 00:06:39,760
@@ -423,15 +423,15 @@ We can sell more at winter time. At winter, we need to add at least 4 steamers
 80
 00:06:39,760 --> 00:06:43,920
 # 冬天冷 喝汤的人多
-Because of wintertime, people prefer hot soup
+Because of the coldness in winter, more people prefer to eat hot soup
 
 81
 00:06:43,920 --> 00:06:45,800
 # 夏天太热了嘛
-The summer is too warm
+Summer is too warm (for the soup)
 
 82
 00:07:21,120 --> 00:07:24,200
 # 关  注
 # 雪 鱼  探 店
-Subscribe!
+Subscribe to Xueyu's China Food Travel channel!
