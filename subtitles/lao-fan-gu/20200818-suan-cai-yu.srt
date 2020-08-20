@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•酸菜鱼】滑嫩酸爽、鲜香味浓的家常酸菜鱼！无腥味的秘诀原来是这些！ |老饭骨
-# State Banquet Master Chefs - Suan Cai Carp. Smooth, tender, sour dish with delicious aroma! Learn the tricks to get rid of the gamey taste.
+# State Banquet Master Chefs - Suan Cai Carp. Smooth, tender, sour dish!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,10 +13,12 @@
 # 最后用二伯的话来点评这道菜就是：江湖当中不江湖，平凡当中不平凡！
 # Hey guys, today we are presenting a highly requested dish by our fans: Suan Cai Carp.
 # The fish fillets taste smooth, tender and sour. Along with the Suan Cai and the delicious fish soup, you can eat all the rice in the world.
-# We are going to share a few tricks to cook the dish well and get rid of the gamy taste of the carp.
-# Er Bai’s words on the dish: Stands out from the Jianghu style Sichuan cuisines. Perfection of a normal dish!
+# We are going to share a few tricks to cook the dish well and get rid of the unpleasant fishy taste of the carp.
+# In Er Bai’s words, it stands out from the Jianghu style Sichuan cuisines and is a perfection among normal dishes!
 
 # 字幕
+
+# import intro
 
 1
 00:00:00,040 --> 00:00:00,560
@@ -26,7 +28,7 @@ Hey Da Ye
 2
 00:00:00,640 --> 00:00:01,080
 # 师父好
-Master
+Hey Master
 
 3
 00:00:01,760 --> 00:00:02,840
@@ -111,12 +113,12 @@ But not here at home
 19
 00:00:24,240 --> 00:00:26,840
 # 没汤但是也要吃出饭店的感觉出来
-The pork is to have the taste at the restaurant without the broth
+In order to get the similar taste at the restaurant even without the broth
 
 20
 00:00:27,080 --> 00:00:28,760
 # 所以说来了一块肥的五花肉
-So we got a piece of fat pork belly
+we got a piece of fat pork belly
 
 21
 00:00:28,800 --> 00:00:30,640
@@ -146,12 +148,12 @@ The reason we use the grass carp
 26
 00:00:37,240 --> 00:00:39,040
 # 草鱼它肉比较厚
-Is that its fillet is thicker
+Is that its flesh is thicker
 
 27
 00:00:39,040 --> 00:00:40,560
 # 而且土腥味还小
-It also has less gamey smell
+It also has less fishy and earthy taste
 
 28
 00:00:42,000 --> 00:00:43,800
@@ -266,7 +268,7 @@ If we don’t peel off the membrane
 50
 00:01:22,960 --> 00:01:24,160
 # 也会有土腥味
-The gamey smell will remain
+The fishy and earthy taste will remain
 
 51
 00:01:24,560 --> 00:01:25,680
@@ -341,12 +343,12 @@ Rinsing it can get it off
 65
 00:01:51,760 --> 00:01:54,160
 # 没有土腥味 下一步来做酸菜
-No gamey smell. Let’s prepare the Suan Cai
+No fishy and earthy taste. Let’s prepare the Suan Cai
 
 66
 00:01:54,160 --> 00:01:55,080
 # 处理酸菜
-Let’s get pm the Suan Cai
+Let’s prepare the Suan Cai
 
 67
 00:01:55,520 --> 00:01:58,640
@@ -376,7 +378,7 @@ Let me correct that
 72
 00:02:07,440 --> 00:02:09,480
 # 这是盖菜做的
-It’s actually made from Chinese kale
+It’s actually made from Chinese mustard greens
 
 73
 00:02:09,720 --> 00:02:10,560
@@ -391,7 +393,7 @@ Just in a different way in Guangdong
 75
 00:02:12,200 --> 00:02:14,440
 # 它跟四川的盖菜还不一样
-The Guangdong kales are different from the ones from Sichuan
+The Guangdong mustard greens are different from the ones from Sichuan
 
 76
 00:02:14,480 --> 00:02:15,920
@@ -561,7 +563,7 @@ Put the green onion, ginger and garlic in
 109
 00:03:19,160 --> 00:03:20,560
 # 料得足
-Much of them
+need to use large amount of them
 
 110
 00:03:20,880 --> 00:03:22,480
@@ -606,12 +608,12 @@ We should have fried the fish bones first
 118
 00:03:42,960 --> 00:03:44,280
 # 煎一下最好你看这
-Better simmer then first
+Better pan-fry them first
 
 119
 00:03:48,360 --> 00:03:49,680
 # 稍微煎它一下
-Just simmer a little
+Just pan-fry a little
 
 120
 00:03:49,680 --> 00:03:50,640
@@ -706,7 +708,7 @@ Better adding boiling water
 138
 00:04:28,480 --> 00:04:29,600
 # 这个不够开
-This water is a bit cool
+This water is a bit cold
 
 139
 00:04:30,120 --> 00:04:31,480
@@ -941,7 +943,7 @@ Now let’s season the dish
 185
 00:05:51,800 --> 00:05:52,440
 # 赶紧调吧
-Yeah do so quickly
+Yeah, do it quickly
 
 186
 00:05:52,720 --> 00:05:53,960
@@ -976,12 +978,12 @@ So let’s add some more salt
 192
 00:06:07,640 --> 00:06:08,640
 # 胡椒粉
-Pepper
+white pepper
 
 193
 00:06:08,640 --> 00:06:09,680
 # 胡椒粉可以多来点儿
-We can add a bit much of pepper
+We can add a bit more
 
 194
 00:06:10,040 --> 00:06:11,160
@@ -1316,7 +1318,7 @@ Get some to my master
 260
 00:08:24,120 --> 00:08:25,000
 # 来点酸菜师父
-Have a try at the Suan Cai master
+Give Suan Cai a try, master
 
 261
 00:08:26,560 --> 00:08:27,040
@@ -1326,7 +1328,7 @@ Alright
 262
 00:08:27,080 --> 00:08:29,200
 # 大爷先来 谢谢二伯
-Da Ye first, thanks Er Bo
+Da Ye first, thanks Er Bai
 
 263
 00:08:29,280 --> 00:08:30,480
@@ -1564,4 +1566,3 @@ Xiaoyu
 What?
 
 310
-00:00:00,000 --> 00:00:02,000
