@@ -2,7 +2,7 @@
 
 # ------------------------------
 # 【国宴大师•手搓冰粉】来一碗正宗四川手搓冰粉！气泡绵密、Q弹冰爽，冰粉还是手搓的好！ |老饭骨
-# [State Banquet Master Chefs] Traditional hand-made ice jelly from Sichuan
+# State Banquet Master Chefs - Traditional hand-made ice jelly from Sichuan
 
 # 大家好，老饭骨这期邀请了大爷的徒弟杨兵大厨，教大家做一道家常甜品——手搓冰粉！
 # 说起冰粉，四川的街头巷尾都在卖！这是一道家家户户老少皆宜的美食，夏日必备！
@@ -15,7 +15,7 @@
 
 # 原料：冰粉籽、石灰粉、砂糖、山楂粒、火龙果、葡萄干、花生碎、水果粒、醪糟
 
-# Ingredients: Seeds of "apple of Peru (Nicandra physalodes (Linn.) Gaertn)", calcium hydroxide, sugar, hawthorn, pitaya, raisin, peanuts, sliced fruits, LaoZao (rice wine distillers)
+# Ingredients: Seeds of "apple of Peru (Nicandra physalodes (Linn.) Gaertn)", calcium hydroxide, sugar, hawthorn, dragon fruit (pitaya), raisin, peanuts, sliced fruits, LaoZao (rice wine distillers)
 
 # 步骤：
 # 1.冰粉籽用适量纯净水泡好
@@ -34,6 +34,8 @@
 # 4. Add calcium hydroxide solution to the extracted gel, then beat up the mixture
 # 5. Cool in a fridge to form its shape
 # 6. Add syrup, hawthorn, peanuts, raisin, fruits and Laozao.
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:02,160
@@ -158,7 +160,7 @@ This plant is very common
 25
 00:00:37,320 --> 00:00:38,080
 # 满大街都是
-Everyone on the streets
+You can find it easily on the streets
 
 26
 00:00:38,160 --> 00:00:39,600
@@ -198,7 +200,7 @@ to collect the seeds
 33
 00:00:47,680 --> 00:00:49,040
 # 它的果胶含量非常的(高)
-The seeds are rich in fruit gel
+The seeds are rich in pectin
 
 34
 00:00:49,040 --> 00:00:50,400
@@ -228,7 +230,7 @@ So what are they used for?
 39
 00:00:56,000 --> 00:00:57,600
 # 它的果胶含量重
-It is rich in fruit gel
+It is rich in pectin
 
 40
 00:00:57,600 --> 00:01:00,080
@@ -293,7 +295,7 @@ Mineral water
 52
 00:01:19,360 --> 00:01:22,520
 # 3斤半到4斤左右的水就可以了
-we need about 1.5-4 kg of water
+we need about 1.5-2 kg of water
 
 53
 00:01:24,880 --> 00:01:26,520
@@ -458,12 +460,12 @@ If you are not experienced
 85
 00:02:21,160 --> 00:02:23,480
 # 它容易会糊掉
-It might burn
+It might get burnt
 
 86
 00:02:23,480 --> 00:02:24,640
 # 焦糖就糊掉
-The caramel may burn
+The caramel may be burnt
 
 87
 00:02:24,640 --> 00:02:25,640
@@ -668,7 +670,7 @@ this one too
 127
 00:03:40,440 --> 00:03:42,000
 # 因为今天做的是两个口味
-this one has a different flavor
+we are making two flavors today
 
 128
 00:03:42,440 --> 00:03:42,920
@@ -718,7 +720,7 @@ let is soak
 137
 00:03:58,600 --> 00:04:00,200
 # 放一边不用管它
-and let it there
+and leave it there
 
 138
 00:04:00,200 --> 00:04:02,440
@@ -733,7 +735,7 @@ once you add the slaked lime water
 140
 00:04:05,080 --> 00:04:08,200
 # 他就把那些一些比较发散的果胶
-it will bind the fruit gels
+it will bind the pectin
 
 141
 00:04:08,240 --> 00:04:09,800
@@ -758,7 +760,7 @@ when we rub the seeds
 145
 00:04:13,880 --> 00:04:16,240
 # 其实就让他果胶充分得出来
-we want to extract the fruit gels as much as possible
+we want to extract the pectin as much as possible
 
 146
 00:04:16,400 --> 00:04:18,760
@@ -1068,7 +1070,7 @@ and we are going to put sugars in
 207
 00:06:14,400 --> 00:06:16,000
 # 水分不能太多
-we don't want it to be too waterly
+we don't want it to be too watery
 
 208
 00:06:16,000 --> 00:06:17,920
@@ -1103,7 +1105,7 @@ nice
 214
 00:06:28,280 --> 00:06:31,000
 # 擓的时候啊弄成片这么下
-scoop the into slicec
+scoop the into slices
 
 215
 00:06:31,160 --> 00:06:32,160
@@ -1188,7 +1190,7 @@ peanuts
 231
 00:07:03,840 --> 00:07:05,000
 # 必须的
-that's a must
+Definitely
 
 232
 00:07:06,160 --> 00:07:06,800
@@ -1363,22 +1365,22 @@ correct
 266
 00:08:10,280 --> 00:08:11,560
 # 你看从小背个背篓
-when you were a kid
+when I was a kid, (on the way to feed the pigs) we had a basket
 
 267
 00:08:12,080 --> 00:08:13,080
 # 喂猪的猪草
-on your way to feed the pigs
+filling with the grass for pigs
 
 268
 00:08:13,080 --> 00:08:14,320
 # 然后我们摘几个果子
-pick some fruits on the way
+picked some fruits on the way
 
 269
 00:08:14,320 --> 00:08:15,400
 # 回家自己做
-and go back home to make this dish
+and went back home to make this dish
 
 270
 00:08:16,040 --> 00:08:18,000
@@ -1439,7 +1441,7 @@ use it up.
 281
 00:08:42,280 --> 00:08:43,080
 # 网友问说
-Follows ask:
+Followers ask:
 
 282
 00:08:43,120 --> 00:08:44,240
@@ -1494,7 +1496,7 @@ and I am cooking at home
 292
 00:09:04,640 --> 00:09:06,720
 # 你第一次炸葱油的时候
-then, when you make the iol
+then, when you make the oil
 
 293
 00:09:06,720 --> 00:09:07,960
