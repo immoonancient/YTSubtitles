@@ -2,14 +2,14 @@
 
 # 标题
 # 【国宴大师•赛鸡枞菌】平菇这样做，酥脆香辣，配上脆爽金黄不吸油的炸馒头，赛过鸡枞菌！附素菜怎么炒保持颜色翠绿|老饭骨
-# [State Banquet Master Chefs] Spicy fried oyster mushroom with fried Mantou
+# State Banquet Master Chefs - Spicy fried oyster mushroom with fried Mantou
 
 # 简介
 
 # 小友们好！大师姐又给大家带来简单家常的小菜咯，这道菜名叫赛鸡枞菌！
-# Hi kids, Da Shi Jie is coming with another easy recipe for you to cook at home. The dish is called Sai Ji Zong Jun(As good as termite mushroom).
+# Hello friends, Da Shi Jie is coming with another easy recipe for you to cook at home. The dish is called Sai Ji Zong Jun(As good as termite mushroom).
 # 鸡枞菌188一斤，咱们用平菇来做，成本就十来块，干香酥脆，味道可一点不比鸡枞菌差！喜欢吃辣的小友也可以加小米椒，辣味十足！大爷两个小米椒吃进去，被辣得满头大汗😥
-# Termite mushroom is usually 188 CNY for 1 jin (0.5 kg), but we can replace it with oyster mushroom, and the cost comes down to 10 CNY. Once cooked, oyster mushroom is fragrant, crispy, crunchy, and tastes even better than termite mushroom. You can also add "Xiaomila" chili pepper if you love the heat. Da Ye had two pieces of "Xiaomila", and was sweating non-stop😥.
+# Termite mushroom is usually 188 CNY for 1 jin (0.5 kg), but we can replace it with oyster mushroom, and the cost comes down to 10 CNY. Once cooked, oyster mushroom is fragrant, crispy, crunchy, and tastes as good as termite mushroom. You can also add "Xiaomila" chili pepper if you love the spicy food. Da Ye had two pieces of "Xiaomila", and was sweating non-stop😥.
 # 炸馒头的做法也是精髓，按照大师姐方法来做的炸馒头，金黄酥脆还不吸油不掉渣，小友们一定要学起来！
 # The way to fry mantou is also something to look out for. If you follow Da Shi Jie's recipe, the fried mantou will be golden, crispy, won’t retain excessive oil or crumble. It is a must try!
 # 片尾大爷还有个小绝招要教大家：如何炒素菜保持蔬菜营养不流失、颜色翠绿？
@@ -27,6 +27,8 @@
 # 2. Heat up the wok and pour oil in. Add green onion, ginger, followed by soy sauce, dark soy sauce, sugar and fried oyster mushroom and sesame seeds. Mix all the ingredients well then add Xiaomila chili peppers.
 # 3.凉馒头切片，清水中加入食盐、淀粉，馒头片过淀粉水，入油锅炸酥脆，出锅，开饭！
 # 3. Slice cold Mantou. Add salt, starch and mix. Dip Mantou slices in the starchy water, then drop it in the hot oil. Fry until crispy and golden brown. Time to eat!
+
+# import intro
 
 # 字幕
 
@@ -88,7 +90,7 @@ It would look like this
 12
 00:00:24,360 --> 00:00:25,480
 # 关键一步来了
-Here comes the key step!
+Here is the key step!
 
 13
 00:00:25,560 --> 00:00:28,320
@@ -213,12 +215,12 @@ if you want to use that
 37
 00:01:08,880 --> 00:01:10,600
 # 然后用手给它拆成丝
-And the pull it into shreds by hands
+And the shred them into slices by hands
 
 38
 00:01:10,600 --> 00:01:13,120
 # 这些都需要用手拆
-But make sure to pull it by hand
+But make sure to shred by hand
 
 39
 00:01:13,120 --> 00:01:14,400
@@ -268,12 +270,12 @@ Make sure you are on high heat if you are at home
 48
 00:01:30,840 --> 00:01:32,080
 # 酒店的火是小火
-and on medium heat if you are cooking at a restaurant
+and on low heat if you are cooking at a restaurant
 
 49
 00:01:32,080 --> 00:01:35,400
 # 别怕吃油这个蘑菇炸完以后费不了多少油
-Don't skimp on oil, the mushroom won't soak up that much
+Don't afraid of adding too much oil, the mushroom won't soak up that much
 
 50
 00:01:36,520 --> 00:01:37,440
@@ -383,7 +385,7 @@ Yea
 71
 00:02:15,040 --> 00:02:16,840
 # 咱们锅里倒点油
-Now some oil goes into the wok
+Now let's add some oil into the wok
 
 72
 00:02:16,840 --> 00:02:17,800
@@ -448,12 +450,12 @@ Good
 84
 00:02:42,600 --> 00:02:46,200
 # 咱们把芝麻打进去
-Now in goes the sesame seeds
+Now let's mix the sesame seeds in it
 
 85
 00:02:48,760 --> 00:02:49,520
 # 师父来了啊
-Are you ready, master?
+Master's turn now.
 
 86
 00:02:54,520 --> 00:02:55,720
@@ -532,12 +534,12 @@ So that
 101
 00:03:21,000 --> 00:03:23,040
 # 省的渣子到油里边
-The crumbs won't dirty the oil
+The crumbs won't leave in the oil
 
 102
 00:03:23,360 --> 00:03:24,240
 # 脏锅
-
+and make it dirty
 103
 00:03:24,760 --> 00:03:26,800
 # 这就是细节
@@ -776,7 +778,7 @@ The mushroom is amazing
 150
 00:04:57,800 --> 00:04:59,120
 # 嚼不过来了
-I've got too much of a mouthful
+I've got too much in one bite
 
 151
 00:04:59,560 --> 00:05:01,040
@@ -786,7 +788,7 @@ What do you think?
 152
 00:05:02,400 --> 00:05:04,280
 # 馒头和这个和为一体
-Mantou becomes one with the mushroom
+Mantou is great pair to the mushroom
 
 153
 00:05:04,800 --> 00:05:06,360
@@ -806,12 +808,12 @@ It is a bit spicy
 156
 00:05:09,840 --> 00:05:11,160
 # 如果不喜欢吃辣的
-If you don't like the heat
+If you don't like the spicy food
 
 157
 00:05:11,160 --> 00:05:12,480
 # 可以不搁小米辣
-You can leave the Xiaomila peppers out
+You don't need to add the Xiaomila peppers
 
 158
 00:05:12,640 --> 00:05:13,680
@@ -821,7 +823,7 @@ Da Ye did you know
 159
 00:05:13,680 --> 00:05:16,840
 # 放凉了第二天吃 回软更好吃了
-It will taste even better to eat it the next day when it is a bit softer
+It will taste even better the next day when it is a bit softer
 
 160
 00:05:17,280 --> 00:05:18,360
@@ -881,7 +883,7 @@ But the side dishes can also be tricky
 171
 00:05:34,000 --> 00:05:35,480
 # 蕴藏着大智慧
-Can be surprisingly difficult to cook
+It contains a lot of great and brilliant thoughts and ideas. 
 
 172
 00:05:46,440 --> 00:05:47,560
@@ -1055,7 +1057,7 @@ is cooked
 206
 00:06:42,040 --> 00:06:43,280
 # 出了半盘汤
-Half of the plate will be juice from the it
+Half of the plate will be liquid
 
 207
 00:06:43,840 --> 00:06:45,240
@@ -1123,7 +1125,7 @@ Then
 220
 00:07:04,920 --> 00:07:06,080
 # 锅里边放油
-Oil goes into the wok
+Add oil into the wok
 
 221
 00:07:06,120 --> 00:07:07,360
@@ -1287,7 +1289,7 @@ but the nutrients
 253
 00:07:57,240 --> 00:07:58,080
 # 给流失了
-are already washed away
+are already lost
 
 254
 00:07:58,080 --> 00:07:59,040
