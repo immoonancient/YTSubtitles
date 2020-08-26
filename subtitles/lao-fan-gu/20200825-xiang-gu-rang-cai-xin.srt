@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【國宴大師•香菇瓤菜心】50元做出國宴大菜:香菇百花瓤菜心！蝦肉Q彈鮮香、油菜清鮮爽口，便宜的食材也能做出高端國宴！|老飯骨
-# 【State Banquet Master Chefs – Shiitake mushrooms and stuffed choy sum】 A state banquet dish you can make for 50 yuan: Shiitake mushrooms and choy sum stuffed with minced shrimps. The shrimps are bouncy and delicious. The choy sum is crisp and refreshing. Cheap ingredients can be turned into a fancy state banquet dish! – Lao Fan Gu
+# State Banquet Master Chefs – Shiitake Mushrooms and Stuffed Bok Choy. Inexpensive and Fancy!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,13 +13,15 @@
 # 片尾大爺還回答了小友們之前很關心的問題，“做菜的油到底能不能多次利用？最多能用幾次呢？”，如果有解答小友們的疑惑，記得給大爺點個讚哦！
 
 # Introduction
-# Hi friends, Da Ye hasn’t been making state banquet dishes for a long time. He is going to make one this Friday by taking a challenge to make a state banquet dish for only 50 yuan!
+# Hi friends, Da Ye hasn’t made state banquet dishes for a long time. This friday, he prepares a state banquet dish for you by taking a challenge to only spend 50 yuan!
 
-# Shiitake mushrooms and choy sum stuffed with minced shrimp is a dish that has mushroom aroma, bouncy and delicious shrimps, as well as crisp and refreshing choy sum. It has a strong aroma and a well-layered flavour!
+# Shiitake mushrooms and bok choy stuffed with minced shrimp is a dish that has mushroom aroma, bouncy and delicious shrimps, as well as crispy and refreshing bok choy. It has a strong aroma and a well-layered flavour!
 
 # The ingredients are very simple. But with diligent preparation, these simple ingredients can be turned into a dish that could be presented in front of the world as a show case of Chinese culinary tradition!
 
-# At the end of the video, Da ye has also answered a question from many of our viewers, “Whether cooking oil can be used for multiple types? How many times can it be reused?”, if Da Ye has cleared your cloud of confusion, don’t forget to give a ‘like’ to this video!
+# At the end of the video, Da ye has also answered a question from many of our viewers, “Whether cooking oil can be used for multiple times? How many times can it be reused?”, if Da Ye has cleared your cloud of confusion, don’t forget to give a ‘like’ to this video!
+
+# import intro
 
 # 字幕
 
@@ -96,7 +98,7 @@ The dish we are going to make today is
 15
 00:00:23,760 --> 00:00:26,000
 # 香菇瓤菜心
-Shiitake mushrooms and stuffed choy sum.
+Shiitake mushrooms and stuffed bok choy.
 
 16
 00:00:27,440 --> 00:00:29,640
@@ -136,7 +138,7 @@ You need to keep up.
 23
 00:00:41,480 --> 00:00:42,480
 # 还有两节葱
-Two short pieces of spring onions.
+Two pieces of spring onions.
 
 24
 00:00:42,480 --> 00:00:43,360
@@ -261,12 +263,12 @@ Some sugar.
 48
 00:01:31,440 --> 00:01:33,400
 # 这耗油香菇必须搁糖
-Oyster mushrooms must have sugar in it.
+(When cooking) shiitake mushrooms with oyster sauce must add sugar.
 
 49
 00:01:33,520 --> 00:01:34,720
 # 对 提鲜
-Yes. It adds a savory note.
+Yes. It lights up the flavour.
 
 50
 00:01:35,160 --> 00:01:35,600
@@ -326,7 +328,7 @@ Mushrooms are ready.
 61
 00:02:01,080 --> 00:02:04,320
 # 这时候啊我们焯水 菜心要焯水
-Now we blanch the choy sum.
+Now we blanch the bok choy.
 
 62
 00:02:04,360 --> 00:02:05,240
@@ -411,7 +413,7 @@ Minced shrimp are called Xia Ni Zi in Shandong cuisine.
 78
 00:02:33,480 --> 00:02:35,640
 # 广东菜虾胶
-or Xia Jiao in Guangdon cuisine.
+or Xia Jiao in Guangdong cuisine.
 
 79
 00:02:35,680 --> 00:02:37,720
@@ -441,7 +443,7 @@ It can be made very quickly.
 84
 00:02:47,200 --> 00:02:47,840
 # 一拍
-Give it a pat.
+Smash it
 
 85
 00:02:48,400 --> 00:02:50,280
@@ -451,7 +453,7 @@ And then chop, done.
 86
 00:02:52,960 --> 00:02:56,640
 # 粤菜的百花馅可以粗一点
-Minced shrimps used in Guangdong cuisine doesn’t need to be very fine.
+Minced shrimps used in Guangdong cuisine can be a bit rough.
 
 87
 00:02:56,640 --> 00:02:58,320
@@ -526,7 +528,7 @@ So just blanch it until soft.
 101
 00:03:30,440 --> 00:03:33,280
 # 这个菜心呢我们要买叫矮脚黄
-The choy sum we are using today is called Ai Jiao Huang.
+The bok choy we are using today is called Ai Jiao Huang.
 
 102
 00:03:33,280 --> 00:03:34,400
@@ -541,7 +543,7 @@ It is thick and tender.
 104
 00:03:36,800 --> 00:03:39,160
 # 把菜心一开二
-Cut the choy sum open into two pieces.
+Cut the bok choy into two pieces.
 
 105
 00:03:39,760 --> 00:03:41,320
@@ -606,7 +608,7 @@ Spring onions, ginger and huangjiu rice wine.
 117
 00:04:07,920 --> 00:04:09,160
 # 胡椒粉
-Whit pepper powder.
+White pepper powder.
 
 118
 00:04:09,160 --> 00:04:10,080
@@ -786,7 +788,7 @@ You can also use a spoon at home.
 153
 00:05:14,560 --> 00:05:15,800
 # 如果说没有小竹坯子的话
-If you don’t have this little baboon tool.
+If you don’t have this little bamboo tool.
 
 154
 00:05:15,800 --> 00:05:16,120
@@ -996,7 +998,7 @@ The water is boiling.
 195
 00:06:33,720 --> 00:06:35,920
 # 您慢点大爷 锅边儿烫
-Slowly Da Ye. The pot is burning.
+Slowly Da Ye. The edge of the pot is burning hot.
 
 196
 00:06:37,160 --> 00:06:40,040
@@ -1151,7 +1153,7 @@ Traditional dish is delicious.
 226
 00:07:31,400 --> 00:07:32,520
 # 菜心呢也给点儿味儿
-The choy sum adds flavours as well.
+The bok choy adds flavours as well.
 
 227
 00:07:33,760 --> 00:07:34,560
@@ -1231,7 +1233,7 @@ The minced shrimps are very well made.
 242
 00:08:08,280 --> 00:08:09,400
 # 油菜碧绿
-The choy sum is green.
+The bok choy is green.
 
 243
 00:08:10,040 --> 00:08:11,440
@@ -1251,7 +1253,7 @@ The flavour of the mushroom itself is very strong.
 246
 00:08:17,040 --> 00:08:17,720
 # 层次感
-Goo layering of flavours.
+Good layering of flavours.
 
 247
 00:08:17,840 --> 00:08:19,520
@@ -1266,17 +1268,17 @@ Flavour of the minced shrimps.
 249
 00:08:21,640 --> 00:08:23,640
 # 油菜的清香可口
-Fresh taste of the choy sum.
+Fresh taste of the bok choy.
 
 250
 00:08:23,640 --> 00:08:24,960
 # 香菇这菌香味
-Aroma from the mushrooms.
+The aroma of the mushrooms
 
 251
 00:08:25,920 --> 00:08:26,520
 # 倍儿浓郁
-Very rich taste.
+is very rich.
 
 252
 00:08:26,600 --> 00:08:27,560
@@ -1391,7 +1393,7 @@ I found that
 274
 00:08:57,560 --> 00:08:59,800
 # 比我还会夸人啊
-now you are better at praising people then me.
+now you are better at praising people than me.
 
 275
 00:09:00,000 --> 00:09:00,560
@@ -1601,12 +1603,12 @@ So what can we do if there’s a lot of oil？
 316
 00:10:11,000 --> 00:10:12,560
 # 因为它炸的全是素的
-Because everything that has been fried in these oil are vegetarian,
+Because everything that has been fried in these oil are vegetables,
 
 317
 00:10:13,160 --> 00:10:14,680
 # 我们在炒菜当中
-(the oil can be reused) when we are making stir-fried dishe.
+(the oil can be reused) when we are making stir-fried dishes.
 
 318
 00:10:14,880 --> 00:10:15,960
@@ -1661,7 +1663,7 @@ right,
 328
 00:10:32,360 --> 00:10:33,680
 # 给它过滤一下
-to have the oil filtered.
+to filter the oil.
 
 329
 00:10:33,960 --> 00:10:37,280
