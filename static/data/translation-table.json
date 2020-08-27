@@ -1342,7 +1342,7 @@
     {
       "cn": "话梅",
       "en": "Huamei (pickled plum)",
-      "category": ""
+      "category": "misc"
     },
     {
       "cn": "斤",
@@ -1353,9 +1353,9 @@
     },
     {
       "cn": "两",
-      "en": "jin",
+      "en": "liang",
       "category": "misc",
-      "notes": "翻译时采用音译，再在后面利用括号加上克的单位，如：6斤为\"6 liang (300g) \""
+      "notes": "翻译时采用音译，再在后面利用括号加上克的单位，如：6两为\"6 liang (300g) \""
     },
     {
       "cn": "打荷台",
@@ -1660,15 +1660,15 @@
     },
     {
       "cn": "豆花",
-      "en": "Douhua",
-      "category": "dish"
+      "en": "Douhua (tofu pudding)",
+      "category": "dish",
+      "notes": "第一次出现的时候备注 tofu pudding，提及一次以后就直接用拼音无需备注了"
     },
     {
       "cn": "八宝茶",
       "en": "Eight Treasures Herbal Tea",
       "category": "dish"
     },
-
     {
       "cn": "泡打粉",
       "en": "baking powder",
