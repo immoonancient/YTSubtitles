@@ -146,6 +146,11 @@
       "category": "meat"
     },
     {
+      "cn": "羊杂",
+      "en": "lamb offal",
+      "category": "meat"
+    },
+    {
       "cn": "童子鸡",
       "en": "young chicken",
       "category": "meat"
@@ -551,6 +556,21 @@
       "reference": "https://en.wikipedia.org/wiki/Dougan"
     },
     {
+      "cn": "绿豆",
+      "en": "mung beans",
+      "category": "preserved"
+    },
+    {
+      "cn": "红豆",
+      "en": "red beans",
+      "category": "preserved"
+    },
+    {
+      "cn": "胎菊",
+      "en": "chrysanthemum",
+      "category": "preserved"
+    },
+    {
       "cn": "花生",
       "en": "peanut",
       "category": "nut"
@@ -803,6 +823,21 @@
       "en": "Zhenjiang vinegar",
       "category": "condiment",
       "reference": "https://en.wikipedia.org/wiki/Zhenjiang_Vinegar"
+    },
+    {
+      "cn": "米醋",
+      "en": "rice vinegar",
+      "category": "condiment"
+    },
+    {
+      "cn": "白醋",
+      "en": "white vinegar",
+      "category": "condiment"
+     },
+     {
+      "cn": "山西陈醋",
+      "en": "Shanxi mature black vinegar",
+      "category": "condiment"
     },
     {
       "cn": "冰糖",
@@ -1280,16 +1315,47 @@
       "category": "misc"
     },
     {
+      "cn": "糯米粉",
+      "en": "glutinous rice flour",
+      "category": "misc"
+    },
+    {
+      "cn": "藕粉",
+      "en": "lotus root powder",
+      "category": "misc"
+    },
+    {
+      "cn": "马蹄粉",
+      "en": "water chestnut flour",
+      "category": "misc"
+    },
+    {
+      "cn": "棱角粉",
+      "en": "water caltrop powder",
+      "category": "misc"
+    },
+    {
       "cn": "山楂",
       "en": "Chinese hawthorn",
       "category": "misc"
     },	
+    {
+      "cn": "话梅",
+      "en": "Huamei (pickled plum)",
+      "category": "misc"
+    },
     {
       "cn": "斤",
       "en": "jin",
       "category": "misc",
       "notes": "不翻作\"catty\"，翻译时采用音译，再在后面利用括号加上克/千克的单位，如：20斤为\"20 jin (10kg)\"",
       "reference": "https://en.wikipedia.org/wiki/Catty"
+    },
+    {
+      "cn": "两",
+      "en": "liang",
+      "category": "misc",
+      "notes": "翻译时采用音译，再在后面利用括号加上克的单位，如：6两为\"6 liang (300g) \""
     },
     {
       "cn": "打荷台",
@@ -1584,6 +1650,23 @@
     {
       "cn": "油饼",
       "en": "youbing (deep-fried cake)",
+      "category": "dish"
+    },
+    {
+      "cn": "拔丝",
+      "en": "Basi (sugar-glazed)",
+      "category": "dish",
+      "notes": "例：拔丝地瓜为\"Basi Sweet Potatoes (sugar-glazed sweet potatoes)\"，提及一次之后就无需再备注是sugar-glazed了"
+    },
+    {
+      "cn": "豆花",
+      "en": "Douhua (tofu pudding)",
+      "category": "dish",
+      "notes": "第一次出现的时候备注 tofu pudding，提及一次以后就直接用拼音无需备注了"
+    },
+    {
+      "cn": "八宝茶",
+      "en": "Eight Treasures Herbal Tea",
       "category": "dish"
     },
     {
