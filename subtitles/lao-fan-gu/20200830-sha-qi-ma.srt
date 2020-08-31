@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•沙琪玛】沙琪玛在家就能轻松做！松软香甜，国宝级面点大师独家秘方！|老饭骨
-# State Banquet Master Chef – Making Shaqima at home, soft and sweet. Exclusive recipe
+# State Banquet Master Chef – Making Shaqima at home, soft and sweet. Exclusive recipe revealed!
 
 # 简介
 
@@ -10,14 +10,14 @@
 # 其实沙琪玛的做法和用料都非常简单，半斤面，3个鸡蛋，只要掌握了秘诀，在家也能轻松做出！
 # 这次老饭骨又邀请到了我们72岁的国宝级面点大师大大爷，大大爷还分享了他做面点的一些小技巧，满满的干货，小友们一定不要错过了！
 # 老饭骨的精神就是：匠心传承，绝不留遗憾！这道大爷都赞不绝口说是吃过的最好吃的沙琪玛，小友们快学起来交作业咯！
-# Hello everyone, I think you all are pretty familiar with Shaqima(Fried egg noodles mixed with syrup)? It’s very soft and sweet. Among all kinds of desserts, Da Ye loves Shaqima the most.
-# Actually, both recipe and the technique of making Shaqima are very simple, 250g of flour, 3 eggs, as long as you remember the key technique, you can make this easily at home.
-# This time we invited our 72-year old Master Pastry Chef Dadaye, Dadaye is sharing his technique in making flour pastry. The video is full of useful techniques, don’t miss it.
+# Hello everyone, I think you all are pretty familiar with Shaqima (Fried egg noodles mixed with syrup)? It’s very soft and sweet. Among all kinds of desserts, Da Ye loves Shaqima the most.
+# Actually, both the recipe and the technique of making Shaqima are very simple. With 250g of flour and 3 eggs, as long as you master the key technique, you can make this easily at home.
+# This time we invited our 72-year old Master Pastry Chef Da Da Ye, who is sharing his technique in making flour pastry. The video is full of useful techniques, don’t miss it!
 
-# Our motto is: Passing on the traditional craftmanship heritage, never leave any regrets behind. Da ye praise it to be the best Shaqima he’s had, let’s all try it out and let us know how it goes.
+# Our motto is: Pass on the traditional craftsmanship heritage, never leave any regrets behind. Even Da Ye praises it to be the best Shaqima he’s had. Let’s all try it out and let us know how it goes.
 
 # 原料：250g斤面粉，175g白糖，75g蜂蜜，3个鸡蛋，1.25g泡打粉，果脯或青红丝，食用油
-# Ingredients: 250g Flour, 175g Honey, 3 Eggs, 1.25g Baking powder, Some dry fruits or colored candy strips, Oil
+# Ingredients: 250g Flour, 175g Honey, 3 Eggs, 1.25g Baking powder, Some dry fruits or "qinghongsi" (colored sweet strips), Oil
 
 # 步骤：
 # 1、250g面粉中，打入3个鸡蛋，加入1.25g泡打粉，搅拌均匀，揉成半光滑面团
@@ -27,10 +27,12 @@
 # 5、将糖稀均匀地洒在炸好的面条上，搅拌均匀，面板撒上熟芝麻，面条倒出整理成型，撒上鲜艳的果脯粒或青红丝，切块装盘即可
 # Instruction:
 # 1.	250g of Flour, add 2 eggs, add 1.25g of baking powder, mix well, knead into smooth dough
-# 2.	Rest the dough then knead to smooth again, roll out the dough, you can refer to way we roll out the dough when we make homemade noodles, cutting the dough into noodles as thick as chives after rolling the dough
+# 2.	Rest the dough then knead to smooth again, roll out the dough in a way similar to how we roll homemade noodle dough. Cut the dough into noodles as thick as chives after rolling the dough
 # 3.	When the oil is about 90-120 Celsius, fry the noodles, take them out once they are fluffy
-# 4.	Add 60g of water into the clean wok, add 175g of oil, heating it up with low heat until it’s shiny, we add 75g of honey, heat it up until it’s stretchy syrup
-# 5.	Pour the syrup evenly on the fried noodles, mix them well, sprinkle some cooked sesame seeds on the board, pour the noodles and shape them, sprinkle the colorful dry fruits or colored candy strips, we will finish it by slicing them into cubes and plating them
+# 4.	Add 60g of water into the clean wok, add 175g of oil, heat it up with low heat until it’s shiny, then add 75g of honey, heat it up until it’s stretchy syrup
+# 5.	Pour the syrup evenly on the fried noodles, mix them well, sprinkle some cooked sesame seeds on the board, pour the noodles and shape them, sprinkle the colorful dry fruits or qinghongsi, then we finish it by slicing them into cubes and plating them
+
+# import intro
 
 # 字幕
 
@@ -42,7 +44,7 @@ Beautiful
 2
 00:00:01,840 --> 00:00:02,600
 # 起来了
-Get them up
+It's puffed up
 
 3
 00:00:02,600 --> 00:00:05,760
@@ -62,7 +64,7 @@ It is very easy to make at home, easy to learn
 6
 00:00:14,200 --> 00:00:15,840
 # 大大爷好
-Dadaye hello
+Da Da Ye hello
 
 7
 00:00:15,840 --> 00:00:17,680
@@ -82,7 +84,7 @@ And it is quite hot today
 10
 00:00:19,160 --> 00:00:21,040
 # 大大爷好好
-Dadaye how are you
+Da Da Ye how are you
 
 11
 00:00:21,080 --> 00:00:21,840
@@ -107,7 +109,7 @@ We are making this at home
 15
 00:00:27,400 --> 00:00:30,000
 # 不像我们饭店有饴糖
-Unlike in restaurants, we have caramel there
+We're not at a restaurant, where we have "yitang" (syrup)
 
 16
 00:00:30,000 --> 00:00:32,200
@@ -117,7 +119,7 @@ At home, we will use whatever we have
 17
 00:00:32,200 --> 00:00:34,360
 # 拿蜂蜜就解决了这个问题
-Like honey will solve this caramel substitute problem
+Like honey will solve this substitution problem
 
 18
 00:00:34,360 --> 00:00:36,120
@@ -137,7 +139,7 @@ To make this
 21
 00:00:38,920 --> 00:00:42,160
 # 一般的三个到三个半鸡蛋就行了
-Normally we need 3 to 3.5 of eggs
+Normally we need 3 to 3.5 eggs
 
 22
 00:00:42,200 --> 00:00:44,240
@@ -157,7 +159,7 @@ This is 250g of flour
 25
 00:00:50,120 --> 00:00:52,040
 # 我们要求用一半
-We require to use half of it
+We need to use half of it
 
 26
 00:00:52,920 --> 00:00:54,200
@@ -177,12 +179,12 @@ This looks nice
 29
 00:00:58,480 --> 00:00:59,280
 # 好吃啊
-Taste good
+Tastes good
 
 30
 00:00:59,760 --> 00:01:01,120
 # 当年老佛爷爱吃这个
-At the time, queen loved this dessert
+At the time, the empress loved this dessert
 
 31
 00:01:01,120 --> 00:01:01,400
@@ -222,7 +224,7 @@ We will knead again
 38
 00:01:10,560 --> 00:01:13,360
 # 就是饺子面那么软硬就行了
-It will be ready when it feels like dumplings dough
+It will be ready when it feels as tough as dumpling dough
 
 39
 00:01:13,360 --> 00:01:15,720
@@ -252,7 +254,7 @@ Very smooth
 44
 00:01:23,080 --> 00:01:23,880
 # 不容易粘
-Not very sticky
+It prevents sticking
 
 45
 00:01:23,880 --> 00:01:26,800
@@ -272,7 +274,7 @@ The 250g of flour can make a lot of Shaqima
 48
 00:01:32,680 --> 00:01:34,400
 # 出数
-Efficient
+That's productive
 
 49
 00:01:34,440 --> 00:01:36,920
@@ -282,17 +284,17 @@ We can make it at home
 50
 00:01:38,720 --> 00:01:40,120
 # 看完了师傅做这个
-Look at master making it
+Having looked at master making it
 
 51
 00:01:40,120 --> 00:01:42,080
 # 不是您要不教家里能做的
-If you don’t teach us how to make it at home
+If you haven't taught us how to make it at home
 
 52
 00:01:42,080 --> 00:01:44,160
 # 我就认为在家里永远都做不了
-I don’t ever think we can make it at home
+I wouldn't ever think we can make it at home
 
 53
 00:01:44,600 --> 00:01:45,800
@@ -372,7 +374,7 @@ Pastry chef needs to have good knife skills too
 68
 00:02:22,000 --> 00:02:25,040
 # 面条精细 粗细均匀
-Think noodles and consistent width
+Thin noodles and consistent width
 
 69
 00:02:25,240 --> 00:02:26,720
@@ -442,7 +444,7 @@ Using one colander
 82
 00:02:58,160 --> 00:02:59,840
 # 有时候捞的不均匀
-Sometimes it might not be enough
+Sometimes it might not be consistent enough
 
 83
 00:02:59,840 --> 00:03:02,840
@@ -517,27 +519,27 @@ You see these fried noodles
 97
 00:03:36,000 --> 00:03:37,120
 # 半斤面你瞧瞧
-This is from 250g of flour
+From only 250g of flour
 
 98
 00:03:37,120 --> 00:03:39,000
 # 就那么多了一大锅了
-We fried such a big wok
+We got such a big wok of stuff
 
 99
 00:03:39,000 --> 00:03:42,000
 # 这个呢传统的就用青红丝
-Traditionally we use colored candy strips
+Traditionally we use "qinghongsi" (red and green sweet strips)
 
 100
 00:03:42,000 --> 00:03:45,520
 # 现在有好些年轻人不喜欢青红丝的话
-Now younger generations don’t like the colored candy strips
+Now younger generations don’t like qinghongsi
 
 101
 00:03:45,680 --> 00:03:48,320
 # 咱们可以买点儿果脯 红的绿的黄的
-We can use the dry fruits, red green yellow fruits
+We can use dry fruits. Red, green and yellow fruits
 
 102
 00:03:48,880 --> 00:03:50,520
@@ -557,7 +559,7 @@ Now we roughly cut the colored candy strips
 105
 00:03:55,040 --> 00:03:57,080
 # 不用那么长 为的点缀
-We don’t need them to be that long, just garnish
+We don’t need them to be that long, just to garnish
 
 106
 00:03:57,080 --> 00:03:57,960
@@ -592,12 +594,12 @@ Cook the sugar thoroughly and melt it
 112
 00:04:09,120 --> 00:04:10,520
 # 不能来回和了
-You can keep mixing it
+You can't keep stirring it
 
 113
 00:04:10,920 --> 00:04:13,520
 # 老和了一翻沙 就完蛋了
-Mixing it too often will make crystalized sugar, then it doesn’t work
+Stirring it too often will make crystallized sugar, then it doesn’t work
 
 114
 00:04:13,560 --> 00:04:14,880
@@ -662,12 +664,12 @@ Now it’s almost done
 126
 00:04:38,000 --> 00:04:40,760
 # 一定不能拿手指进去 进去就烫坏了
-You can dip you finger in there, you might burn yourself
+You can't dip you finger in there, or you burn yourself
 
 127
 00:04:40,760 --> 00:04:41,560
 # 你看看这个
-You see grab some from here
+Look
 
 128
 00:04:46,160 --> 00:04:46,920
@@ -682,7 +684,7 @@ It’s red
 130
 00:04:49,040 --> 00:04:50,200
 # 关上了 完了之后
-Turn off the heat, once turning off the heat
+Turn off the heat. Once turning off the heat
 
 131
 00:04:50,200 --> 00:04:53,720
@@ -692,7 +694,7 @@ You see we need to pour it over evenly
 132
 00:04:54,360 --> 00:04:56,640
 # 快点搅拌(不搅拌)成坨了
-And mix them well quickly, otherwise it will stick together and hard to shape
+And mix them well quickly, otherwise it will stick together and become a lump
 
 133
 00:04:58,440 --> 00:04:59,440
@@ -727,7 +729,7 @@ Ha, looks authentic
 139
 00:05:09,920 --> 00:05:12,600
 # 大概齐给它弄个长方形的
-Shape it into a rectangular
+Shape it roughly into a rectangle
 
 140
 00:05:12,600 --> 00:05:16,000
@@ -757,12 +759,12 @@ Look how nice it is
 145
 00:05:23,280 --> 00:05:25,720
 # 半斤面就能做那么多
-250g of flour you can make this much
+With 250g of flour you can make this much
 
 146
 00:05:25,720 --> 00:05:28,720
 # 这时候青红丝点到为止
-Now we just sprinkle some colored candy strips for decoration
+Now we just sprinkle some qinghongsi for decoration
 
 147
 00:05:28,720 --> 00:05:32,000
@@ -802,7 +804,7 @@ Very beautiful
 154
 00:05:44,800 --> 00:05:45,800
 # 嚯 瞧这声音
-Wow, listen to the sounds
+Wow, listen to the sound
 
 155
 00:05:47,040 --> 00:05:48,000
@@ -817,12 +819,12 @@ Now it’s ready
 157
 00:05:52,920 --> 00:05:55,680
 # 二伯是吧 吃了一块又来一块
-Er Bai, you see you are eating it like one after another
+Er Bai, you are eating it like one after another, aren't you?
 
 158
 00:05:55,680 --> 00:05:57,040
 # 手里还捏一块
-Have one on your hand
+And there's another one in your hands
 
 159
 00:05:57,040 --> 00:06:00,000
@@ -877,17 +879,17 @@ First
 169
 00:06:18,640 --> 00:06:20,280
 # 就现在拿手捏着啊
-Just when I hold it on my hand
+Just when I hold it in my hand
 
 170
 00:06:21,200 --> 00:06:22,960
 # 有的人拿手捏着的
-Some Shaqima when I am holding it
+Some other Shaqima can be very sticky
 
 171
 00:06:23,240 --> 00:06:24,160
 # 粘手
-They are too sticky
+when held in hands
 
 172
 00:06:24,160 --> 00:06:26,240
@@ -927,17 +929,17 @@ And two colanders the same time
 179
 00:06:43,960 --> 00:06:45,760
 # 当时我还产生一种怀疑
-I was suspecting
+I was skeptical at that time
 
 180
 00:06:45,760 --> 00:06:47,920
 # 因为什么呢 两把勺 一把勺不能出啊
-What was I suspecting, two colanders, why can’t you just use one colander?
+What was I skeptical about? Two colanders, why can’t you just use one colander?
 
 181
 00:06:48,600 --> 00:06:50,880
 # 所以说掌握这细节特别重要
-So, I say that attention to details is very important
+So that's why we say attention to details is very important
 
 182
 00:06:51,720 --> 00:06:53,800
@@ -982,7 +984,7 @@ I never learned about this, but today I did
 190
 00:07:13,400 --> 00:07:14,920
 # 我给我们大大爷
-I going to give our Dadaye
+I am going to give our Da Da Ye
 
 191
 00:07:16,000 --> 00:07:16,520
@@ -1007,7 +1009,7 @@ You see this little package
 195
 00:07:21,400 --> 00:07:22,800
 # 青红丝拿到手了
-I got the colored candy strips
+I got the qinghongsi
 
 196
 00:07:23,240 --> 00:07:26,600
@@ -1017,7 +1019,7 @@ This weekend I will go home and make it myself
 197
 00:07:26,640 --> 00:07:28,640
 # 向大大爷交一个作业
-Submit the homework to Dadaye
+As a homework to Da Da Ye
 
 198
 00:07:30,120 --> 00:07:31,400
@@ -1037,7 +1039,7 @@ But you said them all
 201
 00:07:34,760 --> 00:07:37,120
 # 不是您精辟的总结性发言
-Well you can have a summary
+Isn't it your role to make a concise summary?
 
 202
 00:07:37,280 --> 00:07:39,760
@@ -1062,7 +1064,7 @@ You know
 206
 00:07:43,640 --> 00:07:46,440
 # 能工巧匠 巧夺天工
-The great craftsmanship, is greater than nature
+The great craftsmanship, as if it's a natural creation
 
 207
 00:07:46,560 --> 00:07:48,320
@@ -1072,7 +1074,7 @@ This is our Chef Wang
 208
 00:07:48,880 --> 00:07:51,560
 # 就是我们心中的大大爷
-This is our Dadaye
+This is our Da Da Ye
 
 209
 00:07:52,360 --> 00:07:55,000
@@ -1092,7 +1094,7 @@ It is not that great
 212
 00:08:02,760 --> 00:08:04,840
 # 所以就呈现给网友
-Since we are showing the internet
+Since we are showing it to the online audience
 
 213
 00:08:05,400 --> 00:08:07,160
@@ -1172,7 +1174,7 @@ Then when you press it firm
 228
 00:08:42,640 --> 00:08:44,440
 # 不用拍的特别的紧
-You don’t need to press too hard
+You don’t need to press too firm
 
 229
 00:08:44,480 --> 00:08:46,280
@@ -1182,7 +1184,7 @@ You can leave some space
 230
 00:08:47,200 --> 00:08:49,320
 # 撒果料的时候我也建议
-When sprinkle the dry fruits
+When sprinkling the dry fruits
 
 231
 00:08:49,600 --> 00:08:54,040
@@ -1197,7 +1199,7 @@ For decoration
 233
 00:08:56,720 --> 00:08:58,560
 # 有些网友不喜欢青红丝
-Some people don’t like colored candy strips
+Some people don’t like qinghongsi
 
 234
 00:08:58,600 --> 00:09:00,680
@@ -1212,7 +1214,7 @@ Well you can add anything you like
 236
 00:09:02,840 --> 00:09:04,760
 # 让大家回去试一试
-Everyone can try them at home
+Everyone can try it at home
 
 237
 00:09:04,760 --> 00:09:06,960
@@ -1232,7 +1234,7 @@ Some honey
 240
 00:09:10,640 --> 00:09:14,480
 # 正好就粘在这点面条
-Wrap it around the fried noodles
+Which just works for this many noodles
 
 241
 00:09:14,880 --> 00:09:16,200
@@ -1257,7 +1259,7 @@ Yes
 245
 00:09:21,800 --> 00:09:24,520
 # 谢谢大大爷 也谢谢大爷
-Thank you Dadaye, and thank you Da ye
+Thank you Da Da Ye, and thank you Da ye
 
 246
 00:09:24,720 --> 00:09:26,560
@@ -1277,4 +1279,4 @@ You know what Laofangu’s motto is?
 249
 00:09:29,600 --> 00:09:32,440
 # 匠心传承 绝不留遗憾
-Passing on the traditional craftmanship heritage, never leave any regrets behind
+Pass on the traditional craftmanship heritage, never leave any regrets behind
