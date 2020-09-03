@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•胡辣汤】河南大厨教你做正宗胡辣汤，汤汁浓郁滑嫩，咸、鲜、香！你看中不中！ 老饭骨
-# [State Banquet Master Chef] Chef from Henan teaches you the authentic pepper spicy soup!
+# State Banquet Master Chef - Chef from Henan teaches you the authentic Hulatang (pepper spicy soup)!
 
 # 简介
 
@@ -10,9 +10,9 @@
 # 这次邀请了大爷的徒弟李师傅，正宗的河南大厨来教大家一碗最地道的胡辣汤！
 # 洗面筋可是个手艺活，小友们洗完的水先不要倒，留着有妙用，视频中告诉大家答案！
 # 看完本期视频想问问小友们，这碗胡辣汤中不中？在评论区留下你的答案
-# Hello, everyone! Today State Banquet Master Chef is bringing us the pepper spicy soup, another dish that many friends wanted to learn. This time, we invited the chef Li, a disciple of Da Ye. Chef Li is teaching us the most authentic pepper spicy soup from Henan, where he grew up in!
+# Hello, everyone! Today Lao Fan Gu is bringing us Hulatang (aka pepper spicy soup), another dish that many friends wanted to learn. This time, we invited the chef Li, a disciple of Da Ye. Chef Li is teaching us the most authentic Hulatang from Henan, where he grew up!
 # Washing a dough to get gluten is an art. Don’t pour out the flour water; reserve it for a magical use. We will let you know in the video!
-# Do you like the pepper spicy soup? Leave a message below!
+# Do you like the Hulatang? Leave a message below!
 
 # import intro
 
@@ -41,7 +41,7 @@ It is looks like fish maw
 5
 00:00:04,760 --> 00:00:06,880
 # 好多网友都要喝胡辣汤嘞
-Many friends want to taste the pepper spicy soup
+Many friends want to taste Hulatang (aka pepper spicy soup)
 
 6
 00:00:06,880 --> 00:00:08,080
@@ -71,7 +71,7 @@ The cuisine is from my hometown.
 11
 00:00:12,760 --> 00:00:13,520
 # 叫胡辣汤
-Its name is pepper spicy soup
+Its name is Hulatang
 
 12
 00:00:13,520 --> 00:00:16,120
@@ -96,7 +96,7 @@ Why?
 16
 00:00:20,920 --> 00:00:22,680
 # 他这做胡辣汤需要什么
-What do we need to cook the pepper spicy soup?
+What do we need to cook Hulatang?
 
 17
 00:00:22,680 --> 00:00:23,080
@@ -116,7 +116,7 @@ we knead the dough and start to let it rest
 20
 00:00:28,280 --> 00:00:30,200
 # 饧了以后时间越长
-The longer the dough rest,
+The longer the dough rests,
 
 21
 00:00:30,240 --> 00:00:32,080
@@ -126,7 +126,7 @@ the more chewy the gluten will be.
 22
 00:00:32,600 --> 00:00:34,880
 # 我们真正的河南人做胡辣汤
-Pepper spicy soup cooked by authentic Henan chef.
+Hulatang cooked by an authentic Henan chef.
 
 23
 00:00:34,920 --> 00:00:36,400
@@ -161,7 +161,7 @@ The dough must be made very soft.
 29
 00:00:48,560 --> 00:00:49,960
 # 要硬的话它不好饧
-If it is hard, it takes a lot more effort to rest.
+If it is tough, it takes a lot more effort to rest.
 
 30
 00:00:49,960 --> 00:00:52,400
@@ -176,7 +176,7 @@ The water we use to wash the dough
 32
 00:00:57,200 --> 00:00:59,880
 # 咱们直做胡辣汤了
-Will be used to make the pepper spicy soup
+Will be used to make the Hulatang
 
 33
 00:01:00,360 --> 00:01:02,760
@@ -296,7 +296,7 @@ Soak it in the water for a while
 56
 00:01:42,360 --> 00:01:43,440
 # 咱们开始炒料
-We start to sauté the ingredients
+We start to cook the ingredients
 
 57
 00:01:43,440 --> 00:01:44,880
@@ -401,7 +401,7 @@ What is left is the essence.
 77
 00:02:35,000 --> 00:02:36,520
 # 我们就放这开始炒料
-We put it here and start to saute the ingredients
+We put it here and start to cook the ingredients
 
 78
 00:02:36,680 --> 00:02:38,480
@@ -411,7 +411,7 @@ We have many different ingredients
 79
 00:02:38,480 --> 00:02:39,520
 # 牛肉胡辣汤
-Beef pepper spicy soup
+Beef Hulatang
 
 80
 00:02:39,720 --> 00:02:40,280
@@ -456,7 +456,7 @@ And some glass noodles
 88
 00:02:49,920 --> 00:02:51,040
 # 还有小料 葱姜
-And some spices: green onions, ginger.
+And some aromatics: green onions, ginger.
 
 89
 00:02:51,240 --> 00:02:52,800
@@ -496,7 +496,7 @@ Nope
 96
 00:03:02,640 --> 00:03:04,840
 # 把牛肉的香味直接炒到里面
-Sauté the beef to release its aroma
+Stir fry the beef to release its aroma
 
 97
 00:03:05,320 --> 00:03:06,080
@@ -552,7 +552,7 @@ The aroma starts to flow
 107
 00:03:33,160 --> 00:03:35,320
 # 炝一下肉咱们可以加水了
-We can add water after briefly sautéing the meat
+We can add water after briefly cooking the meat
 
 108
 00:03:35,520 --> 00:03:36,040
@@ -562,7 +562,7 @@ Here comes the water
 109
 00:03:37,160 --> 00:03:38,520
 # 加入清水加清水
-Add some pure water
+Add some water
 
 110
 00:03:38,520 --> 00:03:39,920
@@ -607,7 +607,7 @@ Presoaked raw peanuts
 118
 00:03:55,760 --> 00:03:57,400
 # 这样的话他等会吃的脆
-They will taste crispy after soaking
+They will taste crunchy after soaking
 
 119
 00:03:57,960 --> 00:04:00,520
@@ -747,7 +747,7 @@ taste
 146
 00:04:54,160 --> 00:04:58,000
 # 因为原来最早河南做胡辣汤
-In the original recipe of pepper spicy soup in Henan,
+In the original recipe of Hulatang in Henan,
 
 147
 00:04:58,000 --> 00:04:59,080
@@ -757,7 +757,7 @@ there is a lot of pepper powder
 148
 00:04:59,760 --> 00:05:01,880
 # 胡辣汤它没有那么辣
-(The original) pepper spicy soup is actually not that spicy
+(The original) Hulatang is actually not that spicy
 
 149
 00:05:01,880 --> 00:05:06,480
@@ -782,7 +782,7 @@ You need to eat spicy food
 153
 00:05:13,040 --> 00:05:14,680
 # 这胡辣汤胡是怎么讲
-Why do we call the soup "pepper spicy soup"？
+Why do we call the soup Hulatang ("pepper spicy soup")？
 
 154
 00:05:14,800 --> 00:05:17,120
@@ -837,7 +837,7 @@ then grinded
 164
 00:05:35,080 --> 00:05:35,920
 # 为什么叫胡辣啊
-Why is called “pepper spicy”?
+Why is called Hula (“pepper spicy”)?
 
 165
 00:05:36,400 --> 00:05:37,560
@@ -912,7 +912,7 @@ Just enough to bring the taste of the five spices
 179
 00:06:06,600 --> 00:06:10,280
 # 所以我们老饭骨我们请人做菜
-Whenever State Banquet Master Chef invites someone to cook
+Whenever Lao Fan Gu invites someone to cook
 
 180
 00:06:10,520 --> 00:06:11,880
@@ -1192,7 +1192,7 @@ we need to remove it from heat immediately.
 235
 00:08:28,280 --> 00:08:31,120
 # 它这个没事 可以多熬一会
-This (pepper spicy soup) is fine. We can boil it longer.
+This (Hulatang) is fine. We can boil it longer.
 
 236
 00:08:31,560 --> 00:08:33,320
@@ -1272,7 +1272,7 @@ Add sesame oil now
 251
 00:08:57,640 --> 00:09:01,720
 # 河南的正宗的胡辣汤 就中了
-Authentic Henan pepper spicy soup, finished!
+Authentic Henan Hulatang, finished!
 
 252
 00:09:02,120 --> 00:09:02,800
