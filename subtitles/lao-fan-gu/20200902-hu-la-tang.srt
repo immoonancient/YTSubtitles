@@ -1,1152 +1,1370 @@
-https://youtu.be/SyJ9J4WKFkI
+# https://youtu.be/SyJ9J4WKFkI
 
-标题（翻译主要意思即可，不要超过 100 个字符）
-【国宴大师•胡辣汤】河南大厨教你做正宗胡辣汤，汤汁浓郁滑嫩，咸、鲜、香！你看中不中！ 老饭骨
-[State Banquet Master Chef] Chef from Henan teaches you the authentic pepper spicy soup!
-简介
-大家好，老饭骨今天给大家带来的胡辣汤又是一道小友们很想看的美食！
-这次邀请了大爷的徒弟李师傅，正宗的河南大厨来教大家一碗最地道的胡辣汤！
-洗面筋可是个手艺活，小友们洗完的水先不要倒，留着有妙用，视频中告诉大家答案！
-看完本期视频想问问小友们，这碗胡辣汤中不中？在评论区留下你的答案
-Hello, everyone! Today State Banquet Master Chef is bringing us the pepper spicy soup, another dish that many friends wanted to learn. This time, we invited the chef Li, a disciple of Da Ye. Chef Li is teaching us the most authentic pepper spicy soup from Henan, where he grew up in!
-Washing a dough to get gluten is an art. Don’t pour out the flour water; reserve it for a magical use. We will let you know in the video!
-Do you like the pepper spicy soup? Leave a message below!
-字幕
+# 标题
+# 【国宴大师•胡辣汤】河南大厨教你做正宗胡辣汤，汤汁浓郁滑嫩，咸、鲜、香！你看中不中！ 老饭骨
+# [State Banquet Master Chef] Chef from Henan teaches you the authentic pepper spicy soup!
+
+# 简介
+
+# 大家好，老饭骨今天给大家带来的胡辣汤又是一道小友们很想看的美食！
+# 这次邀请了大爷的徒弟李师傅，正宗的河南大厨来教大家一碗最地道的胡辣汤！
+# 洗面筋可是个手艺活，小友们洗完的水先不要倒，留着有妙用，视频中告诉大家答案！
+# 看完本期视频想问问小友们，这碗胡辣汤中不中？在评论区留下你的答案
+# Hello, everyone! Today State Banquet Master Chef is bringing us the pepper spicy soup, another dish that many friends wanted to learn. This time, we invited the chef Li, a disciple of Da Ye. Chef Li is teaching us the most authentic pepper spicy soup from Henan, where he grew up in!
+# Washing a dough to get gluten is an art. Don’t pour out the flour water; reserve it for a magical use. We will let you know in the video!
+# Do you like the pepper spicy soup? Leave a message below!
+
+# import intro
+
+# 字幕
+
 1
 00:00:00,000 --> 00:00:01,120
-你这时候看面筋
+# 你这时候看面筋
 Now we take a look at the gluten
+
 2
 00:00:01,120 --> 00:00:02,040
-你看就出来了
+# 你看就出来了
 You see the changes
+
 3
 00:00:02,040 --> 00:00:03,040
-越看就好看了
+# 越看就好看了
 Seems more and more beautiful
+
 4
 00:00:03,040 --> 00:00:04,360
-跟花胶肚似的
+# 跟花胶肚似的
 It is looks like fish maw
+
 5
 00:00:04,760 --> 00:00:06,880
-好多网友都要喝胡辣汤嘞
+# 好多网友都要喝胡辣汤嘞
 Many friends want to taste the pepper spicy soup
+
 6
 00:00:06,880 --> 00:00:08,080
-太中了
+# 太中了
 Sure, let’s do it
+
 7
 00:00:08,320 --> 00:00:09,120
-哎呦 李党
+# 哎呦 李党
 What’s up, Li Dang
+
 8
 00:00:09,200 --> 00:00:10,040
-师父好
+# 师父好
 Hello, Master
+
 9
 00:00:10,040 --> 00:00:11,680
-这次给我们带来什么好菜
+# 这次给我们带来什么好菜
 Which cuisine are you bringing us today?
+
 10
 00:00:11,720 --> 00:00:12,760
-他是我们老家的
+# 他是我们老家的
 The cuisine is from my hometown.
+
 11
 00:00:12,760 --> 00:00:13,520
-叫胡辣汤
+# 叫胡辣汤
 Its name is pepper spicy soup
+
 12
 00:00:13,520 --> 00:00:16,120
-哎呀 这回太中了
+# 哎呀 这回太中了
 Great! It is excellent!
+
 13
 00:00:16,320 --> 00:00:17,240
-中的很这次
+# 中的很这次
 Best of the best
+
 14
 00:00:17,400 --> 00:00:20,640
-今天早来一会提前把这个面先和好
+# 今天早来一会提前把这个面先和好
 We come here early to knead the dough today.
+
 15
 00:00:20,640 --> 00:00:20,920
-因为啥
+# 因为啥
 Why?
+
 16
 00:00:20,920 --> 00:00:22,680
-他这做胡辣汤需要什么
+# 他这做胡辣汤需要什么
 What do we need to cook the pepper spicy soup?
+
 17
 00:00:22,680 --> 00:00:23,080
-面筋
+# 面筋
 We need the gluten
+
 18
 00:00:23,120 --> 00:00:25,840
-早上就吃完这个早餐以后
+# 早上就吃完这个早餐以后
 After breakfast,
+
 19
 00:00:25,880 --> 00:00:28,280
-开始把面先给它饧上
+# 开始把面先给它饧上
 we knead the dough and start to let it rest
+
 20
 00:00:28,280 --> 00:00:30,200
-饧了以后时间越长
+# 饧了以后时间越长
 The longer the dough rest,
+
 21
 00:00:30,240 --> 00:00:32,080
-它面筋越筋道
+# 它面筋越筋道
 the more chewy the gluten will be.
+
 22
 00:00:32,600 --> 00:00:34,880
-我们真正的河南人做胡辣汤
+# 我们真正的河南人做胡辣汤
 Pepper spicy soup cooked by authentic Henan chef.
 
 23
 00:00:34,920 --> 00:00:36,400
-你看正宗不正宗
+# 你看正宗不正宗
 Try and see how authentic it is!
+
 24
 00:00:36,480 --> 00:00:38,680
-咱这个面和的时候
+# 咱这个面和的时候
 When we knead the dough,
+
 25
 00:00:38,680 --> 00:00:39,720
-也是高筋粉
+# 也是高筋粉
 Is it high-gluten flour?
+
 26
 00:00:39,720 --> 00:00:41,840
-一是高筋特筋的
+# 一是高筋特筋的
 Yes, use high-gluten flour.
+
 27
 00:00:41,840 --> 00:00:43,400
-您看这面饧的时间越长
+# 您看这面饧的时间越长
 See, rest the dough longer
+
 28
 00:00:45,600 --> 00:00:48,400
-让这个面呢一定要和的稍微软一点
+# 让这个面呢一定要和的稍微软一点
 The dough must be made very soft.
+
 29
 00:00:48,560 --> 00:00:49,960
-要硬的话它不好饧
+# 要硬的话它不好饧
 If it is hard, it takes a lot more effort to rest.
+
 30
 00:00:49,960 --> 00:00:52,400
-这时候开始加水给它洗一下
+# 这时候开始加水给它洗一下
 Then, add some water to wash it
+
 31
 00:00:55,400 --> 00:00:57,200
-等一下洗的面筋水呢
+# 等一下洗的面筋水呢
 The water we use to wash the dough
+
 32
 00:00:57,200 --> 00:00:59,880
-咱们直做胡辣汤了
+# 咱们直做胡辣汤了
 Will be used to make the pepper spicy soup
+
 33
 00:01:00,360 --> 00:01:02,760
-这就是喝胡辣汤为什么滑
+# 这就是喝胡辣汤为什么滑
 That’s why the soup tastes smooth
+
 34
 00:01:03,240 --> 00:01:04,880
-就是从这个因起来的
+# 就是从这个因起来的
 This is the reason
+
 35
 00:01:05,480 --> 00:01:06,000
-没糟蹋啊
+# 没糟蹋啊
 No wasted ingredients!
+
 36
 00:01:06,800 --> 00:01:08,720
-大爷您看这配料也很全
+# 大爷您看这配料也很全
 Look, Da Ye, the ingredients are plenty
+
 37
 00:01:09,240 --> 00:01:10,840
-花生 黄花 木耳
+# 花生 黄花 木耳
 Peanuts, daylilies, and black fungus
+
 38
 00:01:13,000 --> 00:01:13,520
-粉丝
+# 粉丝
 Glass noodles
+
 39
 00:01:14,080 --> 00:01:14,880
-还有点肉
+# 还有点肉
 And some meat
+
 40
 00:01:15,200 --> 00:01:16,400
-这什么肉啊
+# 这什么肉啊
 What kind of meat is it?
+
 41
 00:01:16,760 --> 00:01:18,240
-这时候洗这个面筋
+# 这时候洗这个面筋
 Now we wash the dough to get gluten
+
 42
 00:01:18,240 --> 00:01:20,600
-一定要拿手这样搓着洗
+# 一定要拿手这样搓着洗
 We must use our hands to twist it, like this
+
 43
 00:01:21,320 --> 00:01:22,600
-这样它洗出来就是滑
+# 这样它洗出来就是滑
 Only in this way, we can make the soup smooth
+
 44
 00:01:22,600 --> 00:01:25,280
-把面筋里边的面水给洗出来
+# 把面筋里边的面水给洗出来
 We need to wash out all the starch from the dough
+
 45
 00:01:25,280 --> 00:01:26,640
-洗完之后它才称为筋
+# 洗完之后它才称为筋
 What is left is pure gluten
+
 46
 00:01:26,640 --> 00:01:28,840
-一斤面要洗出面筋能洗出多少
+# 一斤面要洗出面筋能洗出多少
 How much gluten can be made from 0.5 kg dough?
+
 47
 00:01:28,880 --> 00:01:29,720
-洗面筋的话
+# 洗面筋的话
 Basically, the gluten
+
 48
 00:01:29,720 --> 00:01:30,560
-基本上能洗出来
+# 基本上能洗出来
 Can be produced
+
 49
 00:01:30,560 --> 00:01:32,320
-也就是四两左右
+# 也就是四两左右
 About 200 g
+
 50
 00:01:32,640 --> 00:01:33,600
-在家自己洗
+# 在家自己洗
 If you wash the dough by yourself,
+
 51
 00:01:33,680 --> 00:01:34,600
-其实挺好玩的
+# 其实挺好玩的
 it is interesting
+
 52
 00:01:34,960 --> 00:01:37,520
-二伯也洗过面筋 素肥肠
+# 二伯也洗过面筋 素肥肠
 Er Bai has washed it before. (To make) the vegetarian intestine
+
 53
 00:01:38,240 --> 00:01:40,280
-素排骨都得用这个
+# 素排骨都得用这个
 And vegetarian ribs. Both of them need it.
+
 54
 00:01:40,800 --> 00:01:41,160
-好
+# 好
 Ok
+
 55
 00:01:41,160 --> 00:01:42,360
-咱们先搁着泡一会
+# 咱们先搁着泡一会
 Soak it in the water for a while
+
 56
 00:01:42,360 --> 00:01:43,440
-咱们开始炒料
+# 咱们开始炒料
 We start to sauté the ingredients
+
 57
 00:01:43,440 --> 00:01:44,880
-一会再洗一下
+# 一会再洗一下
 I will wash it again later
+
 58
 00:01:44,880 --> 00:01:46,400
-这样咱就好了
+# 这样咱就好了
 Here we go
+
 59
 00:01:47,120 --> 00:01:49,480
-这时候咱们把这个汤给它篦出来
+# 这时候咱们把这个汤给它篦出来
 Let’s filter out the starch water
+
 60
 00:01:49,480 --> 00:01:51,000
-留着 再洗一遍
+# 留着 再洗一遍
 Keep it. Wash again
+
 61
 00:01:51,000 --> 00:01:52,080
-再洗一遍
+# 再洗一遍
 Wash again
+
 62
 00:01:52,080 --> 00:01:55,040
-啥时候把这个色给它洗的稍微发黄一点
+# 啥时候把这个色给它洗的稍微发黄一点
 Wash until the gluten turns yellow
+
 63
 00:01:55,040 --> 00:01:57,480
-他是一边边的洗这样他才透亮
+# 他是一边边的洗这样他才透亮
 The gluten becomes bright after washing many times
+
 64
 00:01:58,520 --> 00:02:00,240
-把这个汤给他留着
+# 把这个汤给他留着
 Save the starch water for him
+
 65
 00:02:00,840 --> 00:02:01,880
-给你搁后面
+# 给你搁后面
 I am putting it behind you
+
 66
 00:02:05,480 --> 00:02:08,000
-洗面筋最少得洗三遍
+# 洗面筋最少得洗三遍
 The dough needs to be washed at least three times
+
 67
 00:02:09,560 --> 00:02:10,400
-再来一遍
+# 再来一遍
 One more time
+
 68
 00:02:10,400 --> 00:02:12,000
-大爷您可以开水了
+# 大爷您可以开水了
 Da Ye, you can turn on the tap now
+
 69
 00:02:12,200 --> 00:02:14,040
-我就只能负责开水了
+# 我就只能负责开水了
 I can only take charge of the tap now
+
 70
 00:02:14,320 --> 00:02:16,680
-现在我这身子骨也就开水了
+# 现在我这身子骨也就开水了
 Based on my physical conditions
+
 71
 00:02:18,160 --> 00:02:20,640
-河南在面食的发展上
+# 河南在面食的发展上
 Throughout the history of cuisine made from wheat
+
 72
 00:02:20,680 --> 00:02:23,320
-应该说是它是独树一帜
+# 应该说是它是独树一帜
 Henan has its unique position
+
 73
 00:02:25,160 --> 00:02:27,040
-这时候就开始发黄了
+# 这时候就开始发黄了
 Now, the gluten turns yellow
+
 74
 00:02:27,040 --> 00:02:27,400
-对
+# 对
 Right
+
 75
 00:02:27,800 --> 00:02:30,120
-大家可以看一下他的面
+# 大家可以看一下他的面
 We can take a look at the gluten now
+
 76
 00:02:31,600 --> 00:02:33,400
-出来的就是精华
+# 出来的就是精华
 What is left is the essence.
+
 77
 00:02:35,000 --> 00:02:36,520
-我们就放这开始炒料
+# 我们就放这开始炒料
 We put it here and start to saute the ingredients
+
 78
 00:02:36,680 --> 00:02:38,480
-这配料还真挺全乎
+# 这配料还真挺全乎
 We have many different ingredients
+
 79
 00:02:38,480 --> 00:02:39,520
-牛肉胡辣汤
+# 牛肉胡辣汤
 Beef pepper spicy soup
+
 80
 00:02:39,720 --> 00:02:40,280
-牛肉
+# 牛肉
 Beef
+
 81
 00:02:40,280 --> 00:02:42,040
-咱们泡好的花生米
+# 咱们泡好的花生米
 Pre-soaked peanuts
+
 82
 00:02:42,520 --> 00:02:43,440
-黄花菜
+# 黄花菜
 Daylilies
+
 83
 00:02:43,480 --> 00:02:45,080
-加上咱们的木耳
+# 加上咱们的木耳
 And the black fungus
 
 84
 00:02:45,320 --> 00:02:46,240
-海带
+# 海带
 kelp
+
 85
 00:02:46,440 --> 00:02:47,240
-香菇丝
+# 香菇丝
 shiitake mushroom shreds
+
 86
 00:02:48,360 --> 00:02:49,280
-平菇
+# 平菇
 oyster mushroom
+
 87
 00:02:49,280 --> 00:02:49,920
-加点粉条
+# 加点粉条
 And some glass noodles
+
 88
 00:02:49,920 --> 00:02:51,040
-还有小料 葱姜
+# 还有小料 葱姜
 And some spices: green onions, ginger.
+
 89
 00:02:51,240 --> 00:02:52,800
-这边是五香粉
+# 这边是五香粉
 This is five spice powder
+
 90
 00:02:53,080 --> 00:02:54,640
-加上这个辣椒面
+# 加上这个辣椒面
 Chili powder
+
 91
 00:02:54,640 --> 00:02:56,080
-还有白胡椒
+# 还有白胡椒
 And white pepper
+
 92
 00:02:56,360 --> 00:02:58,800
-这时候咱们锅中先加点油
+# 这时候咱们锅中先加点油
 Now we add some oil to the pan
+
 93
 00:02:59,040 --> 00:02:59,720
-先下肉
+# 先下肉
 Add the meat first
+
 94
 00:03:01,280 --> 00:03:02,200
-这个不用腌是吧
+# 这个不用腌是吧
 We don't need to marinate the beef, right?
+
 95
 00:03:02,240 --> 00:03:02,600
-不用腌
+# 不用腌
 Nope
+
 96
 00:03:02,640 --> 00:03:04,840
-把牛肉的香味直接炒到里面
+# 把牛肉的香味直接炒到里面
 Sauté the beef to release its aroma
+
 97
 00:03:05,320 --> 00:03:06,080
-小点火
+# 小点火
 Turn down the heat
+
 98
 00:03:07,000 --> 00:03:08,440
-还下什么呀
+# 还下什么呀
 What else do you need?
+
 99
 00:03:08,640 --> 00:03:11,000
-葱姜蒜末得放一点
+# 葱姜蒜末得放一点
 Add some minced green onion, ginger and garlic
-00:03:13,800 --> 00:03:15,760
+
 100
-这时候咱们加点酱油
+00:03:13,800 --> 00:03:15,760
+# 100
+# 这时候咱们加点酱油
 Now let's add some soy sauce
 
 101
 00:03:21,160 --> 00:03:24,000
-它这个酱油一定搁锅里边给它砸一下
+# 它这个酱油一定搁锅里边给它砸一下
 The soy sauce needs some boiling time in the pan
+
 102
 00:03:24,120 --> 00:03:25,160
-来一点黄酒
+# 来一点黄酒
 Add some huangjiu rice wine
 
 103
 00:03:25,600 --> 00:03:26,320
-去去腥
+# 去去腥
 to remove gamey taste
 
 104
 00:03:26,760 --> 00:03:27,360
-好
+# 好
 Ok
+
 105
 00:03:29,080 --> 00:03:30,280
-家里的火是大火
+# 家里的火是大火
 Use high heat if you are cooking at home
+
 106
 00:03:31,280 --> 00:03:32,200
-香味儿出来了
+# 香味儿出来了
 The aroma starts to flow
 
 107
 00:03:33,160 --> 00:03:35,320
-炝一下肉咱们可以加水了
+# 炝一下肉咱们可以加水了
 We can add water after briefly sautéing the meat
 
 108
 00:03:35,520 --> 00:03:36,040
-准备好了
+# 准备好了
 Here comes the water
 
 109
 00:03:37,160 --> 00:03:38,520
-加入清水加清水
+# 加入清水加清水
 Add some pure water
 
 110
 00:03:38,520 --> 00:03:39,920
-咱们就是做一汤盆
+# 咱们就是做一汤盆
 We are only making one pot of soup
 
 111
 00:03:39,960 --> 00:03:41,960
-咱自己家喝有时候一汤盆就够了
+# 咱自己家喝有时候一汤盆就够了
 One pot of soup is usually enough for our family
 
 112
 00:03:42,440 --> 00:03:44,200
-看看咱们家里人多少
+# 看看咱们家里人多少
 It depends on the number of people in our family
+
 113
 00:03:44,200 --> 00:03:45,840
-根据咱自己喝多少
+# 根据咱自己喝多少
 We cook however much we want to drink
+
 114
 00:03:45,840 --> 00:03:47,480
-所以说咱们自己做多少
+# 所以说咱们自己做多少
 We cook however much we want to drink
 
 115
 00:03:48,000 --> 00:03:50,520
-这时候咱们可以把这料加里面
+# 这时候咱们可以把这料加里面
 Now we can put the ingredients in
 
 116
 00:03:50,760 --> 00:03:51,440
-火开大点
+# 火开大点
 Turn up the heat
 
 117
 00:03:53,720 --> 00:03:55,000
-泡得的生花生
+# 泡得的生花生
 Presoaked raw peanuts
+
 118
 00:03:55,760 --> 00:03:57,400
-这样的话他等会吃的脆
+# 这样的话他等会吃的脆
 They will taste crispy after soaking
+
 119
 00:03:57,960 --> 00:04:00,520
-然后这时候咱们把泡好的木耳黄花
+# 然后这时候咱们把泡好的木耳黄花
 Then we put presoaked black fungus and daylilies
+
 120
 00:04:00,920 --> 00:04:01,960
-加入里面
+# 加入里面
 into the pan
 
 121
 00:04:02,680 --> 00:04:03,240
-海带丝
+# 海带丝
 shredded kelp
+
 122
 00:04:04,200 --> 00:04:06,200
-多搁点汤人多
+# 多搁点汤人多
 Add more water. We have many people here
+
 123
 00:04:08,920 --> 00:04:10,280
-粉条
+# 粉条
 glass noodles
 
 124
 00:04:12,440 --> 00:04:13,880
-粉条海带
+# 粉条海带
 glass noodles and kelp
 
 125
 00:04:14,440 --> 00:04:18,200
-平蘑香菇 花生米
+# 平蘑香菇 花生米
 shiitake mushroom, oyster mushroom and peanut
+
 126
 00:04:18,200 --> 00:04:19,280
-黄花
+# 黄花
 Daylilies
+
 127
 00:04:19,280 --> 00:04:19,960
-木耳
+# 木耳
 Black fungus
+
 128
 00:04:20,480 --> 00:04:21,400
-都放进去了
+# 都放进去了
 All in
+
 129
 00:04:21,960 --> 00:04:24,080
-要是我们老家放我们老家那种
+# 要是我们老家放我们老家那种
 In Henan, we will add our special
+
 130
 00:04:24,080 --> 00:04:25,000
-豆皮丝也行
+# 豆皮丝也行
 shredded tofu skin
+
 131
 00:04:25,400 --> 00:04:26,600
-加点豆皮丝
+# 加点豆皮丝
 add some shredded tofu skin
 
 132
 00:04:27,640 --> 00:04:30,120
-这个也不是不拘一格 是吧
+# 这个也不是不拘一格 是吧
 There is no limitation, right?
+
 133
 00:04:30,120 --> 00:04:30,680
-不拘一格
+# 不拘一格
 No limitation
+
 134
 00:04:30,680 --> 00:04:31,840
-有时候有什么蔬菜
+# 有时候有什么蔬菜
 Sometimes it depends on what vegetables you have
+
 135
 00:04:31,840 --> 00:04:32,880
-你想放点什么
+# 你想放点什么
 what you want to add
+
 136
 00:04:32,880 --> 00:04:34,280
-但是海带不能少
+# 但是海带不能少
 But kelp is necessary
 
 137
 00:04:34,280 --> 00:04:35,520
-因为海带提鲜
+# 因为海带提鲜
 because kelp can bring savory taste
+
 138
 00:04:36,000 --> 00:04:38,760
-海带跟面筋花生这三样
+# 海带跟面筋花生这三样
 Kelp，gluten and peanuts
+
 139
 00:04:38,760 --> 00:04:41,000
-是绝对必须要放
+# 是绝对必须要放
 are necessary
+
 140
 00:04:41,360 --> 00:04:43,680
-海带花生还有面筋
+# 海带花生还有面筋
 Kelp, peanuts and gluten
+
 141
 00:04:44,040 --> 00:04:45,440
-这时候咱们调一下味
+# 这时候咱们调一下味
 Now we season the soup
+
 142
 00:04:45,680 --> 00:04:47,560
-那么首先放胡椒粉
+# 那么首先放胡椒粉
 First we add some pepper powder
+
 143
 00:04:48,640 --> 00:04:51,160
-像咱们做基本上胡椒粉
+# 像咱们做基本上胡椒粉
 The amount of pepper powder we use,
 
 144
 00:04:51,200 --> 00:04:52,840
-根据咱们自己
+# 根据咱们自己
 depends on our own
+
 145
 00:04:52,920 --> 00:04:54,120
-就是说口味
+# 就是说口味
 taste
 
 146
 00:04:54,160 --> 00:04:58,000
-因为原来最早河南做胡辣汤
+# 因为原来最早河南做胡辣汤
 In the original recipe of pepper spicy soup in Henan,
+
 147
 00:04:58,000 --> 00:04:59,080
-胡椒粉要多
+# 胡椒粉要多
 there is a lot of pepper powder
+
 148
 00:04:59,760 --> 00:05:01,880
-胡辣汤它没有那么辣
+# 胡辣汤它没有那么辣
 (The original) pepper spicy soup is actually not that spicy
+
 149
 00:05:01,880 --> 00:05:06,480
-现在随着生活质量在提高
+# 现在随着生活质量在提高
 With the improvement of life quality
+
 150
 00:05:06,720 --> 00:05:08,720
-很多人很多都爱吃一些
+# 很多人很多都爱吃一些
 A lot of people begin to enjoy some (spicy food)
 
 151
 00:05:08,720 --> 00:05:11,040
-早上出汗的时候怎么办
+# 早上出汗的时候怎么办
 (They want to) sweat in the morning. What would you do if you want sweat?
+
 152
 00:05:11,040 --> 00:05:12,080
-那就得辣
+# 那就得辣
 You need to eat spicy food
+
 153
 00:05:13,040 --> 00:05:14,680
-这胡辣汤胡是怎么讲
+# 这胡辣汤胡是怎么讲
 Why do we call the soup "pepper spicy soup"？
+
 154
 00:05:14,800 --> 00:05:17,120
-胡就是胡椒粉
+# 胡就是胡椒粉
 Pepper-- we add pepper powder
+
 155
 00:05:17,120 --> 00:05:19,000
-咱们再加点辣椒面
+# 咱们再加点辣椒面
 Now we add some chili powder
+
 156
 00:05:19,320 --> 00:05:21,680
-这是焙好的 熟的(辣椒面)
+# 这是焙好的 熟的(辣椒面)
 It is baked, cooked (chili powder)
+
 157
 00:05:21,680 --> 00:05:24,440
-而且这个辣椒在锅里边干炒
+# 而且这个辣椒在锅里边干炒
 Bake the chilies dry (without oil) in a pan,
+
 158
 00:05:24,440 --> 00:05:26,120
-炒完以后给它磨成粉
+# 炒完以后给它磨成粉
 then grind them into powder
 
 159
 00:05:26,120 --> 00:05:27,360
-这样的话香啊
+# 这样的话香啊
 This way, they smell good
 
 160
 00:05:27,360 --> 00:05:28,320
-大家注意啊
+# 大家注意啊
 Notice here,
 
 161
 00:05:28,800 --> 00:05:30,480
-这就是提前焙好的辣椒面
+# 这就是提前焙好的辣椒面
 this is the chili powder made from baked chili
 
 162
 00:05:30,880 --> 00:05:32,360
-拿锅干焙
+# 拿锅干焙
 Baked dry in the pan
 
 163
 00:05:32,480 --> 00:05:34,160
-焙完以后再给它打碎
+# 焙完以后再给它打碎
 then grinded
 
 164
 00:05:35,080 --> 00:05:35,920
-为什么叫胡辣啊
+# 为什么叫胡辣啊
 Why is called “pepper spicy”?
 
 165
 00:05:36,400 --> 00:05:37,560
-胡椒粉的胡
+# 胡椒粉的胡
 “pepper” as in “pepper powder”
 
 166
 00:05:37,840 --> 00:05:39,840
-辣椒面的辣是吧
+# 辣椒面的辣是吧
 “spicy” as in “chili powder"
 
 167
 00:05:42,080 --> 00:05:43,320
-再加一点点五香粉
+# 再加一点点五香粉
 then add some five-spice powder
 
 168
 00:05:43,320 --> 00:05:46,120
-但五香粉一定要少加
+# 但五香粉一定要少加
 But only a small pinch of five-spice powder
 
 169
 00:05:46,840 --> 00:05:49,600
-加多了他有香料的那种味道
+# 加多了他有香料的那种味道
 Too much (five-spice powder) will overshadow other aroma.
 
 170
 00:05:49,600 --> 00:05:50,760
-太浓它就不好吃了
+# 太浓它就不好吃了
 Too dense spice taste wouldn’t taste as good
 
 171
 00:05:50,800 --> 00:05:52,000
-而且他吃到嗓子
+# 而且他吃到嗓子
 Also, if you belch,
 
 172
 00:05:52,040 --> 00:05:54,600
-就是一打嗝 还有那个味
+# 就是一打嗝 还有那个味
 the smell comes along.
 
 173
 00:05:54,600 --> 00:05:55,880
-所以说一定要少放
+# 所以说一定要少放
 So only a small pinch is enough
 
 174
 00:05:55,960 --> 00:05:56,760
-大爷您瞧见没有
+# 大爷您瞧见没有
 You see, Da Ye,
 
 175
 00:05:57,520 --> 00:05:58,760
-味道还是挺纯正的
+# 味道还是挺纯正的
 it should taste quite authentic,
 
 176
 00:05:59,280 --> 00:06:00,280
-从它的配料来看
+# 从它的配料来看
 based on its ingredients
 
 177
 00:06:00,760 --> 00:06:01,840
-一定要少放
+# 一定要少放
 Add only a small pinch (of five-spice powder)
 
 178
 00:06:02,280 --> 00:06:04,800
-有一点那个五香的那种味道
+# 有一点那个五香的那种味道
 Just enough to bring the taste of the five spices
 
 179
 00:06:06,600 --> 00:06:10,280
-所以我们老饭骨我们请人做菜
+# 所以我们老饭骨我们请人做菜
 Whenever State Banquet Master Chef invites someone to cook
+
 180
 00:06:10,520 --> 00:06:11,880
-一定要找什么
+# 一定要找什么
 we always find those
 
 181
 00:06:11,880 --> 00:06:13,000
-一是专业厨师
+# 一是专业厨师
 professional chefs
 
 182
 00:06:14,080 --> 00:06:16,120
-再有一个是纯正的本地人
+# 再有一个是纯正的本地人
 and genuine locals.
 
 183
 00:06:16,120 --> 00:06:18,840
-本土文化的佼佼者
+# 本土文化的佼佼者
 Local culture gurus
 
 184
 00:06:19,320 --> 00:06:23,600
-而且都是地方风味的一些代表
+# 而且都是地方风味的一些代表
 Representative of the local tastes
 
 185
 00:06:23,920 --> 00:06:25,600
-这时候咱们加点盐
+# 这时候咱们加点盐
 Now we add some salt
 
 186
 00:06:26,080 --> 00:06:27,360
-怎么都得两勺盐
+# 怎么都得两勺盐
 At least two spoons (of salt)
 
 187
 00:06:27,960 --> 00:06:29,880
-开锅咱们加一点点老抽
+# 开锅咱们加一点点老抽
 When the soup starts to boil, we add a little bit of dark soy sauce
 
 188
 00:06:29,880 --> 00:06:31,440
-色彩稍微淡了一点
+# 色彩稍微淡了一点
 The color is a bit too light
 
 189
 00:06:32,120 --> 00:06:33,440
-加一点点老抽
+# 加一点点老抽
 Add a bit of dark soy sauce
 
 190
 00:06:33,960 --> 00:06:35,720
-这时候咱们开始下面筋
+# 这时候咱们开始下面筋
 Now we add wheat gluten
 
 191
 00:06:35,760 --> 00:06:37,360
-撕这个面筋的时候
+# 撕这个面筋的时候
 When tearing them into pieces,
 
 192
 00:06:38,000 --> 00:06:39,520
-一定要给他揪着点
+# 一定要给他揪着点
 make sure to stretch them thinner.
+
 193
 00:06:39,560 --> 00:06:40,800
-你不揪等会太长了
+# 你不揪等会太长了
 If you do not stretch it thin enough, it will end up too long
+
 194
 00:06:40,800 --> 00:06:42,560
-跟揪片似的 对
+# 跟揪片似的 对
 Just like tearing dough slices
+
 195
 00:06:42,560 --> 00:06:45,200
-揪出来片 它撇出来的大 滑
+# 揪出来片 它撇出来的大 滑
 Gluten slices made by hand will end up bigger in size and smooth in texture
+
 196
 00:06:46,200 --> 00:06:47,920
-所以你看这种吃法啊
+# 所以你看这种吃法啊
 This way of cooking wheat gluten
 
 197
 00:06:48,040 --> 00:06:49,520
-还是挺新颖的
+# 还是挺新颖的
 is quite innovative
 
 198
 00:06:52,480 --> 00:06:56,600
-这个面筋一定给它抻开了
+# 这个面筋一定给它抻开了
 Make sure to stretch the wheat gluten fully extended
+
 199
 00:06:57,560 --> 00:06:59,960
-它就是比较亮
+# 它就是比较亮
 It will appear very bright
+
 200
 00:07:01,200 --> 00:07:02,160
-还有弹性
+# 还有弹性
 and taste chewy
 
 201
 00:07:02,400 --> 00:07:04,920
-您看 面筋洗到什么程度
+# 您看 面筋洗到什么程度
 To what extent have we washed the dough?
+
 202
 00:07:05,200 --> 00:07:07,360
-你这样看 它出花这种感觉
+# 你这样看 它出花这种感觉
 Take a look here. The gluten piece appears like flower.
+
 203
 00:07:08,240 --> 00:07:10,880
-他不像咱们那种窟窿眼的面筋
+# 他不像咱们那种窟窿眼的面筋
 It is not the same as the commercial wheat gluten full of holes.
+
 204
 00:07:10,880 --> 00:07:13,440
-但它这个面筋等一会煮出来一样有眼
+# 但它这个面筋等一会煮出来一样有眼
 But this wheat gluten will have some holes after cook as well.
+
 205
 00:07:13,920 --> 00:07:14,240
-好
+# 好
 Great
+
 206
 00:07:14,280 --> 00:07:17,200
-这时候我把刚才洗的面汤
+# 这时候我把刚才洗的面汤
 Now I will use the starch water we washed out from the dough
+
 207
 00:07:17,200 --> 00:07:18,080
-这回我明白了
+# 这回我明白了
 Now I see.
+
 208
 00:07:18,080 --> 00:07:20,760
-就是勾芡 淀粉
+# 就是勾芡 淀粉
 Use the starch water as slurry. Add slurry with it.
+
 209
 00:07:21,000 --> 00:07:21,360
-对
+# 对
 Right
+
 210
 00:07:21,360 --> 00:07:22,800
-这时候面粉勾芡之后
+# 这时候面粉勾芡之后
 Adding slurry with wheat starch
+
 211
 00:07:22,800 --> 00:07:25,320
-跟生粉勾出来就是不一样
+# 跟生粉勾出来就是不一样
 is different from adding slurry with cornstarch.
+
 212
 00:07:25,320 --> 00:07:26,520
-滑呀这个 对
+# 滑呀这个 对
 This is very smooth and silky
+
 213
 00:07:27,280 --> 00:07:28,760
-二伯说的真是特别对
+# 二伯说的真是特别对
 Er Bai made the point!
+
 214
 00:07:28,960 --> 00:07:29,480
-一是滑
+# 一是滑
 It is smooth and silky.
+
 215
 00:07:29,520 --> 00:07:31,040
-等一下咱们胡辣汤
+# 等一下咱们胡辣汤
 Later, for our pepper spicy soup,
+
 216
 00:07:31,080 --> 00:07:33,280
-还有一个最大的感觉就是说
+# 还有一个最大的感觉就是说
 another key is
+
 217
 00:07:33,680 --> 00:07:35,040
-不能用铁勺
+# 不能用铁勺
 do not use iron spoons
+
 218
 00:07:35,600 --> 00:07:37,040
-盛的时候用木勺盛
+# 盛的时候用木勺盛
 Only serve with wood spoons
+
 219
 00:07:37,080 --> 00:07:38,600
-这样的话容易给它澥
+# 这样的话容易给它澥
 Otherwise it will become thin.
+
 220
 00:07:38,640 --> 00:07:40,880
-等一会咱盛汤的时候用木勺
+# 等一会咱盛汤的时候用木勺
 When we serve the soup we will use wood spoons
+
 221
 00:07:51,960 --> 00:07:53,000
-没糟蹋呀
+# 没糟蹋呀
 Didn't waste anything
+
 222
 00:07:53,560 --> 00:07:54,160
-对
+# 对
 Yes
+
 223
 00:07:55,160 --> 00:07:56,360
-物尽其用
+# 物尽其用
 Made the best of every ingredients
+
 224
 00:07:59,320 --> 00:08:00,280
-慢慢就稠了
+# 慢慢就稠了
 (The soup) thickens slowly.
+
 225
 00:08:01,520 --> 00:08:05,400
-它比淀粉勾出来亮 匀 是吧
+# 它比淀粉勾出来亮 匀 是吧
 It is brighter and more even than slurry from cornstarch, right?
+
 226
 00:08:06,840 --> 00:08:08,200
-用您的话说呢
+# 用您的话说呢
 To paraphrase your words,
+
 227
 00:08:09,000 --> 00:08:10,320
-稳 柔
+# 稳 柔
 smooth and soft
+
 228
 00:08:11,880 --> 00:08:12,920
-差不多了
+# 差不多了
 Almost done.
+
 229
 00:08:15,880 --> 00:08:19,400
-开锅的时候把这个沫稍微的撇一点
+# 开锅的时候把这个沫稍微的撇一点
 When the soup boils, remove the floating scum.
+
 230
 00:08:20,320 --> 00:08:21,480
-把沫撇出来
+# 把沫撇出来
 Remove the floating scum
+
 231
 00:08:21,480 --> 00:08:23,960
-其实咱们这样开着锅它不影响
+# 其实咱们这样开着锅它不影响
 In fact, it is OK to boil the soup like this
+
 232
 00:08:23,960 --> 00:08:25,640
-它不像咱们做其他汤
+# 它不像咱们做其他汤
 This is not like making other soups
+
 233
 00:08:25,680 --> 00:08:27,120
-比如说咱们芡一勾完
+# 比如说咱们芡一勾完
 Once we finished adding slurry,
+
 234
 00:08:27,160 --> 00:08:28,280
-那必须得出锅了
+# 那必须得出锅了
 we need to remove it from heat immediately.
+
 235
 00:08:28,280 --> 00:08:31,120
-它这个没事 可以多熬一会
+# 它这个没事 可以多熬一会
 This (pepper spicy soup) is fine. We can boil it longer.
+
 236
 00:08:31,560 --> 00:08:33,320
-因为他放了刚才有花生米啊
+# 因为他放了刚才有花生米啊
 Because we added raw peanuts,
+
 237
 00:08:33,760 --> 00:08:34,120
-是吧
+# 是吧
 right?
+
 238
 00:08:34,120 --> 00:08:34,680
-有海带
+# 有海带
 And kelp
+
 239
 00:08:34,680 --> 00:08:35,760
-他这样煮一会
+# 他这样煮一会
 We cook for a while
+
 240
 00:08:35,800 --> 00:08:36,480
-他禁煮
+# 他禁煮
 They can hold longer boiling.
+
 241
 00:08:37,240 --> 00:08:38,440
-你这时候看这个面筋
+# 你这时候看这个面筋
 Now check the wheat gluten
+
 242
 00:08:38,480 --> 00:08:39,280
-你看就出来了
+# 你看就出来了
 You understand now
+
 243
 00:08:39,480 --> 00:08:40,680
-越看就好看了
+# 越看就好看了
 It is more beautiful over time.
+
 244
 00:08:40,720 --> 00:08:41,560
-越看越好看
+# 越看越好看
 Look better and better!
+
 245
 00:08:41,960 --> 00:08:43,480
-跟那花胶肚似的
+# 跟那花胶肚似的
 Just like fish maw.
+
 246
 00:08:46,160 --> 00:08:47,120
-面筋发亮
+# 面筋发亮
 The gluten is bright,
+
 247
 00:08:47,280 --> 00:08:48,120
-浮起
+# 浮起
 floating on the surface.
+
 248
 00:08:48,880 --> 00:08:52,760
-这面筋煮的就跟一朵朵花似的
+# 这面筋煮的就跟一朵朵花似的
 The cooked gluten pieces looks like flowers
+
 249
 00:08:53,840 --> 00:08:54,520
-来吧
+# 来吧
 Now it's done
+
 250
 00:08:56,120 --> 00:08:57,640
-这时候咱们放香油
+# 这时候咱们放香油
 Add sesame oil now
+
 251
 00:08:57,640 --> 00:09:01,720
-河南的正宗的胡辣汤 就中了
+# 河南的正宗的胡辣汤 就中了
 Authentic Henan pepper spicy soup, finished!
+
 252
 00:09:02,120 --> 00:09:02,800
-香菜
+# 香菜
 Some cilantro
+
 253
 00:09:05,360 --> 00:09:07,680
-怎么样大爷说说感受
+# 怎么样大爷说说感受
 How do you like it, Da Ye? Share some thoughts?
+
 254
 00:09:08,760 --> 00:09:09,920
-我看您光顾着喝了
+# 我看您光顾着喝了
 You are so focused on eating,
+
 255
 00:09:10,120 --> 00:09:11,440
-话都出不来了
+# 话都出不来了
 that you forgot to talk
+
 256
 00:09:11,440 --> 00:09:12,760
-不是 我得品一品这味儿啊
+# 不是 我得品一品这味儿啊
 No, I just need to savor it carefully
+
 257
 00:09:14,080 --> 00:09:16,400
-我这个照相摄像我手都累了
+# 我这个照相摄像我手都累了
 I am very tired holding this camera
+
 258
 00:09:16,400 --> 00:09:16,840
-是不是
+# 是不是
 Right?
+
 259
 00:09:19,480 --> 00:09:22,440
-首先胡椒粉的味十足
+# 首先胡椒粉的味十足
 Firstly, it is full of pepper taste.
+
 260
 00:09:22,440 --> 00:09:24,400
-辣味儿适度
+# 辣味儿适度
 Mildly spicy.
+
 261
 00:09:24,600 --> 00:09:28,120
-大爷喝了两口汗下来了
+# 大爷喝了两口汗下来了
 Da Ye sweats after drinking just a little (soup)
+
 262
 00:09:29,960 --> 00:09:33,280
-咸 香 鲜十足
+# 咸 香 鲜十足
 Salty, savory, full of umami taste
+
 263
 00:09:33,280 --> 00:09:36,360
-确实代表了我们中原大地的
+# 确实代表了我们中原大地的
 Indeed, it represents the food culture
+
 264
 00:09:36,520 --> 00:09:38,040
-饮食文化的一部分
+# 饮食文化的一部分
 of the central Chinese plains
+
 265
 00:09:39,320 --> 00:09:40,040
-这面筋好
+# 这面筋好
 The wheat gluten is great
+
 266
 00:09:41,760 --> 00:09:43,680
-这一次二伯没皱眉头
+# 这一次二伯没皱眉头
 Er Bai did not frown this time
+
 267
 00:09:44,880 --> 00:09:46,440
-喝美了
+# 喝美了
 He likes it
+
 268
 00:09:46,720 --> 00:09:48,360
-你们要不喝这个
+# 你们要不喝这个
 If you do not drink the soup,
+
 269
 00:09:48,880 --> 00:09:49,560
-后悔吧
+# 后悔吧
 you will regret it.
+
 270
 00:09:49,560 --> 00:09:50,760
-你后悔一辈子
+# 你后悔一辈子
 You will regret it forever.
