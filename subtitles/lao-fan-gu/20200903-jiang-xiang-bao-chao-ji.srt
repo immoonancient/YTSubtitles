@@ -117,7 +117,7 @@ Firstly, we process this chicken.
 17
 00:00:27,720 --> 00:00:30,120
 # 把鸡嘴也叫喙切掉
-Cut off the chicken mouth, also called beak.
+Cut off the chicken mouth, also called the beak.
 
 18
 00:00:30,640 --> 00:00:32,160
