@@ -582,7 +582,7 @@ Then we make the second round of seasoning.
 110
 00:03:42,360 --> 00:03:43,640
 # 这个蒜呢我们是后放
-This garlic we add in the later round,
+We add garlic in the later round
 
 111
 00:03:43,640 --> 00:03:45,040
