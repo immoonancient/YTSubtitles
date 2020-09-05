@@ -932,7 +932,7 @@ The taste is great!
 180
 00:06:22,080 --> 00:06:22,960
 # 有网友问您说
-There’s a question online that asking you:
+There’s a question online for you:
 
 181
 00:06:23,000 --> 00:06:25,720
