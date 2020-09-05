@@ -112,7 +112,7 @@ we need to use a pressure cooker to make it done faster.
 16
 00:00:25,840 --> 00:00:27,440
 # 第一步咱们先处理一下
-First of all, we deal with this chicken.
+Firstly, we process this chicken.
 
 17
 00:00:27,720 --> 00:00:30,120
