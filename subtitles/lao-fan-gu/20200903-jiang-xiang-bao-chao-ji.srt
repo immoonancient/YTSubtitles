@@ -1032,7 +1032,7 @@ we add less of it.
 200
 00:06:51,680 --> 00:06:53,320
 # 味儿轻的可以多放一点
-If light aroma, we can put it more.
+If it has light aroma, we can add more.
 
 201
 00:06:53,600 --> 00:06:54,680
