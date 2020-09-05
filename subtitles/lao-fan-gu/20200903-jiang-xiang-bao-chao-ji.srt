@@ -37,7 +37,7 @@
 1
 00:00:01,160 --> 00:00:02,600
 # 家庭版的一个炒鸡
-Home cooking version stir fry chicken
+Home cooking version of stir-fry chicken
 
 2
 00:00:02,600 --> 00:00:03,920
