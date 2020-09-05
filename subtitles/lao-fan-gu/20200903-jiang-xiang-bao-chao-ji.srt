@@ -662,7 +662,7 @@ We don’t need to add salt.
 126
 00:04:18,240 --> 00:04:20,760
 # 之前有这个酱油有耗油
-Already having soy sauce, oyster sauce,
+It already has soy sauce, oyster sauce,
 
 127
 00:04:21,320 --> 00:04:22,880
