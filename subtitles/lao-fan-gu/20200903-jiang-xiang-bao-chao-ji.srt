@@ -497,7 +497,7 @@ Huangjiu rice wine
 93
 00:03:06,640 --> 00:03:08,800
 # 再次煸炒这时候再开始加水
-Stir fry again, then add more water.
+Stir fry again, then add water.
 
 94
 00:03:09,680 --> 00:03:12,800
