@@ -1052,7 +1052,7 @@ Then add huangjiu rice wine,
 204
 00:07:00,160 --> 00:07:01,560
 # 冰糖糖色
-sugar color of crystal sugar,
+crystal sugar, and caramelized sugar.
 
 205
 00:07:01,760 --> 00:07:03,000
