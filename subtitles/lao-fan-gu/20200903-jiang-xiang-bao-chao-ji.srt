@@ -407,7 +407,7 @@ Why don’t you add dried chili pepper first?
 75
 00:02:17,280 --> 00:02:19,320
 # 干辣椒先放的时候它容易糊
-If add dried chili pepper first, it would be easily burnt.
+If dried chili pepper is added first, it would be easily burnt.
 
 76
 00:02:19,320 --> 00:02:20,600
