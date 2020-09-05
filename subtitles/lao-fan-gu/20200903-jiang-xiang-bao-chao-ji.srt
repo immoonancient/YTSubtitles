@@ -642,7 +642,7 @@ will not taste the same way if we stewed for too long.
 122
 00:04:11,200 --> 00:04:13,480
 # 口感和味道可能就比较辣了
-that the flavour may be too spicy.
+The flavor might be too spicy (if we stewed too long).
 
 123
 00:04:13,480 --> 00:04:15,840
