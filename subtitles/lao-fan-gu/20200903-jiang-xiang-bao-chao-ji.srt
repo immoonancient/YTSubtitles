@@ -1197,7 +1197,7 @@ When the soup cools down,
 233
 00:07:51,640 --> 00:07:53,000
 # 温了能下
-becomes warm,
+becomes warm
 
 234
 00:07:53,200 --> 00:07:53,800
