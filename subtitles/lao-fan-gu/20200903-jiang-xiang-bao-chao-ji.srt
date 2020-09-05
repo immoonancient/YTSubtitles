@@ -1072,7 +1072,7 @@ xh(brand) has a crystal sugar dark soy sauce.
 208
 00:07:06,240 --> 00:07:07,840
 # 它的颜色比较稳定
-its colour is quite stable.
+Its colour is quite stable.
 
 209
 00:07:08,240 --> 00:07:09,480
