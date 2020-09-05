@@ -632,7 +632,7 @@ In this way,  the green onions, garlic,
 120
 00:04:05,400 --> 00:04:07,000
 # 还有螺丝椒也好
-and screw pepper,
+and screw peppers
 
 121
 00:04:07,000 --> 00:04:10,360
