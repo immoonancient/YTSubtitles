@@ -30,7 +30,7 @@
 # 4.挑出姜、辣椒等香料，加入蒜瓣、青椒块收汁，加入适量胡椒粉
 # Take out spices like ginger and chili pepper from the pot. Add garlic and diced green pepper and reduce the sauce. Then add some pepper powder.
 # 5.最后放入葱段，汤汁粘稠，出锅装盘
-# In the end, add green onion sections, until the sauce is concentrated, dish it up.
+# In the end, add green onion sections, cook until the sauce is concentrated, then dish it up.
 
 # 字幕
 
