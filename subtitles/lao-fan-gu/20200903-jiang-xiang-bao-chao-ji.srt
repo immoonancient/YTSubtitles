@@ -367,7 +367,7 @@ to remove some stinky smell.
 67
 00:02:04,320 --> 00:02:06,760
 # 调料就是香味渗透到鸡里边
-penetrate the aroma of seasonings into the chicken.
+Let the aroma of seasonings permeate the chicken.
 
 68
 00:02:06,840 --> 00:02:07,280
