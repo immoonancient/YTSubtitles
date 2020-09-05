@@ -742,7 +742,7 @@ A home cooking version of high heat stir fry chicken with soybean paste.
 142
 00:05:00,720 --> 00:05:02,520
 # 不能给它烧的太干
-Cannot make it too dry.
+Should not make it too dry.
 
 143
 00:05:02,960 --> 00:05:05,280
