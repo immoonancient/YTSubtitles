@@ -1127,7 +1127,7 @@ Remove the scum thoroughly.
 219
 00:07:25,160 --> 00:07:27,320
 # 煮大约二十分钟
-boil for about 20 mins
+Boil for about 20 minutes
 
 220
 00:07:27,360 --> 00:07:28,480
