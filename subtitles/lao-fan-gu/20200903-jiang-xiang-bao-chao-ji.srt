@@ -892,7 +892,7 @@ Moreover,
 172
 00:05:56,600 --> 00:05:58,960
 # 还相互不影响 相互不夺味
-they are not influenced by each other in the flavour.
+they do not conflict with each other in flavor.
 
 173
 00:05:58,960 --> 00:06:00,200
