@@ -1107,7 +1107,7 @@ add scallion, ginger,
 215
 00:07:17,440 --> 00:07:18,880
 # 黄酒 盐
-yellow wine, salt,
+huangjiu rice wine, salt,
 
 216
 00:07:18,960 --> 00:07:21,000
