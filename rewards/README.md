@@ -22,6 +22,7 @@
 
 | 月份 | [美食作家王刚](https://www.youtube.com/channel/UCg0m_Ah8P_MQbnn77-vYnYw) | [雪鱼探店](https://www.youtube.com/channel/UCwUFx_z61wqMV8zTUVDNV1w) | [老饭骨](https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg) |
 | ----- | ---------- | -------- | --------------- |
+| 2020 年 8 月 | [表格链接](wang-gang/202008.md) | [表格链接](xue-yu/202008.md) | [表格链接](lao-fan-gu/202008.md) |
 | 2020 年 7 月 | [表格链接](wang-gang/202007.md) | [表格链接](xue-yu/202007.md) | [表格链接](lao-fan-gu/202007.md) |
 | 2020 年 6 月 | [表格链接](wang-gang/202006.md) | [表格链接](xue-yu/202006.md) | [表格链接](lao-fan-gu/202006.md) |
 | 2020 年 5 月 | [表格链接](wang-gang/202005.md) | [表格链接](xue-yu/202005.md) | [表格链接](lao-fan-gu/202005.md) |
