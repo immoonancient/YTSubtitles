@@ -1017,7 +1017,7 @@ cardamom,
 197
 00:06:45,200 --> 00:06:49,120
 # 丁香草果大约在八种左右这种料
-clove, tsaoko, around eight these kinds of seasonings.
+clove, tsaoko. Around eight kinds of seasonings.
 
 198
 00:06:49,160 --> 00:06:50,320
