@@ -507,7 +507,7 @@ How much water is appropriate?
 95
 00:03:12,800 --> 00:03:16,000
 # 就是一没过鸡就可以
-As much as it can just soak the chicken.
+Just enough to cover the chicken.
 
 96
 00:03:16,560 --> 00:03:20,320
