@@ -1057,7 +1057,7 @@ crystal sugar, and caramelized sugar.
 205
 00:07:01,760 --> 00:07:03,000
 # 适当的加点什么
-add a few
+add some
 
 206
 00:07:03,000 --> 00:07:03,840
