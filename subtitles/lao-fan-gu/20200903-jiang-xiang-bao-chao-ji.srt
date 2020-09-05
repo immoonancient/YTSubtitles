@@ -1067,7 +1067,7 @@ dark soy sauce.
 207
 00:07:03,960 --> 00:07:06,240
 # xh里边有一个冰糖老抽
-xh has a crystal sugar dark soy sauce,
+xh(brand) has a crystal sugar dark soy sauce.
 
 208
 00:07:06,240 --> 00:07:07,840
