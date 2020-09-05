@@ -522,7 +522,7 @@ Good! Nice red color！
 98
 00:03:22,960 --> 00:03:25,160
 # 现在烧一会 可以歇会
-Now boil it for a while, can take a rest.
+Now boil and stew it for a while. We can take a break.
 
 99
 00:03:25,600 --> 00:03:26,360
