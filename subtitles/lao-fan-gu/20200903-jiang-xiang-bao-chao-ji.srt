@@ -397,7 +397,7 @@ and it starts to produce popping sound,
 73
 00:02:13,520 --> 00:02:16,080
 # 证明水气已经煸的差不多了
-which means it’s dry enough.
+it means it’s dry enough.
 
 74
 00:02:16,080 --> 00:02:17,240
