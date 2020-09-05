@@ -897,7 +897,7 @@ they do not conflict with each other in flavor.
 173
 00:05:58,960 --> 00:06:00,200
 # 如果说要先下蒜
-If adding the garlic in the beginning,
+If you add the garlic in the beginning,
 
 174
 00:06:00,200 --> 00:06:01,120
