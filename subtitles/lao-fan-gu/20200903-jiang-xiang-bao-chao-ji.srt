@@ -627,7 +627,7 @@ we add green onions.
 119
 00:04:02,440 --> 00:04:05,200
 # 这样的话它葱也好蒜也好
-In this case, green onion, garlic,
+In this way,  the green onions, garlic,
 
 120
 00:04:05,400 --> 00:04:07,000
