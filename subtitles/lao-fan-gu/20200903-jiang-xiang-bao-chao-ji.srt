@@ -792,7 +792,7 @@ Is it spicy?
 152
 00:05:19,200 --> 00:05:19,720
 # 刚刚好
-Just an appropriate level
+Perfect spicy level
 
 153
 00:05:20,000 --> 00:05:21,000
