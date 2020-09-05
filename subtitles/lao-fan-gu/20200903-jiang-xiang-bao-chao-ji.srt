@@ -212,7 +212,7 @@ Chop chicken into pieces.
 36
 00:01:00,280 --> 00:01:02,400
 # 下一步咱们就准备要开始炒制
-Next step, we are going to fry.
+Next step, we are going to stir fry.
 
 37
 00:01:02,400 --> 00:01:04,960
