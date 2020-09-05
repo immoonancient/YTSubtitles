@@ -127,7 +127,7 @@ Then (cut off) chicken feet tips.
 19
 00:00:32,400 --> 00:00:33,600
 # 藏污纳垢
-Hide dirt there.
+Dirt is hidden there.
 
 20
 00:00:33,640 --> 00:00:34,960
