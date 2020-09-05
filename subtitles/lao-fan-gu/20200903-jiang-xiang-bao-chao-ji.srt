@@ -362,7 +362,7 @@ Evaporate the moisture,
 66
 00:02:02,800 --> 00:02:04,320
 # 煸去它一些腥味
-remove some stinky smell,
+to remove some stinky smell.
 
 67
 00:02:04,320 --> 00:02:06,760
