@@ -1227,7 +1227,7 @@ brush a little oil on the top of it,
 239
 00:08:02,400 --> 00:08:05,000
 # 或者刷一点卤汤
-or brush a little brine soup,
+or brush a little master stock
 
 240
 00:08:05,280 --> 00:08:07,600
