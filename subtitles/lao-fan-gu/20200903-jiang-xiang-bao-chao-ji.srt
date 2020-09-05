@@ -722,7 +722,7 @@ Da Ye, master, see, the sauce is sticky.
 138
 00:04:50,880 --> 00:04:52,640
 # 这时候也差不多了我们可以关火
-Now is almost the time to turn it off.
+Now is almost the time to turn the heat off.
 
 139
 00:04:52,920 --> 00:04:53,280
