@@ -1232,4 +1232,4 @@ or brush a little master stock
 240
 00:08:05,280 --> 00:08:07,600
 # 这样保持它表面上不会风干
-so that the surface won’t be dried.
+to keep the surface from drying out.
