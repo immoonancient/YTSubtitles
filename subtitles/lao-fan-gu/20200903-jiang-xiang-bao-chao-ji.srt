@@ -1157,7 +1157,7 @@ Pork knuckle,
 225
 00:07:35,160 --> 00:07:38,080
 # 猪蹄大约一个半小时左右就可以了
-pork trotters need to boil for one and half hour.
+and pork trotters need to be marinaded for one and half hour.
 
 226
 00:07:38,440 --> 00:07:40,720
