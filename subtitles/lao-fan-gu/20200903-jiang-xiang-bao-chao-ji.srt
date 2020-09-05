@@ -197,7 +197,7 @@ we found some issues.
 33
 00:00:53,320 --> 00:00:56,600
 # 两边有那血再清洗一遍
-There’s blood on both sides, wash it again.
+There’s blood on both sides. Wash it again.
 
 34
 00:00:56,920 --> 00:00:57,920
