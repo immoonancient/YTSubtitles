@@ -1152,7 +1152,7 @@ Move the ingredients into the master stock to marinade.
 224
 00:07:34,520 --> 00:07:34,880
 # 肘子
-Pork knuckle,
+Pork knuckle
 
 225
 00:07:35,160 --> 00:07:38,080
