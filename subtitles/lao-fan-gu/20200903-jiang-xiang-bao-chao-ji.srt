@@ -162,7 +162,7 @@ chicken is bought from the market.
 26
 00:00:42,440 --> 00:00:43,760
 # 它内脏几乎给扣了
-Its viscera are almost removed.
+Its viscera are mostly removed.
 
 27
 00:00:43,760 --> 00:00:45,040
