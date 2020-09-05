@@ -812,7 +812,7 @@ No thanks, I'm good.
 156
 00:05:24,400 --> 00:05:25,880
 # 回去睡不着了
-Cannot fall asleep when get back home.
+Cannot fall asleep when I get back home.
 
 157
 00:05:26,560 --> 00:05:28,080
