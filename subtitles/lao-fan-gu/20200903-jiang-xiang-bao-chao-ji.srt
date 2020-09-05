@@ -807,7 +807,7 @@ No thanks, I'm good.
 155
 00:05:21,640 --> 00:05:23,960
 # 再来一块吧 不行不行晚上不能吃太多
-- Just another piece. – No, no, cannot eat that much at night.
+- Just another piece. – No, no. I should not eat that much at night.
 
 156
 00:05:24,400 --> 00:05:25,880
