@@ -182,7 +182,7 @@ Slice it open.
 30
 00:00:48,480 --> 00:00:50,000
 # 小四这鸡拾掇得挺干净
-Xiao Si cleans this chicken thoroughly.
+Xiao Si cleaned this chicken thoroughly.
 
 31
 00:00:50,760 --> 00:00:52,160
