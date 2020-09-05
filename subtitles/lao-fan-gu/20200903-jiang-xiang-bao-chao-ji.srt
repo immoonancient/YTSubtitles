@@ -492,7 +492,7 @@ After stir-frying, we add huangjiu rice wine.
 92
 00:03:04,480 --> 00:03:05,680
 # 黄酒
-Yellow wine.
+Huangjiu rice wine
 
 93
 00:03:06,640 --> 00:03:08,800
