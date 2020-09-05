@@ -867,7 +867,7 @@ Er Bai is hungry.
 167
 00:05:46,360 --> 00:05:47,840
 # 一鸡腿一下就下去了
-Finish a chicken leg all of a sudden.
+He finished a chicken leg so quickly.
 
 168
 00:05:48,560 --> 00:05:49,520
