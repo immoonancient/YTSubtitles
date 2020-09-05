@@ -152,7 +152,7 @@ Then it’s clean.
 24
 00:00:40,440 --> 00:00:41,440
 # 一般家庭里来说
-Usually for family,
+Usually for a family,
 
 25
 00:00:41,560 --> 00:00:42,240
