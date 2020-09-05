@@ -452,7 +452,7 @@ Now add soy sauce.
 84
 00:02:43,000 --> 00:02:45,440
 # 完了这个时候它的颜色不够
-At this moment, the color is not dark enough.
+The color is not dark enough.
 
 85
 00:02:45,440 --> 00:02:46,600
