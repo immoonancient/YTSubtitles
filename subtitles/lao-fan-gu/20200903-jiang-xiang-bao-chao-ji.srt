@@ -422,7 +422,7 @@ The vapor has almost run out.
 78
 00:02:24,680 --> 00:02:28,680
 # 这时候我们再把干辣椒 下里
-At this moment, we then add dried chili pepper into the pot.
+At this moment, we add dried chili pepper into the pot.
 
 79
 00:02:29,600 --> 00:02:30,760
