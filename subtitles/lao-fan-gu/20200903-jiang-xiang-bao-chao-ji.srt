@@ -377,7 +377,7 @@ At this moment,
 69
 00:02:07,520 --> 00:02:08,640
 # 现在锅里还在冒泡时候
-water is boiling in the pot now,
+we still see bubbling in the pot,
 
 70
 00:02:08,680 --> 00:02:10,280
