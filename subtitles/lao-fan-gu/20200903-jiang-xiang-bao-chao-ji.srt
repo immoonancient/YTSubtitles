@@ -1102,7 +1102,7 @@ When soup base is ready,
 214
 00:07:16,160 --> 00:07:17,080
 # 葱姜
-scallion, ginger,
+add scallion, ginger,
 
 215
 00:07:17,440 --> 00:07:18,880
