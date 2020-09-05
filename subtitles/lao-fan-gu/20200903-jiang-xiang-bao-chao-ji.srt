@@ -217,7 +217,7 @@ Next step, we are going to stir fry.
 37
 00:01:02,400 --> 00:01:04,960
 # 这个料我给大家伙简单介绍一下
-Let me briefly introduce the ingredients to you guys.
+Let me briefly introduce the ingredients.
 
 38
 00:01:05,400 --> 00:01:07,760
