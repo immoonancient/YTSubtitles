@@ -382,7 +382,7 @@ we still see bubbling in the pot,
 70
 00:02:08,680 --> 00:02:10,280
 # 证明水气还没有煸干
-which means it’s not dry enough.
+meaning it’s not dry enough.
 
 71
 00:02:10,880 --> 00:02:11,840
