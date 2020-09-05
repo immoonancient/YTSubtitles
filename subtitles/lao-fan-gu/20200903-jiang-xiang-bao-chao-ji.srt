@@ -877,7 +877,7 @@ What’s most special?
 169
 00:05:50,440 --> 00:05:51,680
 # 他这分层次
-He sets up multiple layers,
+He sets up multiple layers (of flavors),
 
 170
 00:05:52,400 --> 00:05:55,160
