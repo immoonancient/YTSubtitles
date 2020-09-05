@@ -472,7 +472,7 @@ When it’s done, it will be dark red.
 88
 00:02:52,000 --> 00:02:54,840
 # 这时候我把姜先拍两下
-Now I smash the ginger first.
+Now I smash the ginger.
 
 89
 00:02:56,040 --> 00:02:57,680
