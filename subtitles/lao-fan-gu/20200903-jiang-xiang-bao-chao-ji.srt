@@ -1027,7 +1027,7 @@ If it has strong aroma,
 199
 00:06:50,320 --> 00:06:51,360
 # 我们要少放点
-we put it less.
+we add less of it.
 
 200
 00:06:51,680 --> 00:06:53,320
