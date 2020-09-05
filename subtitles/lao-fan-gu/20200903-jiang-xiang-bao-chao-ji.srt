@@ -1172,7 +1172,7 @@ After beef is done,
 228
 00:07:42,600 --> 00:07:43,880
 # 肘子出来以后
-pork knuckle is done,
+or pork knuckle is done,
 
 229
 00:07:44,080 --> 00:07:46,040
