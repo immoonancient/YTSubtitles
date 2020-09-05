@@ -772,7 +772,7 @@ Chicken leg.
 148
 00:05:10,160 --> 00:05:12,400
 # 看看这个后搁葱什么效果
-Let’s see how it is about adding green onion and garlic at last.
+Let’s see how it taste by adding green onion and garlic last.
 
 149
 00:05:13,920 --> 00:05:15,200
