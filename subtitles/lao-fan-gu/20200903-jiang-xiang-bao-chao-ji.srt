@@ -357,7 +357,7 @@ Firstly, we stir fry it on high heat.
 65
 00:02:01,200 --> 00:02:02,800
 # 把这个水分煸出来
-stir out the water,
+Evaporate the moisture,
 
 66
 00:02:02,800 --> 00:02:04,320
