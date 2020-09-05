@@ -467,7 +467,7 @@ Dark soy sauce can tone the color.
 87
 00:02:49,600 --> 00:02:51,120
 # 出来到时候是酱红色
-When it’s done, it’s dark red.
+When it’s done, it will be dark red.
 
 88
 00:02:52,000 --> 00:02:54,840
