@@ -607,7 +607,7 @@ Now we turn up the heat on high,
 115
 00:03:53,160 --> 00:03:55,200
 # 收汁 这个汁收到1/3的时候
-do reduction. When the sauce is 1/3 left,
+reduce the sauce. When the sauce reduced to 1/3,
 
 116
 00:03:55,240 --> 00:03:58,160
