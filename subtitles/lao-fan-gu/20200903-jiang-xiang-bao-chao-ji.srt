@@ -1207,7 +1207,7 @@ to touch
 235
 00:07:53,840 --> 00:07:55,320
 # 能下漏勺了
-can use a colander
+we can use a colander
 
 236
 00:07:55,440 --> 00:07:57,320
