@@ -672,7 +672,7 @@ and soybean paste,
 128
 00:04:23,240 --> 00:04:24,600
 # 这样咸味就够了
-the savour is enough.
+the saltiness is enough.
 
 129
 00:04:24,760 --> 00:04:26,600
