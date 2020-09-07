@@ -147,7 +147,7 @@ So today we will use bean jelly
 26
 00:01:00,600 --> 00:01:02,400
 # 它的原材料很简单了
-Its materials are fairly simple
+The ingredients (of Chinese samosa) are fairly simple
 
 27
 00:01:02,680 --> 00:01:05,000
