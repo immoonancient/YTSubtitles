@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•炸三角】老北京胡同里的味道——金黄酥脆炸三角，一口下去满屋飘香！入行厨师前的准备|老饭骨
-# 【State Banquet Master Chef】 old traditional Beijing snack, crispy golden Chinese samosa| preparing advices for new chefs
+# 【State Banquet Master Chef】traditional Beijing snack, crispy Chinese samosa| advice for new chefs
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
