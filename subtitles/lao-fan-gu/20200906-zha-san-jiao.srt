@@ -617,7 +617,7 @@ After resting
 120
 00:04:06,800 --> 00:04:08,120
 # 再揉一下
-Knead it for a while
+Knead it again
 
 121
 00:04:09,000 --> 00:04:10,480
