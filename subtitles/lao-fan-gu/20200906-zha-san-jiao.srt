@@ -58,7 +58,7 @@ Vegetarian Chinese samosa
 8
 00:00:20,800 --> 00:00:23,440
 # 老北京的传统小吃
-Traditional old Beijing’s snack
+Traditional Beijing snack
 
 9
 00:00:23,440 --> 00:00:24,440
