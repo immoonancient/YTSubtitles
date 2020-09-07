@@ -557,7 +557,7 @@ For your information
 108
 00:03:40,800 --> 00:03:41,880
 # 放水要均匀
-Water should be well-distributed
+Add the water evenly
 
 109
 00:03:43,440 --> 00:03:45,360
