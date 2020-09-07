@@ -327,7 +327,7 @@ Cilantro
 62
 00:02:01,440 --> 00:02:02,280
 # 这好香啊
-This smell so nice
+This smells so nice
 
 63
 00:02:02,640 --> 00:02:03,560
