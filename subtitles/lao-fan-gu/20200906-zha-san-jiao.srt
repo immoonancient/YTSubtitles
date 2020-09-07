@@ -317,7 +317,7 @@ Then soak in soy sauce
 60
 00:01:58,560 --> 00:02:00,400
 # 香菜切成末是吧
-Cut cilantro into mince
+Mince the cilantro
 
 61
 00:02:00,600 --> 00:02:01,280
