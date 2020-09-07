@@ -152,7 +152,7 @@ The ingredients (of Chinese samosa) are fairly simple
 27
 00:01:02,680 --> 00:01:05,000
 # 胡萝卜我们就用擦子
-We use Cazi to shred carrot
+We use food grater to shred the carrot
 
 28
 00:01:05,040 --> 00:01:05,680
