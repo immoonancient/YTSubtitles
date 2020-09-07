@@ -332,7 +332,7 @@ This smells so nice
 63
 00:02:02,640 --> 00:02:03,560
 # 小葱花
-Green onion mince
+Minced green onion
 
 64
 00:02:03,880 --> 00:02:04,960
