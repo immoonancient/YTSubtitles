@@ -177,7 +177,7 @@ It works immediately
 32
 00:01:10,160 --> 00:01:11,120
 # 然后就听话了
-Successfully cure the carrots
+to soften the carrots
 
 33
 00:01:11,120 --> 00:01:12,040
