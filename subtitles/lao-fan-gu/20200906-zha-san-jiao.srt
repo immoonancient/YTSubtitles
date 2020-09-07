@@ -87,7 +87,7 @@ Traditionally it should contain Menzi
 14
 00:00:33,320 --> 00:00:35,080
 # 就是用咱们的淀粉
-Same as the starch we use
+Which is made from starch
 
 15
 00:00:35,120 --> 00:00:37,800
