@@ -182,7 +182,7 @@ to soften the carrots
 33
 00:01:11,120 --> 00:01:12,040
 # 增加底味
-By adding its basic flavor
+and add basic flavor
 
 34
 00:01:12,040 --> 00:01:12,280
