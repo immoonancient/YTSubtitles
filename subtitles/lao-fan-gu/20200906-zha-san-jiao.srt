@@ -597,7 +597,7 @@ Dough is almost complete
 116
 00:04:00,480 --> 00:04:03,000
 # 你看看就这点水和这点面
-Only using this little water to knead the dough
+Use only these water and flour to knead the dough
 
 117
 00:04:03,400 --> 00:04:04,480
