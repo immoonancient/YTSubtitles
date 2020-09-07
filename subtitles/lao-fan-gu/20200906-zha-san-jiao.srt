@@ -487,7 +487,7 @@ Until it’s seasoned
 94
 00:03:05,840 --> 00:03:07,640
 # 这个基本上就行了
-Then it’s considered done
+Then it’s ready to use
 
 95
 00:03:07,640 --> 00:03:09,120
