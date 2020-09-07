@@ -102,7 +102,7 @@ Add 5 times of water
 17
 00:00:39,840 --> 00:00:41,680
 # 搁些酱油熬这个
-Put some soy sauce to stew
+Add some soy sauce and simmer (the slurry)
 
 18
 00:00:41,760 --> 00:00:44,560
