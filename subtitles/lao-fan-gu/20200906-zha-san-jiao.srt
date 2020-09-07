@@ -2,8 +2,8 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•炸三角】老北京胡同里的味道——金黄酥脆炸三角，一口下去满屋飘香！入行厨师前的准备|老饭骨
-# 【State Banquet Master Chef】traditional Beijing snack, crispy Chinese samosa| advice for new chefs
-# |--------------------------- title should not be longer than this line ----------------------------|
+# State Banquet Master Chef -Traditional Beijing snack, crispy Chinese samosa & advice for new chefs
+
 
 # 简介
 
@@ -17,6 +17,8 @@
 # Friends, click and watch the video for specific procedure. Pay attention that if you fry the samosas separately, you could put the early cooked ones back to the pan to heat for a while. Make sure they are served in the same temperature.
 # Samosas are very crispy with the aroma of cilantro, green onion, sesame and carrot. Er Bai says he can taste the flavors of life through this samosa. How about you?
 # Some friends have asked us how to become a chef on various platforms. As experienced chefs, Da Ye and Er Bai have some genuine suggestions for students stepping into a career of chef.
+
+# import intro
 
 # 字幕
 
@@ -1216,230 +1218,230 @@ Da Da Ye has worked very hard
 
 240
 00:08:37,360 --> 00:08:38,960
-# <i>对于还没有入行的学生</i>
+# 对于还没有入行的学生
 For students who have not chosen their career
 
 241
 00:08:38,960 --> 00:08:39,760
-# <i>想做厨师</i>
+# 想做厨师
 but want to be a chef
 
 242
 00:08:39,800 --> 00:08:41,880
-# <i>应做好哪些准备和选择</i>
+# 应做好哪些准备和选择
 What preparations and choices need to be made
 
 243
 00:08:41,920 --> 00:08:43,720
-# <i>有利于日后的发展</i>
+# 有利于日后的发展
 to benefit their development?
 
 244
 00:08:44,000 --> 00:08:48,400
-# <i>其实作为一个将要毕业的年轻人</i>
+# 其实作为一个将要毕业的年轻人
 Actually, as a graduating young adult
 
 245
 00:08:48,520 --> 00:08:50,720
-# <i>想做一个厨师</i>
+# 想做一个厨师
 who wants to be a chef
 
 246
 00:08:51,160 --> 00:08:54,760
-# <i>其实我觉得要从兴趣开始要培养</i>
+# 其实我觉得要从兴趣开始要培养
 I think you should nourish your interests in cooking first
 
 247
 00:08:54,760 --> 00:08:56,800
-# <i>觉得有兴趣了</i>
+# 觉得有兴趣了
 After you find your interest in it,
 
 248
 00:08:57,240 --> 00:08:58,760
-# <i>当走入这个行业的时候</i>
+# 当走入这个行业的时候
 when you start your career
 
 249
 00:08:58,760 --> 00:09:00,440
-# <i>要认准这个行业</i>
+# 要认准这个行业
 You must believe in this career and work consistently
 
 250
 00:09:00,440 --> 00:09:02,760
-# <i>应该说它叫勤行</i>
+# 应该说它叫勤行
 Becoming a chef needs diligence
 
 251
 00:09:02,800 --> 00:09:03,720
-# <i>比较辛苦</i>
+# 比较辛苦
 It’s hard
 
 252
 00:09:04,000 --> 00:09:05,920
-# <i>要做好吃苦的准备</i>
+# 要做好吃苦的准备
 Be prepared to work very hard
 
 253
 00:09:07,120 --> 00:09:11,680
-# <i>然后从兴趣到热爱这行</i>
+# 然后从兴趣到热爱这行
 From being interested to being enthusiastic and committed to cooking
 
 254
 00:09:12,080 --> 00:09:13,680
-# <i>要拿出一定的时间</i>
+# 要拿出一定的时间
 you need to spend enough time
 
 255
 00:09:13,680 --> 00:09:14,640
-# <i>是吧</i>
+# 是吧
 Right?
 
 256
 00:09:14,920 --> 00:09:18,680
-# <i>这个行业我们可能会早起晚归</i>
+# 这个行业我们可能会早起晚归
 It may require us to get up early and get back home late
 
 257
 00:09:19,120 --> 00:09:21,640
-# <i>工作比较繁忙劳累</i>
+# 工作比较繁忙劳累
 Our work is busy and tiring
 
 258
 00:09:21,680 --> 00:09:23,480
-# <i>时间也比较长</i>
+# 时间也比较长
 Plus, long duration
 
 259
 00:09:23,520 --> 00:09:26,320
-# <i>这样要做好这方面的准备</i>
+# 这样要做好这方面的准备
 Need to prepare for these challenges
 
 260
 00:09:26,600 --> 00:09:28,480
-# <i>对自己的打磨的时间</i>
+# 对自己的打磨的时间
 The time to practice and improve your skills
 
 261
 00:09:28,480 --> 00:09:29,720
-# <i>要将近要有</i>
+# 要将近要有
 Will last about
 
 262
 00:09:29,720 --> 00:09:31,240
-# <i>少则也要七八年</i>
+# 少则也要七八年
 Seven to eight years at least
 
 263
 00:09:31,280 --> 00:09:33,480
-# <i>多则得十几十多年</i>
+# 多则得十几十多年
 Ten or more years if longer
 
 264
 00:09:33,800 --> 00:09:36,400
-# <i>要认准要做好思想准备</i>
+# 要认准要做好思想准备
 You need to be sure and mentally prepared
 
 265
 00:09:36,720 --> 00:09:37,280
-# <i>像人家说</i>
+# 像人家说
 Like they said,
 
 266
 00:09:37,320 --> 00:09:38,600
-# <i>说现在所谓的吃苦</i>
+# 说现在所谓的吃苦
 the so-called difficulties nowadays
 
 267
 00:09:38,600 --> 00:09:40,720
-# <i>不是以前所谓的体力上的吃苦</i>
+# 不是以前所谓的体力上的吃苦
 Isn’t just physical hard work in the old days
 
 268
 00:09:40,720 --> 00:09:41,560
-# <i>主要是各方面</i>
+# 主要是各方面
 It appears everywhere
 
 269
 00:09:41,600 --> 00:09:42,520
-# <i>包括受气</i>
+# 包括受气
 Including being bullied
 
 270
 00:09:42,600 --> 00:09:45,000
-# <i>比如自尊上面能隐忍</i>
+# 比如自尊上面能隐忍
 Or need to hide your pride
 
 271
 00:09:45,000 --> 00:09:46,040
-# <i>这方面都算吃苦</i>
+# 这方面都算吃苦
 These are also count as difficulties
 
 272
 00:09:46,040 --> 00:09:46,520
-# <i>是吧</i>
+# 是吧
 Right?
 
 273
 00:09:47,120 --> 00:09:49,120
-# <i>因为这行业来了以后</i>
+# 因为这行业来了以后
 Because once you entered this career
 
 274
 00:09:49,160 --> 00:09:51,840
-# <i>基本都是师父的言传身教</i>
+# 基本都是师父的言传身教
 Basically, you learn from your master
 
 275
 00:09:52,200 --> 00:09:54,680
-# <i>加上自己的一些磨练</i>
+# 加上自己的一些磨练
 Plus some practice by yourself
 
 276
 00:09:55,000 --> 00:09:56,720
-# <i>比如说练练刀功</i>
+# 比如说练练刀功
 For example, improving your knife skills
 
 277
 00:09:57,320 --> 00:09:59,520
-# <i>业余时间可以练练翻锅</i>
+# 业余时间可以练练翻锅
 Practicing food tossing in a wok in your spare time
 
 278
 00:09:59,720 --> 00:10:00,120
-# <i>是吧</i>
+# 是吧
 Right?
 
 279
 00:10:00,120 --> 00:10:02,480
-# <i>因为我们烹饪当中的</i>
+# 因为我们烹饪当中的
 Because when we’re cooking
 
 280
 00:10:02,600 --> 00:10:03,720
-# <i>食材很多</i>
+# 食材很多
 There’s a lot of ingredients
 
 281
 00:10:04,120 --> 00:10:06,400
-# <i>我们还有一步一步的要认识它</i>
+# 我们还有一步一步的要认识它
 We need to know them step by step
 
 282
 00:10:06,400 --> 00:10:07,200
-# <i>了解它</i>
+# 了解它
 Understand them
 
 283
 00:10:07,200 --> 00:10:11,120
-# <i>所以如果经不起这些磨难</i>
+# 所以如果经不起这些磨难
 If you can’t stand these difficulties
 
 284
 00:10:11,280 --> 00:10:13,400
-# <i>经不起这些历练</i>
+# 经不起这些历练
 Can’t go through
 
 285
 00:10:13,440 --> 00:10:15,000
-# <i>可能会半途而废</i>
+# 可能会半途而废
 It is possible that you will give up
