@@ -662,7 +662,7 @@ Put some salt for seasoning
 129
 00:04:24,440 --> 00:04:26,200
 # 咸中有味淡中鲜
-It’s a salty but umami taste
+It’s a balanced saltiness with umami taste
 
 130
 00:04:26,880 --> 00:04:27,960
