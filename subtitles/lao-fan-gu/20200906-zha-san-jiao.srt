@@ -33,7 +33,7 @@ Put it in here
 3
 00:00:02,960 --> 00:00:06,160
 # 今天想给大家做一个素三角
-Today I will like to make a vegetarian Chinese samosa
+Today I want to make a vegetarian Chinese samosa for you
 
 4
 00:00:06,520 --> 00:00:09,040
