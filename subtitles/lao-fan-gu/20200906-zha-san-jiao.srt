@@ -1422,7 +1422,7 @@ There’s a lot of ingredients
 281
 00:10:04,120 --> 00:10:06,400
 # <i>我们还有一步一步的要认识它</i>
-We need to know them one at a time
+We need to know them step by step
 
 282
 00:10:06,400 --> 00:10:07,200
