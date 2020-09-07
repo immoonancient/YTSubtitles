@@ -97,7 +97,7 @@ Mix mung bean starch and potato starch
 16
 00:00:37,800 --> 00:00:39,680
 # 用1比5的水
-Use 1:5 of water
+Add 5 times of water
 
 17
 00:00:39,840 --> 00:00:41,680
