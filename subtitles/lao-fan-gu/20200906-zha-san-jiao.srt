@@ -632,7 +632,7 @@ The dough is so white
 123
 00:04:12,600 --> 00:04:14,040
 # 和面和的就匀
-Kneading will be well-disturbed
+The dough was mixed and kneaded very well
 
 124
 00:04:14,080 --> 00:04:15,440
