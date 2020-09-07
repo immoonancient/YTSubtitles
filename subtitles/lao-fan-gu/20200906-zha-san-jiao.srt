@@ -78,7 +78,7 @@ Today I get the chance to have a try
 12
 00:00:28,280 --> 00:00:30,560
 # 一会做好了请您品尝
-
+Have a try after we finish cooking
 13
 00:00:31,040 --> 00:00:33,320
 # 传统的做法应该有焖子
