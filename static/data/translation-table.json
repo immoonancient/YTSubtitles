@@ -17,7 +17,7 @@
       "en": "Oils"
     },
     "preserved": {
-      "cn": "腌制&干货",
+      "cn": "腌制 & 干货",
       "en": "Preserved Foods"
     },
     "nut": {
@@ -26,23 +26,31 @@
     },
     "spice": {
       "cn": "香料",
-      "en": "Spices"
+      "en": "Spices & Aromatics"
     },
     "condiment": {
       "cn": "调味品",
       "en": "Condiments"
     },
+    "dish": {
+      "cn": "菜名",
+      "en": "Dish and Recipe Names"
+    },
     "technical": {
       "cn": "术语",
       "en": "Technical Terms"
     },
-    "noun": {
-      "cn": "固定称呼 & 专有名词",
-      "en": "Names & Proper Nouns"
+    "character": {
+      "cn": "角色名",
+      "en": "Character Names"
     },
-    "dish": {
-      "cn": "菜名",
-      "en": "Dish and Recipe Names"
+    "noun": {
+      "cn": "专有名词",
+      "en": "Proper Nouns"
+    },
+    "idiom": {
+      "cn": "成句、惯例、梗",
+      "en": "Idioms & Memes"
     },
     "misc": {
       "cn": "待分类",
@@ -263,19 +271,19 @@
     },
     {
       "cn": "大葱",
-      "en": "spring onions",
+      "en": "spring onion",
       "category": "vegetable"
     },
     {
       "cn": "韭菜",
-      "en": "chinese chive",
+      "en": "Chinese chive",
       "category": "vegetable"
     },
     {
       "cn": "韭菜花",
       "en": "garlic chive flower",
       "category": "vegetable"
-    },	
+    },
     {
       "cn": "洋葱",
       "en": "onion",
@@ -354,11 +362,6 @@
       "category": "vegetable"
     },
     {
-      "cn": "紫菜",
-      "en": "nori",
-      "category": "vegetable"
-    },
-    {
       "cn": "海带",
       "en": "kelp",
       "category": "vegetable"
@@ -430,11 +433,6 @@
       "category": "vegetable"
     },
     {
-      "cn": "泡豇豆",
-      "en": "pickled cowpea",
-      "category": "vegetable"
-    },
-    {
       "cn": "豌豆",
       "en": "pea",
       "category": "vegetable"
@@ -444,8 +442,8 @@
       "en": "eggplant",
       "category": "vegetable",
       "notes": "两种称呼皆可"
-     },	
-     {
+    },
+    {
       "cn": "茄子",
       "en": "aubergine",
       "category": "vegetable",
@@ -469,7 +467,14 @@
     {
       "cn": "木耳",
       "en": "wood ear mushroom",
-      "category": "mushroom"
+      "category": "mushroom",
+      "notes": "两种称呼皆可"
+    },
+    {
+      "cn": "木耳",
+      "en": "black fungus",
+      "category": "mushroom",
+      "notes": "两种称呼皆可"
     },
     {
       "cn": "雪耳",
@@ -479,6 +484,11 @@
     {
       "cn": "白木耳",
       "en": "snow fungus",
+      "category": "mushroom"
+    },
+    {
+      "cn": "鸡枞",
+      "en": "termite mushroom",
       "category": "mushroom"
     },
     {
@@ -502,6 +512,11 @@
       "category": "oil"
     },
     {
+      "cn": "紫菜",
+      "en": "nori",
+      "category": "preserved"
+    },
+    {
       "cn": "芽菜",
       "en": "\"Ya Cai\" Sichuan preserved mustard greens",
       "category": "preserved"
@@ -520,6 +535,11 @@
       "cn": "泡椒",
       "en": "pickled chili",
       "category": "preserved"
+    },
+    {
+      "cn": "泡豇豆",
+      "en": "pickled cowpea",
+      "category": "vegetable"
     },
     {
       "cn": "腐乳",
@@ -571,6 +591,11 @@
       "category": "preserved"
     },
     {
+      "cn": "话梅",
+      "en": "Huamei (pickled plum)",
+      "category": "preserved"
+    },
+    {
       "cn": "花生",
       "en": "peanut",
       "category": "nut"
@@ -579,6 +604,14 @@
       "cn": "核桃",
       "en": "walnut",
       "category": "nut"
+    },
+    {
+      "cn": "杏仁",
+      "en": "apricot kernel",
+      "category": "nut",
+      "notes": "中国原产的杏仁必须译作 apricot kernel, 不能译作 almond。Almond 实为扁桃仁，是另一种植物，但是进口时长期被误译为\"杏仁\"，直到近年来引起业界纠纷",
+      "reference": "https://zh.wikipedia.org/wiki/%E6%9D%8F%E4%BB%81",
+      "reference2": "http://www.xinhuanet.com//politics/2012-11/20/c_123973423.htm"
     },
     {
       "cn": "生姜",
@@ -593,20 +626,41 @@
     {
       "cn": "良姜",
       "en": "galangal",
-      "category": "spice"
+      "category": "spice",
+      "notes": "良姜区分 greater galangal 和 lesser galangal. Lesser galangal 为中国原产",
+      "reference": "https://en.wikipedia.org/wiki/Alpinia_officinarum"
     },
     {
       "cn": "沙姜",
       "en": "sand ginger",
       "category": "spice",
       "notes": "两种称呼皆可"
-      
     },
     {
       "cn": "山奈",
       "en": "sand ginger",
       "category": "spice",
       "notes": "两种称呼皆可"
+    },
+    {
+      "cn": "香砂仁",
+      "en": "cardamon seed",
+      "category": "spice"
+    },
+    {
+      "cn": "槟榔",
+      "en": "betel nut",
+      "category": "spice"
+    },
+    {
+      "cn": "五加皮",
+      "en": "wujiapi (Eleutherococcus gracilistylus)",
+      "category": "spice"
+    },
+    {
+      "cn": "荜拔",
+      "en": "long pepper",
+      "category": "spice"
     },
     {
       "cn": "大蒜",
@@ -776,7 +830,7 @@
       "en": "huangjiu rice wine",
       "category": "condiment"
     },
-     {
+    {
       "cn": "白酒",
       "en": "baijiu",
       "category": "condiment"
@@ -811,14 +865,14 @@
       "cn": "黑醋",
       "en": "balsamic vinegar",
       "category": "condiment",
-      "notes": "指意大利黑醋，不要用于中式陈醋" 
+      "notes": "指意大利黑醋，不要用于中式陈醋"
     },
-     {
+    {
       "cn": "晒醋",
       "en": "\"Shaicu\" vinegar",
       "category": "condiment"
     },
-     {
+    {
       "cn": "镇江香醋",
       "en": "Zhenjiang vinegar",
       "category": "condiment",
@@ -833,11 +887,18 @@
       "cn": "白醋",
       "en": "white vinegar",
       "category": "condiment"
-     },
-     {
+    },
+    {
       "cn": "山西陈醋",
       "en": "Shanxi mature black vinegar",
       "category": "condiment"
+    },
+    {
+      "cn": "喼汁",
+      "en": "Worcestershire sauce",
+      "category": "condiment",
+      "notes": "辣酱油，又称喼汁、乌酢、辣醋酱油、英国黑醋或伍斯特酱，是一种英国调味料",
+      "reference": "https://zh.wikipedia.org/wiki/%E8%BE%A3%E9%86%AC%E6%B2%B9"
     },
     {
       "cn": "冰糖",
@@ -944,7 +1005,7 @@
     {
       "cn": "葱油",
       "en": "scallion oil",
-      "category": "condiment" 
+      "category": "condiment"
     },
     {
       "cn": "蚝油",
@@ -968,6 +1029,163 @@
       "en": "Lao Gan Ma",
       "category": "condiment",
       "reference": "https://en.wikipedia.org/wiki/Lao_Gan_Ma"
+    },
+    {
+      "cn": "泡打粉",
+      "en": "baking powder",
+      "category": "condiment"
+    },
+    {
+      "cn": "小苏打",
+      "en": "baking soda",
+      "category": "condiment"
+    },
+    {
+      "cn": "番茄酱",
+      "en": "tamato sauce",
+      "category": "condiment",
+      "notes": "注意不是 ketchup。Ketchup 有额外调味（糖、醋等），一般做菜不用这个"
+    },
+    {
+      "cn": "蛋花汤",
+      "en": "egg drop soup",
+      "category": "dish"
+    },
+    {
+      "cn": "胡辣汤",
+      "en": "Hulatang (pepper spicy soup)",
+      "category": "dish",
+      "notes": "第一次提及时标注英文 pepper spicy soup，之后一律用拼音 Hulatang"
+    },
+    {
+      "cn": "螺蛳粉",
+      "en": "luosifen rice noodles",
+      "category": "dish"
+    },
+    {
+      "cn": "宜宾燃面",
+      "en": "Yibin burning noodles",
+      "category": "dish"
+    },
+    {
+      "cn": "热干面",
+      "en": "hot dry noodles",
+      "category": "dish",
+      "reference": "https://en.wikipedia.org/wiki/Hot_dry_noodles"
+    },
+    {
+      "cn": "刀削面",
+      "en": "Daoxiaomian (Knife cut noodles)",
+      "category": "dish",
+      "notes": "\"Knife cut noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Daoxiaomian"
+    },
+    {
+      "cn": "油泼面",
+      "en": "Biang Biang noodles",
+      "category": "dish",
+      "reference": "https://en.wikipedia.org/wiki/Biangbiang_noodles"
+    },
+    {
+      "cn": "裤带面",
+      "en": "Biang Biang noodles",
+      "category": "dish",
+      "reference": "https://en.wikipedia.org/wiki/Biangbiang_noodles"
+    },
+    {
+      "cn": "炸酱面",
+      "en": "Zhajiangmian (Fried sauce noodles)",
+      "category": "dish",
+      "notes": "\"Fried sauce noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Zhajiangmian",
+      "reference": "https://en.wikipedia.org/wiki/Zhajiangmian#Beijing"
+    },
+    {
+      "cn": "粥",
+      "en": "congee",
+      "category": "dish",
+      "notes": "指中式米粥；不要和 porridge 混用"
+    },
+    {
+      "cn": "粥",
+      "en": "porridge",
+      "category": "dish",
+      "notes": "指西式粥如燕麦粥等；不要和 congee 混用"
+    },
+    {
+      "cn": "皮冻",
+      "en": "pork skin jelly",
+      "category": "dish"
+    },
+    {
+      "cn": "红烧肉",
+      "en": "red braised pork",
+      "category": "dish"
+    },
+    {
+      "cn": "宝塔肉",
+      "en": "Pagoda pork belly",
+      "category": "dish"
+    },
+    {
+      "cn": "松鼠鱼",
+      "en": "squirrel fish",
+      "category": "dish"
+    },
+    {
+      "cn": "肉夹馍",
+      "en": "roujiamo (aka Chinese burger)",
+      "notes": "\"Chinese burger\"不是个太好的译名，但是有一定的流传度。第一次提及一下即可，之后一律使用拼音 roujiamo",
+      "category": "dish"
+    },
+    {
+      "cn": "馒头",
+      "en": "Mantou (aka Chinese steamed buns)",
+      "category": "dish",
+      "notes": "\"Chinese steamed buns\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 Mantou"
+    },
+    {
+      "cn": "叉烧",
+      "en": "char siu",
+      "category": "dish",
+      "reference": "https://en.wikipedia.org/wiki/Char_siu"
+    },
+    {
+      "cn": "烧肉",
+      "en": "siu yuk (roast pork belly) ",
+      "category": "dish",
+      "notes": "\"roast pork belly\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 siu yuk",
+      "reference": "https://en.wikipedia.org/wiki/Siu_yuk"
+    },
+    {
+      "cn": "油条",
+      "en": "youtiao (deep-fried dough strips)",
+      "category": "dish"
+    },
+    {
+      "cn": "油饼",
+      "en": "youbing (deep-fried cake)",
+      "category": "dish"
+    },
+    {
+      "cn": "拔丝",
+      "en": "Basi (sugar-glazed)",
+      "category": "dish",
+      "notes": "例：拔丝地瓜为\"Basi Sweet Potatoes (sugar-glazed sweet potatoes)\"，提及一次之后就无需再备注是sugar-glazed了"
+    },
+    {
+      "cn": "豆花",
+      "en": "Douhua (tofu pudding)",
+      "category": "dish",
+      "notes": "第一次出现的时候备注 tofu pudding，提及一次以后就直接用拼音无需备注了"
+    },
+    {
+      "cn": "麻婆豆腐",
+      "en": "Mapo Tofu",
+      "category": "dish"
+    },
+    {
+      "cn": "八宝茶",
+      "en": "Eight Treasures Herbal Tea",
+      "category": "dish"
     },
     {
       "cn": "点缀",
@@ -1053,13 +1271,6 @@
       "en": "Ming You (literally \"oil for a shiny presence\")",
       "category": "technical",
       "channel": "wang-gang"
-    },
-    {
-      "cn": "宽油",
-      "en": "Kuan You (literally \"broad oil\")",
-      "category": "technical",
-      "channel": "wang-gang",
-      "notes": "宽油既是术语也是王刚频道的梗，必须当作专有名词处理"
     },
     {
       "cn": "底油",
@@ -1175,21 +1386,6 @@
       "notes": "川菜的\"鱼香\"味型指用传统烧鱼配料做的其他菜。由于是专业术语，且和字面意思有一定距离，因此零翻译处理"
     },
     {
-      "cn": "面团",
-      "en": "dough",
-      "category": "misc"
-    },
-    {
-      "cn": "碱面",
-      "en": "alkaline noodles",
-      "category": "misc"
-    },
-    {
-      "cn": "碱水面",
-      "en": "alkaline noodles",
-      "category": "misc"
-    },
-    {
       "cn": "水淀粉",
       "en": "slurry",
       "category": "technical",
@@ -1245,49 +1441,9 @@
       "reference": "https://www.thespruceeats.com/what-does-sweat-in-culinary-mean-995789"
     },
     {
-      "cn": "豆腐皮",
-      "en": "tofu skin",
-      "category": "misc"
-    },
-    {
-      "cn": "猪血",
-      "en": "pork blood curd",
-      "category": "misc"
-    },
-    {
-      "cn": "鸭血",
-      "en": "duck blood curd",
-      "category": "misc"
-    },
-    {
-      "cn": "鱼鳞",
-      "en": "fish scale",
-      "category": "misc"
-    },
-    {
-      "cn": "鱼刺",
-      "en": "fishbone",
-      "category": "misc"
-    },
-    {
-      "cn": "酵母",
-      "en": "yeast",
-      "category": "misc"
-    },
-    {
-      "cn": "油烟机",
-      "en": "range hood",
-      "category": "misc"
-    },
-    {
-      "cn": "魔芋",
-      "en": "konjac",
-      "category": "misc"
-    },
-    {
       "cn": "膻味",
       "en": "taint",
-      "category": "misc",
+      "category": "technical",
       "notes": "羊膻为 ram taint，猪膻为 boar taint。膻味多指雄性动物特有的味道，和腥味不同。大多数情况不会分得太仔细，除非视频作者特意强调这点，否则可不翻作taint",
       "reference": "https://farmersweekly.co.nz/section/sheep/view/ram-taint-is-not-a-simple-issue",
       "reference2": "https://en.wikipedia.org/wiki/Boar_taint"
@@ -1295,90 +1451,110 @@
     {
       "cn": "腥味",
       "en": "gamey taste",
-      "category": "misc"
-    },
-    {
-      "cn": "浮沫",
-      "en": "scum",
-      "category": "misc",
-      "notes": "指肉类焯水煮出来的浮沫，通常要去除掉"
-    },
-    {
-      "cn": "血沫",
-      "en": "scum",
-      "category": "misc",
-      "notes": "指肉类焯水煮出来的浮沫，通常要去除掉"
-    },
-    {
-      "cn": "碱面",
-      "en": "soda ash",
-      "category": "misc"
-    },
-    {
-      "cn": "糯米粉",
-      "en": "glutinous rice flour",
-      "category": "misc"
-    },
-    {
-      "cn": "藕粉",
-      "en": "lotus root powder",
-      "category": "misc"
-    },
-    {
-      "cn": "马蹄粉",
-      "en": "water chestnut flour",
-      "category": "misc"
-    },
-    {
-      "cn": "棱角粉",
-      "en": "water caltrop powder",
-      "category": "misc"
-    },
-    {
-      "cn": "山楂",
-      "en": "Chinese hawthorn",
-      "category": "misc"
-    },	
-    {
-      "cn": "话梅",
-      "en": "Huamei (pickled plum)",
-      "category": "misc"
-    },
-    {
-      "cn": "斤",
-      "en": "jin",
-      "category": "misc",
-      "notes": "不翻作\"catty\"，翻译时采用音译，再在后面利用括号加上克/千克的单位，如：20斤为\"20 jin (10kg)\"",
-      "reference": "https://en.wikipedia.org/wiki/Catty"
-    },
-    {
-      "cn": "两",
-      "en": "liang",
-      "category": "misc",
-      "notes": "翻译时采用音译，再在后面利用括号加上克的单位，如：6两为\"6 liang (300g) \""
-    },
-    {
-      "cn": "打荷台",
-      "en": "(food) prep table",
-      "category": "misc"
+      "category": "technical"
     },
     {
       "cn": "王刚",
       "en": "Wang Gang",
-      "category": "noun",
+      "category": "character",
       "channel": "wang-gang"
     },
     {
       "cn": "四伯",
       "en": "uncle",
-      "category": "noun",
-      "channel": "wang-gang"
+      "category": "character",
+      "channel": "wang-gang",
+      "notes": "中文里的亲戚关系很难用英文简洁地翻译，考虑到字幕观感，这里略译为 uncle"
     },
     {
       "cn": "漆二娃",
       "en": "Qi Erwa",
-      "category": "noun",
+      "category": "character",
       "channel": "wang-gang"
+    },
+    {
+      "cn": "雪鱼",
+      "en": "Xueyu",
+      "category": "character",
+      "channel": "xue-yu"
+    },
+    {
+      "cn": "大爷",
+      "en": "Da Ye",
+      "category": "character",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "大妈",
+      "en": "Da Ma",
+      "category": "character",
+      "channel": "lao-fan-gu",
+      "notes": "大爷的太太，程老师"
+    },
+    {
+      "cn": "二伯",
+      "en": "Er Bai",
+      "category": "character",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "三叔",
+      "en": "San Shu",
+      "category": "character",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "大大爷",
+      "en": "Da Da Ye",
+      "category": "character",
+      "channel": "lao-fan-gu"
+    },
+    {
+      "cn": "摄影小哥",
+      "en": "Mr Cameraman",
+      "category": "character",
+      "channel": "hua-nong-brothers"
+    },
+    {
+      "cn": "村霸",
+      "en": "The Overlord",
+      "category": "character",
+      "channel": "hua-nong-brothers"
+    },
+    {
+      "cn": "兄弟",
+      "en": "buddy",
+      "category": "character",
+      "channel": "hua-nong-brothers",
+      "notes": "非亲兄弟，不包含金洋兄弟两人"
+    },
+    {
+      "cn": "小白",
+      "en": "Whitey",
+      "category": "character",
+      "channel": "hua-nong-brothers",
+      "notes": "竹鼠"
+    },
+    {
+      "cn": "小黑",
+      "en": "Blacky",
+      "category": "character",
+      "channel": "hua-nong-brothers",
+      "notes": "狗"
+    },
+    {
+      "cn": "小花",
+      "en": "Tinty",
+      "category": "character",
+      "channel": "hua-nong-brothers",
+      "notes": "竹鼠"
+    },
+    {
+      "cn": "手工耿",
+      "en": "Handy Geng (aka the Useless Edison)",
+      "category": "character",
+      "channel": "shou-gong-geng",
+      "notes": "The Useless Edison 是外号，不适合当作正式名称使用，但是有一定名气，提及一下即可，正式名称一律使用 Handicraft Geng"
     },
     {
       "cn": "厨师长教你",
@@ -1400,37 +1576,6 @@
       "category": "noun",
       "channel": "wang-gang",
       "notes": "王刚频道子栏目"
-    },
-    {
-      "cn": "雪鱼",
-      "en": "Xueyu",
-      "category": "noun",
-      "channel": "xue-yu"
-    },
-    {
-      "cn": "大爷",
-      "en": "Da Ye",
-      "category": "noun",
-      "channel": "lao-fan-gu"
-    },
-    {
-      "cn": "大妈",
-      "en": "Da Ma",
-      "category": "noun",
-      "channel": "lao-fan-gu",
-      "notes": "大爷的太太，程老师"
-    },
-    {
-      "cn": "二伯",
-      "en": "Er Bai",
-      "category": "noun",
-      "channel": "lao-fan-gu"
-    },
-    {
-      "cn": "三叔",
-      "en": "San Shu",
-      "category": "noun",
-      "channel": "lao-fan-gu"
     },
     {
       "cn": "国宴大师",
@@ -1477,207 +1622,157 @@
       "category": "noun"
     },
     {
-      "cn": "摄影小哥",
-      "en": "Mr Cameraman",
-      "category": "noun",
-      "channel": "hua-nong-brothers"
+      "cn": "宽油",
+      "en": "Kuan You (literally \"broad oil\")",
+      "category": "idiom",
+      "channel": "wang-gang",
+      "notes": "宽油既是术语也是王刚频道的梗，因此音译处理"
     },
     {
-      "cn": "村霸",
-      "en": "The Overlord",
-      "category": "noun",
-      "channel": "hua-nong-brothers"
-    },
-    {
-      "cn": "兄弟",
-      "en": "buddy",
-      "category": "noun",
-      "channel": "hua-nong-brothers",
-      "notes": "非亲兄弟，不包含金洋兄弟两人"
-    },
-    {
-      "cn": "小白",
-      "en": "Whitey",
-      "category": "noun",
-      "channel": "hua-nong-brothers",
-      "notes": "竹鼠"
-    },
-    {
-      "cn": "小黑",
-      "en": "Blacky",
-      "category": "noun",
-      "channel": "hua-nong-brothers",
-      "notes": "狗"
-    },
-    {
-      "cn": "小花",
-      "en": "Tinty",
-      "category": "noun",
-      "channel": "hua-nong-brothers",
-      "notes": "竹鼠"
+      "cn": "一通百通",
+      "en": "master the one to master all",
+      "category": "idiom",
+      "channel": "lao-fan-gu",
+      "notes": "老饭骨经常强调这句话，因此采用固定译法"
     },
     {
       "cn": "漂亮",
       "en": "pretty",
-      "category": "noun",
+      "category": "idiom",
       "channel": "hua-nong-brothers",
       "notes": "刘苏良口癖，不分语境一律译作 pretty"
     },
     {
       "cn": "安逸",
       "en": "nice",
-      "category": "noun",
+      "category": "idiom",
       "channel": "wang-gang",
       "notes": "四伯口癖，不分语境一律译作 nice"
     },
     {
-      "cn": "手工耿",
-      "en": "Handicraft Geng (aka the Useless Edison)",
-      "category": "noun",
-      "channel": "shou-gong-geng",
-      "notes": "The Useless Edison 是外号，不适合当作正式名称使用，但是有一定名气，提及一下即可，正式名称一律使用 Handicraft Geng"
+      "cn": "面团",
+      "en": "dough",
+      "category": "misc"
     },
     {
-      "cn": "一通百通",
-      "en": "master the one to master all",
-      "category": "technical",
-      "channel": "lao-fan-gu",
-      "notes": "老饭骨经常强调这句话，因此采用固定译法"
+      "cn": "碱面",
+      "en": "alkaline noodles",
+      "category": "misc"
     },
     {
-      "cn": "蛋花汤",
-      "en": "egg drop soup",
-      "category": "dish"
+      "cn": "碱水面",
+      "en": "alkaline noodles",
+      "category": "misc"
     },
     {
-      "cn": "螺蛳粉",
-      "en": "luosifen rice noodles",
-      "category": "dish"
+      "cn": "豆腐皮",
+      "en": "tofu skin",
+      "category": "misc"
     },
     {
-      "cn": "宜宾燃面",
-      "en": "Yibin burning noodles",
-      "category": "dish"
+      "cn": "猪血",
+      "en": "pork blood curd",
+      "category": "misc"
     },
     {
-      "cn": "热干面",
-      "en": "hot dry noodles",
-      "category": "dish",
-      "reference": "https://en.wikipedia.org/wiki/Hot_dry_noodles"
+      "cn": "鸭血",
+      "en": "duck blood curd",
+      "category": "misc"
     },
     {
-      "cn": "刀削面",
-      "en": "Daoxiaomian (Knife cut noodles)",
-      "category": "dish",
-      "notes": "\"Knife cut noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Daoxiaomian"
+      "cn": "鱼鳞",
+      "en": "fish scale",
+      "category": "misc"
     },
     {
-      "cn": "油泼面",
-      "en": "Biang Biang noodles",
-      "category": "dish",
-      "reference": "https://en.wikipedia.org/wiki/Biangbiang_noodles"
+      "cn": "鱼刺",
+      "en": "fishbone",
+      "category": "misc"
     },
     {
-      "cn": "裤带面",
-      "en": "Biang Biang noodles",
-      "category": "dish",
-      "reference": "https://en.wikipedia.org/wiki/Biangbiang_noodles"
+      "cn": "酵母",
+      "en": "yeast",
+      "category": "misc"
     },
     {
-      "cn": "炸酱面",
-      "en": "Zhajiangmian (Fried sauce noodles)",
-      "category": "dish",
-      "notes": "\"Fried sauce noodles\"有一定知名度，第一次提及一下即可，之后一律使用拼音 Zhajiangmian",
-      "reference": "https://en.wikipedia.org/wiki/Zhajiangmian#Beijing"
-    }, 
-    {
-      "cn": "粥",
-      "en": "congee",
-      "category": "dish",
-      "notes": "指中式米粥；不要和 porridge 混用"
+      "cn": "油烟机",
+      "en": "range hood",
+      "category": "misc"
     },
     {
-      "cn": "粥",
-      "en": "porridge",
-      "category": "dish",
-      "notes": "指西式粥如燕麦粥等；不要和 congee 混用"
+      "cn": "魔芋",
+      "en": "konjac",
+      "category": "misc"
     },
     {
-      "cn": "皮冻",
-      "en": "pork skin jelly",
-      "category": "dish"
+      "cn": "浮沫",
+      "en": "scum",
+      "category": "misc",
+      "notes": "指肉类焯水煮出来的浮沫，通常要去除掉"
     },
     {
-      "cn": "红烧肉",
-      "en": "red braised pork",
-      "category": "dish"
+      "cn": "血沫",
+      "en": "scum",
+      "category": "misc",
+      "notes": "指肉类焯水煮出来的浮沫，通常要去除掉"
     },
     {
-      "cn": "松鼠鱼",
-      "en": "squirrel fish",
-      "category": "dish"
+      "cn": "碱面",
+      "en": "soda ash",
+      "category": "misc"
     },
     {
-      "cn": "肉夹馍",
-      "en": "roujiamo (aka Chinese burger)",
-      "notes": "\"Chinese burger\"不是个太好的译名，但是有一定的流传度。第一次提及一下即可，之后一律使用拼音 roujiamo",
-      "category": "dish"
+      "cn": "糯米粉",
+      "en": "glutinous rice flour",
+      "category": "misc"
     },
     {
-      "cn": "馒头",
-      "en": "Mantou (aka Chinese steamed buns)",
-      "category": "dish",
-      "notes": "\"Chinese steamed buns\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 Mantou"
+      "cn": "藕粉",
+      "en": "lotus root powder",
+      "category": "misc"
     },
     {
-      "cn": "叉烧",
-      "en": "char siu",
-      "category": "dish",
-      "reference": "https://en.wikipedia.org/wiki/Char_siu"
+      "cn": "马蹄粉",
+      "en": "water chestnut flour",
+      "category": "misc"
     },
     {
-      "cn": "烧肉",
-      "en": "siu yuk (roast pork belly) ",
-      "category": "dish",
-      "notes": "\"roast pork belly\"有一定的流传度，第一次提及一下即可，之后一律使用拼音 siu yuk",
-      "reference": "https://en.wikipedia.org/wiki/Siu_yuk"
+      "cn": "棱角粉",
+      "en": "water caltrop powder",
+      "category": "misc"
     },
     {
-      "cn": "油条",
-      "en": "youtiao (deep-fried dough strips)",
-      "category": "dish"
+      "cn": "红曲米",
+      "en": "red yeast rice",
+      "category": "misc"
     },
     {
-      "cn": "油饼",
-      "en": "youbing (deep-fried cake)",
-      "category": "dish"
+      "cn": "山楂",
+      "en": "Chinese hawthorn",
+      "category": "misc"
     },
     {
-      "cn": "拔丝",
-      "en": "Basi (sugar-glazed)",
-      "category": "dish",
-      "notes": "例：拔丝地瓜为\"Basi Sweet Potatoes (sugar-glazed sweet potatoes)\"，提及一次之后就无需再备注是sugar-glazed了"
+      "cn": "桃胶",
+      "en": "peach gum",
+      "category": "misc"
     },
     {
-      "cn": "豆花",
-      "en": "Douhua (tofu pudding)",
-      "category": "dish",
-      "notes": "第一次出现的时候备注 tofu pudding，提及一次以后就直接用拼音无需备注了"
+      "cn": "斤",
+      "en": "jin",
+      "category": "misc",
+      "notes": "不翻作\"catty\"，翻译时采用音译，再在后面利用括号加上克/千克的单位，如：20斤为\"20 jin (10kg)\"",
+      "reference": "https://en.wikipedia.org/wiki/Catty"
     },
     {
-      "cn": "八宝茶",
-      "en": "Eight Treasures Herbal Tea",
-      "category": "dish"
+      "cn": "两",
+      "en": "liang",
+      "category": "misc",
+      "notes": "翻译时采用音译，再在后面利用括号加上克的单位，如：6两为\"6 liang (300g) \""
     },
     {
-      "cn": "泡打粉",
-      "en": "baking powder",
-      "category": "condiment"
-    },
-    {
-      "cn": "小苏打",
-      "en": "baking soda",
-      "category": "condiment"
+      "cn": "打荷台",
+      "en": "(food) prep table",
+      "category": "misc"
     }
   ]
 }
