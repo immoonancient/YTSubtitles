@@ -53,7 +53,7 @@ Hello Er Bai
 7
 00:00:18,760 --> 00:00:19,640
 # 素三角
-vegetarian Chinese samosa
+Vegetarian Chinese samosa
 
 8
 00:00:20,800 --> 00:00:23,440
