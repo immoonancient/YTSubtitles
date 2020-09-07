@@ -342,7 +342,7 @@ Perfect square shape
 65
 00:02:05,640 --> 00:02:07,200
 # 盐一杀水出来了
-After putting the salt, we can squeeze out water easily
+After salted, we can squeeze out water (from the carrot)
 
 66
 00:02:07,200 --> 00:02:08,960
