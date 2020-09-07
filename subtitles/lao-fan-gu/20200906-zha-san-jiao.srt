@@ -402,7 +402,7 @@ Isn’t this shredded?
 77
 00:02:29,640 --> 00:02:33,400
 # 再来两刀还是有点太长
-Cut it a few more times cause it’s still too long
+Cut it a few more times because it’s still too long
 
 78
 00:02:33,960 --> 00:02:34,440
