@@ -492,7 +492,7 @@ Then it’s ready to use
 95
 00:03:07,640 --> 00:03:09,120
 # 一会咱们做的时候
-Afterwards
+Wait until we are ready to make the samosa,
 
 96
 00:03:09,440 --> 00:03:10,120
