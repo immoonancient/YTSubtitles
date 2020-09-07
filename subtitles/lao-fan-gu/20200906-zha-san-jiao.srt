@@ -407,7 +407,7 @@ Cut it a few more times because it’s still too long
 78
 00:02:33,960 --> 00:02:34,440
 # 是吧
-right
+Right
 
 79
 00:02:34,440 --> 00:02:36,560
