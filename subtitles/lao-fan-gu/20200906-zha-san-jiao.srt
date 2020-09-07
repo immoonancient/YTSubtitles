@@ -377,7 +377,7 @@ Very careful
 72
 00:02:16,520 --> 00:02:18,760
 # 让它颜色也好看
-Make it colored
+Make it colorful
 
 73
 00:02:19,160 --> 00:02:21,560
