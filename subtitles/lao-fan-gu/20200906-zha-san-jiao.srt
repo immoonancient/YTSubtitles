@@ -297,7 +297,7 @@ Add some soy sauce on the top
 56
 00:01:51,240 --> 00:01:52,760
 # 为了找它的颜色
-In order to make it colored
+In order to color it
 
 57
 00:01:52,760 --> 00:01:54,400
