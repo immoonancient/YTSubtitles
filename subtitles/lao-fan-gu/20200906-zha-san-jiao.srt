@@ -602,7 +602,7 @@ Use only these water and flour to knead the dough
 117
 00:04:03,400 --> 00:04:04,480
 # 我们要求这样
-This is what we required
+This is our standard
 
 118
 00:04:04,720 --> 00:04:05,640
