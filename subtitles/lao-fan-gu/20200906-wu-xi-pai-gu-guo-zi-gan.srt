@@ -4,23 +4,25 @@
 # State Banquet Master Chef - Wuxi Pork Ribs & Braised Dried Fruits - Secret Recipe from First Chef of Jianguo Hotel
 
 # 小友们好，二伯今天要完美还原建国饭店第一任大厨黄金元的秘方菜——港式无锡排骨！
-# Hello everyone, today Er Bai is going to replicate a secret recipe from Jinyuan Huang - First Chef of Jianguo Hotel: Wuxi Pork Ribs in Hong Kong style!
+# Hello everyone, today Er Bai is going to replicate a secret recipe from Huang Jinyuan - First Chef of Jianguo Hotel: Wuxi Pork Ribs in Hong Kong style!
 # 无锡排骨原本是大爷最拿手的淮扬菜，二伯做的港式的无锡排骨又有怎样的不同呢？
 # Wuxi Pork Ribs is a traditional Huaiyang dish, which Da Ye does the best. What makes Er Bai’s version different from the traditional one?
 # 二伯的菜有一个特点，各种肉类的腥味通过素菜的搭配祛除得很到位，这样荤素、颜色和口味上搭配都非常绝妙，小友们可要把这点记下来咯！
 # One of the characteristics of Er Bai’s dishes is that the gamey taste of different kinds of meat is ingeniously neutralised by the added vegetables, in which case, the balance of vegetables and meat, colour and flavour is just exquisite. Take some notes on this one!
 # 今天是周五，大爷说再给小友们加一道甜品，让大家愉快地过个周末！大师姐带来一道老北京果子干，酸酸甜甜、清凉解暑，必须要学起来！
-# As today is Friday, Da Ye wants to add a dessert for you to spend a lovely weekend! Da Shijie is bringing us an authentic Old Beijing braised dried fruits. It’s sweet and sour, and perfect for summer. You must learn how to make it!
+# As today is Friday, Da Ye wants to add a dessert for you to spend a lovely weekend! Da Shijie is bringing us an authentic Old Beijing braised dried fruits. It’s sweet and sour, and perfect for summer. A must-learn for you!
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:00,600
 # 二伯好
-Good day Er Bai
+Hello, Er Bai
 
 2
 00:00:00,600 --> 00:00:01,280
 # 大爷好
-Good day Da Ye
+Hello, Da Ye
 
 3
 00:00:01,520 --> 00:00:04,040
@@ -80,12 +82,12 @@ It’s Wuxi Pork Ribs in Hong Kong style
 14
 00:00:20,360 --> 00:00:22,280
 # 建国饭店第一任大厨黄金元
-It was developed by the First Chef of Jianguo Hotel, Jinyuan Huang
+It was developed by the First Chef of Jianguo Hotel, Huang Jinyuan
 
 15
 00:00:22,640 --> 00:00:24,120
 # 后来到了天伦王朝
-He later became the chef at Tianlun Dynasty
+He later became the chef at Sunworld Dynasty (Hotel)
 
 16
 00:00:24,120 --> 00:00:25,200
@@ -100,7 +102,7 @@ Today I’m going to replicate his original recipe
 18
 00:00:27,120 --> 00:00:28,960
 # 在天伦的时候我们俩做搭档
-I learned this when we partnered at Tianlun Dynasty
+I learned this when we partnered at Sunworld Dynasty
 
 19
 00:00:28,960 --> 00:00:30,240
@@ -175,7 +177,7 @@ Small amount of rock sugar
 33
 00:00:50,240 --> 00:00:51,720
 # 这是番茄酱
-Ketchup
+Tamato sauce
 
 34
 00:00:51,720 --> 00:00:52,680
@@ -245,7 +247,7 @@ Look at these fresh pork ribs
 47
 00:01:13,880 --> 00:01:14,840
 # 这个不用焯
-We don’t need to blanch them
+We don’t need to parboil them
 
 48
 00:01:15,480 --> 00:01:18,640
@@ -295,7 +297,7 @@ That’s why I don’t think
 57
 00:01:32,760 --> 00:01:33,640
 # 再出水了
-That we need to blanch them
+That we need to parboil them
 
 58
 00:01:34,000 --> 00:01:37,000
@@ -500,7 +502,7 @@ Now let’s fry other ingredients
 98
 00:02:48,720 --> 00:02:50,800
 # 番茄沙司100克
-100g of ketchup
+100g of tamato sauce
 
 99
 00:02:50,800 --> 00:02:51,520
@@ -765,7 +767,7 @@ Add honey
 151
 00:04:34,120 --> 00:04:35,520
 # 有10克就足够
-10g is enough
+10g are enough
 
 152
 00:04:36,000 --> 00:04:38,680
@@ -965,7 +967,7 @@ Savoury, sweet, sour and umami
 191
 00:06:00,600 --> 00:06:02,240
 # 汁儿香 味厚
-The sauce is fragrant, and the flavour is mind-blowing
+The sauce is fragrant, and the flavour is bold
 
 192
 00:06:03,680 --> 00:06:07,760
