@@ -1,0 +1,1646 @@
+# https://youtu.be/ThRKmNs8UK4
+
+# 【国宴大师•无锡排骨&果子干】建国饭店第一任大厨秘方菜！港式无锡排骨汁儿香味厚、完美还原！酸甜开胃小甜品果子干！ |老饭骨
+# State Banquet Master Chef - Wuxi Pork Ribs & Braised Dried Fruits - Secret Recipe from First Chef of Jianguo Hotel
+
+# 小友们好，二伯今天要完美还原建国饭店第一任大厨黄金元的秘方菜——港式无锡排骨！
+# Hello everyone, today Er Bai is going to replicate a secret recipe from Huang Jinyuan - First Chef of Jianguo Hotel: Wuxi Pork Ribs in Hong Kong style!
+# 无锡排骨原本是大爷最拿手的淮扬菜，二伯做的港式的无锡排骨又有怎样的不同呢？
+# Wuxi Pork Ribs is a traditional Huaiyang dish, which Da Ye does the best. What makes Er Bai’s version different from the traditional one?
+# 二伯的菜有一个特点，各种肉类的腥味通过素菜的搭配祛除得很到位，这样荤素、颜色和口味上搭配都非常绝妙，小友们可要把这点记下来咯！
+# One of the characteristics of Er Bai’s dishes is that the gamey taste of different kinds of meat is ingeniously neutralised by the added vegetables, in which case, the balance of vegetables and meat, colour and flavour is just exquisite. Take some notes on this one!
+# 今天是周五，大爷说再给小友们加一道甜品，让大家愉快地过个周末！大师姐带来一道老北京果子干，酸酸甜甜、清凉解暑，必须要学起来！
+# As today is Friday, Da Ye wants to add a dessert for you to spend a lovely weekend! Da Shijie is bringing us an authentic Old Beijing braised dried fruits. It’s sweet and sour, and perfect for summer. A must-learn for you!
+
+# import intro
+
+1
+00:00:00,000 --> 00:00:00,600
+# 二伯好
+Hello, Er Bai
+
+2
+00:00:00,600 --> 00:00:01,280
+# 大爷好
+Hello, Da Ye
+
+3
+00:00:01,520 --> 00:00:04,040
+# 今天二伯给我们弄一个啥好菜
+What are you bringing us today, Er Bai?
+
+4
+00:00:04,240 --> 00:00:05,480
+# 这菜可有年头了
+There is some history behind today’s dish
+
+5
+00:00:06,320 --> 00:00:07,800
+# 这菜我得重点讲讲
+Which I’d like to talk about
+
+6
+00:00:07,920 --> 00:00:09,360
+# 这菜叫什么
+What is it called?
+
+7
+00:00:10,040 --> 00:00:11,040
+# 无锡排骨
+Wuxi Pork Ribs
+
+8
+00:00:11,520 --> 00:00:12,840
+# 无锡排骨 我了解
+I know Wuxi Pork Ribs
+
+9
+00:00:14,000 --> 00:00:14,840
+# 江苏菜
+It’s a Jiangsu dish
+
+10
+00:00:15,000 --> 00:00:15,600
+# 淮扬菜
+Huaiyang dish
+
+11
+00:00:15,640 --> 00:00:17,200
+# 大爷今天我做这版
+Da Ye, the version I’m cooking today
+
+12
+00:00:17,200 --> 00:00:18,240
+# 可不是淮扬菜
+Is not actually a Huaiyang dish
+
+13
+00:00:18,320 --> 00:00:19,760
+# 港式无锡排骨
+It’s Wuxi Pork Ribs in Hong Kong style
+
+14
+00:00:20,360 --> 00:00:22,280
+# 建国饭店第一任大厨黄金元
+It was developed by the First Chef of Jianguo Hotel, Huang Jinyuan
+
+15
+00:00:22,640 --> 00:00:24,120
+# 后来到了天伦王朝
+He later became the chef at Sunworld Dynasty (Hotel)
+
+16
+00:00:24,120 --> 00:00:25,200
+# 我跟他做搭档
+And I was his culinary partner
+
+17
+00:00:25,240 --> 00:00:27,120
+# 他的原方我给呈现过来
+Today I’m going to replicate his original recipe
+
+18
+00:00:27,120 --> 00:00:28,960
+# 在天伦的时候我们俩做搭档
+I learned this when we partnered at Sunworld Dynasty
+
+19
+00:00:28,960 --> 00:00:30,240
+# 这个方是他的原方
+This is his original recipe
+
+20
+00:00:30,280 --> 00:00:31,760
+# 今天我得好好看看
+I shall open my eyes today
+
+21
+00:00:32,080 --> 00:00:34,680
+# 这个港式的无锡排骨
+To see how this Hong Kong style Wuxi Pork Ribs
+
+22
+00:00:35,000 --> 00:00:38,120
+# 跟淮扬的无锡排骨有哪些区别
+Differs from the traditional Huaiyang version
+
+23
+00:00:38,920 --> 00:00:39,840
+# 开始吧二伯
+Let’s start, Er Bai
+
+24
+00:00:39,840 --> 00:00:40,480
+# 大爷您看啊
+Watch closely, Da Ye
+
+25
+00:00:40,480 --> 00:00:42,400
+# 你可准备好我可挖坑了
+Get ready, as I have dug the hole
+
+26
+00:00:42,400 --> 00:00:43,680
+# 挖坑吧大爷
+Take your time, Da Ye
+
+27
+00:00:44,040 --> 00:00:45,640
+# 介绍一下原料吧 师父
+Tell us about the ingredients, master
+
+28
+00:00:45,680 --> 00:00:46,080
+# 香叶
+Bay leaves
+
+29
+00:00:46,080 --> 00:00:46,680
+# 桂皮
+Cinnamon
+
+30
+00:00:46,720 --> 00:00:47,720
+# 八角草果
+Star anise and tsao-ko
+
+31
+00:00:47,720 --> 00:00:48,840
+# 这个料是提香的
+They are for aroma
+
+32
+00:00:49,360 --> 00:00:50,240
+# 少量的冰糖
+Small amount of rock sugar
+
+33
+00:00:50,240 --> 00:00:51,720
+# 这是番茄酱
+Tamato sauce
+
+34
+00:00:51,720 --> 00:00:52,680
+# 这是蜂蜜
+Honey
+
+35
+00:00:52,800 --> 00:00:53,320
+# 香醋
+Zhenjiang vinegar
+
+36
+00:00:53,400 --> 00:00:54,760
+# 这个呢 OK汁
+And this is OK Sauce
+
+37
+00:00:55,640 --> 00:00:56,760
+# 这个喼汁
+Worcestershire Sauce
+
+38
+00:00:56,760 --> 00:00:57,800
+# 配料 彩椒葱头
+Other ingredients include bell peppers and onions
+
+39
+00:00:57,920 --> 00:01:00,520
+# 这是您的老贯口啊
+These are your favourites
+
+40
+00:01:00,520 --> 00:01:01,640
+# 最后还有一个什么
+Last but not the least
+
+41
+00:01:02,360 --> 00:01:03,640
+# 您(做)淮扬菜您知道
+You must know this as you cook a lot of Huaiyang dishes
+
+42
+00:01:04,360 --> 00:01:05,280
+# 这个红曲米啊
+This is red yeast rice
+
+43
+00:01:05,280 --> 00:01:07,240
+# 大爷还真不是说提粤菜夸张
+Da Ye, I’m not exaggerating Cantonese food
+
+44
+00:01:07,560 --> 00:01:10,720
+# 这个港式的还真是不一样
+But this Hong Kong style is really different
+
+45
+00:01:10,800 --> 00:01:11,840
+# 大爷您看很简单
+Da Ye, it’s quite simple
+
+46
+00:01:11,840 --> 00:01:13,880
+# 你看我这排骨呢 看着还挺新鲜
+Look at these fresh pork ribs
+
+47
+00:01:13,880 --> 00:01:14,840
+# 这个不用焯
+We don’t need to parboil them
+
+48
+00:01:15,480 --> 00:01:18,640
+# 一焯这排骨就没那么香了
+Otherwise they won’t be as fragrant
+
+49
+00:01:18,640 --> 00:01:19,880
+# 就直接炸 大爷
+We deep fry them straight away, Da Ye
+
+50
+00:01:19,880 --> 00:01:20,720
+# 油温差不多了
+The oil temperature is about right
+
+51
+00:01:20,840 --> 00:01:21,560
+# 好
+Nice
+
+52
+00:01:23,440 --> 00:01:24,840
+# 一看就有六成热
+It looks like 60% hot (180 degree centigrade)
+
+53
+00:01:25,840 --> 00:01:26,880
+# 油温低了不行
+The oil temperature can’t be low
+
+54
+00:01:27,240 --> 00:01:29,680
+# 慢慢的沁炸 香气味出来了
+Fry them slowly to bring out the aroma
+
+55
+00:01:29,800 --> 00:01:31,280
+# 这个脏腥味就没了
+And the gamey smell is also gone
+
+56
+00:01:31,280 --> 00:01:32,480
+# 所以说我们没必要
+That’s why I don’t think
+
+57
+00:01:32,760 --> 00:01:33,640
+# 再出水了
+That we need to parboil them
+
+58
+00:01:34,000 --> 00:01:37,000
+# 这样烧出来的肉更香大爷
+The pork ribs will be more fragrant when cooking like this, Da Ye
+
+59
+00:01:37,400 --> 00:01:38,080
+# 这个方法
+This
+
+60
+00:01:38,080 --> 00:01:40,600
+# 是我们传统的一个烹调方法
+Is a very traditional way of cooking meat
+
+61
+00:01:40,800 --> 00:01:44,160
+# 你像过去的烧鸭块儿烧鸡块儿都要炸
+When we braise duck or chicken, we also fry them first
+
+62
+00:01:44,520 --> 00:01:46,000
+# 现在也是大火
+It’s still on high heat
+
+63
+00:01:46,720 --> 00:01:47,880
+# 大爷你看是吧
+What do you think, Da Ye?
+
+64
+00:01:47,880 --> 00:01:49,720
+# 慢慢让它就上色
+We colour the pork slowly
+
+65
+00:01:50,600 --> 00:01:51,440
+# 这个不怕炸
+They sustain the heat rather well
+
+66
+00:01:51,440 --> 00:01:53,880
+# 时间长了会不会把肉给炸老了呢
+Will the pork be overcooked if we fry them for too long?
+
+67
+00:01:53,880 --> 00:01:54,360
+# 不会
+No, they won’t
+
+68
+00:01:54,720 --> 00:01:56,480
+# 因为我还得拿高压锅压
+Because I will braise them in the high-pressure cooker later
+
+69
+00:01:56,840 --> 00:01:57,680
+# 这就熟了大爷
+Now it’s done, Da Ye
+
+70
+00:01:57,720 --> 00:01:59,120
+# 好 捞出
+Take them out
+
+71
+00:02:00,280 --> 00:02:01,560
+# 下一步咱开始了
+Next
+
+72
+00:02:02,240 --> 00:02:06,280
+# 咱把这香料掰一下
+Let’s snap these aromatics
+
+73
+00:02:06,960 --> 00:02:08,080
+# 桂皮 香叶
+Cinnamon, bay leaves
+
+74
+00:02:08,880 --> 00:02:10,320
+# 草果 搁一个就够
+One piece of tsao-ko
+
+75
+00:02:10,320 --> 00:02:11,600
+# 八角 煸一煸
+Star anise. Fry them gently
+
+76
+00:02:12,880 --> 00:02:13,600
+# 大爷您看
+Look, Da Ye
+
+77
+00:02:14,000 --> 00:02:15,760
+# 所有的料都给它搁下去就行了
+We put in all other ingredients
+
+78
+00:02:15,760 --> 00:02:16,440
+# 葱姜
+Spring onions, ginger
+
+79
+00:02:16,720 --> 00:02:17,680
+# 胡萝卜
+Carrots
+
+80
+00:02:17,720 --> 00:02:18,320
+# 芹菜
+Celeries
+
+81
+00:02:18,320 --> 00:02:19,280
+# 还有洋葱
+And onions
+
+82
+00:02:19,440 --> 00:02:20,120
+# 都下锅了
+All in the wok
+
+83
+00:02:20,640 --> 00:02:24,800
+# 因为我们这肉一般都是属于酸性的
+As we know, meats are normally acidic
+
+84
+00:02:25,640 --> 00:02:27,760
+# 所以二伯每次在做肉菜当中
+So whenever Er Bai cooks a meat dish
+
+85
+00:02:27,800 --> 00:02:29,520
+# 放了一些素菜
+He will add in some vegetables
+
+86
+00:02:29,840 --> 00:02:30,600
+# 香菜
+Coriander
+
+87
+00:02:31,040 --> 00:02:32,000
+# 素菜属于碱性
+Vegetables are alkaline
+
+88
+00:02:32,000 --> 00:02:33,200
+# 它的酸碱平衡
+So the dish is balanced between acidity and alkalinity
+
+89
+00:02:33,360 --> 00:02:35,400
+# 而且又增加了美味
+And it becomes even more flavoursome
+
+90
+00:02:35,400 --> 00:02:35,880
+# 你看啊
+Look
+
+91
+00:02:36,160 --> 00:02:37,680
+# 看着就好吃 还没吃呢
+They look so tasty already
+
+92
+00:02:38,240 --> 00:02:39,480
+# 然后咱们下料了啊
+Then, we add
+
+93
+00:02:39,600 --> 00:02:40,400
+# 黄酒
+Yellow rice wine
+
+94
+00:02:41,520 --> 00:02:42,160
+# 爆香
+And bring out the aroma
+
+95
+00:02:42,320 --> 00:02:44,800
+# 这叫烹调
+This is what we call ‘cooking’
+
+96
+00:02:44,880 --> 00:02:46,560
+# 你看小魏 香气味够了吧
+Look, Xiao Wei, isn’t it fragrant?
+
+97
+00:02:46,560 --> 00:02:48,560
+# 现在我们再炒这个
+Now let’s fry other ingredients
+
+98
+00:02:48,720 --> 00:02:50,800
+# 番茄沙司100克
+100g of tamato sauce
+
+99
+00:02:50,800 --> 00:02:51,520
+# OK汁
+OK Sauce
+
+100
+00:02:51,560 --> 00:02:53,120
+# OK汁 你看也100克
+Also 100g
+
+101
+00:02:53,280 --> 00:02:56,200
+# 为什么这个排骨这味道它特殊啊
+That’s something that gives this dish its unique flavour
+
+102
+00:02:56,280 --> 00:02:56,880
+# (OK汁) 西餐常用
+OK Sauce is commonly used in Western food
+
+103
+00:02:56,880 --> 00:02:58,760
+# 也是粤菜一种常用的调料
+It’s also a common ingredient in Cantonese food
+
+104
+00:02:59,360 --> 00:03:00,600
+# 这个网上都有卖的
+You can buy it online
+
+105
+00:03:00,920 --> 00:03:03,640
+# 你看味道不一样吧
+Look, the smell is quite different
+
+106
+00:03:03,640 --> 00:03:06,960
+# 这个喼汁 25克
+25g of Worcestershire Sauce
+
+107
+00:03:07,560 --> 00:03:08,920
+# 大爷你看 也都搁进去
+Mix it in, Da Ye
+
+108
+00:03:09,160 --> 00:03:12,800
+# 这喼汁和OK汁俩出来有种特殊的合成香味
+The Worcestershire Sauce and OK Sauce create an incredibly unique aroma
+
+109
+00:03:14,280 --> 00:03:15,120
+# 混合味道
+The combination of flavours
+
+110
+00:03:15,920 --> 00:03:18,160
+# 镇江香醋60克
+60g of Zhenjiang vinegar
+
+111
+00:03:18,160 --> 00:03:20,000
+# 然后冰糖搁一块就够了
+One piece of rock sugar
+
+112
+00:03:20,560 --> 00:03:21,480
+# 冰糖少搁点
+Don’t add too much rock sugar
+
+113
+00:03:21,800 --> 00:03:22,400
+# 是吧
+Right?
+
+114
+00:03:22,400 --> 00:03:23,320
+# 这还有一个呢 红曲水
+And of course, the stock of red yeast rice
+
+115
+00:03:23,320 --> 00:03:24,280
+# 找颜色
+To give the dish its colour
+
+116
+00:03:24,280 --> 00:03:26,640
+# 红曲水 提前沏好的
+We have boiled it earlier
+
+117
+00:03:26,960 --> 00:03:30,600
+# 市场上有卖红曲粉红曲米
+You can find red yeast powder or red yeast rice in the market
+
+118
+00:03:30,600 --> 00:03:32,000
+# 经过提前要泡制
+And you need to boil it before using it
+
+119
+00:03:32,720 --> 00:03:34,440
+# 然后我们打点水 烧烧它
+Then, we add in some water
+
+120
+00:03:35,160 --> 00:03:37,280
+# 烧开了的热水4勺
+4 ladles of boiling water
+
+121
+00:03:37,640 --> 00:03:39,640
+# 大爷我们先烧它一会
+Let’s braise the dish for some time
+
+122
+00:03:39,640 --> 00:03:40,080
+# 齐活
+Now it’s ready
+
+123
+00:03:41,120 --> 00:03:42,720
+# 高压锅吧 师父
+Transfer them to the high-pressure cooker
+
+124
+00:03:42,920 --> 00:03:45,240
+# 你压上锅我这菜就可以上了
+Once done, I can serve the dish
+
+125
+00:03:45,240 --> 00:03:47,320
+# 你看见没有 这颜色也挺漂亮
+Look at the colour, how beautiful
+
+126
+00:03:47,760 --> 00:03:48,120
+# 好
+Great
+
+127
+00:03:48,120 --> 00:03:49,400
+# 得了大爷 非常漂亮
+Da Ye, they look gorgeous
+
+128
+00:03:50,240 --> 00:03:50,960
+# 无锡排骨
+Wuxi Pork Ribs
+
+129
+00:03:51,360 --> 00:03:52,440
+# 开始压
+Pressure on
+
+130
+00:03:54,800 --> 00:03:57,760
+# 时间到25分钟
+Time is up, 25 minutes
+
+131
+00:03:58,080 --> 00:03:58,680
+# 出锅
+Take it out
+
+132
+00:03:58,920 --> 00:04:00,120
+# 大爷您快闻闻这个味
+Smell it, Da Ye
+
+133
+00:04:00,800 --> 00:04:01,440
+# 非常特殊
+Very special
+
+134
+00:04:01,560 --> 00:04:02,520
+# 错不了
+It can’t go wrong
+
+135
+00:04:03,240 --> 00:04:04,480
+# 把排骨先捡出来
+Take out the ribs first
+
+136
+00:04:04,600 --> 00:04:06,400
+# 先把配料给它煸炒一下
+Let’s fry some other ingredients
+
+137
+00:04:06,720 --> 00:04:07,440
+# 先给它煸熟了它
+Fry them first until they are cooked
+
+138
+00:04:08,320 --> 00:04:09,920
+# 煸一下辅料
+Fry these minor ingredients
+
+139
+00:04:09,960 --> 00:04:10,480
+# 对
+Yes
+
+140
+00:04:10,840 --> 00:04:11,640
+# 青红椒
+Green and red bell peppers
+
+141
+00:04:11,760 --> 00:04:12,760
+# 还有洋葱
+And onions
+
+142
+00:04:12,760 --> 00:04:14,480
+# 好 马上放到小盆里头
+OK, transfer them into a small bowl
+
+143
+00:04:15,640 --> 00:04:16,200
+# 来 师父
+Come, master
+
+144
+00:04:16,200 --> 00:04:17,520
+# 您把这汁往下一倒就行了
+You may just pour the sauce here
+
+145
+00:04:20,680 --> 00:04:22,200
+# 再加点生抽 找找口儿
+Add some light soy sauce for seasoning
+
+146
+00:04:22,200 --> 00:04:23,640
+# 这颜色已经挺漂亮了
+The colour is already so appetising
+
+147
+00:04:24,240 --> 00:04:25,360
+# 又加点生抽啊
+Some more light soy sauce
+
+148
+00:04:25,960 --> 00:04:27,280
+# 大概有6克的生抽
+Roughly 6g of it
+
+149
+00:04:27,960 --> 00:04:29,360
+# 这排骨闻着就香啊
+The pork ribs smell so good
+
+150
+00:04:32,160 --> 00:04:33,080
+# 蜂蜜
+Add honey
+
+151
+00:04:34,120 --> 00:04:35,520
+# 有10克就足够
+10g are enough
+
+152
+00:04:36,000 --> 00:04:38,680
+# 原有基础上又加了一勺白糖
+Another spoonful of caster sugar
+
+153
+00:04:38,680 --> 00:04:40,280
+# 咸味够了
+It’s perfectly savoury
+
+154
+00:04:41,120 --> 00:04:42,240
+# 砂锅我给烧上了啊
+Heat the stone bowl
+
+155
+00:04:42,640 --> 00:04:44,200
+# 生活要有仪式感
+We need this sense of ceremony in life
+
+156
+00:04:44,760 --> 00:04:46,120
+# 这味道多香啊
+How fragrant it is!
+
+157
+00:04:47,760 --> 00:04:48,640
+# 味道特殊
+Such a unique flavour
+
+158
+00:04:50,680 --> 00:04:51,280
+# 口儿合适
+It’s nicely balanced
+
+159
+00:04:52,280 --> 00:04:54,280
+# 这过年过节的时候来这么一锅
+Cook this during holidays
+
+160
+00:04:54,760 --> 00:04:55,720
+# 港派无锡骨
+Wuxi Pork Ribs in Hong Kong style
+
+161
+00:04:55,880 --> 00:04:57,840
+# 它是咸鲜能吃出来
+You can taste the savouriness
+
+162
+00:04:57,840 --> 00:04:58,840
+# 甜酸也能吃出来
+As well as the sweetness and sourness
+
+163
+00:04:58,960 --> 00:05:00,200
+# 还有一种特殊的香味
+And it also has a unique aroma
+
+164
+00:05:00,200 --> 00:05:03,280
+# 这喼汁应该是外来的调味品
+This Worcestershire Sauce is an imported seasoning
+
+165
+00:05:03,440 --> 00:05:04,240
+# 这回差不多
+It’s almost done now
+
+166
+00:05:04,440 --> 00:05:04,760
+# 好
+Right
+
+167
+00:05:04,800 --> 00:05:05,960
+# 准备勾芡咯
+Let’s add the slurry now
+
+168
+00:05:07,760 --> 00:05:09,720
+# 这就得是喝红酒了大爷 是吧
+You must drink some red wine with this dish right, Da Ye?
+
+169
+00:05:10,400 --> 00:05:11,880
+# 吃肉喝红酒
+Red wine with the meat
+
+170
+00:05:13,000 --> 00:05:13,440
+# 很漂亮
+So beautiful
+
+171
+00:05:13,920 --> 00:05:14,480
+# 来点明油
+A splash of oil
+
+172
+00:05:14,760 --> 00:05:15,320
+# 精彩
+Brilliant
+
+173
+00:05:15,560 --> 00:05:17,000
+# 对明油亮芡儿
+Bright oil goes so well with the slurry
+
+174
+00:05:17,400 --> 00:05:17,800
+# 好
+Alright
+
+175
+00:05:18,680 --> 00:05:19,400
+# 出锅了
+The dish is now served
+
+176
+00:05:19,520 --> 00:05:20,520
+# 看看 冒泡儿
+Look at all these bubbles
+
+177
+00:05:20,520 --> 00:05:21,880
+# 好了 漂亮啊
+It looks absolutely fantastic
+
+178
+00:05:22,200 --> 00:05:24,080
+# 醋的香气 OK汁的香气
+The aroma from vinegar and OK Sauce is amazing
+
+179
+00:05:24,520 --> 00:05:25,960
+# 大爷给您来块肉吃
+Try some ribs, Da Ye
+
+180
+00:05:27,560 --> 00:05:29,320
+# 这立秋我都没吃过肉
+I haven’t had any meat since the start of autumn
+
+181
+00:05:29,680 --> 00:05:30,160
+# 来点汁
+A bit of sauce
+
+182
+00:05:30,880 --> 00:05:31,520
+# 港式的啊
+Hong Kong style
+
+183
+00:05:31,520 --> 00:05:34,360
+# 我每次都是享受第一口的幸福
+I’m always blessed to be the first to try
+
+184
+00:05:35,120 --> 00:05:36,120
+# 幸福满满
+Full of happiness
+
+185
+00:05:36,280 --> 00:05:37,720
+# 港式无锡排骨
+Wuxi Pork Ribs in Hong Kong style
+
+186
+00:05:47,960 --> 00:05:49,000
+# 大爷直摇头
+Da Ye is moving his head around
+
+187
+00:05:50,080 --> 00:05:51,280
+# 大爷回味
+Da Ye is recollecting the pleasant flavour
+
+188
+00:05:52,040 --> 00:05:52,800
+# 我在比较
+I’m comparing it
+
+189
+00:05:53,480 --> 00:05:55,120
+# 跟无锡排骨有什么不同
+With the traditional Wuxi Pork Ribs to see what makes this different
+
+190
+00:05:55,960 --> 00:05:59,760
+# 咸 甜 酸 鲜
+Savoury, sweet, sour and umami
+
+191
+00:06:00,600 --> 00:06:02,240
+# 汁儿香 味厚
+The sauce is fragrant, and the flavour is bold
+
+192
+00:06:03,680 --> 00:06:07,760
+# 跟无锡排骨有截然不同的比较
+It’s indeed so different from the traditional Wuxi Pork Ribs
+
+193
+00:06:07,760 --> 00:06:09,680
+# 我这心砰吱砰吱直跳
+My heart is beating so hard
+
+194
+00:06:09,680 --> 00:06:12,080
+# 你说大爷就做南方菜
+You know, Da Ye is so good at cooking Southern food
+
+195
+00:06:12,320 --> 00:06:13,360
+# 不是 有什么说什么
+To be honest
+
+196
+00:06:15,440 --> 00:06:16,280
+# 各有千秋
+They both taste great
+
+197
+00:06:16,440 --> 00:06:18,720
+# 二伯这点我比较信服在哪呢
+The best thing about Er Bai’s cooking is that
+
+198
+00:06:19,480 --> 00:06:20,720
+# 二伯不管做鸡
+When Er Bai cooks chicken
+
+199
+00:06:21,720 --> 00:06:22,480
+# 没有鸡味
+You won’t taste the gamey flavour of chicken
+
+200
+00:06:23,240 --> 00:06:25,720
+# 做排骨没有排骨味
+And when he cooks pork ribs, you won’t taste the gamey flavour of pork
+
+201
+00:06:26,720 --> 00:06:27,560
+# 说什么味儿呢
+So what flavours do they have?
+
+202
+00:06:27,560 --> 00:06:28,080
+# 说白了就是
+What I really mean is that
+
+203
+00:06:28,520 --> 00:06:29,360
+# 鸡的腥味
+The gamey flavours of chicken
+
+204
+00:06:29,360 --> 00:06:30,360
+# 排骨的腥味
+pork
+
+205
+00:06:30,400 --> 00:06:31,280
+# 鸡鸭的腥味
+Duck
+
+206
+00:06:31,320 --> 00:06:34,360
+# 包括其他的一些牛肉羊肉的腥味没有
+And all other meats like beef and lamb are gone
+
+207
+00:06:34,800 --> 00:06:35,280
+# 为什么
+Why?
+
+208
+00:06:35,960 --> 00:06:38,880
+# 他巧妙地运用了胡萝卜
+Er Bai cleverly utilises the carrots
+
+209
+00:06:39,680 --> 00:06:40,320
+# 芹菜
+Celeries
+
+210
+00:06:40,640 --> 00:06:41,520
+# 香菜
+Coriander
+
+211
+00:06:41,520 --> 00:06:42,440
+# 葱头
+And spring onions
+
+212
+00:06:43,200 --> 00:06:44,400
+# 荤素搭配合理
+So the balance of meat and vegetables
+
+213
+00:06:44,400 --> 00:06:45,560
+# 颜色搭配合理
+Colours
+
+214
+00:06:45,600 --> 00:06:46,680
+# 口味搭配合理
+And flavours is just spot on
+
+215
+00:06:47,480 --> 00:06:49,760
+# 不管是港式的 苏式的
+Regardless of Hong Kong or Jiangsu style
+
+216
+00:06:50,640 --> 00:06:51,600
+# 各有千秋
+They are both delicious
+
+217
+00:06:53,120 --> 00:06:55,800
+# 说个不同的吧 我也透露一下
+Let’s talk about something different. I’ll reveal
+
+218
+00:06:55,800 --> 00:06:57,600
+# 无锡排骨的方法
+How traditional Wuxi Pork Ribs are made
+
+219
+00:06:57,600 --> 00:06:58,800
+# 无锡排骨不炸
+We don’t fry the ribs in the traditional way
+
+220
+00:06:58,840 --> 00:06:59,920
+# 为什么不炸呢
+Why not?
+
+221
+00:07:00,240 --> 00:07:02,680
+# 他需要吃排骨的软烂
+Because we want the ribs to be soft and tender
+
+222
+00:07:02,960 --> 00:07:03,600
+# 你看
+Look
+
+223
+00:07:04,200 --> 00:07:05,680
+# 二伯做这排骨
+The ribs Er Bai made
+
+224
+00:07:05,720 --> 00:07:06,640
+# 看着软烂
+Seem soft
+
+225
+00:07:06,680 --> 00:07:07,840
+# 但是很整齐
+But they are actually quite firm
+
+226
+00:07:07,840 --> 00:07:10,080
+# 因为它拿油给炸了
+Because the ribs have been fried
+
+227
+00:07:10,080 --> 00:07:11,560
+# 排骨保持着完整性
+So they maintain their shapes very well
+
+228
+00:07:11,720 --> 00:07:13,160
+# 锁住水分
+The juice has been locked in the meat
+
+229
+00:07:13,160 --> 00:07:15,520
+# 但是它瘦而不柴
+They are lean but not dry
+
+230
+00:07:16,320 --> 00:07:18,520
+# 淮扬菜你比如说糖醋排骨
+Some other dishes like sweet and sour pork ribs
+
+231
+00:07:18,520 --> 00:07:19,360
+# 它也要炸
+Also need to be fried first
+
+232
+00:07:19,520 --> 00:07:20,320
+# 但是它做什么
+But they are served
+
+233
+00:07:20,320 --> 00:07:21,280
+# 做冷菜
+As a cold entree
+
+234
+00:07:21,440 --> 00:07:22,520
+# 糖醋小排
+Sweet and sour pork ribs
+
+235
+00:07:22,840 --> 00:07:25,600
+# 那个要炸要吃什么肉的干香
+Are fried to bring out their fragrance
+
+236
+00:07:25,600 --> 00:07:26,640
+# 然后回甜
+Sweet aftertaste
+
+237
+00:07:27,480 --> 00:07:28,960
+# 还有醋的醋香
+And the aroma from the vinegar
+
+238
+00:07:29,120 --> 00:07:33,480
+# 二伯这个手法呢我特别赞同也欣赏
+I’m definitely convinced by the way how Er Bai cooks the ribs, and I love it
+
+239
+00:07:33,760 --> 00:07:34,880
+# 二伯 辛苦
+Good job, Er Bai
+
+240
+00:07:35,120 --> 00:07:35,800
+# 谢谢大爷
+Much appreciated, Da Ye
+
+241
+00:07:37,040 --> 00:07:39,720
+# 终于能让大爷赞美一句 不容易
+It’s not easy to have Da Ye’s compliments
+
+242
+00:07:39,920 --> 00:07:42,000
+# 评价师父呢 小心点
+Be careful when you comment on your master’s dish
+
+243
+00:07:45,360 --> 00:07:46,480
+# 又吃那老味儿了师父
+It reminds me of the old flavours, master
+
+244
+00:07:46,680 --> 00:07:48,080
+# 跟原来您教我那个一样
+It’s the same as what you have taught me
+
+245
+00:07:48,200 --> 00:07:49,760
+# 过两天我回家再做一份
+I’ll cook this dish again once I go back home in a few days
+
+246
+00:07:49,800 --> 00:07:51,800
+# 港式无锡骨
+Wuxi Pork Ribs in Hong Kong style
+
+247
+00:07:51,800 --> 00:07:54,320
+# 感谢师父 感谢大爷
+Thanks master, and thanks Da Ye
+
+248
+00:07:54,920 --> 00:07:55,600
+# 非常好
+Very nice
+
+249
+00:07:56,000 --> 00:07:57,400
+# 二伯踏实了
+Er Bai can get relaxed now
+
+250
+00:07:58,680 --> 00:07:59,600
+# 二伯尝尝吧
+Help yourself, Er Bai
+
+251
+00:08:11,960 --> 00:08:14,880
+# 以前的小吃现在不太常见了
+This is a dessert from the old days, and it’s not as common now
+
+252
+00:08:15,240 --> 00:08:16,520
+# 老北京果子干
+Old Beijing braised dried fruits
+
+253
+00:08:18,280 --> 00:08:21,160
+# 您看看咱们今天准备的料
+Have a look at our ingredients today
+
+254
+00:08:21,280 --> 00:08:25,160
+# 柿饼 葡萄干 山楂干 杏干
+Dried persimmons, raisins, dried Chinese hawthorns, dried apricots
+
+255
+00:08:25,160 --> 00:08:27,320
+# 圣女果干这是新的
+And dried cherry tomatoes. They are the new ingredients
+
+256
+00:08:27,320 --> 00:08:29,560
+# 这个是咱们在传统的基础上
+Yes, they are the creative addition
+
+257
+00:08:29,560 --> 00:08:30,720
+# 又加以创新了
+To our old tradition
+
+258
+00:08:30,720 --> 00:08:33,360
+# 还有藕 这个藕是我刚才削的
+These are lotuses which I just peeled
+
+259
+00:08:33,360 --> 00:08:35,440
+# 然后您看不变色为什么呢
+Why didn’t they turn black?
+
+260
+00:08:35,720 --> 00:08:38,280
+# 刚才我在这水里边加了点白醋
+Because I added white vinegar into the water just now
+
+261
+00:08:38,280 --> 00:08:40,640
+# 桂花 然后这还有糖桂花
+Osmanthus. Yes, here is some osmanthus syrup
+
+262
+00:08:40,640 --> 00:08:43,480
+# 咱们网友在家的时候把这些都得洗洗
+When you cook this dish at home, remember to rinse these ingredients
+
+263
+00:08:43,600 --> 00:08:46,960
+# 把它泡开了 是为了褶皱里边的
+Soak them first, so we can rinse out the dirt
+
+264
+00:08:46,960 --> 00:08:48,440
+# 有点脏东西给它洗出来
+Hidden in the wrinkles
+
+265
+00:08:48,480 --> 00:08:50,000
+# 全都把这些泡上
+Soak all of them
+
+266
+00:08:50,000 --> 00:08:53,920
+# 咱们这柿饼要拿手掰 不要切
+Shred these dried persimmons by hand instead of chopping them
+
+267
+00:08:53,920 --> 00:08:56,720
+# 把这藕咱们切一下 九个眼的
+Let’s slice these lotuses. They are nine-eyed
+
+268
+00:08:56,720 --> 00:09:00,440
+# 咱们把这藕焯一下 锅一开就可以了
+Then, blanch them and take them out as soon as the water is boiling
+
+269
+00:09:00,440 --> 00:09:03,360
+# 准备一盆凉水 这里边加点白醋
+Get a bowl of cold water with some white vinegar
+
+270
+00:09:03,360 --> 00:09:06,560
+# 为了防止藕变黑
+To stop the lotuses from turning black
+
+271
+00:09:06,560 --> 00:09:10,240
+# 水开了冲凉吗 不用冲凉里边有醋
+Do we need to rinse them with cold water after blanching? No, because of the white vinegar in the water
+
+272
+00:09:10,240 --> 00:09:12,160
+# 普及一个小知识
+Some facts about lotus
+
+273
+00:09:12,160 --> 00:09:15,600
+# 九眼藕含淀粉量高 炖出来以后是面糊的
+Nine-eyed lotuses have the highest amount of starch, so they are quite glutinous after braising
+
+274
+00:09:15,600 --> 00:09:17,800
+# 基本上产在长江以南
+They are mostly grown in the south of Yangtze River
+
+275
+00:09:17,800 --> 00:09:22,280
+# 北方的藕脆甜嫩
+And the lotuses in the north are crunchy, sweet and tender
+
+276
+00:09:22,280 --> 00:09:26,120
+# 荷塘小炒那就得是用脆藕 它是七眼的
+The dish Stir-fried Lotus uses those crunchy lotuses, which are seven-eyed
+
+277
+00:09:26,120 --> 00:09:31,080
+# 水也开了 山楂下去 这个先煮一会
+Now the water is boiling. Put in the dried hawthorns first and boil them for a bit
+
+278
+00:09:31,080 --> 00:09:37,560
+# 然后把杏干下去
+Then add in dried apricots
+
+279
+00:09:37,560 --> 00:09:39,560
+# 葡萄干 圣女果干
+Raisins, dried cherry tomatoes
+
+280
+00:09:39,560 --> 00:09:41,640
+# 把冰塘下去 黄冰糖
+And rock sugar, yellow rock sugar to be exact
+
+281
+00:09:41,640 --> 00:09:47,560
+# 咱们把柿饼给掰成这么大块就行了
+Then let’s shred the dried persimmons into big pieces like this
+
+282
+00:09:47,600 --> 00:09:49,520
+# 一定要拿手掰 别切
+Make sure to shred them by hand rather than chopping them
+
+283
+00:09:49,520 --> 00:09:51,160
+# 切的没有掰的口感好
+Shredded persimmons have the better texture than the chopped ones
+
+284
+00:09:51,400 --> 00:09:53,720
+# 把它熬粘稠了就行了
+Braise them until they are sticky
+
+285
+00:09:53,720 --> 00:09:56,760
+# 把这柿饼搁里边 全名叫什么来着
+Add in these dried persimmons. What is this dish called?
+
+286
+00:09:56,760 --> 00:09:58,080
+# 叫果子干
+Braised dried fruits
+
+287
+00:09:58,840 --> 00:10:00,200
+# 以前都是挑着担子
+In the old days, vendors would carry them on the shoulder
+
+288
+00:10:00,200 --> 00:10:02,120
+# 果子干儿嘞
+And yell “braised dried fruits”
+
+289
+00:10:02,120 --> 00:10:07,280
+# 您看这个水变这个颜色了
+Look, the colour of the water has changed
+
+290
+00:10:07,280 --> 00:10:08,000
+# 把这藕也下去
+Now add in the lotuses
+
+291
+00:10:08,040 --> 00:10:09,760
+# 这果子干有什么固定要求么
+What are the fixed ingredients for this dish?
+
+292
+00:10:09,760 --> 00:10:10,080
+
+293
+00:01:58,180 --> 00:02:00,010
+# 基本上就是这几样
+Basically what we have here
+
+294
+00:10:12,320 --> 00:10:15,680
+# 咱这儿还有一个秘密武器 这是果冻粉
+And we also have a secret weapon, jelly powder
+
+295
+00:10:15,680 --> 00:10:17,880
+# 咱们加一点水先把它化开了
+Mix it in the water first
+
+296
+00:10:17,880 --> 00:10:20,680
+# 其实咱们汤汁已经有点黏度了
+The juice is already somewhat syrupy
+
+297
+00:10:20,720 --> 00:10:22,960
+# 加上这个口感更好
+It will have an even better texture with this added in
+
+298
+00:10:22,960 --> 00:10:24,720
+# 藕粉呢 藕粉也可以
+How about lotus powder? It works as well
+
+299
+00:10:24,720 --> 00:10:27,240
+# 咱们在网上都能买得到
+They all can be purchased online
+
+300
+00:10:27,600 --> 00:10:29,120
+# 咱这样就把火关上
+That’s it. Turn off the heat
+
+301
+00:10:29,120 --> 00:10:32,080
+# 咱们准备了点干桂花 这点就够了
+We have some dried osmanthus here, which is well enough
+
+302
+00:10:32,240 --> 00:10:33,280
+# 咱们把它搁里边
+Add it into the pot
+
+303
+00:10:34,160 --> 00:10:37,040
+# 把它晾凉以后 下入冰箱
+Cool them down before transferring them into the fridge
+
+304
+00:10:37,040 --> 00:10:40,400
+# 桂花酱还没放呢 最后出锅时再放
+We haven’t added the osmanthus syrup yet. Wait until they are taken out of the pot
+
+305
+00:10:40,400 --> 00:10:42,800
+# 这个味道非常好 等到自然凉确之后
+They look so tasty. Once they are naturally cooled down
+
+306
+00:10:43,160 --> 00:10:44,920
+# 往冰箱一放  明天早上一吃
+Chuck the pot in the fridge for enjoying tomorrow morning
+
+307
+00:10:45,000 --> 00:10:47,520
+# 大爷您看 咱们从冰箱里边
+Look, Da Ye, we have taken the pot out of the fridge
+
+308
+00:10:47,520 --> 00:10:49,760
+# 冰镇完了拿出来了
+They have been nicely chilled
+
+309
+00:10:49,760 --> 00:10:52,040
+# 我给您盛一碗 藕现在还是脆的呢
+I’ll serve you a bowl. Lotuses are still crunchy
+
+310
+00:10:52,040 --> 00:10:53,520
+# 我知道您爱吃甜的
+I know you love desserts
+
+311
+00:10:53,520 --> 00:10:57,400
+# 特意给您来点 桂花酱
+Some osmanthus syrup for you
+
+312
+00:10:57,400 --> 00:11:00,120
+# 您尝尝合不合您的口味
+Have a taste to see if you like it
+
+313
+00:11:00,120 --> 00:11:02,960
+# 我就来个柿饼吃吧 酸酸甜甜
+I’ll eat some persimmons first. They are sweet and sour
+
+314
+00:11:03,000 --> 00:11:04,840
+# 大爷爱吃柿饼是吧
+Da Ye loves dried persimmons
+
+315
+00:11:04,840 --> 00:11:06,480
+# 真好吃
+It’s really delicious
+
+316
+00:11:06,480 --> 00:11:10,240
+# 酸的脆的甜的 各种味道融合在一块
+It’s sour, crunchy and sweet. Such a beautiful combination of different flavours
+
+317
+00:11:10,280 --> 00:11:13,520
+# 你看二伯 谁爱吃甜的啊
+Look at Er Bai. Now we know who truly loves desserts
+
+318
+00:11:13,520 --> 00:11:16,880
+# 二伯那碗儿快吃完了
+Er Bai is almost finishing his bowl
+
+319
+00:11:16,880 --> 00:11:18,400
+# 尤其那藕 脆脆的
+Especially these lotuses, so crunchy
+
+320
+00:11:18,400 --> 00:11:21,120
+# 还带有淡淡的桂花香气
+With hints of fragrance from the osmanthus
+
+321
+00:11:21,120 --> 00:11:23,720
+# 甜食本身就抓人 酸甜开胃
+Dessert is attractive in itself. It’s sweet and sour, and opens up your appetite
+
+322
+00:11:23,760 --> 00:11:26,720
+# 到夏天冰碗它又特别解暑
+It also chills you down so well in summer
+
+323
+00:11:26,840 --> 00:11:30,800
+# 生产大块冰 小碗一碗碗的全搁在冰上
+Get a large piece of ice, and place small bowls of this dish all on the ice
+
+324
+00:11:30,920 --> 00:11:32,640
+# 来一碗清凉爽口
+Have a bowl, nice and chilled
+
+325
+00:11:32,640 --> 00:11:32,960
+
+326
+00:03:21,070 --> 00:03:23,060
+# 那个炎热的夏天
+In the hot summer
+
+327
+00:11:34,960 --> 00:11:36,680
+# 北京人的情怀
+This is the nostalgia of Beijingers
