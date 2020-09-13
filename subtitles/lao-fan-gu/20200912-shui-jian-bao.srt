@@ -9,7 +9,7 @@
 # 小友们好，大爷和二伯发现咱们海外的小友对面食情有独钟，这次就教大家做一个河南特色小吃——水煎包！
 # 水煎包的馅儿里有牛肉、胡萝卜与粉丝，虽然食材简单，但是搭配起来非常鲜美，一口下去回味无穷！
 # 怎样把这牛肉处理得没有膻味儿呢？快点击视频来看看吧！
-# Hi friends, Daye and Erbai noticed that our overseas followers really enjoy our dough food recipes, so today we are here with a Henan specialty, Pan fried buns! Pan fried buns with beef, carrots and glass noodle filling. Even though the ingredients are simple, the combination works wonders. The buns taste so delicious and the taste lingers. Do you also want to know how to get rid of the gamey beef taste? Just watch the video!
+# Hi friends, Da Ye and Er Bai noticed that our overseas followers really enjoy our dough food recipes, so today we are here with a Henan specialty, Pan fried buns! Pan fried buns with beef, carrots and glass noodle filling. Even though the ingredients are simple, the combination works wonders. The buns taste so delicious and the taste lingers. Do you also want to know how to get rid of the gamey beef taste? Just watch the video!
 
 # 原料：面粉、酵母粉、泡打粉、水、牛肉馅（三肥七瘦）、胡萝卜、粉条、姜、葱、盐、五香粉、十三香粉、白胡椒粉、黄酒、酱油、香油、生粉
 # Ingredients: flour, yeast, baking powder, water, minced beef (30% fat 70% lean), carrot, glass noodle, ginger, scallion, salt, five-spice powder, thirteen-spice powder, white pepper powder, huangjiu rice wine, soy sauce, sesame oil and starch
@@ -25,6 +25,8 @@
 # 4. Mix 1 part starch to 2 parts flour, and add water to make the mixture a bit runny.
 # 5、点火后锅中加入少许大豆油，将包好的饺子摆入锅中，边角对齐；之后加入调好的生粉面粉水（水量根据饺子大小确定），先用大火加热至快收汁时转小火，淋入少许豆油；底子成型干脆后加入少许香油后即可出锅。
 # 5. Heat up the pan and pour in some oil. Put the buns into the pan and make sure the pointy ends are aligned. Add in the starch and flour mixture, the amount of water depends on the size of the buns. Start with high heat until reducing the liquid, put in a bit more oil. The buns are ready when the bottom is dry and cripsy and can be served after topping up with a bit sesame oil.
+
+# import intro
 
 # 字幕
 
@@ -81,7 +83,7 @@ Water in one go
 11
 00:00:27,240 --> 00:00:30,120
 # 就慢慢的给它做成面搓也可以
-Adding the water in slowly is fine as well
+Slowly adding in the water is fine as well
 
 12
 00:00:30,120 --> 00:00:32,920
@@ -136,7 +138,7 @@ The dough will taste a bit sour after it's cooked
 22
 00:00:55,120 --> 00:00:57,880
 # 行吗 二伯 行
-What do you think, Erbai? Good to go? - Yes!
+What do you think, Er Bai? Good to go? - Yes!
 
 23
 00:00:57,880 --> 00:00:59,120
@@ -171,7 +173,7 @@ This is beef
 29
 00:01:07,520 --> 00:01:09,360
 # 而且是三七（比例）
-And the lean/fat ratio is 3 to 7
+And the fat/lean ratio is 3 to 7
 
 30
 00:01:09,360 --> 00:01:10,920
@@ -211,7 +213,7 @@ That sounds amazing
 37
 00:01:23,080 --> 00:01:24,880
 # 咱先给他切个姜末
-Let's mince up some ginger
+Let's mince some ginger
 
 38
 00:01:24,880 --> 00:01:26,960
@@ -341,7 +343,7 @@ When chopping the carrot
 63
 00:02:09,640 --> 00:02:11,440
 # 不要贴的太细
-Make sure to not cut it too finely
+Make sure not to cut it too finely
 
 64
 00:02:11,440 --> 00:02:12,680
@@ -391,7 +393,7 @@ And soaking it won't help
 73
 00:02:22,600 --> 00:02:23,760
 # 稍微的剁一下
-Chop it up slightly
+Chop it slightly
 
 74
 00:02:23,760 --> 00:02:24,840
@@ -646,7 +648,7 @@ Make sure to pinch it on the edges
 124
 00:04:02,960 --> 00:04:04,320
 # 揪稍微长一点
-Elongate it a bit
+Make it a longer
 
 125
 00:04:04,320 --> 00:04:05,880
@@ -731,7 +733,7 @@ And when the dish comes out, it will be very pretty
 141
 00:04:36,840 --> 00:04:38,520
 # 二伯你看看 都听见滋啦啦的响
-Erbai, look! You can hear the sizzling.
+Er Bai, look! You can hear the sizzling.
 
 142
 00:04:38,520 --> 00:04:39,600
@@ -791,7 +793,7 @@ Depending on the size and cooking time of your buns
 153
 00:04:59,280 --> 00:05:00,040
 # 比如你水少了
-The buns might be uncooked
+The buns might be under-cooked
 
 154
 00:05:00,040 --> 00:05:00,840
@@ -901,7 +903,7 @@ So you can make this with
 175
 00:05:41,960 --> 00:05:43,400
 # 用咱这电饼铛也能做
-A Foreman grill at home
+An electric pan at home
 
 176
 00:05:43,400 --> 00:05:44,880
@@ -921,7 +923,7 @@ If it is uneven
 179
 00:05:48,480 --> 00:05:51,360
 # 它等于中间糊了两边发白
-The dish will burn in the middle and the edges will be undercooked
+The dish will burn in the middle and the edges will be under-cooked
 
 180
 00:05:53,240 --> 00:05:53,960
@@ -1131,7 +1133,7 @@ Glass noodle
 221
 00:07:32,040 --> 00:07:35,680
 # 你别瞧 食材搭配简单
-The ingredients are very easy
+The ingredients are very simple
 
 222
 00:07:36,120 --> 00:07:37,360
@@ -1141,12 +1143,12 @@ But very pragmatic
 223
 00:07:37,480 --> 00:07:39,680
 # 它五香粉和十三香是揉在一起的
-The five spice and thirteen spice is integrated together
+The five spice and thirteen spice integrate with each together
 
 224
 00:07:39,720 --> 00:07:41,640
 # 它出一种特殊效果
-And brings out another flavour
+And bring out another flavour
 
 225
 00:07:42,120 --> 00:07:43,040
@@ -1161,7 +1163,7 @@ The flavour wouldn't be enough
 227
 00:07:44,520 --> 00:07:46,960
 # 二伯点到实处了
-Erbai, you are on point!
+Er Bai, you are on point!
 
 228
 00:07:48,200 --> 00:07:49,160
