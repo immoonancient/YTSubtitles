@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•酱鸡】一撕就流油！油润酱香、细嫩不柴，酱鸡太入味了！养一锅老汤酱一切！ |老饭骨
-# State Banquet Master Chef - Braised Chicken, juicy and tender，and flavor penetrated! This braising broth can be used to braise anything!
+# State Banquet Master Chef - Braised Chicken. Juicy and tender! Anything can be braised!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -12,8 +12,11 @@
 # 老冯这次用的鸡是三年的老母鸡，本以为做出来会很柴，没想到用他的方法做，酱香油润、肉质细嫩，用手这么轻轻一撕直流油！
 # 想知道秘诀在哪里吗？快点击视频😁老饭骨教你绝招！
 # Helloe firends, today Lao Feng brought his specialty dish - Braised Chicken!
-# For this braised chicken, we have to prepare a pot of braising broth, which if you do it properly, it will be great for braising everything. It’s worth learning!
-# The Chicken Lao Feng used this time is 3 years old hen, which should be pretty dry. Surprising, with his way of cooking it, the chicken is juicy and tender. The juice of the chicken dribbles when you gently tear it.
+# For this braised chicken, we have to prepare a pot of braising broth. If you do it properly, it will be great for braising everything. It’s worth learning!
+# This time Lao Feng used 3 years old hen, which should be pretty dry. Surprisingly, with his way of cooking it, the chicken is juicy and tender. The juice of the chicken dribbles when you gently tear it.
+# If you want to know the secret, please watch this video. 
+
+# import intro
 
 # 字幕
 
@@ -35,7 +38,7 @@ Done, it’s that easy
 4
 00:00:08,200 --> 00:00:09,760
 # 我敬大爷一鸡腿
-I offer Da Ye the Chick leg
+I offer Da Ye a chicken leg
 
 5
 00:00:10,640 --> 00:00:11,600
@@ -60,7 +63,7 @@ Its feather is colorful
 9
 00:00:17,560 --> 00:00:22,560
 # 它出来的汤味和肉香味 不一样
-The soup based on it and how it taste is different from other kinds
+The flavour and the smell of soup made with this type of hen is different from other kinds
 
 10
 00:00:23,160 --> 00:00:24,320
@@ -105,7 +108,7 @@ Actually home cooking isn’t that fastidious
 18
 00:00:46,920 --> 00:00:49,280
 # 买个鸡腿 你酱酱也行
-Buy a chicken thigh and braise it works fine too
+Buy a chicken leg and braise it, works fine too
 
 19
 00:00:49,280 --> 00:00:51,520
@@ -125,7 +128,7 @@ And other ingredients are here
 22
 00:00:56,640 --> 00:00:59,600
 # 良姜 草果 肉蔻 还有白蔻
-Galangal, tsao-ko, cinnamon, and white cardamom
+Galangal, tsao-ko, nutmeg, and white cardamom
 
 23
 00:00:59,640 --> 00:01:01,920
@@ -165,12 +168,12 @@ I tried so many times
 30
 00:01:16,240 --> 00:01:19,440
 # 这个方式做出来 快速的能让咱们
-This way of cooking enables us to
+This way of cooking helps us to
 
 31
 00:01:19,440 --> 00:01:20,920
 # 这锅老汤形成
-Form this pot of braised broth
+Form this pot of braised broth quickly
 
 32
 00:01:20,920 --> 00:01:22,280
@@ -340,12 +343,12 @@ Then put other ingredients in
 65
 00:02:51,520 --> 00:02:54,160
 # 这个料也是让它水分干了
-For these is also to fry out the water content
+For these, we also fry till the water is out
 
 66
 00:02:54,160 --> 00:02:55,840
 # 料香味也出来了
-The aroma flavor has came out
+The aroma of the spices has came out
 
 67
 00:02:55,840 --> 00:02:57,760
@@ -475,12 +478,12 @@ The gardenia water has been boiled for about ten minutes, pour them out
 92
 00:04:05,560 --> 00:04:08,800
 # 金黄灿灿 搁在一边备用
-Golden color, leave it aside
+The color is golden. Leave it aside
 
 93
 00:04:08,800 --> 00:04:10,920
 # 冰糖 炒糖色
-White ruck sugar for caramelized sugar
+White rock sugar for caramelized sugar
 
 94
 00:04:10,920 --> 00:04:14,080
@@ -585,7 +588,7 @@ After pouring the sauce
 114
 00:05:13,040 --> 00:05:14,400
 # 香味就全出来了
-The aroma will come out when it boiled
+The aroma will come out when it boils
 
 115
 00:05:14,400 --> 00:05:16,680
@@ -675,7 +678,7 @@ Because the amount of salt will affect the broth directly
 132
 00:06:01,040 --> 00:06:02,920
 # 鸡肉好吃不好吃
-And (affect) how the chicken test
+And (affect) how the chicken taste
 
 133
 00:06:02,920 --> 00:06:04,920
@@ -845,17 +848,17 @@ If you want to save it for longer, put it into the freezer
 166
 00:07:33,240 --> 00:07:36,480
 # 你要说三天两头酱 就放在保鲜里就行了
-If you braise food more often, it’s ok to be kept into the refrigerator
+If you braise food more often, it’s ok to be kept in the refrigerator
 
 167
 00:07:36,480 --> 00:07:38,320
 # 这个三次之内
-You don’t need to and anything
+You don’t need to add anything
 
 168
 00:07:38,360 --> 00:07:43,440
 # 您是不需要加任何料的 酱东西
-for the first three-time of braising
+for the first three times of braising
 
 169
 00:07:44,880 --> 00:07:48,000
@@ -1060,7 +1063,7 @@ The flavor of braising
 209
 00:09:41,640 --> 00:09:43,560
 # 我用一句话就来结束了
-I will conclusion with one sentence
+I will conclude with one sentence
 
 210
 00:09:43,920 --> 00:09:46,480
