@@ -2,22 +2,22 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•象眼鸽蛋】快失传的精致宫廷老菜:象眼鸽蛋！虾仁Q弹、面包酥脆、桃仁香甜，做宴席太赞了！牛肉丸怎么打出来才弹|老饭骨
-# State Banquet Master Chef – Pigeon Eggs in Elephant Eyes, a long-lost dish in the court; how to make beef balls that can bounce.
+# State Banquet Master Chef – Pigeon Eggs in Elephant Eyes. How to make bouncy beef balls.
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
 # 大家好，上个作业视频大家都找到自己的作品了吗？
-# Hey, did you find your homework dish in the last video?
+# Hello friends. Did you find your homework dish in the last video?
 # 大爷二伯看到小友们做得这么好都很开心，所以今天再为大家带来一道快失传的宫廷老菜——象眼鸽蛋！
-# Da Ye and Er Bai was glad to see all your great works, so they decided to show you a long-lost dish in the old court – Pigeon Eggs in Elephant Eyes!
+# Da Ye and Er Bai were glad to see all your great works, so they decided to show you a long-lost imperial dish – Pigeon Eggs in Elephant Eyes!
 # 这道菜做法简单，摆盘出来也漂亮，作为一道宴会菜宴请客人倍儿有面儿！
-# This dish is simple to be made but is very beautiful to show your friends and guests!
+# This dish is simple to make but is very beautiful to show your friends and guests!
 # 片尾大爷还分享了如何把濑尿牛丸打得能从地上弹起来那么Q弹，小友们可千万不要错过！
-# In the end of this video, Da Ye talked about how to make beef balls that can even bounce, so don’t miss out!
+# In the end of this video, Da Ye shares how to make beef balls that can even bounce, so don’t miss out!
 
 # 配料：面包片、虾仁、猪肥膘、老核桃仁、淀粉、葱姜酒水、鹌鹑蛋（鸽子蛋太贵）、盐、玉米淀粉、白胡椒粉、蛋清；
-# Ingredients: slices of bread, shrimp, fat pork, old walnut kernel, starch, water mixing of green onion, ginger and cooking wine, quail eggs (pigeon eggs are too expensive), salt, corn starch, white pepper, egg white;
+# Ingredients: slices of bread, shrimp, pork fat, walnut, starch, a mixture of green onion, ginger and cooking wine, quail eggs (pigeon eggs are too expensive), salt, corn starch, white pepper, egg white;
 # 做法：
 # 1.面包片去边后片成薄片然后切成菱形；
 # 2.虾仁用厨房纸吸干水份后，刀背拍细然后剁成虾蓉；
@@ -28,15 +28,17 @@
 # 7.熟鹌鹑蛋剥壳，对半切；
 # 7.面包上拍上适量玉米淀粉，防止馅和面包片分离，然后将馅料团成小团放在面包片中心，放上半个鹌鹑蛋，慢慢往面包片上抹馅料，馅料一定要包住鸽子蛋周围。在鸽子蛋两边，面包片长对角线位置放上事先炸好的核桃仁充当大象的眉毛眼儿，外侧在粘上香菜叶；
 # 8.油温五成热，肉一侧朝下下锅，面包片成金黄色即可出锅！
-# Recipe:
-# 1.	Cut out the frame of the bread slices and then cut into thin rhombus.
-# 2.	Use the kitchen paper to soak up the water in the shrimp, and then use the knife back to pat the shrimp into paste.
-# 3.	Cut the fat pork into thin slices, firstly use the knife to cut it, and then use the back of knife to pat it until it fluffs (500g shrimp with 100g fat pork).
+# Instructions:
+# 1.	Cut out the edge of bread slices and then cut into thin rhombus.
+# 2.	Use the paper towel to soak up the water in the shrimp. Then use the knife back to smash the shrimp, and chop it to a fine paste.
+# 3.	Cut the pork fat into thin slices, firstly use the knife to cut it, and then use the back of knife to smash it until it fluffs (500g shrimp with 100g fat pork).
 # 4.	Soak the walnut kernel in boiling water.
-# 5.	Put the shrimp paste and fat pork in a large container, add water mixing of green onion, ginger and cooking wine, salt, corn starch, white pepper, and egg white, and then temper it to make it cohesive.
+# 5.	Put the shrimp paste and pork fat in a large container, add the mixture of green onion, ginger and cooking wine, salt, corn starch, white pepper, and egg white. Then temper the filling to make it cohesive.
 # 6.	Peel the walnut kernel and cut into halves, fry them with soft fire until they are slightly colored, and wrap them with starch.
-# 7.	Wrap the bread rhombuses with corn starch so that the fillings won’t separate with the bread. Put the filling in the center of each bread, then put half of quail egg, and make sure the filling is around the quail egg. On each side of the quail egg, put the fried walnut kernel as the elephant’s eyebrow and add a cilantro.
-# 8.	When the oil reaches 150 centigrade, put the products into the pot with the filling side towards the pot, and when the bread is colored yellow, it is done!
+# 7.	Pat some corn starch on the bread rhombuses, so that the fillings won’t separate with the bread. Put the filling in the center of each bread, then put half of quail egg, and make sure the filling is around the quail egg. On each side of the quail egg, put the fried walnut kernel as the elephant’s eyebrow and add a cilantro.
+# 8.	When the oil reaches 150 centigrade, put the products into the pot with the filling side down. When the bread is colored yellow, it is done!
+
+# import intro
 
 # 字幕
 
@@ -58,7 +60,7 @@ Pigeon eggs in the elephant eyes.
 4
 00:00:08,740 --> 00:00:12,420
 # 边要去掉 边要不去掉
-The frame of bread must be cut out, if not,
+Need to cut the edge of the bread. If not, 
 
 5
 00:00:12,680 --> 00:00:14,320
@@ -70,22 +72,22 @@ the bread frame will be colored after fried.
 6
 00:00:14,320 --> 00:00:16,560
 # 73年我上服装学校的时候
-When I was in a clothing school in 1973,
+In 1973, when I was in the (culinary) service school. 
 
 7
 00:00:16,560 --> 00:00:18,480
 # 我们的老师 （教）宫廷的
-our teacher taught us the dishes in the court,
+our teacher, who taught us the chinese imperial cuisine 
 
 8
 00:00:18,480 --> 00:00:21,320
 # 他曾经教过这个菜 叫象眼鸽蛋
-he taught me this dish, named Pigeon Eggs in Elephant Eyes,
+he taught us this dish, named Pigeon Eggs in Elephant Eyes,
 
 9
 00:00:21,320 --> 00:00:23,080
 # 所以说到今天我记忆犹新
-so until today it remained fresh in my memory.
+so even today, my memory is still remained fresh.
 
 10
 00:00:23,080 --> 00:00:28,360
@@ -130,7 +132,7 @@ It is like the eyes of the elephants.
 18
 00:00:49,320 --> 00:00:50,920
 # 切下来的面包 切成粒儿
-Cut the bread frame into small pieces,
+The bread we don't need, can be cut into small pieces,
 
 19
 00:00:53,560 --> 00:00:57,680
@@ -145,7 +147,7 @@ so that you don’t waste it.
 21
 00:00:59,600 --> 00:01:02,880
 # 大爷您这肯定这个菜没少做啊
-Da Ye, you must had made this dish very often.
+Da Ye, you must have made this dish very often.
 
 22
 00:01:02,880 --> 00:01:04,120
@@ -180,7 +182,7 @@ Soak up the water (in the shrimp).
 28
 00:01:19,880 --> 00:01:23,440
 # 一拍 剁成虾蓉 虾腻子
-Pat it to make shrimp paste.
+Smash, chop it to shrimp paste.
 
 29
 00:01:23,440 --> 00:01:26,920
@@ -200,7 +202,7 @@ it is not a big dish,
 32
 00:01:31,080 --> 00:01:34,320
 # 所以用这虾仁把它做成馅
-so we make the shrimp into shrimp paste,
+so we make the shrimp into filling
 
 33
 00:01:34,320 --> 00:01:36,720
@@ -215,27 +217,27 @@ Heat up some water to soak the walnut kernel later.
 35
 00:01:40,960 --> 00:01:43,520
 # 来点肥膘
-Let’s get some fat pork.
+Let’s get some pork fat.
 
 36
 00:01:43,840 --> 00:01:48,320
 # 肥膘最好的是通脊肉底下那块肥膘
-The best fat pork is the fat lining under the tenderloin.
+The best pork fat is the fat lining under the tenderloin.
 
 37
 00:01:48,320 --> 00:01:51,000
 # 这个肥膘我们要切薄一点的话
-If we cut the fat pork thinly,
+If we cut the pork fat thinly,
 
 38
 00:01:51,000 --> 00:01:53,800
 # 拿开水一烫 这肥膘吃起来是脆的
-and soak it with boiling water, it will taste crispy.
+and blanch it with boiling water, it tastes crispy.
 
 39
 00:01:53,800 --> 00:01:57,200
 # 一斤虾二两肥膘
-1 jin (500g) shrimp with 2 liang (300g) fat pork.
+1 jin (500g) shrimp with 2 liang (300g) pork fat.
 
 40
 00:01:57,200 --> 00:01:59,640
@@ -245,7 +247,7 @@ It tastes great.
 41
 00:01:59,640 --> 00:02:01,880
 # 刀背砸一砸
-Use the back of the knife to pat it.
+Use the back of the knife to smash it.
 
 42
 00:02:01,880 --> 00:02:05,120
@@ -280,7 +282,7 @@ Let’s make the shrimp filling.
 48
 00:02:18,280 --> 00:02:22,920
 # 葱姜酒水把它捏一捏 出点味 就够了
-Pinch the green onions and ginger so that they have some taste in the wine water, that’s enough.
+Pinch the green onions and ginger so that they release their flavor in the wine mixture, that’s enough.
 
 49
 00:02:22,920 --> 00:02:25,040
@@ -327,12 +329,12 @@ Let’s peel the walnut kernels in the unit of half of the kernels.
 57
 00:02:43,160 --> 00:02:46,960
 # 这皮不去掉 它吃起来有点涩苦
-If the crusts are not peeled, they will taste a little bitter.
+If we don't peel the skin, they will taste a little bitter.
 
 58
 00:02:46,960 --> 00:02:51,400
 # 这个在这个菜里边像不像大象的眉毛
-Is this seemed like the eyebrows of elephants in this dish?
+Does it look like the eyebrows of elephants in this dish?
 
 59
 00:02:51,400 --> 00:02:55,720
@@ -342,7 +344,7 @@ Add some oil and fry the walnut kernels, then this dish is almost done.
 60
 00:02:55,720 --> 00:02:59,280
 # 面包上的要搁上点干淀粉 玉米淀粉
-Add some starch and corn starch to the bread,
+Add some starch to the bread, corn starch
 
 61
 00:02:59,280 --> 00:03:04,320
@@ -352,7 +354,7 @@ so that the filling will not separate with the bread,
 62
 00:03:04,320 --> 00:03:05,720
 # 才能锁得住
-and the filling is sticked.
+and the filling can be stick on the bread.
 
 63
 00:03:05,720 --> 00:03:08,960
@@ -457,7 +459,7 @@ The filling side is down. The filling is thick. Make sure it is fully cooked. 15
 83
 00:03:54,240 --> 00:03:58,760
 # 下这个也是一个技术活 溜锅边儿下
-It needs skills to put the dish into the pot. Stick it with the pot.
+It needs skills to put the thing into the pot. Slide it along the edge of the wok. 
 
 84
 00:03:58,760 --> 00:04:01,840
@@ -537,7 +539,7 @@ this is also a very classical traditional dish,
 99
 00:04:42,000 --> 00:04:44,120
 # 依然能放出光彩来
-and it must be great.
+and it will still be great.
 
 100
 00:04:52,960 --> 00:04:55,240
@@ -567,7 +569,7 @@ can even bounce from the floor?
 105
 00:05:00,480 --> 00:05:03,600
 # 首先我们就选精制的瘦牛肉
-Firstly, we should choose the thin beef,
+Firstly, we should choose the lean beef,
 
 106
 00:05:03,600 --> 00:05:04,320
@@ -612,12 +614,12 @@ you must make it into fine paste.
 114
 00:05:15,920 --> 00:05:16,840
 # 得拉黏儿是吧
-It should have wires right?
+It should get sticky, right?
 
 115
 00:05:17,520 --> 00:05:18,080
 # 拉黏
-Yes, wires,
+Yes, sticky,
 
 116
 00:05:18,120 --> 00:05:19,360
@@ -632,17 +634,17 @@ Then let’s make the beef balls.
 118
 00:05:22,160 --> 00:05:23,760
 # 我们在打馅的时候
-When we make the paste,
+When we make the filling,
 
 119
 00:05:23,760 --> 00:05:25,560
 # 除了放葱姜酒水
-besides the wine water of green onions and ginger,
+besides the wine mixture of green onions and ginger,
 
 120
 00:05:26,120 --> 00:05:28,560
 # 还要少放一点食用碱的碱水
-We also need some water with little alkali,
+We also need some water with a little dietary alkali,
 
 121
 00:05:28,560 --> 00:05:29,360
@@ -717,7 +719,7 @@ Firstly, you can try.
 135
 00:05:50,600 --> 00:05:52,120
 # 比如我先搁3克
-For example, I firstly add 3g,
+For example, I add 3g first,
 
 136
 00:05:52,200 --> 00:05:53,080
@@ -787,7 +789,7 @@ Approximately two hours
 149
 00:06:19,320 --> 00:06:21,040
 # 不是说像我们买的肉馅
-It is impossible that the chopped beef that we buy
+It is impossible that the minced beef that we buy
 
 150
 00:06:21,040 --> 00:06:23,520
@@ -897,12 +899,12 @@ products are not very abundant,
 171
 00:06:58,760 --> 00:07:01,400
 # 很多大虾都在一个冷库里边
-many big shrimps are in a refrigeration storage,
+many big shrimps kept in the cold storage,
 
 172
 00:07:01,400 --> 00:07:03,040
 # 而且不是超低温冷库
-and were not even ultralow refrigerator,
+and it was not an ultralow refrigerator,
 
 173
 00:07:03,120 --> 00:07:08,920
@@ -1042,7 +1044,7 @@ Beef balls usually are made of round flank,
 200
 00:08:00,800 --> 00:08:01,600
 # 就纯瘦肉
-pure thin beef.
+pure lean beef.
 
 201
 00:08:01,640 --> 00:08:02,720
