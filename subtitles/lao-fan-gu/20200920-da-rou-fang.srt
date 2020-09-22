@@ -656,7 +656,7 @@ If you would like it less salty.
 126
 00:05:55,840 --> 00:05:57,600
 # 也得十斤菜
-You add 8 liang of salt
+Then for ten jin (5 kg) of vegetables,
 
 127
 00:05:57,920 --> 00:05:58,760
