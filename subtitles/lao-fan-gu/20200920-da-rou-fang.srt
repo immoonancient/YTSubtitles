@@ -138,7 +138,7 @@ Shallots are quite similar to onions, but they are not the same
 23
 00:01:15,040 --> 00:01:16,040
 # 增加香味
-Add some aroma
+To enhance the aroma
 
 24
 00:01:16,040 --> 00:01:18,120
