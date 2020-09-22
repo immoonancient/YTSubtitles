@@ -259,7 +259,7 @@ Turn off the heat
 47
 00:02:40,760 --> 00:02:45,160
 # 一定要注意安全 放到水里头
-We must be careful, put the meat into water
+We must be careful. Now put the meat into water
 
 48
 00:02:45,160 --> 00:02:47,760
