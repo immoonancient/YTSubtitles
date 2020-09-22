@@ -1091,4 +1091,4 @@ have the desired crunchy texture to it.
 213
 00:08:35,760 --> 00:08:36,260
 # 明白
-Totally Understand!
+Got it!
