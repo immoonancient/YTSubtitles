@@ -1061,7 +1061,7 @@ We always want to use salt.
 207
 00:08:25,760 --> 00:08:27,600
 # 提前用盐把它杀水
-Sanitizing the water with salt in prior to further steps.
+use salt to cure it and remove excess water.
 
 208
 00:08:27,600 --> 00:08:28,920
