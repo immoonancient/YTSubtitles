@@ -279,7 +279,7 @@ Cut half way through, just like this.
 51
 00:02:55,080 --> 00:02:57,080
 # 三刀
-Deliver three cuts.
+Three cuts each direction.
 
 52
 00:02:57,080 --> 00:02:59,880
