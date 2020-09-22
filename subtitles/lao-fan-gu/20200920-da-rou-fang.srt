@@ -641,7 +641,7 @@ It’s about a 10:1 ratio.
 123
 00:05:50,520 --> 00:05:52,400
 # 十斤菜搁一斤盐
-1 kg of salt for every 10 kg of cabbages.
+1 kg of salt for every 10 kg of vegetables.
 
 124
 00:05:53,000 --> 00:05:53,680
