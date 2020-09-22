@@ -534,7 +534,7 @@ While grinding,
 102
 00:05:19,000 --> 00:05:20,600
 # 因为粉碎机里要有水
-—because we also need to add water.
+we need to add water to the food processor.
 
 103
 00:05:21,240 --> 00:05:23,040
