@@ -499,7 +499,7 @@ around the flower roots.
 95
 00:05:09,000 --> 00:05:10,320
 # 把它要去掉
-Get rid of these...
+Get rid of these.
 
 96
 00:05:10,320 --> 00:05:11,600
