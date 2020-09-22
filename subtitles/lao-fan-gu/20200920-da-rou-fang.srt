@@ -369,7 +369,7 @@ Ok now the meat is in, you use a sieve to (filter the soup into the clay pot)
 69
 00:03:45,640 --> 00:03:49,440
 # 这样再把香味儿焖进去 行了这就
-...and braise it to infuse the flavour.
+and braise the meat to infuse the flavour.
 
 70
 00:03:49,440 --> 00:03:51,920
