@@ -801,7 +801,7 @@ Cap it tightly
 155
 00:06:48,520 --> 00:06:50,080
 # 然后放到冰箱里头
-with cap on tight.
+and put it into the fridge.
 
 156
 00:06:50,360 --> 00:06:51,960
