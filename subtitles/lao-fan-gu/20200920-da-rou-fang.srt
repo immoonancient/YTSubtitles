@@ -906,7 +906,7 @@ We can strain all the pickled vegetables out of the soup
 176
 00:07:27,200 --> 00:07:29,880
 # 把这咸菜汤给熬一下
-and proceed to boil the liquid content
+and boil the liquid content
 
 177
 00:07:29,880 --> 00:07:33,080
