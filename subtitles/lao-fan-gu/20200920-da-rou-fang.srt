@@ -299,7 +299,7 @@ Stew for 25 minutes.
 55
 00:03:05,040 --> 00:03:08,480
 # 慢点 这家伙香啊
-Slow down, it smells so good.
+Slowly. It smells so good.
 
 56
 00:03:08,480 --> 00:03:11,360
