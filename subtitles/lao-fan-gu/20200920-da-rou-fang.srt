@@ -626,7 +626,7 @@ Add coarse salt.
 120
 00:05:46,400 --> 00:05:48,160
 # 加大盐加到什么比例
-Precisely, how much should we add?
+How much coarse salt?
 
 121
 00:05:48,240 --> 00:05:49,320
