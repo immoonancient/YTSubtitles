@@ -581,7 +581,7 @@ Right
 111
 00:05:32,480 --> 00:05:34,040
 # 矿泉水不是开水
-Mineral water or bottled water haven’t endured the same process.
+Mineral water or bottled water haven’t been boiled.
 
 112
 00:05:34,040 --> 00:05:35,920
