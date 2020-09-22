@@ -1056,7 +1056,7 @@ For any vegetable with high water content,
 206
 00:08:24,360 --> 00:08:25,760
 # 都要用盐
-We always want to use salt.
+We always want to use salt...
 
 207
 00:08:25,760 --> 00:08:27,600
