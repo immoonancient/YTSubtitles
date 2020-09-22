@@ -33,7 +33,7 @@ Why would you cut it? To help flavour penetration
 2
 00:00:08,720 --> 00:00:12,100
 # 今儿咱们做一个改良菜 很简单
-Today we are going to make a modified and improved version of a dish, very easy
+Today we are going to make a modified and improved dish, very simple
 
 3
 00:00:12,280 --> 00:00:15,960
