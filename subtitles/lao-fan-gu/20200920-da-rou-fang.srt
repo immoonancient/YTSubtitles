@@ -651,7 +651,7 @@ Ten to one.
 125
 00:05:53,960 --> 00:05:55,840
 # 有的说我不喜欢吃那么咸
-If you would like to add less salt.
+If you would like it less salty.
 
 126
 00:05:55,840 --> 00:05:57,600
