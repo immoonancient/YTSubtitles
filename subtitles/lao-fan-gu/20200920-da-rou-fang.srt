@@ -756,7 +756,7 @@ Store the container in a cool, dry place for 15 days.
 146
 00:06:31,920 --> 00:06:33,880
 # 这不是一次就能成的
-You cannot just really leave the pot there doing nothing.
+It is not enough to stir it only once.
 
 147
 00:06:33,920 --> 00:06:36,560
