@@ -539,7 +539,7 @@ we need to add water to the food processor.
 103
 00:05:21,240 --> 00:05:23,040
 # 所以我们要晾点凉白开
-We need to cool down some boiled water.
+So we need to prepare some pre-boiled, room-temperature water.
 
 104
 00:05:23,160 --> 00:05:25,920
