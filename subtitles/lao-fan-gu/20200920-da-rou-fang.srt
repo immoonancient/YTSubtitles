@@ -1041,7 +1041,7 @@ The radish contains too much water.
 203
 00:08:19,080 --> 00:08:20,360
 # 所以我们要先杀水
-That’s the reason behind sanitizing the water with salt.
+That’s the reason we remove some of the water with salt.
 
 204
 00:08:20,400 --> 00:08:21,240
