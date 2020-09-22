@@ -1011,7 +1011,7 @@ After washing it.
 197
 00:08:06,480 --> 00:08:08,240
 # 刮完皮或者不刮皮
-Peeling the skin off or not.
+Peeling the skin off or keep it on.
 
 198
 00:08:08,600 --> 00:08:10,040
