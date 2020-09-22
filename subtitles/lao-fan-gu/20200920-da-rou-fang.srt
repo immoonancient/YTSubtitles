@@ -726,7 +726,7 @@ With clean spoons or chopsticks.
 140
 00:06:19,760 --> 00:06:21,640
 # 但是不能放在铝盆里头
-Make sure that you are not using a metal container.
+Make sure that you are not using a aluminum container.
 
 141
 00:06:21,680 --> 00:06:23,360
