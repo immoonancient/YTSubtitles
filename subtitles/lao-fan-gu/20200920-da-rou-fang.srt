@@ -1066,7 +1066,7 @@ use salt to cure it and remove excess water.
 208
 00:08:27,600 --> 00:08:28,920
 # 杀完水以后
-When sanitization is done.
+After curing it,
 
 209
 00:08:29,480 --> 00:08:30,800
