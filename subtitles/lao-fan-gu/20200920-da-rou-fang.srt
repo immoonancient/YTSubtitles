@@ -183,7 +183,7 @@ One can is not enough, one more
 32
 00:01:41,400 --> 00:01:45,840
 # 这回就差不多了
-Now this is alright
+That's it.
 
 33
 00:01:45,840 --> 00:01:47,680
