@@ -38,7 +38,7 @@ Today we are going to make a modified and improved dish, very simple
 3
 00:00:12,280 --> 00:00:15,960
 # 我们用沙姜提肉方的味 这个不一样
-We are using sand ginger mainly to season the meat, this is quite unique
+We are using sand ginger to season the meat. This is quite unique.
 
 4
 00:00:15,960 --> 00:00:19,000
