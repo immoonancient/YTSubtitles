@@ -841,7 +841,7 @@ Instead, the white film shows that during fermentation,
 163
 00:07:05,120 --> 00:07:07,400
 # 它咸味和不咸的地方
-during the fermentation process
+the salt
 
 164
 00:07:07,520 --> 00:07:08,280
