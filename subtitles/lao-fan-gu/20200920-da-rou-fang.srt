@@ -546,7 +546,7 @@ So we need to prepare some pre-boiled, room-temperature water.
 # 开水
 # 必须是凉白开
 Boiled Water.
-Only cooled boiled water tho.
+Must be cooled boiled water.
 
 105
 00:05:25,920 --> 00:05:26,880
