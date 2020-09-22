@@ -996,7 +996,7 @@ For example, let’s say we are making pickled cucumbers,
 194
 00:08:02,800 --> 00:08:04,360
 # 腌点萝卜
-pickled radish...
+or pickled radish.
 
 195
 00:08:04,920 --> 00:08:05,760
