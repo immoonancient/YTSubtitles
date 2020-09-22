@@ -1021,7 +1021,7 @@ We cut radish into strips,
 199
 00:08:10,600 --> 00:08:12,040
 # 先用盐杀水
-Sanitize the water with salt.
+First cure the radish with salt to remove water.
 
 200
 00:08:13,280 --> 00:08:15,280
