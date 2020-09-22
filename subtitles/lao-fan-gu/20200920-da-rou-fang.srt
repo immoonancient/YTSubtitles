@@ -661,7 +661,7 @@ Then for ten jin (5 kg) of vegetables,
 127
 00:05:57,920 --> 00:05:58,760
 # 搁八两盐
-for every 10 Jin(5 kg) of cabbages
+you need eight liang (400 g) of salt
 
 128
 00:05:59,000 --> 00:06:00,120
