@@ -344,7 +344,7 @@ No water added, only beer.
 64
 00:03:30,280 --> 00:03:32,880
 # 这料还要么 不要了
-You still need this? Nah, throw that.
+Keep these spices? -Nah, throw them away.
 
 65
 00:03:32,880 --> 00:03:35,400
