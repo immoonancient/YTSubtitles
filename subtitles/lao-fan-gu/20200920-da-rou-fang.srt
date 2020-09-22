@@ -324,7 +324,7 @@ Put sand ginger, shallot and garlic in.
 60
 00:03:20,920 --> 00:03:23,760
 # 肉取出来了 你看这个肉
-Take out the meat, check this out.
+Take out the meat. Check this out.
 
 61
 00:03:23,760 --> 00:03:26,520
