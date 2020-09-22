@@ -524,7 +524,7 @@ Then we will use a food processor
 100
 00:05:16,840 --> 00:05:17,600
 # 把它破碎
-with a food processor.
+to grind the chives flowers
 
 101
 00:05:18,160 --> 00:05:18,840
