@@ -364,7 +364,7 @@ That’s it.
 68
 00:03:42,480 --> 00:03:45,640
 # 这肉是这样 拿篦子
-Ok you then put the meat into a sieve...
+Ok now the meat is in, you use a sieve to (filter the soup into the clay pot)
 
 69
 00:03:45,640 --> 00:03:49,440
