@@ -314,7 +314,7 @@ Poke it with chopsticks. It’s well cooked.
 58
 00:03:15,160 --> 00:03:17,480
 # 砂锅 油
-Casserole and oil.
+Add oil to the clay pot.
 
 59
 00:03:17,480 --> 00:03:20,920
