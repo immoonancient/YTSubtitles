@@ -309,7 +309,7 @@ You see, fried meat is just better.
 57
 00:03:11,360 --> 00:03:15,160
 # 看拿筷子扎扎 特别熟了
-Poke it with chopsticks, it’s well cooked.
+Poke it with chopsticks. It’s well cooked.
 
 58
 00:03:15,160 --> 00:03:17,480
