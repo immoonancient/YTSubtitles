@@ -394,7 +394,7 @@ That’s about it, ready to serve.
 74
 00:04:02,000 --> 00:04:04,580
 # 带点汁 小亮给你
-Get some sauce, here you are Xiao Liang.
+With some sauce. Here you are, Xiao Liang.
 
 75
 00:04:04,680 --> 00:04:06,200
