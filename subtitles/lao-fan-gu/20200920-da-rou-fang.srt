@@ -1081,7 +1081,7 @@ then put the vegetables into the pot.
 211
 00:08:32,400 --> 00:08:34,320
 # 这样的萝卜腌出来
-Only Pickled radish following these specific steps
+Only following these specific steps will the radish...
 
 212
 00:08:34,440 --> 00:08:35,600
