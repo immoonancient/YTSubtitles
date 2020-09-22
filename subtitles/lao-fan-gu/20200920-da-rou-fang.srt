@@ -901,7 +901,7 @@ Last resort:
 175
 00:07:23,960 --> 00:07:26,880
 # 我们就把咸菜全部都捞出来
-We can fish out all the pickled veges
+We can strain all the pickled vegetables out of the soup
 
 176
 00:07:27,200 --> 00:07:29,880
