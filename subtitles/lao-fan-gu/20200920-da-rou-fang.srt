@@ -11,7 +11,7 @@
 # 小友们好，二伯今天带来一道改良版本的大肉方，爱吃肉的小友们一定要看过来！
 # Hey friends! Today Er Bai is teaching us to make the modified version of Da Rou Fang (braised pork cube). Meat lovers have to try this!
 # 这道大肉方做法简单，不用放一滴水也不用炒糖色，而是用香料烧出的一种独特味道，喷香！一口吃下去软烂多汁、肥而不腻、香味浓郁，实在是太满足了！
-# This dish is simple, it does not need water and caramelized sugar, it has a unique flavour produced by different spices, so aromatic! The meat is tender, juicy, rich and fatty but not too greasy, and it has wonderful fragrance, this dish is so comforting!
+# This dish is easy to make. It does not need water and caramelized sugar, but has a unique flavour from braising with  different spices. So aromatic! The meat is tender, juicy, rich and fatty, but not too greasy. The dish is fragrant and very satisfying!
 
 # 1，肉方焯水，锅中放入大葱叶和黄酒去腥，肉方上扎上小孔促进血水流出;
 # 1. Parboil the meat with leafy parts of spring onion and huangjiu rice wine to remove the unpleasant taste. Poke some holes on the top side of the meat to help release the blood water in it.
