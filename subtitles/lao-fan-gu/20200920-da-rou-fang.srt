@@ -966,7 +966,7 @@ The liquid content in the pot
 188
 00:07:52,120 --> 00:07:53,280
 # 就特别容易坏
-is likely to go bad.
+is more susceptible to go bad.
 
 189
 00:07:54,040 --> 00:07:55,920
