@@ -811,7 +811,7 @@ It won’t go bad this way.
 157
 00:06:52,640 --> 00:06:54,640
 # 咸菜呢也会出现这个问题
-The making of pickled cabbage shares the same problem.
+The making of pickled cabbage may share the same problem.
 
 158
 00:06:55,200 --> 00:06:56,840
