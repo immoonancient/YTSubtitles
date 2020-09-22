@@ -571,7 +571,7 @@ Cooled boiled water is the only valid option.
 109
 00:05:30,960 --> 00:05:31,960
 # 凉白开是开水
-Cooled boiled water is cooked.
+Cooled boiled water has been boiled
 
 110
 00:05:32,040 --> 00:05:32,480
