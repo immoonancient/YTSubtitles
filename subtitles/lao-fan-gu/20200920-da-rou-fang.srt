@@ -374,7 +374,7 @@ and braise the meat to infuse the flavour.
 70
 00:03:49,440 --> 00:03:51,920
 # 应该再焖个十分钟就够了
-Braise it for 10 minutes.
+Braise it for another 10 minutes would be enough.
 
 71
 00:03:51,920 --> 00:03:55,040
