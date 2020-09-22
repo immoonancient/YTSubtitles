@@ -986,7 +986,7 @@ Use pickled chives flowers as...
 192
 00:07:58,200 --> 00:08:00,040
 # 当做腌菜的一个案例
-as a template for any pickled veges.
+an example for any pickled vegetables.
 
 193
 00:08:01,000 --> 00:08:02,560
