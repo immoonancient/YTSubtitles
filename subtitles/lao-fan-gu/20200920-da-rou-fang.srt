@@ -846,7 +846,7 @@ the salt
 164
 00:07:07,520 --> 00:07:08,280
 # 它不均匀
-the salt is not distributed evenly in the solution.
+is not distributed evenly in the solution.
 
 165
 00:07:08,280 --> 00:07:09,800
