@@ -329,7 +329,7 @@ Take out the meat. Check this out.
 61
 00:03:23,760 --> 00:03:26,520
 # 跟那红烧肉还是不一样 全是煎的
-This dish is quite different from Red Braised Pork, you’d fry the meat.
+This is quite different from Red Braised Pork. This meat was thoroughly fried.
 
 62
 00:03:26,520 --> 00:03:27,880
