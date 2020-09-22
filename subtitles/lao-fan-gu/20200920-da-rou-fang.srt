@@ -1051,7 +1051,7 @@ The same for cucumbers.
 205
 00:08:21,280 --> 00:08:23,880
 # 凡是含水量大的这些蔬菜
-For veges with high water content,
+For any vegetable with high water content,
 
 206
 00:08:24,360 --> 00:08:25,760
