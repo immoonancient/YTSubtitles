@@ -566,7 +566,7 @@ It just doesn’t work by experience.
 108
 00:05:29,680 --> 00:05:30,920
 # 非得是凉白开
-Like cooled boiled water is the only valid option.
+Cooled boiled water is the only valid option.
 
 109
 00:05:30,960 --> 00:05:31,960
