@@ -519,7 +519,7 @@ Drain all the water.
 99
 00:05:15,280 --> 00:05:16,840
 # 然后用我们粉碎机
-Then we want to grind the leek flowers
+Then we will use a food processor
 
 100
 00:05:16,840 --> 00:05:17,600
