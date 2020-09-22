@@ -108,7 +108,7 @@ The spices combination is quite simple
 17
 00:00:52,640 --> 00:00:57,200
 # 就三种 桂皮 大料 香叶 就三种就够了
-Cinnamon, star anise and bay leaves, these three types are enough
+Cinnamon, star anise and bay leaves. These three spices are enough
 
 18
 00:00:57,200 --> 00:01:01,320
