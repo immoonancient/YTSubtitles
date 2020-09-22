@@ -1026,7 +1026,7 @@ First cure the radish with salt to remove water.
 200
 00:08:13,280 --> 00:08:15,280
 # 因为萝卜是先洗了
-Because we wash the radish in the first step,
+Because we washed the radish.
 
 201
 00:08:15,560 --> 00:08:16,400
