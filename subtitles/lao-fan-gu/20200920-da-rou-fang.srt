@@ -921,7 +921,7 @@ So when handling the pickled vegetables,
 179
 00:07:35,040 --> 00:07:36,320
 # 手一定要干净
-before handling the pickled veges.
+make sure that you wash your hands clean.
 
 180
 00:07:36,480 --> 00:07:37,800
