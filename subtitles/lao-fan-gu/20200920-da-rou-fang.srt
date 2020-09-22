@@ -596,7 +596,7 @@ Pickles are less likely to rot with boiled water.
 114
 00:05:38,360 --> 00:05:39,320
 # 它水是开的
-It’s boiled.
+It has been boiled.
 
 115
 00:05:39,360 --> 00:05:40,760
