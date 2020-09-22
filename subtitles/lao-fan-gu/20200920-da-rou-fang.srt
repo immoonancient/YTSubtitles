@@ -916,7 +916,7 @@ The liquid is contaminated.
 178
 00:07:33,360 --> 00:07:35,000
 # 所以我们在拿咸菜的时候
-So make sure that you wash your hands
+So when handling the pickled vegetables, 
 
 179
 00:07:35,040 --> 00:07:36,320
