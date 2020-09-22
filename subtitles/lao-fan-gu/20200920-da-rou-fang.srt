@@ -621,7 +621,7 @@ Pour the content into a pot.
 119
 00:05:45,760 --> 00:05:46,400
 # 加大盐
-Add a generous amount of salt.
+Add coarse salt.
 
 120
 00:05:46,400 --> 00:05:48,160
