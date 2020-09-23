@@ -23,6 +23,8 @@
 # 3，肉放入高压锅压25分钟后捞出，锅中汤汁过滤。砂锅中倒油，放入干葱，沙姜，蒜子煸香，下入小香葱和肉方，肉方要皮朝上，倒入过滤好的汤汁盖盖焖至汤汁收干。
 # 4. Cook the meat in the pressure cooker for 25 min, then filter the soup. Add some oil into a clay pot, fry some shallot, sand ginger and garlic until aromatic, add scallion and the meat cube with the pork skin facing upwards. Lastly, pour the filtered soup into the pot and braise it with the lid on until the soup has thickened up.
 
+# import intro
+
 # 字幕
 
 1
