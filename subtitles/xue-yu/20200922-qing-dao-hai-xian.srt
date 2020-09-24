@@ -39,27 +39,27 @@ Boxes of fish are brought up from the cabin
 9
 00:00:50,920 --> 00:00:51,960
 # 还带着冰块
-With covered ice cubes
+Covered with ice cubes
 
 10
 00:00:55,000 --> 00:00:58,120
 # 这艘船上米鱼、带鱼、鲳鱼比较多
-Brown coaker, beltfish, and pomfret mostly on this boat
+Mostly brown croaker, beltfish, and pomfret on this boat
 
 11
 00:00:59,620 --> 00:01:03,060
 # 都不是零卖的 要买需要买一筐是吗 对的
-It’s not sold individually. And You need to buy a whole basket at least right? yeah
+It’s not sold individually? You need to buy the whole basket? -Yeah
 
 12
 00:01:07,940 --> 00:01:10,720
 # 你分辨鱼是否新鲜就看鱼的眼睛
-You can tell if the fish is fresh by looking at the eyes of fish
+You can tell if the fish is fresh by looking at its eyes
 
 13
 00:01:13,400 --> 00:01:16,120
 # 鱼的眼睛发黄了 就不好了
-It means not fresh if the eyes of fish are yellow
+The fish is not fresh if its eyes turn yellow
 
 14
 00:01:16,300 --> 00:01:17,440
@@ -69,7 +69,7 @@ It means not fresh if the eyes of fish are yellow
 15
 00:01:19,180 --> 00:01:20,180
 # 没有8块钱给你找
-I don’t have change for u
+I don’t have 8 yuan change for you
 
 16
 00:01:20,535 --> 00:01:21,535
@@ -92,12 +92,12 @@ Oh no
 20
 00:01:34,480 --> 00:01:38,540
 # 完了 想天真了  他们这边都是一筐筐的卖
-I don’t know that they  sell in basket only
+I am naive. They all sell by basket only
 
 21
 00:01:38,600 --> 00:01:39,600
 # 不零卖的
-Not for sale individually
+Not for individual sale.
 
 22
 00:01:40,180 --> 00:01:42,420
@@ -107,7 +107,7 @@ I just got a message
 23
 00:01:42,540 --> 00:01:44,660
 # 这艘船上来的都是鱼
-This boat is full of fish
+This boat only contains fish
 
 24
 00:01:44,760 --> 00:01:47,260
@@ -130,37 +130,37 @@ After looking for a while, I didn’t find any good portunus
 28
 00:02:04,020 --> 00:02:06,880
 # 看来还得去农贸市场买
-We should buy it at agricultural market
+We should buy it at the farmers' market
 
 29
 00:02:12,460 --> 00:02:13,720
 # 这个蟹 多少钱一斤
-How much is this crab per jin(0.5kg)?
+How much is this crab?
 
 30
 00:02:14,120 --> 00:02:15,120
 # 这个35元一斤
-35 yuan per jin(70yuan per kg)
+35 yuan per jin (70 yuan per kg)
 
 31
 00:02:17,340 --> 00:02:20,660
 # 这个大的90元一斤 是本地蟹
-The big one is 90 per jin( about 180 yuan per kg) which is local crab
+The big one is 90 per jin (about 180 yuan per kg). That is local crab.
 
 32
 00:02:21,920 --> 00:02:23,920
 # 本地蟹壳发绿
-Local crab shells is green
+The shells of local crabs are greenish.
 
 33
 00:02:25,860 --> 00:02:28,420
 # 南方蟹发黑发黄
-Southern crab shells is black and yellow
+The shells of southern crab are black and yellow
 
 34
 00:02:30,020 --> 00:02:32,700
 # 您帮我挑一个比较好的吧
-Can you help me choose a better crab?
+Can you help me choose a good crab?
 
 35
 00:02:34,720 --> 00:02:38,000
@@ -170,12 +170,12 @@ The biggest crab is about 1 jin(kg), right?
 36
 00:02:39,720 --> 00:02:41,060
 # 怎么看蟹肥不肥啊
-How to know if the crab is fatty or not?
+How to determine whether the crab is meaty or not?
 
 37
 00:02:44,760 --> 00:02:48,680
 # 你看这个位置 延伸到顶端了 比较丰满
-Check this out, it extend to the top, More plump
+Check this out. It extends to the top, so relatively plump
 
 38
 00:02:51,040 --> 00:02:52,540
@@ -183,12 +183,12 @@ Check this out, it extend to the top, More plump
 39
 00:02:55,880 --> 00:02:58,660
 # 不肥的蟹 这个位置比较空
-There is empty if that's not a fatty crab
+This part is empty if that's not a meaty crab
 
 40
 00:03:06,580 --> 00:03:08,280
 # 就拿这个比较肥的
-I want the fatty crab
+I want the meaty one
 
 41
 00:03:20,820 --> 00:03:22,640
@@ -201,12 +201,12 @@ I want the fatty crab
 43
 00:03:36,060 --> 00:03:38,960
 # 这个虾是体格不同 价格不同吗
-Do those shrimp have different prices depending on it’s own size?
+Are different shrimps priced based on their sizes?
 
 44
 00:03:40,360 --> 00:03:41,360
 # 这种小的40元一斤
-This type of small shrimp is about 40 yuan per jin(80 yuan per kg)
+This small shrimps are 40 yuan per jin (80 yuan per kg)
 
 45
 00:03:41,800 --> 00:03:43,300
@@ -214,7 +214,7 @@ This type of small shrimp is about 40 yuan per jin(80 yuan per kg)
 46
 00:03:43,400 --> 00:03:45,000
 # 这种大的150元一斤
-This type of big shrimp is about 150 yuan per jin(300 yuan per kg)
+The big shrimps are 150 yuan per jin (300 yuan per kg)
 
 47
 00:03:45,120 --> 00:03:46,520
@@ -230,7 +230,7 @@ That’s too expensive
 50
 00:03:53,040 --> 00:03:55,220
 # 这一份90元2斤
-This one is 90 yuan/2 jin( about 90 yuan per kg)
+This one is 90 yuan for 2 jin (about 90 yuan per kg)
 
 51
 00:03:56,000 --> 00:03:57,300
@@ -238,7 +238,7 @@ This one is 90 yuan/2 jin( about 90 yuan per kg)
 52
 00:03:58,980 --> 00:04:00,300
 # 您给我拿4个吧
-May you pls get me 4 shrimps?
+Could I have 4 of these?
 
 53
 00:04:01,280 --> 00:04:03,100
@@ -249,12 +249,12 @@ May you pls get me 4 shrimps?
 55
 00:04:08,920 --> 00:04:10,920
 # 海捕虾45元一斤 4个虾16元
-Sea-caught shrimp 45 yuan per jin(90 yuan per kg), and 4 shrimps is 16 yuan
+Wild-caught shrimps are 45 yuan per jin (90 yuan per kg), so 4 shrimps cost 16 yuan
 
 56
 00:04:14,900 --> 00:04:16,900
 # 生蚝5元一斤 20个13元
-Oyster 5 yuan per jin(10 yuan per kg), or 20 oysters for 13 yuan
+Oysters are 5 yuan per jin (10 yuan per kg), or 20 oysters for 13 yuan
 
 57
 00:04:17,100 --> 00:04:18,100
@@ -262,22 +262,22 @@ Oyster 5 yuan per jin(10 yuan per kg), or 20 oysters for 13 yuan
 58
 00:04:18,320 --> 00:04:19,800
 # 扇贝5元一斤 10几个5元
-Scallop is 5 yuan per jin(10 yuan per kg)or about ten scallops for 5 yuan
+Scallop is 5 yuan per jin(10 yuan per kg) or 5 yuan for around ten scallops
 
 59
 00:04:24,760 --> 00:04:27,720
 # 这个农贸市场是我见过最干净的了
-This agricultural market is the cleanest i’ve even seen
+This farmers' market is the cleanest I’ve even seen
 
 60
 00:04:30,680 --> 00:04:35,920
 # 地上几乎看不到菜叶 水渍
-There just very few vegetable leaves or water stain on the ground
+There are few vegetable leaves or water stains on the ground
 
 61
 00:04:36,460 --> 00:04:39,500
 # 除了干净以外 这边还有很多监控
-There also are a lot of monitoring
+There are also a lot of safety cameras on top of its cleanliness.
 
 62
 00:04:39,500 --> 00:04:42,340
@@ -288,12 +288,12 @@ There also are a lot of monitoring
 64
 00:04:44,600 --> 00:04:47,360
 # 有海鲜交易纠纷 就可以查看录像
-You can check out the video tape if there is a seafood transaction dispute
+You can check out the surveillance footage if there is a transaction dispute
 
 65
 00:04:47,880 --> 00:04:51,060
 # 去前面走一下 看看有没有加工海鲜的地方
-Go ahead and see if there is any place to processed seafood
+Let's move forward and see if there is a place to process our seafood
 
 66
 00:04:51,080 --> 00:04:53,520
@@ -307,22 +307,22 @@ Go ahead and see if there is any place to processed seafood
 69
 00:05:01,580 --> 00:05:06,700
 # 不管几个螃蟹都是一锅一蒸  一锅15元
-Steamed a pot no matter how many crabs charge 15 yuan per pot
+To steam a pot of crabs, no matter how many, is 15 yuan.
 
 70
 00:05:06,700 --> 00:05:08,540
 # 这一大袋15元
-15 for the big bag of seafood
+15 yuan to cook this big bag of seafood
 
 71
 00:05:15,160 --> 00:05:20,600
 # 现在海鲜已经入锅了 等15分钟就可以吃了
-Now the seafood is in the pot and steaming it, you can eat it after 15 minutes
+Now the seafood is in the pot and being steamed. We can eat after 15 minutes
 
 72
 00:05:27,040 --> 00:05:31,280
 # 像扇贝 生蚝 它的肉直接从壳里掉出来了
-Seafood like scallops, and oysters, its meat just fell out of the shell
+Seafood like scallops and oysters have their meat fell out of the shell
 
 73
 00:05:33,740 --> 00:05:34,860
@@ -332,12 +332,12 @@ Let’s try it
 74
 00:05:35,960 --> 00:05:38,680
 # 真的很鲜甜的感觉
-It taste fresh and sweet
+It tastes fresh and sweet
 
 75
 00:05:40,940 --> 00:05:42,960
 # 不蘸姜醋汁也挺好吃的
-And still delicious without dipping of ginger and vinegar sauce
+Very delicious even without dipping the ginger and vinegar sauce
 
 76
 00:05:47,980 --> 00:05:49,880
@@ -350,17 +350,17 @@ Very juicy
 78
 00:06:01,420 --> 00:06:06,160
 # 在青岛有种豪气叫做把海鲜当饭吃
-In qingdao people eat seafood as common as rice
+In Qingdao, people eat seafood as common as rice
 
 79
 00:06:10,020 --> 00:06:14,460
 # 这么一盘 原材料才18元
-A whole plate of raw seafood like this are 18 yuan only
+The raw ingredients of this whole plate of seafood only cost 18 yuan
 
 80
 00:06:24,060 --> 00:06:27,760
 # 现在螃蟹也上桌了  这个蟹是60块钱
-Now the crab is also on the table, it’s 60 yuan
+Now the crab is also ready to eat. It’s 60 yuan
 
 81
 00:06:27,760 --> 00:06:29,720
@@ -370,12 +370,12 @@ About 7 liang(350g)
 82
 00:06:31,360 --> 00:06:35,220
 # 蒸熟的螃蟹红彤彤的 颜值很高
-The steamed crabs are red and beautiful
+The steamed crab is red and beautiful
 
 83
 00:06:36,140 --> 00:06:39,180
 # 这蟹腿挺粗的
-The legs of crabs pretty thick
+The legs of the crab pretty thick
 
 84
 00:06:40,220 --> 00:06:42,900
