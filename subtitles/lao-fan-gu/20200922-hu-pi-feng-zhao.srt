@@ -13,6 +13,8 @@
 # There's a simple trick to make the "Tiger Skin". Er Bai gives enlightening feedbacks to his apprentice on the spot.
 # Finally Da Ye and Er Bai share techniques to tell how salty a dish is. No more worrying about how much salt to put!
 
+# import intro
+
 # 字幕
 
 1
@@ -73,7 +75,7 @@ Add vinegar to remove the blood smell
 12
 00:00:30,200 --> 00:00:33,040
 # 咱把这温水下锅 飞一下水
-Warm water. Put the chicken feet in and boil a little bit.
+Warm water. Put the chicken feet in and blanch a little bit.
 
 13
 00:00:33,040 --> 00:00:34,640
@@ -258,7 +260,7 @@ Wait for it boil. Put on a lid and turn to middle heat.
 49
 00:02:16,720 --> 00:02:18,920
 # 中火 一干了就行了
-Middle hear. Wait till the water is gone.
+Middle heat. Wait till the water is gone.
 
 50
 00:02:18,920 --> 00:02:21,280
@@ -298,7 +300,7 @@ These are the bubbles we had before
 57
 00:02:35,840 --> 00:02:39,960
 # 咱们出锅之前淋点香油
-Spray some sesame oil before finished
+Spray some sesame oil to finish
 
 58
 00:02:39,960 --> 00:02:42,040
@@ -313,12 +315,12 @@ Thicken the sauce
 60
 00:02:45,200 --> 00:02:47,200
 # 出菜比较亮
-Make the final dish pleasing to the eye
+Make the final dish shiny
 
 61
 00:02:49,720 --> 00:02:53,840
 # 汤汁粘稠 网友喜欢这道菜
-Sauce fully absorbed. Fans like this dish.
+Sauce is very sticky. Fans like this dish.
 
 62
 00:02:53,840 --> 00:02:56,360
@@ -353,7 +355,7 @@ Now Er Bai
 68
 00:03:05,080 --> 00:03:08,240
 # 斯文老头 斯文二伯
-Er Bai is a mannerly old man
+Er Bai is a elegant old man
 
 69
 00:03:08,240 --> 00:03:11,400
@@ -398,17 +400,17 @@ Since our sauce is thick and full of flavors,
 77
 00:03:23,680 --> 00:03:25,600
 # 有点热菜的这种风格
-this dish is of a more hot dish style.
+this dish has a bit of hot dish style.
 
 78
 00:03:25,600 --> 00:03:27,520
 # 真正凉菜粤菜里边
-Authentic chicken feet cold dish from Cantonese cuisine
+Authentic chicken feet is a cold dish from Cantonese cuisine,
 
 79
 00:03:27,520 --> 00:03:29,480
 # 凤爪特别利索
-is very simple and straightforward in flavor.
+and it is very simple and straightforward in flavor.
 
 80
 00:03:29,520 --> 00:03:31,720
@@ -538,7 +540,7 @@ As some of the cooking manuals
 105
 00:04:28,760 --> 00:04:30,520
 # 会写到这么一句话
-will tell you:
+it will tell you:
 
 106
 00:04:30,840 --> 00:04:33,280
@@ -583,7 +585,7 @@ The second step is to smell
 114
 00:04:46,920 --> 00:04:50,240
 # 因为我们放了很多调味品
-If we put many seasonings in,
+Because we put many seasonings in,
 
 115
 00:04:51,000 --> 00:04:53,640
@@ -708,17 +710,17 @@ In addition, for braised food,
 139
 00:05:42,840 --> 00:05:43,440
 # 这些菜
-which
+those
 
 140
 00:05:44,560 --> 00:05:46,000
 # 热做冷吃的
-are cooked hot and served cold,
+are cooked hot and served cold.
 
 141
 00:05:46,760 --> 00:05:48,520
 # 刚开始的味道是要咸一点
-they should be a little bit saltier initially.
+They should be a little bit saltier initially.
 
 142
 00:05:48,520 --> 00:05:50,200
@@ -883,7 +885,7 @@ Some material comes in large chunks
 174
 00:06:56,880 --> 00:06:58,200
 # 不容易入味
-They are difficult to season well
+It is hard for flavor to get through. 
 
 175
 00:06:59,440 --> 00:07:01,080
@@ -923,7 +925,7 @@ If you add salt too early,
 182
 00:07:12,920 --> 00:07:14,800
 # 肉就不烂
-the meat won't be easy to chew.
+the meat is hard to be tender.
 
 183
 00:07:14,800 --> 00:07:17,080
@@ -943,7 +945,7 @@ Right before the dish is served
 186
 00:07:21,440 --> 00:07:23,280
 # 我们要定味儿
-We want to preserve the final flavor
+We want to confirm the final flavor
 
 187
 00:07:23,280 --> 00:07:24,160
@@ -983,7 +985,7 @@ We'd want to add some sugar
 194
 00:07:36,800 --> 00:07:38,960
 # 让这个味道更加厚重
-to make the real flavor more subtle.
+to make the real flavor more complex.
 
 195
 00:07:39,960 --> 00:07:41,520
