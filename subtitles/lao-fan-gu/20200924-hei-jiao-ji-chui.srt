@@ -1,0 +1,911 @@
+# https://youtu.be/jF3bthfjbRQ
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•黑椒鸡锤】鸡腿的国宴做法，椒香肉嫩多汁，头顶戴花站得笔直！牛肉怎么炖才香|老饭骨
+# State Banquet Master Chef - Black Pepper Drumstick. Fragrant and flavourful!
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 小友们好，今天大爷教大家传统宴会菜——黑椒鸡锤！
+# 黑胡椒味儿的鸡腿，肉嫩多汁，各个头顶戴花，站得笔直，不仅好吃看着还赏心悦目。
+# 那么这鸡腿为什么要戴花呢？可不只是为了好看​​，小友们快来今天的视频里寻找答案！
+# 片尾大爷回答网友的提问，“牛肉应该怎么炖才香”，满满知识点，小友们可要看仔细咯！
+
+# Hello friends, Da Ye will demonstrate a traditional dish, black pepper drumstick.
+# The drumsticks are succulent and tender. They are standing with a flower on top. It is a delicious and elegant dish.
+# Why with the flower? You may ask. It is not just for presentation, let's find out!
+# At the end, Da Ye answers your question: how to make a flavourful beef stew.
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:02,240
+# 看着啊 排好了
+Look at this, line them up.
+
+2
+00:00:02,240 --> 00:00:03,560
+# 立着
+Stand here.
+
+3
+00:00:03,560 --> 00:00:04,520
+# 还得让它立着
+We need to make it stand. 
+
+4
+00:00:04,520 --> 00:00:10,640
+# 全是立的
+They are all standing on their 'feet'
+
+5
+00:00:10,640 --> 00:00:13,760
+# 看 剔小腿
+See, let's prepare the drumstick.
+
+6
+00:00:13,760 --> 00:00:16,640
+# 顺着这骨子的边剌一刀
+Make a incision along the bone
+
+7
+00:00:16,640 --> 00:00:18,000
+# 斩一刀
+Cut through
+
+8
+00:00:20,320 --> 00:00:22,400
+# 利索
+Clean through.
+
+9
+00:00:22,400 --> 00:00:26,360
+# 牙签骨在这儿呢
+Notice there's a little bone on the side (fibula)
+
+10
+00:00:26,360 --> 00:00:28,920
+# 这上面小腿有筋 我们要排排刀
+There are some tendons in the drumstick, we need to score it.   
+
+11
+00:00:28,920 --> 00:00:30,680
+
+12
+00:00:30,680 --> 00:00:35,720
+# 然后排完再用刀尖 把筋彻底切断
+and use the tip of the knife to break the tendon
+
+13
+00:00:35,720 --> 00:00:38,720
+# 一切断以后下锅煎 它就不会回来了
+So that it won't curl when we sear it.
+
+14
+00:00:38,720 --> 00:00:40,840
+
+15
+00:00:40,840 --> 00:00:42,440
+# 立着
+Stand up!
+
+16
+00:00:42,440 --> 00:00:45,720
+# 适合快餐
+Really good for fast food.
+
+17
+00:00:45,720 --> 00:00:48,200
+# 到时候戴一花儿 好看
+We'll decorate with 'flower' at the end.
+
+18
+00:00:48,200 --> 00:00:50,160
+# 看着啊排好了 立着
+Line them up, stand them up.
+
+19
+00:00:50,160 --> 00:00:51,680
+# 还得让它立着
+Line them up, stand them up.
+
+20
+00:00:51,680 --> 00:00:53,880
+# 看着啊 全是立的
+Look they are all standing!
+
+21
+00:00:53,880 --> 00:00:59,040
+# 好 咱们开始上浆了 码味
+OK, let's marinate it now.
+
+22
+00:00:59,040 --> 00:01:01,480
+# 酱油
+Soy sauce,
+
+23
+00:01:01,480 --> 00:01:03,640
+# 这是老抽 冰糖老抽
+dark soy sauce (for color)
+
+24
+00:01:03,640 --> 00:01:06,000
+# 白胡椒粉
+ground white pepper
+
+25
+00:01:06,000 --> 00:01:11,360
+# 少来盐 因为一会还有炒黑椒汁
+Just a little salt. Because we will make some pepper sauce later.
+
+26
+00:01:11,360 --> 00:01:13,360
+# 淀粉
+Corn starch
+
+27
+00:01:13,360 --> 00:01:15,760
+# 搁鸡蛋么 搁鸡蛋
+Eggs? Sure
+
+28
+00:01:15,760 --> 00:01:17,600
+# （半个）全蛋 多了还不好
+Half an egg, not too much
+
+29
+00:01:17,600 --> 00:01:18,840
+# 多了出啰嗦了
+(if too much) it will be soupy
+
+30
+00:01:18,840 --> 00:01:20,680
+# 黄酒
+Huangjiu cooking wine
+
+31
+00:01:20,680 --> 00:01:23,320
+# 这跟我们平时上浆的意思是一样的
+Just like the regular marinade
+
+32
+00:01:23,320 --> 00:01:25,920
+# 马上好了 切点小料
+Almost ready, let's get some condiments.
+
+33
+00:01:26,120 --> 00:01:28,960
+# 大爷每天就是老菜
+Da Ye always does these traditional dishes,
+
+34
+00:01:28,960 --> 00:01:33,040
+# 教啊教啊 还切呢
+He teaches a lot. He even demonstrates knife skills!
+
+35
+00:01:33,040 --> 00:01:34,720
+# 跟里边腌一下（葱段姜片）
+Green onion and ginger, into the marinade
+
+36
+00:01:34,720 --> 00:01:35,920
+# 二伯帮着搁点香油
+Some sesame oil please, Er Bai
+
+37
+00:01:35,920 --> 00:01:39,160
+# 香油必须得搁 香油去腥啊
+Sesame oil is a must, it drives away the gaminess
+
+38
+00:01:39,160 --> 00:01:40,680
+# 腌十分钟到十五分钟
+Marinade the chicken for 10-15 minutes
+
+39
+00:01:40,680 --> 00:01:43,400
+# 切料头齐了
+Now the condiments: green onion, ginger, garlic
+
+40
+00:01:43,400 --> 00:01:47,080
+# 葱姜蒜 青红辣椒 来点葱头
+Red/green and some shallots.
+
+41
+00:01:47,080 --> 00:01:49,160
+# 下面呢 关键点
+Now the important part:
+
+42
+00:01:49,160 --> 00:01:52,120
+# 炒胡椒 咱都得现制
+Toast the black pepper
+
+43
+00:01:52,120 --> 00:01:52,880
+# 黑胡椒
+Black pepper
+
+44
+00:01:52,880 --> 00:01:55,480
+# 黑胡椒比白胡椒味重
+Black pepper has a heavier flavour than white pepper
+
+45
+00:01:55,480 --> 00:01:58,440
+# 这个鸡就是任何味都好接触
+Chicken really goes well with all flavour profiles,
+
+46
+00:01:58,440 --> 00:02:02,040
+# 柠檬的 番茄的 鱼香的
+lemony, tomato-ey, fish flavoured,
+
+47
+00:02:02,040 --> 00:02:04,800
+# 香辣的 香草的 宫保的
+hot, herbal, KongPao, etc
+
+48
+00:02:04,800 --> 00:02:09,560
+# 好了 这个咱给擀了
+Ready now, let's ground the pepper
+
+49
+00:02:09,560 --> 00:02:15,840
+# 黑胡椒的味道我觉得要比白胡椒要香
+I think black pepper is more fragrant than white pepper
+
+50
+00:02:15,840 --> 00:02:20,400
+# 香味扑鼻 行了给拿一小碗
+Sure does. Now, a small bowl
+
+51
+00:02:20,400 --> 00:02:22,680
+
+52
+00:02:22,680 --> 00:02:25,280
+# 二伯 给来点油 好了
+Er Bai, add some oil
+
+53
+00:02:25,280 --> 00:02:29,560
+# 这个料就算备完了
+Preparation is done
+
+54
+00:02:29,560 --> 00:02:31,600
+# 油温六成热
+Maintain oil temp at around 180C (356F)
+
+55
+00:02:31,600 --> 00:02:33,760
+
+56
+00:02:33,760 --> 00:02:35,880
+# 煎到两面焦黄
+Sear until golden brown on both sides
+
+57
+00:02:35,880 --> 00:02:40,960
+# 煎的比炸的还要香 煎炸
+It's more flavourful to sear, than to fry
+
+58
+00:02:40,960 --> 00:02:41,560
+
+59
+00:02:42,320 --> 00:02:45,280
+# 因为它还没有完全熟透
+No need to cook it through,
+
+60
+00:02:45,280 --> 00:02:50,200
+# （主要是让）外面焦黄
+just give it some colour and crust
+
+61
+00:02:50,200 --> 00:02:53,560
+# 这就完事了
+Done.
+
+62
+00:02:53,560 --> 00:02:55,920
+# 黑胡椒
+black pepper...
+
+63
+00:02:57,240 --> 00:02:59,280
+# 葱姜蒜
+Green onion, ginger, garlic
+
+64
+00:02:59,280 --> 00:03:01,000
+# 洋葱
+Onion
+
+65
+00:03:01,000 --> 00:03:02,480
+
+66
+00:03:04,520 --> 00:03:06,560
+# 香味就这么出来了
+Wow that smell!
+
+67
+00:03:06,560 --> 00:03:09,960
+# 这黑胡椒的味还真挺好闻的
+This black pepper smells really good.
+
+68
+00:03:09,960 --> 00:03:11,720
+# 酱油
+Soy sauce
+
+69
+00:03:11,720 --> 00:03:13,880
+# 你看这广东菜就这样
+It's how Cantonese cooking should be
+
+70
+00:03:13,880 --> 00:03:19,880
+# 黄酒 香味就顺着锅边就出来了
+Cooking wine, pour in on the side of the wok
+
+71
+00:03:19,880 --> 00:03:21,040
+# 这就叫烹
+Cooking off the alcohol.
+
+72
+00:03:21,040 --> 00:03:23,720
+# 搁点蚝油 得使劲 好了
+Some oyster sauce in.
+
+73
+00:03:23,720 --> 00:03:25,320
+
+74
+00:03:29,840 --> 00:03:32,040
+# 名副其实的大菜
+A real banquet dish
+
+75
+00:03:32,040 --> 00:03:34,880
+# 你看过去宴会这菜 怎么样小亮
+How was it, they used to serve it on banquets
+
+76
+00:03:34,880 --> 00:03:38,160
+# 来点白糖 没有白糖提不了鲜
+Sugar. Without sugar, the dish is lack of umami taste
+
+77
+00:03:38,160 --> 00:03:42,160
+# 这肯定也是上位菜的 对
+It was definitely a main dish back then. - Yes.
+78
+00:03:42,160 --> 00:03:44,840
+# 让它迅速成熟
+Let it cook.
+
+79
+00:03:44,840 --> 00:03:48,240
+# 王朝辉 锡纸花 这个没锡纸花还真不好看
+Zhaohui! Aluminium foil flower, really needs it
+
+80
+00:03:48,240 --> 00:03:50,880
+# 好了 熟了
+Done!
+
+81
+00:03:50,880 --> 00:03:53,120
+
+82
+00:03:53,120 --> 00:03:54,320
+
+83
+00:03:54,320 --> 00:03:55,760
+# 这个味浓郁
+That's some serious smell!
+
+84
+00:03:55,760 --> 00:03:57,200
+# 出锅了
+Take it out!
+85
+00:03:57,880 --> 00:03:59,120
+
+86
+00:03:59,120 --> 00:04:02,680
+# 怎么样这味 我特喜欢黑胡椒这味
+How is it, I really like the black pepper taste.
+
+87
+00:04:02,680 --> 00:04:04,400
+# （放青红椒丁）
+(Add in the diced green/red pepper)
+
+88
+00:04:04,400 --> 00:04:06,640
+# 给点香油
+A touch of sesame oil
+
+89
+00:04:06,640 --> 00:04:10,200
+# 青红椒都搁进来了啊
+Green and red pepper all in?
+
+90
+00:04:10,200 --> 00:04:11,360
+# 浇汁
+Pour it on top.
+
+91
+00:04:13,080 --> 00:04:14,320
+# 齐活了
+Nearly done!
+
+92
+00:04:14,320 --> 00:04:18,120
+# 就差锡纸了 王朝辉
+Waiting for the foil, Zhaohui!
+
+93
+00:04:18,120 --> 00:04:20,760
+# 亮子 过去这是个老菜
+Liang zi, It's a traditional dish.
+
+94
+00:04:20,760 --> 00:04:24,080
+# 过去的商店专门有做这花儿的
+There were some stores selling this foil-made flower
+
+95
+00:04:24,080 --> 00:04:27,200
+# 各种颜色 粉的红的
+in all colours, pink, red, etc
+
+96
+00:04:27,200 --> 00:04:29,920
+# 它叫什么 叫炸鸡腿戴花
+It's called the "flowers for fried chicken"
+
+97
+00:04:29,920 --> 00:04:34,480
+# 专门为这道菜准备的
+Specifically prepared for this dish.
+
+98
+00:04:34,480 --> 00:04:36,840
+# 它为了什么 要什么意思呢
+But why we need the flower?
+
+99
+00:04:36,840 --> 00:04:40,360
+# 客人吃的时候 拿起来
+When you eating, pick up,
+
+100
+00:04:40,360 --> 00:04:43,320
+# 不烫手 手里还没油
+it wouldn't be too hot, nor oily.
+
+101
+00:04:43,320 --> 00:04:47,840
+# 花上有一小筒 这样套在鸡腿里边
+You wrap around like this.
+
+102
+00:04:47,840 --> 00:04:50,560
+# 还有一个网油包鸡腿
+There's another dish, caul fat wrapped drumstick
+
+103
+00:04:50,560 --> 00:04:53,040
+# 那也是要戴花的
+it needs the flower too.
+
+104
+00:04:53,040 --> 00:04:56,240
+# 所以这道菜是一个传统的老菜
+It's a traditional dish.
+
+105
+00:04:56,240 --> 00:04:59,080
+# 今天我们就用现场的锡纸
+Today we use foil we have here
+
+106
+00:04:59,080 --> 00:05:02,560
+# 简洁的做了一个小花
+to make a simple foil flower.
+
+107
+00:05:02,560 --> 00:05:08,400
+# 也很好看 好了 我就等着吃了
+Looks nice. Good, now I'm waiting to eat.
+
+108
+00:05:08,400 --> 00:05:11,720
+# 二伯 给后生给后生
+Er Bai, child first
+
+109
+00:05:12,800 --> 00:05:15,280
+# 这不合适 后生后生
+Nah, that's inappropriate!
+
+110
+00:05:15,280 --> 00:05:17,760
+# 那我就不客气了 不用客气
+Sure, I'll eat then.
+
+111
+00:05:17,760 --> 00:05:19,560
+# 那你还客气 知道你爱吃肉
+Just eat, I know you like meat
+
+112
+00:05:19,560 --> 00:05:22,280
+# 黑胡椒的辣特别好吃
+I really like the heat from the pepper
+
+113
+00:05:22,280 --> 00:05:23,680
+
+114
+00:05:23,680 --> 00:05:26,280
+# 这个菜非常有传承的意义
+It's a lineage you know
+
+115
+00:05:26,280 --> 00:05:28,680
+# 是不是小亮
+It's a lineage you know
+
+116
+00:05:28,680 --> 00:05:32,440
+# 对不对 你再尝一口 你吃了三块了
+Correct? Man, you ate three pieces already
+
+117
+00:05:33,880 --> 00:05:35,840
+# 很下饭啊
+It's really good
+
+118
+00:05:37,760 --> 00:05:41,680
+# 这口菜要配上热米饭 绝了
+Even better with hot rice
+
+119
+00:05:41,680 --> 00:05:44,960
+# 烫嘴的热米饭 好吃
+Even better with hot rice
+
+120
+00:05:44,960 --> 00:05:47,200
+# 谢谢二伯 谢谢亮子
+Thanks Er Bai, Liangzi!
+
+121
+00:05:47,200 --> 00:05:49,360
+# 自我也总结一下
+Let me summarize myself.
+
+122
+00:05:49,360 --> 00:05:52,040
+# 因为我们现场还是有一些局限性
+We are still kinda limited here,
+
+123
+00:05:52,040 --> 00:05:57,120
+# 按道理这黑椒汁 从传统的技艺方法
+traditionally this black pepper sauce needs to cook longer in the pan
+
+124
+00:05:57,120 --> 00:05:59,840
+# 应该好好的在锅里多熬一会儿
+traditionally this black pepper sauce needs to cook longer in the pan
+
+125
+00:05:59,840 --> 00:06:02,360
+# 过去熬的方法得炒
+and with some leek oil and butter
+
+126
+00:06:02,360 --> 00:06:06,120
+# 炒这葱头油 搁点黄油
+and with some green onion oil and butter
+
+127
+00:06:06,120 --> 00:06:09,280
+# 让它味儿更释放的多一些
+to further bring up its flavour
+
+128
+00:06:09,280 --> 00:06:11,280
+# 现在表面上有点辣
+It's a bit spicy on the skin
+
+129
+00:06:11,280 --> 00:06:12,840
+# 实际上完全的黑椒汁
+Actually the black pepper flavour
+
+130
+00:06:12,840 --> 00:06:15,200
+# 没完全释放出来 得熬一会
+doesn't release completely. Need to cook for a bit longer.
+
+131
+00:06:15,200 --> 00:06:18,880
+# 然后我们再进行烹制
+So that we start cooking afterwards,
+
+132
+00:06:18,880 --> 00:06:23,440
+# 但是我们现场程序要快
+But here we demonstrate a quicker way,
+
+133
+00:06:23,440 --> 00:06:29,160
+# 让网友掌握的简单实用
+more doable at home
+
+134
+00:06:29,160 --> 00:06:31,520
+# 这味道 味道还可以 就好
+The flavour, not as good as in restaurants, but will do at home
+
+135
+00:06:31,520 --> 00:06:32,440
+# 家庭版
+A homemade version!
+
+136
+00:06:32,760 --> 00:06:35,200
+
+137
+00:06:40,280 --> 00:06:42,480
+# 咱们街道办事处 岚马 就问说
+Someone on our street office, Lan Ma, asked
+
+138
+00:06:42,480 --> 00:06:43,920
+# 看了几个方子
+Seeing a few of recipes,
+
+139
+00:06:43,920 --> 00:06:46,080
+# 清汤腩做的还是一般般
+my clear broth braised brisket are still ordinary.
+
+140
+00:06:46,080 --> 00:06:47,800
+# 香料控制的还行
+The herb and spices are about right,
+
+141
+00:06:47,800 --> 00:06:49,640
+# 但是肉香感觉老是不够
+but the meaty flavour are not strong enough. 
+
+142
+00:06:49,640 --> 00:06:50,640
+# 不知道有什么小窍门
+Is there any tricks
+
+143
+00:06:50,640 --> 00:06:51,400
+# 可以提升
+to help me improve?
+
+144
+00:06:53,000 --> 00:06:54,600
+# 清汤腩是一个人吗
+Qing Tang Nan, is that a person??
+
+145
+00:06:54,800 --> 00:06:56,920
+# 清汤牛腩
+Oh, clear broth braised brisket.
+
+146
+00:06:58,360 --> 00:07:00,000
+# 我们买好的牛腩
+Buy the good quality beef brisket 
+
+147
+00:07:00,000 --> 00:07:01,080
+# 买回来以后
+When you bring it back
+
+148
+00:07:01,080 --> 00:07:03,040
+# 像切红烧肉的这种肉块
+Chop up the beef into square cubes, like braised pork belly.
+
+149
+00:07:03,040 --> 00:07:04,000
+# 是吧
+Right?
+
+150
+00:07:04,000 --> 00:07:05,840
+# 把它切好了
+After you chop it,
+
+151
+00:07:05,840 --> 00:07:07,760
+# 切好了以后我们要冲水
+run it under water
+
+152
+00:07:07,760 --> 00:07:09,640
+# 然后我们放到一个锅里头
+Then put it in a big pot
+
+153
+00:07:09,640 --> 00:07:11,160
+# 水宽一点
+add enough water
+
+154
+00:07:11,680 --> 00:07:14,000
+# 然后烧开 凉水下锅
+cold water, then bring it to a boil
+
+155
+00:07:14,000 --> 00:07:15,280
+# 不加任何东西
+No need to add anything else.
+
+156
+00:07:15,880 --> 00:07:17,000
+# 然后它开了以后
+Once it boils,
+
+157
+00:07:17,000 --> 00:07:19,400
+# 尤其在开（锅）这一瞬间
+especially when it's just about to boil
+
+158
+00:07:19,400 --> 00:07:21,840
+# 一定要把血沫处理干净
+Skim off all the scum
+
+159
+00:07:22,440 --> 00:07:24,160
+# 洗完了赶快捞到盆里头
+take it out right after you wash it 
+
+160
+00:07:25,000 --> 00:07:27,000
+# 锅里还接着放凉水
+put in a fresh pot of cold water
+
+161
+00:07:27,000 --> 00:07:28,920
+# 把牛肉再（放）回到锅里
+put the beef back in the pot.
+
+162
+00:07:30,120 --> 00:07:32,440
+# 放一根胡萝卜 整根的
+Add a whole carrot,
+
+163
+00:07:32,440 --> 00:07:35,480
+# 放一个葱头 一切两开
+an onion split in half
+
+164
+00:07:35,480 --> 00:07:37,960
+# 放上一根芹菜
+and a piece of celery.
+
+165
+00:07:37,960 --> 00:07:39,120
+# 开锅
+Bring it to a boil
+
+166
+00:07:41,000 --> 00:07:42,360
+# 可能还会有浮沫
+there may still some scum
+
+167
+00:07:42,360 --> 00:07:43,720
+# 把这浮沫打咯
+Skim them off
+
+168
+00:07:43,720 --> 00:07:45,360
+# 牛肉它不吃花椒
+It is hard for beef to absorb Szechuan pepper flavour
+
+169
+00:07:45,360 --> 00:07:46,960
+# 就放两个大料
+just add two star anises,
+
+170
+00:07:46,960 --> 00:07:49,000
+# 放一片香叶
+and one bay leaf
+
+171
+00:07:49,000 --> 00:07:51,120
+# 放几粒小茴香
+a couple of fennel seeds,
+
+172
+00:07:51,120 --> 00:07:52,840
+# 小火慢炖
+simmer it, low and slow
+
+173
+00:07:52,840 --> 00:07:53,880
+# 半小时左右
+for around half an hour
+
+174
+00:07:53,880 --> 00:07:55,600
+# 如果说着急的话
+If you are in a hurry,
+
+175
+00:07:55,600 --> 00:07:56,480
+# 放到高压锅里边
+you can use a pressure cooker as well.
+
+176
+00:07:56,480 --> 00:07:58,920
+# 高压锅现在我们有智能键
+Some pressure cooker has "smart" preset mode,
+
+177
+00:07:58,920 --> 00:08:01,000
+# 炖牛肉羊肉
+use the beef/lamb stew mode
+
+178
+00:08:01,000 --> 00:08:03,440
+# 一按 二十分钟
+press the button, for like 20 minutes
+
+179
+00:08:04,520 --> 00:08:05,440
+# 就ok了
+it'd be ready
+
+180
+00:08:07,400 --> 00:08:09,800
+# 放了气  出了锅
+once you take it out,
+
+181
+00:08:09,800 --> 00:08:11,640
+# （放）黄酒 放点姜
+add some cooking wine and ginger
+
+182
+00:08:11,640 --> 00:08:13,600
+# 不加任何东西 也不加盐
+Don't need to add anything. No salt.
+
+183
+00:08:13,600 --> 00:08:14,360
+# 不要放葱了
+No more green onion.
