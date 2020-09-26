@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•黑椒鸡锤】鸡腿的国宴做法，椒香肉嫩多汁，头顶戴花站得笔直！牛肉怎么炖才香|老饭骨
-# [State Banquet Master Chef - Peppered drumstick] Chicken the state banquet way, fragrant and flavourful!
+# State Banquet Master Chef - Black Pepper Drumstick. Fragrant and flavourful!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -12,27 +12,29 @@
 # 那么这鸡腿为什么要戴花呢？可不只是为了好看​​，小友们快来今天的视频里寻找答案！
 # 片尾大爷回答网友的提问，“牛肉应该怎么炖才香”，满满知识点，小友们可要看仔细咯！
 
-# Hello friends, Da Ye will demonstrate a traditional dish, black peppered drumstick.
-# Succulent, tender, standing on its bones and a flower on top, delicious, and elegant.
-# Why the flower you ask? Not for presentation only, let's find out!
+# Hello friends, Da Ye will demonstrate a traditional dish, black pepper drumstick.
+# The drumsticks are succulent and tender. They are standing with a flower on top. It is a delicious and elegant dish.
+# Why with the flower? You may ask. It is not just for presentation, let's find out!
 # At the end, Da Ye answers your question: how to make a flavourful beef stew.
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:02,240
 # 看着啊 排好了
-Look at this, line them up, and stand them up
+Look at this, line them up.
 
 2
 00:00:02,240 --> 00:00:03,560
 # 立着
-Look at this, line them up, and stand them up
+Stand here.
 
 3
 00:00:03,560 --> 00:00:04,520
 # 还得让它立着
-Look at this, line them up, and stand them up
+We need to make it stand. 
 
 4
 00:00:04,520 --> 00:00:10,640
@@ -42,17 +44,17 @@ They are all standing on their 'feet'
 5
 00:00:10,640 --> 00:00:13,760
 # 看 剔小腿
-Now, let's prepare the drumstick.
+See, let's prepare the drumstick.
 
 6
 00:00:13,760 --> 00:00:16,640
 # 顺着这骨子的边剌一刀
-Make a incision here, and cut through
+Make a incision along the bone
 
 7
 00:00:16,640 --> 00:00:18,000
 # 斩一刀
-Make a incision here, and cut through
+Cut through
 
 8
 00:00:20,320 --> 00:00:22,400
@@ -67,7 +69,7 @@ Notice there's a little bone on the side (fibula)
 10
 00:00:26,360 --> 00:00:28,920
 # 这上面小腿有筋 我们要排排刀
-Give it a few chops to loosen the tendon
+There are some tendons in the drumstick, we need to score it.   
 
 11
 00:00:28,920 --> 00:00:30,680
@@ -118,7 +120,7 @@ Look they are all standing!
 21
 00:00:53,880 --> 00:00:59,040
 # 好 咱们开始上浆了 码味
-K, let's marinate it now.
+OK, let's marinate it now.
 
 22
 00:00:59,040 --> 00:01:01,480
@@ -138,7 +140,7 @@ ground white pepper
 25
 00:01:06,000 --> 00:01:11,360
 # 少来盐 因为一会还有炒黑椒汁
-Just a little salt
+Just a little salt. Because we will make some pepper sauce later.
 
 26
 00:01:11,360 --> 00:01:13,360
@@ -153,7 +155,7 @@ Eggs? Sure
 28
 00:01:15,760 --> 00:01:17,600
 # （半个）全蛋 多了还不好
-Half an egg, not to much
+Half an egg, not too much
 
 29
 00:01:17,600 --> 00:01:18,840
@@ -163,7 +165,7 @@ Half an egg, not to much
 30
 00:01:18,840 --> 00:01:20,680
 # 黄酒
-Cooking wine
+Huangjiu cooking wine
 
 31
 00:01:20,680 --> 00:01:23,320
@@ -183,17 +185,17 @@ Da Ye always does these traditional dishes,
 34
 00:01:28,960 --> 00:01:33,040
 # 教啊教啊 还切呢
-he even demonstrate knife skills!
+He teaches a lot. He even demonstrates knife skills!
 
 35
 00:01:33,040 --> 00:01:34,720
 # 跟里边腌一下（葱段姜片）
-Leek and ginger, into the marinade
+Green onion and ginger, into the marinade
 
 36
 00:01:34,720 --> 00:01:35,920
 # 二伯帮着搁点香油
-Some sesame oil plz, Er Bai
+Some sesame oil please, Er Bai
 
 37
 00:01:35,920 --> 00:01:39,160
@@ -203,7 +205,7 @@ Sesame oil is a must, it drives away the gaminess
 38
 00:01:39,160 --> 00:01:40,680
 # 腌十分钟到十五分钟
-Leave the Chicken in there for 10-15 minutes
+Marinade the chicken for 10-15 minutes
 
 39
 00:01:40,680 --> 00:01:43,400
@@ -218,17 +220,17 @@ Red/green and some shallots.
 41
 00:01:47,080 --> 00:01:49,160
 # 下面呢 关键点
-Now the important bit:
+Now the important part:
 
 42
 00:01:49,160 --> 00:01:52,120
 # 炒胡椒 咱都得现制
-Bake the black pepper
+Toast the black pepper
 
 43
 00:01:52,120 --> 00:01:52,880
 # 黑胡椒
-Black pepper has a heavier flavour than white pepper
+Black pepper
 
 44
 00:01:52,880 --> 00:01:55,480
@@ -276,7 +278,7 @@ Er Bai, add some oil
 53
 00:02:25,280 --> 00:02:29,560
 # 这个料就算备完了
-Preparation done
+Preparation is done
 
 54
 00:02:29,560 --> 00:02:31,600
@@ -289,7 +291,7 @@ Maintain oil temp at around 180C (356F)
 56
 00:02:33,760 --> 00:02:35,880
 # 煎到两面焦黄
-Sear until golden brown
+Sear until golden brown on both sides
 
 57
 00:02:35,880 --> 00:02:40,960
@@ -302,12 +304,12 @@ It's more flavourful to sear, than to fry
 59
 00:02:42,320 --> 00:02:45,280
 # 因为它还没有完全熟透
-No need to cook it through, just give it some colour and crust
+No need to cook it through,
 
 60
 00:02:45,280 --> 00:02:50,200
 # （主要是让）外面焦黄
-No need to cook it through, just give it some colour and crust
+just give it some colour and crust
 
 61
 00:02:50,200 --> 00:02:53,560
@@ -340,7 +342,7 @@ Wow that smell!
 67
 00:03:06,560 --> 00:03:09,960
 # 这黑胡椒的味还真挺好闻的
-Really smells good, this black pepper
+This black pepper smells really good.
 
 68
 00:03:09,960 --> 00:03:11,720
@@ -373,7 +375,7 @@ Some oyster sauce in.
 74
 00:03:29,840 --> 00:03:32,040
 # 名副其实的大菜
-Really a party dish
+A real banquet dish
 
 75
 00:03:32,040 --> 00:03:34,880
@@ -383,12 +385,12 @@ How was it, they used to serve it on banquets
 76
 00:03:34,880 --> 00:03:38,160
 # 来点白糖 没有白糖提不了鲜
-Sugar
+Sugar. Without sugar, the dish is lack of umami taste
 
 77
 00:03:38,160 --> 00:03:42,160
 # 这肯定也是上位菜的 对
-
+It was definitely a main dish back then. - Yes.
 78
 00:03:42,160 --> 00:03:44,840
 # 让它迅速成熟
@@ -418,19 +420,19 @@ That's some serious smell!
 84
 00:03:55,760 --> 00:03:57,200
 # 出锅了
-
+Take it out!
 85
 00:03:57,880 --> 00:03:59,120
 
 86
 00:03:59,120 --> 00:04:02,680
 # 怎么样这味 我特喜欢黑胡椒这味
-How is it, I really like the smell
+How is it, I really like the black pepper taste.
 
 87
 00:04:02,680 --> 00:04:04,400
 # （放青红椒丁）
-(In with diced green/red pepper)
+(Add in the diced green/red pepper)
 
 88
 00:04:04,400 --> 00:04:06,640
@@ -440,7 +442,7 @@ A touch of sesame oil
 89
 00:04:06,640 --> 00:04:10,200
 # 青红椒都搁进来了啊
-Green and red pepper in?
+Green and red pepper all in?
 
 90
 00:04:10,200 --> 00:04:11,360
@@ -460,12 +462,12 @@ Waiting for the foil, Zhaohui!
 93
 00:04:18,120 --> 00:04:20,760
 # 亮子 过去这是个老菜
-It's a traditional dish.
+Liang zi, It's a traditional dish.
 
 94
 00:04:20,760 --> 00:04:24,080
 # 过去的商店专门有做这花儿的
-They used to sell this foil-made flower
+There were some stores selling this foil-made flower
 
 95
 00:04:24,080 --> 00:04:27,200
@@ -475,27 +477,27 @@ in all colours, pink, red, etc
 96
 00:04:27,200 --> 00:04:29,920
 # 它叫什么 叫炸鸡腿戴花
-It's called the "flowered fried chicken"
+It's called the "flowers for fried chicken"
 
 97
 00:04:29,920 --> 00:04:34,480
 # 专门为这道菜准备的
-The flower is specifically prepared for this.
+Specifically prepared for this dish.
 
 98
 00:04:34,480 --> 00:04:36,840
 # 它为了什么 要什么意思呢
-But why the flower?
+But why we need the flower?
 
 99
 00:04:36,840 --> 00:04:40,360
 # 客人吃的时候 拿起来
-When you pick up, it's not too hot, not oily
+When you eating, pick up,
 
 100
 00:04:40,360 --> 00:04:43,320
 # 不烫手 手里还没油
-When you pick up, it's not too hot, not oily
+it wouldn't be too hot, nor oily.
 
 101
 00:04:43,320 --> 00:04:47,840
@@ -505,7 +507,7 @@ You wrap around like this.
 102
 00:04:47,840 --> 00:04:50,560
 # 还有一个网油包鸡腿
-There's another dish, Wang You drumstick
+There's another dish, caul fat wrapped drumstick
 
 103
 00:04:50,560 --> 00:04:53,040
@@ -515,22 +517,22 @@ it needs the flower too.
 104
 00:04:53,040 --> 00:04:56,240
 # 所以这道菜是一个传统的老菜
-It's traditional, so we've made some flower here with foil
+It's a traditional dish.
 
 105
 00:04:56,240 --> 00:04:59,080
 # 今天我们就用现场的锡纸
-It's traditional, so we've made some flower here with foil
+Today we use foil we have here
 
 106
 00:04:59,080 --> 00:05:02,560
 # 简洁的做了一个小花
-It's traditional, so we've made some flower here with foil
+to make a simple foil flower.
 
 107
 00:05:02,560 --> 00:05:08,400
 # 也很好看 好了 我就等着吃了
-Looks cool, now I'm all mouth
+Looks nice. Good, now I'm waiting to eat.
 
 108
 00:05:08,400 --> 00:05:11,720
@@ -540,7 +542,7 @@ Er Bai, child first
 109
 00:05:12,800 --> 00:05:15,280
 # 这不合适 后生后生
-Nah, that's against manners!
+Nah, that's inappropriate!
 
 110
 00:05:15,280 --> 00:05:17,760
@@ -598,7 +600,7 @@ Thanks Er Bai, Liangzi!
 121
 00:05:47,200 --> 00:05:49,360
 # 自我也总结一下
-Let me self-summarize
+Let me summarize myself.
 
 122
 00:05:49,360 --> 00:05:52,040
@@ -623,7 +625,7 @@ and with some leek oil and butter
 126
 00:06:02,360 --> 00:06:06,120
 # 炒这葱头油 搁点黄油
-and with some leek oil and butter
+and with some green onion oil and butter
 
 127
 00:06:06,120 --> 00:06:09,280
@@ -638,12 +640,12 @@ It's a bit spicy on the skin
 129
 00:06:11,280 --> 00:06:12,840
 # 实际上完全的黑椒汁
-Actually it takes a while to fully bring out the black pepper flavour
+Actually the black pepper flavour
 
 130
 00:06:12,840 --> 00:06:15,200
 # 没完全释放出来 得熬一会
-Actually it takes a while to fully bring out the black pepper flavour
+doesn't release completely. Need to cook for a bit longer.
 
 131
 00:06:15,200 --> 00:06:18,880
@@ -653,12 +655,12 @@ So that we start cooking afterwards,
 132
 00:06:18,880 --> 00:06:23,440
 # 但是我们现场程序要快
-But here we demonstrate a quicker way, more doable at home
+But here we demonstrate a quicker way,
 
 133
 00:06:23,440 --> 00:06:29,160
 # 让网友掌握的简单实用
-But here we demonstrate a quicker way, more doable at home
+more doable at home
 
 134
 00:06:29,160 --> 00:06:31,520
@@ -668,7 +670,7 @@ The flavour, not as good as in restaurants, but will do at home
 135
 00:06:31,520 --> 00:06:32,440
 # 家庭版
-A comfort version!
+A homemade version!
 
 136
 00:06:32,760 --> 00:06:35,200
@@ -676,92 +678,92 @@ A comfort version!
 137
 00:06:40,280 --> 00:06:42,480
 # 咱们街道办事处 岚马 就问说
-Someone on reddit asked
+Someone on our street office, Lan Ma, asked
 
 138
 00:06:42,480 --> 00:06:43,920
 # 看了几个方子
-How to do (clear broth) braised brisket right.
+Seeing a few of recipes,
 
 139
 00:06:43,920 --> 00:06:46,080
 # 清汤腩做的还是一般般
-How to do (clear broth) braised brisket right.
+my clear broth braised brisket are still ordinary.
 
 140
 00:06:46,080 --> 00:06:47,800
 # 香料控制的还行
-He felt he's got the herb and spices right,
+The herb and spices are about right,
 
 141
 00:06:47,800 --> 00:06:49,640
 # 但是肉香感觉老是不够
-but the beefiness didn't come through.
+but the meaty flavour are not strong enough. 
 
 142
 00:06:49,640 --> 00:06:50,640
 # 不知道有什么小窍门
-We wants to know about the possible tricks here for improvement.
+Is there any tricks
 
 143
 00:06:50,640 --> 00:06:51,400
 # 可以提升
-We wants to know about the possible tricks here for improvement.
+to help me improve?
 
 144
 00:06:53,000 --> 00:06:54,600
 # 清汤腩是一个人吗
-CCBB, is that someone??
+Qing Tang Nan, is that a person??
 
 145
 00:06:54,800 --> 00:06:56,920
 # 清汤牛腩
-Oh, it's clear broth braised brisket.
+Oh, clear broth braised brisket.
 
 146
 00:06:58,360 --> 00:07:00,000
 # 我们买好的牛腩
-So you should chop up the beef into square cubes
+Buy the good quality beef brisket 
 
 147
 00:07:00,000 --> 00:07:01,080
 # 买回来以后
-So you should chop up the beef into square cubes
+When you bring it back
 
 148
 00:07:01,080 --> 00:07:03,040
 # 像切红烧肉的这种肉块
-So you should chop up the beef into square cubes
+Chop up the beef into square cubes, like braised pork belly.
 
 149
 00:07:03,040 --> 00:07:04,000
 # 是吧
-So you should chop up the beef into square cubes
+Right?
 
 150
 00:07:04,000 --> 00:07:05,840
 # 把它切好了
-So you should chop up the beef into square cubes
+After you chop it,
 
 151
 00:07:05,840 --> 00:07:07,760
 # 切好了以后我们要冲水
-and then run it under water
+run it under water
 
 152
 00:07:07,760 --> 00:07:09,640
 # 然后我们放到一个锅里头
-Then put it in a big pot of cold water, boil it
+Then put it in a big pot
 
 153
 00:07:09,640 --> 00:07:11,160
 # 水宽一点
-Then put it in a big pot of cold water, boil it
+add enough water
 
 154
 00:07:11,680 --> 00:07:14,000
 # 然后烧开 凉水下锅
-Then put it in a big pot of cold water, boil it
+cold water, then bring it to a boil
 
 155
 00:07:14,000 --> 00:07:15,280
@@ -771,32 +773,32 @@ No need to add anything else.
 156
 00:07:15,880 --> 00:07:17,000
 # 然后它开了以后
-Once it boils, especially when it's just about to boil
+Once it boils,
 
 157
 00:07:17,000 --> 00:07:19,400
 # 尤其在开（锅）这一瞬间
-Once it boils, especially when it's just about to boil
+especially when it's just about to boil
 
 158
 00:07:19,400 --> 00:07:21,840
 # 一定要把血沫处理干净
-Remove all the impurities from the broth
+Skim off all the scum
 
 159
 00:07:22,440 --> 00:07:24,160
 # 洗完了赶快捞到盆里头
-And wash it, drain it and put in a fresh pot of cold water
+take it out right after you wash it 
 
 160
 00:07:25,000 --> 00:07:27,000
 # 锅里还接着放凉水
-And wash it, drain it and put in a fresh pot of cold water
+put in a fresh pot of cold water
 
 161
 00:07:27,000 --> 00:07:28,920
 # 把牛肉再（放）回到锅里
-And wash it, drain it and put in a fresh pot of cold water
+put the beef back in the pot.
 
 162
 00:07:30,120 --> 00:07:32,440
@@ -816,27 +818,27 @@ and a piece of celery.
 165
 00:07:37,960 --> 00:07:39,120
 # 开锅
-Remove any impurities along the way
+Bring it to a boil
 
 166
 00:07:41,000 --> 00:07:42,360
 # 可能还会有浮沫
-Remove any impurities along the way
+there may still some scum
 
 167
 00:07:42,360 --> 00:07:43,720
 # 把这浮沫打咯
-Remove any impurities along the way
+Skim them off
 
 168
 00:07:43,720 --> 00:07:45,360
 # 牛肉它不吃花椒
-You don't really need Szechuan pepper corns with beef,
+It is hard for beef to absorb Szechuan pepper flavour
 
 169
 00:07:45,360 --> 00:07:46,960
 # 就放两个大料
-just two star anise,
+just add two star anises,
 
 170
 00:07:46,960 --> 00:07:49,000
@@ -851,59 +853,59 @@ a couple of fennel seeds,
 172
 00:07:51,120 --> 00:07:52,840
 # 小火慢炖
-simmer it, low and slow for around half an hour
+simmer it, low and slow
 
 173
 00:07:52,840 --> 00:07:53,880
 # 半小时左右
-simmer it, low and slow for around half an hour
+for around half an hour
 
 174
 00:07:53,880 --> 00:07:55,600
 # 如果说着急的话
-You can use a pressure cooker as well if you are in a hurry
+If you are in a hurry,
 
 175
 00:07:55,600 --> 00:07:56,480
 # 放到高压锅里边
-You can use a pressure cooker as well if you are in a hurry
+you can use a pressure cooker as well.
 
 176
 00:07:56,480 --> 00:07:58,920
 # 高压锅现在我们有智能键
-If you have the "smart" pressure cooker, just use the beef/lamb stew mode
+Some pressure cooker has "smart" preset mode,
 
 177
 00:07:58,920 --> 00:08:01,000
 # 炖牛肉羊肉
-If you have the "smart" pressure cooker, just use the beef/lamb stew mode
+use the beef/lamb stew mode
 
 178
 00:08:01,000 --> 00:08:03,440
 # 一按 二十分钟
-for like 20 minutes and it'd be ready
+press the button, for like 20 minutes
 
 179
 00:08:04,520 --> 00:08:05,440
 # 就ok了
-for like 20 minutes and it'd be ready
+it'd be ready
 
 180
 00:08:07,400 --> 00:08:09,800
 # 放了气  出了锅
-once you take it out, add some cooking wine and ginger
+once you take it out,
 
 181
 00:08:09,800 --> 00:08:11,640
 # （放）黄酒 放点姜
-once you take it out, add some cooking wine and ginger
+add some cooking wine and ginger
 
 182
 00:08:11,640 --> 00:08:13,600
 # 不加任何东西 也不加盐
-nothing else, no salt, no more leek/green onion, it's that simple.
+Don't need to add anything. No salt.
 
 183
 00:08:13,600 --> 00:08:14,360
 # 不要放葱了
-nothing else, no salt, no more leek/green onion, it's that simple.
+No more green onion.
