@@ -2,35 +2,37 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•栗子糕】老饭骨史上最简单的一道菜，栗子糕香、糯、干、甜，新手零失败！酱的知识|老饭骨
-# [State Banquet Master Chef - Chestnut pressed-cake] The simplest dish ever made-Chestnut pressed-cake. Tasty, soft, fluffy, sweet, failproof recipe for newbies!
+# State Banquet Master Chef - Chestnut pressed-cake. The simplest dish ever.
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
 # 大家好，正逢中秋佳节，老饭骨上次教小友们做了五仁月饼，大家都学会了吗？视频链接：https://youtu.be/04C3ll-BaEw
-# Hello. It’s the time of Moon Festival again. Have you tried the moon cake recipe I showed you last time? If not, then check out the link: https://youtu.be/04c311-BaEw
+# Hello, friends! It’s the time of Mid-Autumn Festival. Have you tried the moon cake recipe we showed you last time? If not, please check out this video: https://youtu.be/04c311-BaEw
 
 # 觉得太难的小友也不要着急，这次给大家带来了一个老饭骨史上最简单的菜品——松仁栗子糕！看了就能学会！
 # 这道松仁栗子糕，香、糯、干、甜，不用蒸不用烤，健康无添加！
-# Don’t worry if you have not tried it yet. This time, we will share a simplest dish ever made – Mixed Chestnut and Pine Nut pressed-cake! It’s so easy to make. It is tasty, soft, fluffy and sweet! And there is no need to steam or bake.
+# Don’t worry if you think it was too hard. This time, we will share a simplest dish ever made – Mixed Chestnut and Pine Nut pressed-cake! It’s so easy to make. It is tasty, soft, fluffy and sweet! There is no need to steam or bake, and it is healthy.
 
 # 不会做月饼的小友们可以试试做这道菜，也非常适合中秋节一家团圆的时候品尝！
-# Give it a try if you are not good at making Moon Cake. Chestnut Pressed-cake is also a traditional Moon Festival delicacy.
+# Give it a try if you are not good at making Moon Cake. Chestnut Pressed-cake is also a traditional mid-autumn Festival delicacy.
 
 # 片尾还有大爷二伯讲解做菜中各种酱的运用，小友们可不要错过咯！
-# In addition, there will be a talk about the use of various paste at the end. Enjoy the show!
+# At the end of this video, Da Ye and Er Bai talk about the use of different pastes. Don't miss it!
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:02,560
 # 秋天的第一块糕点
-One of the most popular cakes in Autumn.
+First cake in Autumn.
 
 2
 00:00:02,560 --> 00:00:04,520
 # 什么都没加 栗子的本味
-Only natural flavour from chestnut, nothing added.
+Didn't add anything else, only the natural flavour of chestnut.
 
 3
 00:00:04,520 --> 00:00:07,240
@@ -88,7 +90,7 @@ Ok. Press through the sieve.
 14
 00:00:37,520 --> 00:00:40,520
 # 我这还有点 提前我给你弄出来的
-I also prepared some for you early.
+I also prepared some for you earlier.
 
 15
 00:00:40,520 --> 00:00:42,040
@@ -214,12 +216,12 @@ Don’t you feel a sense of achievement, particularly in front of the kids?
 40
 00:01:44,960 --> 00:01:48,120
 # 这个为什么叫栗子糕
-It is called Chestnut pressed cake.
+Why is it called Chestnut pressed cake？
 
 41
 00:01:48,120 --> 00:01:50,440
 # 它有栗子这种干松劲儿
-Because it comes from fluffiness of the Chestnuts.
+Because it remains the fluffiness of Chestnuts.
 
 42
 00:01:50,440 --> 00:01:53,240
@@ -234,12 +236,12 @@ What do you think, Da Ye?
 44
 00:01:56,960 --> 00:01:59,920
 # 干 就一个字 干
-Fluffy! One word! Fluffy!
+Dry. One word. Dry!
 
 45
 00:01:59,920 --> 00:02:02,040
 # 香 糯 干 甜
-Fragrant, soft, fluffy and sweet.
+Fragrant, soft, dry and sweet.
 
 46
 00:02:02,040 --> 00:02:04,040
@@ -254,7 +256,7 @@ Completely natural.
 48
 00:02:05,840 --> 00:02:08,560
 # 我建议 在增加口感这方面
-I suggest adding something to the taste.
+I suggest adding something to improve the texture.
 
 49
 00:02:08,560 --> 00:02:10,400
@@ -295,11 +297,11 @@ Let’s get started. Some people ask.
 57
 00:02:29,640 --> 00:02:31,000
 # 想听两位大师
-
+(I) would like two masters
 58
 00:02:31,000 --> 00:02:33,400
 # 讲讲各种酱的专题知识
-Could you please share some knowledge of various paste?
+to take about different kinds of pastes.
 
 59
 00:02:33,400 --> 00:02:34,880
@@ -309,20 +311,20 @@ In my memory,
 60
 00:02:34,880 --> 00:02:36,840
 # 只有二伯做炸酱的时候
-
+only know that when Er Bai making the fried sauce
 61
 00:02:36,840 --> 00:02:37,800
 # 使用的三种酱
-Er Bai only used three types of paste when he made that fried sauce.
+those three types of pastes he used. 
 
 62
 00:02:37,800 --> 00:02:39,560
 # 最近看虎皮鸡爪
-
+Recently, I watched "Tiger Skin Chicken Feet"
 63
 00:02:39,560 --> 00:02:41,720
 # 又出来一种柱候酱
-Recently, there is another Chu Hou paste.
+I know another paste - Chu Hou paste.
 
 64
 00:02:41,720 --> 00:02:43,720
@@ -337,7 +339,7 @@ And how to use it?
 66
 00:02:44,680 --> 00:02:46,680
 # 北方我们常见的就是一个黄酱
-The most popular yellow soyabean paste is from north.
+In northern china, the most common paste is yellow soybean sauce.
 
 67
 00:02:46,680 --> 00:02:48,240
@@ -357,17 +359,17 @@ Also made in Shandong.
 70
 00:02:50,640 --> 00:02:52,400
 # 主要在华北地区这一带
-Mainly in greater northern region.
+Mainly in the greater northern region.
 
 71
 00:02:52,400 --> 00:02:54,400
 # 黄酱味道也不同
-However, the yellow soyabean paste has various flavour.
+However, yellow soybean paste has various flavour.
 
 72
 00:02:54,400 --> 00:02:56,520
 # 另外现在出现了一些黄豆酱
-Nowadays, there is a different kind of soyabean sauce.
+Nowadays, there is a different kind of soybean sauce.
 
 73
 00:02:56,520 --> 00:02:58,640
@@ -382,7 +384,7 @@ Not so heavy.
 75
 00:03:00,200 --> 00:03:01,680
 # （但是）颗颗粒粒
-(but) coarse texture wise.
+(but) has a coarse texture.
 
 76
 00:03:01,680 --> 00:03:02,720
@@ -392,7 +394,7 @@ You can see individual yellow soyabean.
 77
 00:03:02,720 --> 00:03:03,960
 # 还有甜面酱
-Also, ‘Tian Mian Jiang’- fermented flour paste.
+Also, ‘Tian Mian Jiang’- sweet wheat paste
 
 78
 00:03:03,960 --> 00:03:05,320
@@ -407,35 +409,35 @@ Shredded pork in Peking sauce.
 80
 00:03:06,600 --> 00:03:08,360
 # 炒一些菜
-
+When you stir fry something,
 81
 00:03:08,360 --> 00:03:09,440
 # 加点甜面酱
-Add a little ‘Tian Mian Jiang’ in some stir fries.
+add a little ‘Tian Mian Jiang’ in.
 
 82
 00:03:09,440 --> 00:03:12,600
 # 所有的酱在运用当中
-
+All the pastes
 83
 00:03:12,600 --> 00:03:14,280
 # 要灵活要巧妙
-Use various paste smartly in cooking.
+need to be used smartly in cooking.
 
 84
 00:03:14,280 --> 00:03:18,800
 # 你看二伯炸了一个牛肉蘑菇酱
-For example,
+For example, Er Bai's Beef and Mushroom sauce recipe,
 
 85
 00:03:18,800 --> 00:03:22,520
 # 他就巧用了我们北方的蒜蓉辣酱
-Er Bai used Northerners’ garlic and chilli paste cleverly in Beef and Mushroom sauce recipe.
+he used cleverly to combine Northerners’ garlic and chilli paste,
 
 86
 00:03:22,520 --> 00:03:26,600
 # 甜面酱和黄酱 巧妙的结合
-Wonderful combination of ‘Tian Mian Jiang’ and yellow soyabean paste.
+‘Tian Mian Jiang’ and yellow soyabean paste. Wonderful combination.
 
 87
 00:03:26,600 --> 00:03:29,760
@@ -470,7 +472,7 @@ Your sauce must be fragrant, moist,
 93
 00:03:41,360 --> 00:03:42,720
 # 有味道
-And flavoursome.
+And flavourful.
 
 94
 00:03:42,720 --> 00:03:43,920
@@ -490,7 +492,7 @@ There is no particular standard.
 97
 00:03:46,880 --> 00:03:49,960
 # 除了北方的酱 菜的酱的
-In spite of the pastes produced in northern region,
+Beside the pastes produced in northern region,
 
 98
 00:03:49,960 --> 00:03:51,280
@@ -500,12 +502,12 @@ Overall
 99
 00:03:51,280 --> 00:03:52,720
 # 还是以粤菜为主
-The most varieties of paste can be seen in Guangdong cuisine.
+Cantonese cuisine has the most varieties of pastes.
 
 100
 00:03:52,720 --> 00:03:54,400
 # 不光有煲仔酱
-Not only seafood sauce,
+Not only has clay pot sauce,
 
 101
 00:03:54,400 --> 00:03:55,600
@@ -550,16 +552,16 @@ Nearly 20 varieties.
 109
 00:04:03,960 --> 00:04:04,720
 # 我们的菜系
-
+Our cuisine
 110
 00:04:04,720 --> 00:04:06,120
 # 跟粤菜的菜系出来那个酱
-Different cuisine has different flavour.
+are different from the sauce used in Cantonese cuisine. 
 
 111
 00:04:06,120 --> 00:04:07,360
 # 比如说做一个八珍豆腐坡
-
+For example, making "Bazhen Tofu in casserole“
 112
 00:04:07,360 --> 00:04:08,880
 # 它那种柱候酱
@@ -568,11 +570,11 @@ Using Chu Hou paste as an example,
 113
 00:04:08,880 --> 00:04:10,520
 # 那种浓浓的这种香味
-
+the strong fragrance
 114
 00:04:10,520 --> 00:04:13,240
 # 我们别的是替代不了的
-The flavour is irreplaceable when used in a specific dish.
+is irreplaceable with other sauce.
 
 115
 00:04:13,240 --> 00:04:15,680
@@ -597,7 +599,7 @@ The formula is fixed.
 119
 00:04:19,560 --> 00:04:22,640
 # 瑶柱酱都是平的要是一斤都一斤
-
+dried scallop paste all weight the same.
 120
 00:04:22,640 --> 00:04:23,760
 # XO酱爆虾球
@@ -606,7 +608,7 @@ For an example, Quick fried King Prawn with XO sauce.
 121
 00:04:23,760 --> 00:04:24,680
 # 爆螺片
-
+Quick stir fried Slice Whelk. 
 122
 00:04:24,680 --> 00:04:26,160
 # 火候一定要到位
