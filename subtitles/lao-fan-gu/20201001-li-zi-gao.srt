@@ -1,0 +1,635 @@
+# https://youtu.be/aXYJgE0dtNA
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•栗子糕】老饭骨史上最简单的一道菜，栗子糕香、糯、干、甜，新手零失败！酱的知识|老饭骨
+# State Banquet Master Chef - Chestnut pressed-cake. The simplest dish ever.
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 大家好，正逢中秋佳节，老饭骨上次教小友们做了五仁月饼，大家都学会了吗？视频链接：https://youtu.be/04C3ll-BaEw
+# Hello, friends! It’s the time of Mid-Autumn Festival. Have you tried the moon cake recipe we showed you last time? If not, please check out this video: https://youtu.be/04c311-BaEw
+
+# 觉得太难的小友也不要着急，这次给大家带来了一个老饭骨史上最简单的菜品——松仁栗子糕！看了就能学会！
+# 这道松仁栗子糕，香、糯、干、甜，不用蒸不用烤，健康无添加！
+# Don’t worry if you think it was too hard. This time, we will share a simplest dish ever made – Mixed Chestnut and Pine Nut pressed-cake! It’s so easy to make. It is tasty, soft, fluffy and sweet! There is no need to steam or bake, and it is healthy.
+
+# 不会做月饼的小友们可以试试做这道菜，也非常适合中秋节一家团圆的时候品尝！
+# Give it a try if you are not good at making Moon Cake. Chestnut Pressed-cake is also a traditional mid-autumn Festival delicacy.
+
+# 片尾还有大爷二伯讲解做菜中各种酱的运用，小友们可不要错过咯！
+# At the end of this video, Da Ye and Er Bai talk about the use of different pastes. Don't miss it!
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:02,560
+# 秋天的第一块糕点
+First cake in Autumn.
+
+2
+00:00:02,560 --> 00:00:04,520
+# 什么都没加 栗子的本味
+Didn't add anything else, only the natural flavour of chestnut.
+
+3
+00:00:04,520 --> 00:00:07,240
+# 大爷不用我管您就吃上了 好吃
+Da Ye, that’s right, just help yourself. Yummy!
+
+4
+00:00:08,040 --> 00:00:10,160
+# 您得一块儿搁嘴里头
+You got to eat it in one go.
+
+5
+00:00:10,160 --> 00:00:11,680
+# 您看看它干甜不干甜
+Sweet or not, try it yourself.
+
+6
+00:00:11,680 --> 00:00:15,560
+
+7
+00:00:15,560 --> 00:00:18,600
+# 凉水下锅 四十分钟捞出来 剥了它
+Peel off their shells after total 40 mins boiling time.
+
+8
+00:00:19,600 --> 00:00:21,920
+# 拿过生栗子来给它铰个口
+Don’t forget open an end on each chestnut before cooking.
+
+9
+00:00:21,920 --> 00:00:24,520
+# 到时候好剥皮 行了这就知道了
+So, it is easier to peel. I see.
+
+10
+00:00:24,520 --> 00:00:28,000
+# 把它剥出来 很面啊
+Take it out. So soft.
+
+11
+00:00:28,000 --> 00:00:32,640
+# 我把它捣碎一下 这么一碾
+Ground them in a mortar.
+
+12
+00:00:32,640 --> 00:00:35,360
+# 基本捣的差不多了
+Nearly done.
+
+13
+00:00:35,360 --> 00:00:37,520
+# 行了我过箩
+Ok. Press through the sieve.
+
+14
+00:00:37,520 --> 00:00:40,520
+# 我这还有点 提前我给你弄出来的
+I also prepared some for you earlier.
+
+15
+00:00:40,520 --> 00:00:42,040
+# 你师父太伟大了
+Your master is a great guy.
+
+16
+00:00:42,040 --> 00:00:44,200
+# 你看见没有 过箩就非常细
+See? It’s so fine after sieving.
+
+17
+00:00:44,200 --> 00:00:46,640
+# 你再看看这个 全是颗粒
+Look at those, still coarse.
+
+18
+00:00:46,640 --> 00:00:48,200
+# 为什么说要过箩啊
+That’s why using sieve.
+
+19
+00:00:48,200 --> 00:00:52,320
+# 就是拿勺碾压 秋天吃这个正好
+Use spoon to press. Perfect season for this delicacy.
+
+20
+00:00:52,320 --> 00:00:56,560
+# 好了 够了这不要了
+That’s enough. Thank you.
+
+21
+00:00:56,560 --> 00:00:59,240
+# 看看这个大爷 非常细腻
+Look, Da Ye. So fine.
+
+22
+00:00:59,240 --> 00:01:02,040
+# 往这里边加上松子仁 搁一块
+Mix with pine nuts.
+
+23
+00:01:02,040 --> 00:01:04,520
+# 这松子仁事先要炸一下吗 炸一下
+Do you need to deep fry the pine nuts beforehand? Yes.
+
+24
+00:01:04,520 --> 00:01:05,040
+# 糖桂花
+Add osmanthus sugar syrup.
+
+25
+00:01:05,040 --> 00:01:07,600
+# 松子仁炸到一上色就赶紧出来
+Take the pine nuts out as soon as they change colour when you deep frying.
+
+26
+00:01:07,600 --> 00:01:09,480
+# 松子仁生的都好吃
+Even raw pine nuts are nice to eat.
+
+27
+00:01:09,480 --> 00:01:11,360
+# 稍微一炸就行
+Just quickly fry them.
+
+28
+00:01:11,360 --> 00:01:14,880
+# 拌成这种 绿豆糕似的那种形式
+Mix them and the texture should look like mung bean cake mix.
+
+29
+00:01:14,880 --> 00:01:16,360
+
+30
+00:01:17,920 --> 00:01:20,640
+# 这个不能使劲压
+Don’t press it too hard.
+
+31
+00:01:21,680 --> 00:01:24,360
+# 它才有栗子这种干松劲儿
+So, it retains fluffiness.
+
+32
+00:01:24,360 --> 00:01:26,120
+# 这个做法其实还是很简单
+Actually, the technique is very simple.
+
+33
+00:01:26,120 --> 00:01:30,080
+# 轻轻一压 一提
+Gentle press, then lift.
+
+34
+00:01:30,080 --> 00:01:31,760
+# 这不就是栗子糕就出来了
+Here it is. A Chestnut and Pine Nut pressed-cake!
+
+35
+00:01:31,760 --> 00:01:34,400
+
+36
+00:01:34,400 --> 00:01:36,840
+# 大爷你看栗子糕
+Da Ye, look, a Chestnut Pressed cake.
+
+37
+00:01:36,840 --> 00:01:39,040
+# 什么季节吃什么东西
+Seasonal recipe uses seasonal food.
+
+38
+00:01:39,040 --> 00:01:40,800
+# 这不就是时令的
+Perfect season for this.
+
+39
+00:01:40,800 --> 00:01:44,960
+# 家里尤其有小朋友 多有成就感
+Don’t you feel a sense of achievement, particularly in front of the kids?
+
+40
+00:01:44,960 --> 00:01:48,120
+# 这个为什么叫栗子糕
+Why is it called Chestnut pressed cake？
+
+41
+00:01:48,120 --> 00:01:50,440
+# 它有栗子这种干松劲儿
+Because it remains the fluffiness of Chestnuts.
+
+42
+00:01:50,440 --> 00:01:53,240
+# 大爷不用我管您都吃上了 好吃
+Da Ye, that’s right. Just help yourself. Tasty!
+
+43
+00:01:53,880 --> 00:01:55,640
+# 大爷吃完了说两句吧
+What do you think, Da Ye?
+
+44
+00:01:56,960 --> 00:01:59,920
+# 干 就一个字 干
+Dry. One word. Dry!
+
+45
+00:01:59,920 --> 00:02:02,040
+# 香 糯 干 甜
+Fragrant, soft, dry and sweet.
+
+46
+00:02:02,040 --> 00:02:04,040
+# 什么都没加 栗子的本味
+Chestnuts’ natural flavour. Nothing added.
+
+47
+00:02:04,040 --> 00:02:05,840
+# 完全完全都是原生态
+Completely natural.
+
+48
+00:02:05,840 --> 00:02:08,560
+# 我建议 在增加口感这方面
+I suggest adding something to improve the texture.
+
+49
+00:02:08,560 --> 00:02:10,400
+# 略微的拌一点砂糖
+Mix in a little bit of sugar.
+
+50
+00:02:10,400 --> 00:02:11,880
+# 主要要增加一个
+Mainly to add
+
+51
+00:02:11,880 --> 00:02:14,120
+# 砂糖那种脆脆的口感
+crunchiness.
+
+52
+00:02:15,080 --> 00:02:17,120
+# 应季美食 又是文化的传承
+Seasonal delicacy. Also, a part of culture heritage.
+
+53
+00:02:18,600 --> 00:02:19,160
+# 牛
+Awesome.
+
+54
+00:02:19,160 --> 00:02:19,560
+
+55
+00:02:19,560 --> 00:02:22,040
+
+56
+00:02:28,560 --> 00:02:29,640
+# 好开始 有网友问
+Let’s get started. Some people ask.
+
+57
+00:02:29,640 --> 00:02:31,000
+# 想听两位大师
+(I) would like two masters
+58
+00:02:31,000 --> 00:02:33,400
+# 讲讲各种酱的专题知识
+to take about different kinds of pastes.
+
+59
+00:02:33,400 --> 00:02:34,880
+# 括弧在我的观念里
+In my memory,
+
+60
+00:02:34,880 --> 00:02:36,840
+# 只有二伯做炸酱的时候
+only know that when Er Bai making the fried sauce
+61
+00:02:36,840 --> 00:02:37,800
+# 使用的三种酱
+those three types of pastes he used. 
+
+62
+00:02:37,800 --> 00:02:39,560
+# 最近看虎皮鸡爪
+Recently, I watched "Tiger Skin Chicken Feet"
+63
+00:02:39,560 --> 00:02:41,720
+# 又出来一种柱候酱
+I know another paste - Chu Hou paste.
+
+64
+00:02:41,720 --> 00:02:43,720
+# 想知道各中区别
+What is the difference?
+
+65
+00:02:43,720 --> 00:02:44,680
+# 用处是什么
+And how to use it?
+
+66
+00:02:44,680 --> 00:02:46,680
+# 北方我们常见的就是一个黄酱
+In northern china, the most common paste is yellow soybean sauce.
+
+67
+00:02:46,680 --> 00:02:48,240
+# 北京产的天津产的
+Made in Beijing or Tianjin.
+
+68
+00:02:48,240 --> 00:02:49,240
+# 还有东北产的
+And from north east of China.
+
+69
+00:02:49,240 --> 00:02:50,640
+# 还有山东产的
+Also made in Shandong.
+
+70
+00:02:50,640 --> 00:02:52,400
+# 主要在华北地区这一带
+Mainly in the greater northern region.
+
+71
+00:02:52,400 --> 00:02:54,400
+# 黄酱味道也不同
+However, yellow soybean paste has various flavour.
+
+72
+00:02:54,400 --> 00:02:56,520
+# 另外现在出现了一些黄豆酱
+Nowadays, there is a different kind of soybean sauce.
+
+73
+00:02:56,520 --> 00:02:58,640
+# 颜色比较暗 浅
+Darker colour, light in texture.
+
+74
+00:02:58,640 --> 00:03:00,200
+# 不是那么厚重
+Not so heavy.
+
+75
+00:03:00,200 --> 00:03:01,680
+# （但是）颗颗粒粒
+(but) has a coarse texture.
+
+76
+00:03:01,680 --> 00:03:02,720
+# 都能见到黄豆
+You can see individual yellow soyabean.
+
+77
+00:03:02,720 --> 00:03:03,960
+# 还有甜面酱
+Also, ‘Tian Mian Jiang’- sweet wheat paste
+
+78
+00:03:03,960 --> 00:03:05,320
+# 像我们吃烤鸭
+Used in Peking Duck.
+
+79
+00:03:05,320 --> 00:03:06,600
+# 京酱肉丝
+Shredded pork in Peking sauce.
+
+80
+00:03:06,600 --> 00:03:08,360
+# 炒一些菜
+When you stir fry something,
+81
+00:03:08,360 --> 00:03:09,440
+# 加点甜面酱
+add a little ‘Tian Mian Jiang’ in.
+
+82
+00:03:09,440 --> 00:03:12,600
+# 所有的酱在运用当中
+All the pastes
+83
+00:03:12,600 --> 00:03:14,280
+# 要灵活要巧妙
+need to be used smartly in cooking.
+
+84
+00:03:14,280 --> 00:03:18,800
+# 你看二伯炸了一个牛肉蘑菇酱
+For example, Er Bai's Beef and Mushroom sauce recipe,
+
+85
+00:03:18,800 --> 00:03:22,520
+# 他就巧用了我们北方的蒜蓉辣酱
+he used cleverly to combine Northerners’ garlic and chilli paste,
+
+86
+00:03:22,520 --> 00:03:26,600
+# 甜面酱和黄酱 巧妙的结合
+‘Tian Mian Jiang’ and yellow soyabean paste. Wonderful combination.
+
+87
+00:03:26,600 --> 00:03:29,760
+# 加上调味当中的这种变化
+Together with seasoning.
+
+88
+00:03:29,760 --> 00:03:33,640
+# 加上辅料的这种形成那酱炸出来就好吃
+And other ingredients, forming a delicious sauce.
+
+89
+00:03:33,640 --> 00:03:35,000
+# 有的说老北京的炸酱面
+Some mentioned Zhajiangmian (Fried sauce noodles).
+
+90
+00:03:35,000 --> 00:03:36,120
+# 谁家的正宗
+Who is the most authentic?
+
+91
+00:03:36,120 --> 00:03:38,120
+# 谁家也谈不上什么正宗
+Nobody!
+
+92
+00:03:38,120 --> 00:03:41,360
+# 就是你那酱 炸出来一定要香 润
+Your sauce must be fragrant, moist,
+
+93
+00:03:41,360 --> 00:03:42,720
+# 有味道
+And flavourful.
+
+94
+00:03:42,720 --> 00:03:43,920
+# 喜欢吃这种味
+If you like the taste,
+
+95
+00:03:43,920 --> 00:03:45,480
+# 这个酱就是好
+Then, it is a nice sauce.
+
+96
+00:03:45,480 --> 00:03:46,880
+# 没有什么特殊的标准
+There is no particular standard.
+
+97
+00:03:46,880 --> 00:03:49,960
+# 除了北方的酱 菜的酱的
+Beside the pastes produced in northern region,
+
+98
+00:03:49,960 --> 00:03:51,280
+# 全面性
+Overall
+
+99
+00:03:51,280 --> 00:03:52,720
+# 还是以粤菜为主
+Cantonese cuisine has the most varieties of pastes.
+
+100
+00:03:52,720 --> 00:03:54,400
+# 不光有煲仔酱
+Not only has clay pot sauce,
+
+101
+00:03:54,400 --> 00:03:55,600
+# 柱侯酱
+Chu Hou paste,
+
+102
+00:03:55,600 --> 00:03:56,360
+# 海鲜酱
+Hoisin sauce,
+
+103
+00:03:56,360 --> 00:03:57,000
+# 排骨酱
+Spare rib sauce,
+
+104
+00:03:57,000 --> 00:03:58,360
+# 沙爹酱 沙茶酱
+Satay sauce, Sa Cha sauce,
+
+105
+00:03:58,360 --> 00:03:59,240
+# XO酱等等
+XO sauce and so on.
+
+106
+00:03:59,240 --> 00:04:01,240
+# 吃烧腊就柱候酱
+Roasting dishes use Chu Hou sauce.
+
+107
+00:04:01,240 --> 00:04:02,640
+# 它每个酱的用途不一样
+Different sauce has different usage.
+
+108
+00:04:02,640 --> 00:04:03,960
+# 将近有二十来种
+Nearly 20 varieties.
+
+109
+00:04:03,960 --> 00:04:04,720
+# 我们的菜系
+Our cuisine
+110
+00:04:04,720 --> 00:04:06,120
+# 跟粤菜的菜系出来那个酱
+are different from the sauce used in Cantonese cuisine. 
+
+111
+00:04:06,120 --> 00:04:07,360
+# 比如说做一个八珍豆腐坡
+For example, making "Bazhen Tofu in casserole“
+112
+00:04:07,360 --> 00:04:08,880
+# 它那种柱候酱
+Using Chu Hou paste as an example,
+
+113
+00:04:08,880 --> 00:04:10,520
+# 那种浓浓的这种香味
+the strong fragrance
+114
+00:04:10,520 --> 00:04:13,240
+# 我们别的是替代不了的
+is irreplaceable with other sauce.
+
+115
+00:04:13,240 --> 00:04:15,680
+# 你包括每个酱的配比
+Every paste has proportionated ingredients
+
+116
+00:04:15,680 --> 00:04:17,160
+# 它都是有方的
+It is based on formulas.
+
+117
+00:04:17,160 --> 00:04:18,400
+# 然后炒这些东西
+Then you stir fry with the paste.
+
+118
+00:04:18,400 --> 00:04:19,560
+# 这是死的酱方
+The formula is fixed.
+
+119
+00:04:19,560 --> 00:04:22,640
+# 瑶柱酱都是平的要是一斤都一斤
+dried scallop paste all weight the same.
+120
+00:04:22,640 --> 00:04:23,760
+# XO酱爆虾球
+For an example, Quick fried King Prawn with XO sauce.
+
+121
+00:04:23,760 --> 00:04:24,680
+# 爆螺片
+Quick stir fried Slice Whelk. 
+122
+00:04:24,680 --> 00:04:26,160
+# 火候一定要到位
+The heat must be powerful enough.
+
+123
+00:04:26,160 --> 00:04:27,760
+# 所以说用酱的话
+Therefore, the point of using those pastes is…
+
+124
+00:04:27,760 --> 00:04:28,800
+# 最主要的目的是
+The most important point is that
+
+125
+00:04:28,800 --> 00:04:32,400
+# 不管用什么酱都是 增香 增味 增稠
+They enhance the flavour and taste.
+
+126
+00:04:32,400 --> 00:04:33,480
+# 好
+Great!
