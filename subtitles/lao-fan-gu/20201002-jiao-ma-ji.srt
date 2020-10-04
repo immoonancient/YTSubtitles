@@ -1,15 +1,15 @@
 # https://youtu.be/nqHMWAbLldU
 
-# ok bot, please upload
-# --------------------------
+# 标题
 # 【国宴大师•椒麻鸡】地道乐山椒麻鸡，麻辣爽口、肉嫩多汁！煮鸡调味有诀窍！泡菜的吃法|老饭骨
 # State Banquet Master Chef-Spicy Chicken with Sichuan Pepper. Spicy, Fresh, Juicy, Tender!
+
+# 简介
 
 # 大家好，周一又要开启新一周的忙碌了，老饭骨这次为大家带来一道超级开胃的家常菜，地道的乐山椒麻鸡，吃了这个鸡，一周都动力满满！
 # 这道菜做法简单，但是从煮鸡、烫料、调味，这些步骤要注意的知识点还不少！
 # 学会了调料，一通百通，用这个辣椒油去做别的凉拌菜味道也棒极了！
 # 片尾大爷和二伯继续为大家解锁更多泡菜的吃法，喜欢吃泡菜的小友们一定不要错过！
-# Introduction
 # Hello everyone. Monday marks the beginning of a new week. Today we are sharing the recipe of a homestyle local dish from Le Shan. Spicy chicken with Sichuan pepper. We are sure that it will “spice up” your motivation for the coming week.
 # Simple as it may look, this dish requires quite some attention in boiling the chicken, preparing the spices and seasoning. Once you master the seasoning of this dish, you can also use the sauce for other cold dishes. Like we always say, master the one to master all!
 # At the end, Da Ye and Er Bai will share different ways to enjoy pickles.
