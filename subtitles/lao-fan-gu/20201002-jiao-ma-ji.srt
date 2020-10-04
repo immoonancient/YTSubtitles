@@ -3,7 +3,7 @@
 # ok bot, please upload
 # --------------------------
 # 【国宴大师•椒麻鸡】地道乐山椒麻鸡，麻辣爽口、肉嫩多汁！煮鸡调味有诀窍！泡菜的吃法|老饭骨
-# [State Banquet Master Chef-Spicy Chicken with Sichuan Pepper] Local delicacy from Le Shan. Spicy! Fresh! Juicy! Tender! Tips for seasoning and cooking chicken, and ways to enjoy different pickles.
+# State Banquet Master Chef-Spicy Chicken with Sichuan Pepper. Spicy, Fresh, Juicy, Tender!
 
 # 大家好，周一又要开启新一周的忙碌了，老饭骨这次为大家带来一道超级开胃的家常菜，地道的乐山椒麻鸡，吃了这个鸡，一周都动力满满！
 # 这道菜做法简单，但是从煮鸡、烫料、调味，这些步骤要注意的知识点还不少！
@@ -13,6 +13,8 @@
 # Hello everyone. Monday marks the beginning of a new week. Today we are sharing the recipe of a homestyle local dish from Le Shan. Spicy chicken with Sichuan pepper. We are sure that it will “spice up” your motivation for the coming week.
 # Simple as it may look, this dish requires quite some attention in boiling the chicken, preparing the spices and seasoning. Once you master the seasoning of this dish, you can also use the sauce for other cold dishes. Like we always say, master the one to master all!
 # At the end, Da Ye and Er Bai will share different ways to enjoy pickles.
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:02,160
@@ -133,7 +135,7 @@ There is a tip in boiling the chicken
 25
 00:00:52,240 --> 00:00:54,600
 # 三上三下
-You first dip it three times like this
+You first dip it in and out three times like this
 
 26
 00:00:54,600 --> 00:00:57,720
@@ -178,7 +180,7 @@ This is popular in my hometown Le Shan
 34
 00:01:12,000 --> 00:01:14,480
 # 家家户户门口都会有一两棵树
-Everyone will grow one or two of the plant at the door
+Everyone will grow one or two trees outside their house, 
 
 35
 00:01:14,480 --> 00:01:16,800
@@ -228,7 +230,7 @@ Let the smoke run out to get rid of the excess smell
 44
 00:01:39,400 --> 00:01:42,720
 # 其实不然 一定要刚好冒烟
-Actually, that’s not totally true. We only need to get the smoke started.
+Actually, that’s not totally true. We only need to heat till it just starts to smoke.
 
 45
 00:01:42,720 --> 00:01:45,160
@@ -291,7 +293,7 @@ The choice of chili peppers is important
 57
 00:02:14,920 --> 00:02:16,280
 # 四川二荆条
-We use the “Erjingtiao” type
+We use the “Erjingtiao” chili pepper from Sichuan
 
 58
 00:02:16,280 --> 00:02:20,400
@@ -321,7 +323,7 @@ That’s one
 63
 00:02:32,480 --> 00:02:35,600
 # 一个是它待会有生菜籽油的香味
-It also adds a layer of aroma
+It also adds a layer of the raw rapeseed aroma
 
 64
 00:02:35,600 --> 00:02:36,880
@@ -727,7 +729,7 @@ That’s pretty much it!
 145
 00:05:59,560 --> 00:06:03,600
 # 好勒 然后再撒一点葱花
-A bit of copped spring onion
+A bit of chopped spring onion
 
 146
 00:06:03,600 --> 00:06:05,720
@@ -750,7 +752,7 @@ There we have it, the Spicy chicken with Sichuan pepper, from Le Shan
 150
 00:06:12,400 --> 00:06:13,640
 # 好了好了不要太多
-OK that’s good enough
+OK that’s enough
 
 151
 00:06:13,640 --> 00:06:15,200
@@ -901,7 +903,7 @@ You can also cook them with meatballs
 181
 00:07:21,120 --> 00:07:22,520
 # 他们淮阳的丸子很嫩
-Like the tender meatballs from Jiangsu
+Like the tender meatballs from Huai Yang
 
 182
 00:07:22,520 --> 00:07:24,280
@@ -951,7 +953,7 @@ Only for Sichuan pickled vegetables
 191
 00:07:44,760 --> 00:07:47,200
 # 明白了 您这有数据
-Right, that is convincing enough.
+Right, you have the data (, so it is convincing).
 
 192
 00:07:47,200 --> 00:07:49,560
