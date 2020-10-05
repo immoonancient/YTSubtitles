@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•回锅肉】一招教你炒出有“灯盏窝”的家常回锅肉！这个味道才最巴适！传统菜品是什么？ |老饭骨
-# [State Banquet Master Chef • Huiguorou (Twice cooked pork)] Teaching you a trick to make Huiguorou with curly pork, this is the best flavour! What are traditional dishes? | Laofangu
+# State Banquet Master Chef - Hui Guo Rou (Twice Cooked Pork). How to Make Pork Curly
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -15,9 +15,11 @@
 
 # Hello everyone, today we are bringing you a homestyle dish – Huiguorou (Twice cooked pork)
 # This dish can be found in every home and varies slightly in families.
-# To create a curled “Deng Zhan Wo”, there are some tricks! This time Da Ye’s disciple Yang Bing will show you all how to cook the most detailed Sichuan style Huiguorou.
+# To create a curled “Deng Zhan Wo”, there are some tricks! This time Da Ye’s disciple Yang Bing will show you all how to cook the most detailed Sichuan style Hui Guo Rou.
 # This dish is appealing in its colour, fine knifework and balanced in flavour, only two words can describe this, Ba Shi ! (Very good)
-# At the end of this video Da Ye and Er Bai will talk about their definition for traditional dishes, inherit without fogyism, innovate with tradition in mind!
+# At the end of this video Da Ye and Er Bai will talk about their definition for traditional dishes - inherit without fogyism, innovate with tradition in mind!
+
+# import intro
 
 # 字幕
 
@@ -54,7 +56,7 @@ This is a cut from the gluteal area and Pixian bean paste, oh I know!
 7
 00:00:13,840 --> 00:00:15,240
 # 回锅肉
-Huiguorou!
+Hui Guo Rou!
 
 8
 00:00:15,240 --> 00:00:18,280
@@ -67,7 +69,7 @@ Today I’ve chosen the most authentic and traditional
 10
 00:00:21,680 --> 00:00:23,600
 # 回锅肉做的 后臀尖
-Huiguorou cooked with a gluteal cut of port
+Huiguorou cooked with a gluteal cut of pork
 
 11
 00:00:23,600 --> 00:00:25,240
@@ -127,7 +129,7 @@ The temperature of this wok shouldn't be too high
 22
 00:00:47,120 --> 00:00:50,880
 # 呲一下之后不扒锅
-After singeing the pork the wok becomes non stick
+After singeing the pork, the wok becomes non stick
 
 23
 00:00:50,880 --> 00:00:54,800
@@ -162,7 +164,7 @@ Scallion, sliced ginger, Huadiao wine
 29
 00:01:05,240 --> 00:01:06,560
 # （开锅）煮十分钟
-(Boiling) Cook for ten minutes
+(Boiling) Cook for ten to twenty minutes
 
 30
 00:01:06,560 --> 00:01:08,480
@@ -171,12 +173,12 @@ Scallion, sliced ginger, Huadiao wine
 31
 00:01:08,480 --> 00:01:10,760
 # 要煮到这个肉有点溏心
-It will be fine in twenty minutes
+Cook till the inside of the pork is still a bit soft
 
 32
 00:01:10,760 --> 00:01:13,760
 # 有点溏心有点硬
-To cook until this meat is a little firm
+A bit soft and a bit hard
 
 33
 00:01:13,760 --> 00:01:15,480
@@ -216,7 +218,7 @@ For one it helps the flavour to get in
 40
 00:01:29,080 --> 00:01:30,960
 # 待会炒的时候它能散开
-Another purpose it so that it disperse when cooked
+Another purpose is to make it separate when cooking
 
 41
 00:01:30,960 --> 00:01:34,400
@@ -251,7 +253,7 @@ Just cut in the middle
 47
 00:01:44,560 --> 00:01:46,120
 # 家庭里面的切法
-How to cut in the family style
+This is the family style of cutting
 
 48
 00:01:46,120 --> 00:01:48,000
@@ -266,12 +268,12 @@ Red (spicy millet), beautiful
 50
 00:01:49,880 --> 00:01:52,360
 # 现在开锅了 把这血沫给它打了
-Now it's boiling, scoop out the blood foam
+Now it's boiling, skim the scum
 
 51
 00:01:52,360 --> 00:01:53,880
 # 这血沫不打的话
-If you don't remove the blood,
+If you don't remove the scum,
 
 52
 00:01:53,880 --> 00:01:55,440
@@ -281,7 +283,7 @@ It sticks on the meat later, dirty
 53
 00:01:55,440 --> 00:01:57,760
 # 花椒放一点
-Put a little Sichuan pepper
+Put a little of Sichuan pepper
 
 54
 00:01:57,760 --> 00:01:58,960
@@ -291,7 +293,7 @@ Put it in at this time
 55
 00:01:58,960 --> 00:02:02,280
 # 如果（早放）打血沫就打走了
-If (put it in early) the pepper will be taken away
+If (put it in early) the pepper will be taken away while you skim the scum
 
 56
 00:02:02,280 --> 00:02:04,440
@@ -429,12 +431,12 @@ Dengzhanwo is rolled up, right after the color comes out
 83
 00:03:03,200 --> 00:03:05,200
 # 直接放点干豆豉就好了
-Just put some dried tempeh
+Just put some Douchi (Chinese fermented black beans)
 
 84
 00:03:07,720 --> 00:03:10,080
 # 香味出来之后放一点甜面酱
-Put a little Tianmianjiang after the aroma comes out
+Put a little Tianmianjiang（sweet wheat paste） after the aroma comes out
 
 85
 00:03:10,080 --> 00:03:13,400
@@ -464,7 +466,7 @@ Just after you can smell the chili flavour
 90
 00:03:26,080 --> 00:03:30,600
 # 放蒜苗的梗 它不是偏厚吗
-The stalk of the garlic seedlings is thicker, isn’t it?
+The stalk of the garlic sprouts is thicker, isn’t it?
 
 91
 00:03:30,600 --> 00:03:33,240
@@ -621,7 +623,6 @@ I can eat in a while
 So fragrant
 
 123
-00:00:00,040 --> 00:00:01,920
 
 124
 00:04:57,320 --> 00:04:58,840
@@ -661,7 +662,7 @@ He can see the problem at a glance
 131
 00:05:08,120 --> 00:05:10,520
 # 我们 跟大爷参加工作
-(From the date) I and Da Ye started working as a chef
+(From the date) Da Ye and I started working as a chef
 
 132
 00:05:10,520 --> 00:05:12,720
@@ -671,7 +672,7 @@ It has been 30, 40 years. Back then those dished
 133
 00:05:12,720 --> 00:05:14,600
 # 包括我们的站姿
-Including out standing posture
+Including our standing posture
 
 134
 00:05:14,600 --> 00:05:18,040
@@ -786,7 +787,7 @@ I don’t want to ruin it on our generation
 156
 00:05:52,440 --> 00:05:54,320
 # 对丢的太多了 不行
-I lost too much, not acceptable
+Right, we lost too much, not acceptable
 
 157
 00:05:54,320 --> 00:05:56,200
@@ -1046,12 +1047,12 @@ To investigate the local customs
 208
 00:07:26,480 --> 00:07:28,520
 # 和人家那边的特产
-And other specialties
+And their specialties
 
 209
 00:07:28,520 --> 00:07:30,880
 # 还要了解人家生活习惯
-Also understand other people's living habits
+Also understand local people's living habits
 
 210
 00:07:30,880 --> 00:07:32,240
@@ -1101,12 +1102,12 @@ Ground beef
 219
 00:07:47,040 --> 00:07:48,680
 # 有的单位可能为了
-Someone may because of
+Someone may because
 
 220
 00:07:48,680 --> 00:07:52,040
 # （嫌）牛肉贵改成猪肉了
-(Think) Beef is expensive then change to pork
+(They think) Beef was expensive then changed to pork
 
 221
 00:07:52,040 --> 00:07:53,440
@@ -1151,7 +1152,7 @@ You see some professional chefs in cooking
 229
 00:08:07,000 --> 00:08:08,720
 # 他那个不叫宫保鸡丁
-He is not called Gongbao Chicken
+He is not called Kung Pao Chicken
 
 230
 00:08:08,720 --> 00:08:11,080
@@ -1181,7 +1182,7 @@ Put some chicken
 235
 00:08:15,360 --> 00:08:17,160
 # 他就叫宫保鸡丁
-His name is Gongbao Chicken
+He call it Kung Pao Chicken
 
 236
 00:08:17,160 --> 00:08:18,360
