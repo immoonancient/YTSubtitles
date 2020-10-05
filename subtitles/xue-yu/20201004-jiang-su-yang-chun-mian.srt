@@ -15,12 +15,12 @@ Xueyu is now in Gaoyou, Yangzhou. Today’s weather is really good.
 3
 00:00:19,040 --> 00:00:24,360
 # 待会呢 我要去吃一碗这边比较特色的早餐 阳春面
-I will have a bowl of special breakfast called Yangchun noodles later
+I will have a bowl of local specialty breakfast called Yangchun noodles later
 
 4
 00:00:24,360 --> 00:00:27,000
 # 阳春面可不是说是高邮独有的
-Yangchun noodles are not unique in Gaoyou
+Yangchun noodles are not unique to Gaoyou
 
 5
 00:00:27,000 --> 00:00:29,880
@@ -35,7 +35,7 @@ Gaoyou’s Yangchun noodles are so famous
 7
 00:00:32,120 --> 00:00:35,280
 # 在做法和味道上 肯定会有自己独特的地方
-So it definitely have it’s own unique way in terms of cook and taste
+So it definitely has its own uniqueness in terms of recipe and taste
 
 8
 00:00:35,280 --> 00:00:37,080
@@ -45,7 +45,7 @@ Let’s check it out
 9
 00:00:46,920 --> 00:00:52,000
 # 看这个搪瓷碗 这家老店的感觉就出来了
-Look at this enamel bowl, it make me feel like a old restaurant
+Look at this enamel bowl, it gives me the feel of an old restaurant
 
 10
 00:00:52,600 --> 00:00:54,840
@@ -60,17 +60,17 @@ The stacked enamel bowls are scattered one by one in the pot
 12
 00:00:59,640 --> 00:01:03,760
 # 这边有两口锅 这口大锅里 每次能放十多个碗
-There is two pots here and there are more than ten bowls in each pot
+There are two pots here and there are more than ten bowls in each pot
 
 13
 00:01:03,760 --> 00:01:06,360
 # 碗漂浮在上面 就像小船一样
-The bowl floats on the pot like a boat
+The bowl floats in the pot like a boat
 
 14
 00:01:06,360 --> 00:01:11,280
 # 然后就在这种飘零的状态下 里面会放上各种的佐料
-There will be various condiments while it in this floating state
+Various condiments will be added while it is in this floating state
 
 15
 00:01:15,320 --> 00:01:17,960
@@ -95,12 +95,12 @@ Yeah, yeah
 19
 00:01:24,240 --> 00:01:27,160
 # 因为澄一下子 它的味道就是不同
-Because it tastes different
+Because it tastes different after heating
 
 20
 00:01:27,160 --> 00:01:31,160
 # 它澄一下的话 味道是浓的
-It taste stronger after
+It taste stronger after heating
 
 21
 00:01:31,160 --> 00:01:35,160
@@ -110,7 +110,7 @@ If you don’t, it will be like this
 22
 00:01:40,040 --> 00:01:44,760
 # 给你看一下 这个是没有澄的
-I will show you, this is before
+I will show you, this is without heating
 
 23
 00:01:45,600 --> 00:01:50,320
@@ -125,7 +125,7 @@ Oh, condiments are mixed
 25
 00:01:54,800 --> 00:01:57,440
 # 对 它的味道也不同
-Yeah, it also taste different
+Yeah, it also tastes different
 
 26
 00:01:59,720 --> 00:02:04,320
@@ -170,7 +170,7 @@ We are talking for very long time until now and I haven’t eaten yet
 34
 00:02:36,360 --> 00:02:39,080
 # 我就点一个大家最常点的阳春面
-I will order the Yang Chun noodles that everyone orders most often
+I will order the Yangchun noodles that everyone orders most often
 
 35
 00:02:39,080 --> 00:02:43,000
@@ -185,17 +185,17 @@ It’s hard to find a seat
 37
 00:02:47,920 --> 00:02:51,640
 # 等了好久才找的这么一个座位坐下
-We just sit after that long time waiting
+We just sat down after waiting for so long
 
 38
 00:02:52,800 --> 00:02:56,560
 # 对比我以前吃的阳春面 都是把面条浸在汤里
-Compared to the Yangchun noodles I had before, they all dip the noodles in the soup
+Compared to the Yangchun noodles I had before, they all soak the noodles in the soup
 
 39
 00:02:56,560 --> 00:02:59,000
 # 它这碗 底料只是浅浅的一层
-There’s just a very thin layer of mixed condiments at the bottom of this bowl
+For this bowl, there’s just a very thin layer of mixed condiments at the bottom of the bowl
 
 40
 00:02:59,000 --> 00:03:01,440
@@ -210,7 +210,7 @@ Like dry mixed noodles
 42
 00:03:13,000 --> 00:03:18,880
 # 它这个面条是又细 又顺滑 还有很大的韧劲
-Its noodles are thin, smoothy and have very tender
+Its noodles are thin, smooth and very al dente
 
 43
 00:03:19,680 --> 00:03:21,680
@@ -230,7 +230,7 @@ You see, there are more people ordering Yangchun noodles in the morning as their
 46
 00:03:37,920 --> 00:03:42,840
 # 逐渐到了中午 到了晚上呢 来点小馄饨的人就更多了
-Gradually it’s noon, and more people come to order small wontons at the night
+Gradually it’s noon, and more people come to order small wontons at night
 
 47
 00:03:42,840 --> 00:03:46,320
@@ -240,7 +240,7 @@ This small wonton was praised by Mr. Wang Zengqi
 48
 00:03:46,840 --> 00:03:49,280
 # 说它家的红汤馄饨 皮薄馅多
-He said its red soup wonton has a thin skin and a lot of stuffing inside
+He said its red soup wonton has a thin skin and a lot of filling inside
 
 49
 00:03:49,280 --> 00:03:52,960
@@ -250,12 +250,12 @@ There are a small amount of bamboo shoots, mushrooms and fungi in the pork filli
 50
 00:03:52,960 --> 00:03:55,720
 # 吃完还会让人满口余香
-After eating, it will leave full of fragrance in your mouth
+After eating, your mouth will still be full of fragrance
 
 51
 00:04:03,560 --> 00:04:08,320
 # 阿姨 您的馄饨已经被写进文章里了 知道吧
-Auntie, your wonton has been written in the article, right?
+Auntie, your wonton has been written into an article, right?
 
 52
 00:04:11,120 --> 00:04:13,600
@@ -285,6 +285,7 @@ I am sixty-five this years old
 57
 00:05:00,640 --> 00:05:05,160
 # 背景音乐：
+BGM
 Visionaries - 浮世绘歌舞升平
 三澤康広 - つんつんけんけん
 Deep East Music - Made This To Lift You
@@ -293,4 +294,5 @@ Fresh_Fallen_Snow11
 58
 00:05:05,160 --> 00:05:08,200
 # 关 注
-雪 鱼  探 店
+# 雪 鱼  探 店
+Please subscribe
