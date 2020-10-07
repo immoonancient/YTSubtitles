@@ -2,17 +2,18 @@
 
 # 标题
 # 【国宴大师•烂肉面】家常面条豪横吃法烂肉面，一碗管饱，还原老舍《茶馆》中的经典美味！ |老饭骨
-
+State Banquet Master Chef - Pulled Pork Noodle. The classic taste of Lao She's "Teahouse"
 # 简介
 
 # 小友们好！咱们又见面了！今天二伯为大家带来一道老舍《茶馆》中的经典美味——烂肉面！
 # 这烂肉面做法简单家常，打卤料足，有猪棒骨、腔骨、猪骨头、干香菇、干口蘑、木耳等，一碗就能管饱！
 # 今天片尾除了介绍芹菜的各种吃法，还有超多大爷二伯的彩蛋，大家千万不要错过哦！
-# 【The State Banquet Master Chef - Rotten Pork Noodles】 Home-made noodles with rotten pork, full with one bowl, restore the classic taste of Lao She's "Teahouse"! |The old rice bones.
 # INTRODUCTION
-# Hello, friends! Here we are again! Today Er Bai brings you a classic dish from Lao She's "Teahouse" - rotten pork noodles!
-# This rotten pork noodle is simple, with plenty of marinade ingredients, including pork rod bones, pork bones, dried shiitake, dried mushrooms, wood fungus and more, you will be full with one bowl!
-# In addition to the various ways to eat celery at the end of today's film, there's also a superb number of bonuses for Da Ye and Er Bai, so don't miss it!
+# Hello, friends! Here we are again! Today Er Bai brings you a classic dish from Lao She's "Teahouse" - pulled pork noodles!
+# This pulled pork noodle is simple, with plenty of marinade ingredients, including pork leg bones, breast bone, other pork bones, dried shiitake, dried mushrooms, woodear fungus and more, you will be full with one bowl!
+# In addition to the various ways to eat celery at the end of today's film, there's also a lot of fun moments for Da Ye and Er Bai, so don't miss it!
+
+# import intro
 
 # 字幕
 
@@ -24,7 +25,7 @@ There are bones, there are heads of meat.
 2
 00:00:02,440 --> 00:00:05,320
 # 边角料 腔骨还有棒骨 什么都有
-Trimmings, bones, rods, everything.
+Trimmings, bones, leg bones, everything.
 
 3
 00:00:05,320 --> 00:00:07,080
@@ -34,7 +35,7 @@ They are what's left over from cooking.
 4
 00:00:07,080 --> 00:00:10,040
 # 黄花 干口蘑 木耳 香菇
-Daylily Dried mushrooms, dried fungus, shiitake
+Daylily, Dried mushrooms, dried fungus, shiitake
 
 5
 00:00:10,040 --> 00:00:10,800
@@ -54,7 +55,7 @@ What kind of noodles?
 8
 00:00:14,120 --> 00:00:15,240
 # 烂肉面
-Rotten meat noodles
+Pulled meat noodles
 
 9
 00:00:15,240 --> 00:00:18,480
@@ -62,7 +63,7 @@ Rotten meat noodles
 10
 00:00:19,160 --> 00:00:21,520
 # 我第一次知道烂肉面
-First time I knew rotten meat noodles
+First time I knew pulled meat noodles
 
 11
 00:00:21,520 --> 00:00:24,600
@@ -105,12 +106,12 @@ Put up a shed, set up two tables and that’s enough to sell noodles.
 19
 00:00:39,480 --> 00:00:41,480
 # 咱把这改一下刀 小魏
-Let’s cut it here, Wei
+Let’s cut it here, Xiao Wei
 
 20
 00:00:41,480 --> 00:00:43,080
 # 今天咱这是提升版了师父
-Today we have an upgrade, Master.
+Today we have an upgrade version, Master.
 
 21
 00:00:43,080 --> 00:00:44,160
@@ -160,7 +161,7 @@ Huangjiu rice wine. That’s all!
 30
 00:01:04,120 --> 00:01:06,640
 # 高压锅压吧 因为时间的问题
-Considering time, let’s use pressure pot.
+Considering time, let’s use pressure cooker.
 
 31
 00:01:06,640 --> 00:01:09,520
@@ -170,7 +171,7 @@ It's the one that will fill you up and satisfy your cravings
 32
 00:01:09,520 --> 00:01:11,280
 # 其实烂肉面白煮也行
-Actually, the rotten meat noodles can be cooked in plain water.
+Actually, the pulled pork noodles can be cooked in plain water.
 
 33
 00:01:11,280 --> 00:01:13,360
@@ -208,7 +209,7 @@ I want the aroma of pepper oil
 40
 00:01:28,120 --> 00:01:31,960
 # 打卤面 这面那面 它离不开这个
-The noodles can’t separate from it.
+The noodles can’t without it.
 
 41
 00:01:31,960 --> 00:01:34,280
@@ -256,7 +257,7 @@ Finish!
 50
 00:01:56,680 --> 00:01:59,160
 # 熟了 这可烂乎啊师父
-It's done. It's rotten, Master
+It's done. It's very soft, Master
 
 51
 00:01:59,160 --> 00:02:03,360
@@ -266,7 +267,7 @@ This meat is really good. It's delicious, Master.
 52
 00:02:03,360 --> 00:02:05,720
 # 你看一抖落就下来了 特别烂乎
-Look at the way it came off. It's so rotten.
+Look at the way it came off. It's so soft.
 
 53
 00:02:06,880 --> 00:02:08,960
@@ -276,7 +277,7 @@ Leave it here.
 54
 00:02:08,960 --> 00:02:11,400
 # 花椒油 先煸葱花呗师父
-Sichuan peppercorn oil. Stir in the onion first
+Sichuan peppercorn oil. Stir in the green onion first
 
 55
 00:02:11,400 --> 00:02:14,040
@@ -350,12 +351,12 @@ Add some white pepper.
 70
 00:02:49,840 --> 00:02:51,800
 # 今儿这汤 鲜味十足
-Today’s soup has much umami taste
+Today’s soup has strong umami taste
 
 71
 00:02:51,800 --> 00:02:53,440
 # 把拆骨肉搁进去
-then add the separated meat in it.
+then add the pulled pork in it.
 
 72
 00:02:53,440 --> 00:02:55,720
@@ -370,7 +371,7 @@ Okay, noodles are almost ready
 74
 00:02:59,120 --> 00:03:00,440
 # 烂肉面
-Rotten meat noodles
+Pulled pork noodles
 
 75
 00:03:00,440 --> 00:03:02,800
@@ -385,7 +386,7 @@ You need to balance.
 77
 00:03:04,040 --> 00:03:07,800
 # 面也好了 豪华版烂肉面
-The noodles are ready. The superb rotten meat noodles.
+The noodles are ready. The superb pulled pork noodles.
 
 78
 00:03:07,800 --> 00:03:09,440
@@ -398,7 +399,7 @@ Time to enjoy it!
 80
 00:03:11,640 --> 00:03:14,640
 # 真是烂肉 一碗烂肉面出锅了
-How rotten it is!
+How soft it is!
 
 81
 00:03:14,640 --> 00:03:15,560
@@ -406,7 +407,7 @@ How rotten it is!
 82
 00:03:15,560 --> 00:03:16,360
 # 你得忒儿喽
-The rotten meat noodles is ready! So good!
+The pulled pork noodles is ready! So good!
 
 83
 00:03:16,360 --> 00:03:18,200
@@ -414,7 +415,7 @@ The rotten meat noodles is ready! So good!
 84
 00:03:18,200 --> 00:03:22,320
 # 终于吃到《茶馆》里边的烂肉面了
-Finally, the rotten pork noodles from "Teahouse is in my mouth.
+Finally, the pulled pork noodles from "Teahouse is in my mouth.
 
 85
 00:03:22,320 --> 00:03:27,080
@@ -459,12 +460,12 @@ the gentle aroma from Sichuan peppercorn
 93
 00:03:46,200 --> 00:03:50,200
 # 然后用这个再煸葱花煸菌类
-mixed with fried green onion and mushrooms
+then use it to stir fry green onion and mushrooms
 
 94
 00:03:50,200 --> 00:03:52,680
 # 然后淡化花椒油的味 似有似无
-so the aroma of Sichuan pepper is ambiguous
+so the aroma of Sichuan pepper is subtle
 
 95
 00:03:52,680 --> 00:03:55,200
