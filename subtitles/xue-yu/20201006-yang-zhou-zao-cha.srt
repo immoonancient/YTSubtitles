@@ -2,7 +2,7 @@
 
 # 标题
 # 扬州人的精致早茶！大酒店环境人均40元，点一桌吃到中午，老人最爱来
-# Exquisite morning tea for Yangzhou people! 100 kinds of snacks, you can eat till noon
+# Exquisite Yangzhou dim sum! 40 Yuan and you can eat till noon
 
 # 简介
 
@@ -12,13 +12,13 @@
 # 旁边很多大桌都被本地的大爷大妈使用着，和他们一起吃早茶，突然能感觉到扬州人的闲情逸致。
 
 # Locals in Yangzhou recommended dim sum as my breakfast. At 7 o’clock in the morning, I arrived at this restaurant.
-# It is a magnificent building with elegant fixture and fittings. It is already packed with people come for dim sum, and nearly all the tables are full.
+# It is a magnificent building with elegant fixture and fittings. It is already packed with people who came for the dim sum, and nearly all the tables are taken.
 # A waiter greeted me with a warm welcome and found me a table. The table is spotless clean.
-# With more than 100 choices of dim sum, I finally can have anything I want here.
+# With more than 100 choices of dim sum, I can have anything I want here.
 
-# I ordered a crab meat consommé in steamed bun, a steamed bun with three fillings,
-# siu mai with pine nuts, thousand layered cake, dried bean curd threads in consommé and a pot of tea. It only costed me RMB89!
-# There were many old folks having dim sum as their breakfast here. I felt that I shared the same relaxing mentality of Yangzhou people after having my breakfast.
+# I ordered a steamed crab meat soup bun, a steamed bun with three fillings,
+# siu mai with pine nuts, thousand-layer cake, dried bean curd threads in consommé and a pot of tea. It only costed me RMB 89 Yuan!
+# There are many elderly having dim sum as their breakfast here. I felt that I shared the same relaxing mentality of Yangzhou people after having my breakfast next to them.
 
 # 字幕
 
@@ -35,7 +35,7 @@ In Yangzhou, there is a saying ‘
 3
 00:00:09,520 --> 00:00:13,120
 # 这个皮包水 就是指的它的早茶
-This ‘Pi Bao Shui’ (consommé wrapped in pastry) means Dim sum.
+This ‘Pi Bao Shui’ (consommé wrapped in pastry) refers to its Dim sum.
 
 4
 00:00:13,120 --> 00:00:14,400
@@ -45,7 +45,7 @@ Xue Yu is in Yangzhou.
 5
 00:00:14,400 --> 00:00:17,920
 # 怎么能错过扬州这种特色的饮食文化呢
-How can I miss this unique YangZhou food tasting opportunity?
+How can I miss this opportunity to taste the unique YangZhou food?
 
 6
 00:00:17,920 --> 00:00:19,480
@@ -60,7 +60,7 @@ Where is the entrance?
 8
 00:00:43,080 --> 00:00:45,720
 # 到哪里点餐呢    到27号桌点餐
-Where could I place the order? Table number 27 please.
+Where can I place the order? --Directly from table number 27 please.
 
 9
 00:00:56,360 --> 00:00:59,720
@@ -70,7 +70,7 @@ Previous diners just left.
 10
 00:00:59,720 --> 00:01:03,080
 # 桌布还没来得及铺好
-The table is not ready yet.
+The table cloth is not set yet.
 
 11
 00:01:06,360 --> 00:01:07,640
@@ -80,12 +80,12 @@ Is it still early (for dim sum)?
 12
 00:01:07,640 --> 00:01:10,440
 # 很多的老人家都是围坐着一个大桌
-Many old folks sit around a big table.
+Many elderly sit around a big table.
 
 13
 00:01:10,440 --> 00:01:13,000
 # 大家热热闹闹地在这边喝早茶
-They are enjoying dim sum here.
+They are chatting and enjoying dim sum together.
 
 14
 00:01:13,000 --> 00:01:16,960
@@ -95,12 +95,12 @@ They’ve ordered many dim sums. Look at the height of those bamboo steamers.
 15
 00:01:16,960 --> 00:01:20,080
 # 我觉得 他们光吃糕点就能吃到中午
-I guess they don’t need anything else until lunch time.
+I guess they can eat these dim sum until noon.
 
 16
 00:01:20,080 --> 00:01:23,920
 # 因为我是第一次过来 来的时候给了一个小牌子
-Since my first time here, I was given a card.
+This is my first time here. I was given a desk plate when I got here.
 
 17
 00:01:23,920 --> 00:01:27,080
@@ -130,42 +130,42 @@ You cannot use it for breakfast.
 22
 00:01:39,880 --> 00:01:43,120
 # 现在的情况就是我们点了老半天的菜 不上菜
-Now, it’s like nothing have shown up despite we placed an order ages ago.
+Now the situation is that nothing showed up despite we placed our order ages ago.
 
 23
 00:01:43,120 --> 00:01:44,960
 # 我们要再重新下单
-We need to place an order again.
+We need to place the order again.
 
 24
 00:01:44,960 --> 00:01:49,240
 # 而和我们同时来的另一桌  他们已经吃上了
-Another table got their meal already despite we all arrived at the same time.
+The other table got their meal already despite we all arrived at the same time.
 
 25
 00:01:49,240 --> 00:01:51,640
 # 我们点餐的过程很艰难
-Order processing is very slow.
+Our ordering process is complicated.
 
 26
 00:01:51,640 --> 00:01:54,320
 # 现在呢 点了有蒸饺
-Now. Here are steamed dumplings.
+Now, we ordered steamed dumplings.
 
 27
 00:01:54,320 --> 00:01:59,280
 # 蟹黄汤包 他们这边的蟹黄汤包是很出名的 带汤的
-Crab meat consommé in a bun. This place is renowned for this dish. It comes in consommé.
+Crab meat soup bun. This place is renowned for this dish. It comes with consommé inside the bun.
 
 28
 00:01:59,280 --> 00:02:02,960
 # 还有呢 就是松籽烧麦 三丁包 千层油糕
-And, Siu Mai with pine nuts, steamed buns with three fillings, steamed layer cake.
+And Siu Mai with pine nuts, steamed buns with three fillings, thousand-layer cake.
 
 29
 00:02:02,960 --> 00:02:06,880
 # 听说 它这个千层油糕有64层 看一看
-I heard there are 64 layers in steamed layer cake. Take a look.
+I heard there are 64 layers in steamed thousand-layer cake. We will take a look.
 
 30
 00:02:06,880 --> 00:02:10,320
@@ -185,11 +185,12 @@ Well, order is placed.
 33
 00:02:14,480 --> 00:02:16,880
 # 现在是89块钱
-It’s RMB89.
+It’s RMB 89 yuan.
 
 34
 00:02:18,320 --> 00:02:20,280
 # OK了
+OK
 
 35
 00:02:46,040 --> 00:02:49,720
@@ -204,17 +205,17 @@ I ordered a small portion, RMB12.
 37
 00:02:52,280 --> 00:02:56,040
 # 看着就是酱油的颜色 闻着还有香油的味道
-The colour looks like soy sauce. It also smells sesame oil.
+It has the color of soy sauce and the smell of sesame oil.
 
 38
 00:02:56,040 --> 00:02:58,960
 # 看着浓油赤酱的样子 会觉得它很咸
-By the look of it, it may be quite salty.
+Its dark color and thick sauce may make you think it is quite salty.
 
 39
 00:02:58,960 --> 00:03:02,760
 # 尝一尝是不是和自己想的（味道）是一样的
-See what it tastes like…
+Try and see if it tastes as we expected
 
 40
 00:03:13,840 --> 00:03:16,160
@@ -229,12 +230,12 @@ But there is a strong hint of sesame oil.
 42
 00:03:19,360 --> 00:03:22,520
 # 烫干丝啊烫干丝 就是用白豆腐干
-Dried bean curd threads in consommé. It threads white
+Dried bean curd threads in consommé uses white dry bean curd
 
 43
 00:03:22,520 --> 00:03:25,680
 # 切成丝 然后在沸水当中烫完
-dry bean curd, then blanch them in boiling water.
+Shredded it into threads, then blanch them in boiling water.
 
 44
 00:03:25,680 --> 00:03:28,840
@@ -244,12 +245,12 @@ Season with dried shrimps, soy sauce and other ingredients.
 45
 00:03:35,120 --> 00:03:38,400
 # 干丝吃起来是既细又柔软
-Texture is so fine and soft.
+Its texture is fine and soft.
 
 46
 00:03:43,520 --> 00:03:45,680
 # 蟹黄汤包
-Crab meat consommé in a bun.
+Crab meat soup bun.
 
 47
 00:03:49,640 --> 00:03:53,440
@@ -264,7 +265,7 @@ Tap it with a chopstick. There must be consommé inside.
 49
 00:03:56,840 --> 00:04:00,080
 # 里面的汤 很多啊
-So much!
+So much soup!
 
 50
 00:04:00,080 --> 00:04:01,674
@@ -284,7 +285,7 @@ I didn’t do it on purpose. I just want to tap it.
 53
 00:04:10,520 --> 00:04:13,240
 # 正常应该是用吸管 戳个洞
-Usually you use straw to poke a hole,
+Usually you use the straw to poke a hole,
 
 54
 00:04:13,240 --> 00:04:14,880
@@ -294,7 +295,7 @@ then suck the consommé out.
 55
 00:04:14,880 --> 00:04:18,000
 # 但是 我刚才用筷子 我只是想动一动它 然后
-But I only touched it with chopsticks, and
+But I tapped it with chopsticks, and
 
 56
 00:04:18,000 --> 00:04:20,080
@@ -309,12 +310,12 @@ Now, I have to eat it first.
 58
 00:04:25,040 --> 00:04:29,520
 # 哎呀 这么吃着 感觉幸福感就降低了很多
-Hmmm, this way has much less fun of enjoyment.
+Well, much less satisfying eating this way.
 
 59
 00:04:34,320 --> 00:04:39,600
 # 我把吸管插到了汤包的面皮上了 根本就吸不上来
-My straw sticks inside the pastry. I cannot suck it up!
+My straw is stuck inside the pastry. I cannot suck the soup up!
 
 60
 00:04:39,880 --> 00:04:40,880
@@ -324,22 +325,22 @@ This is a disaster!
 61
 00:04:40,880 --> 00:04:46,480
 # 它这个就是鸡汤和蟹黄 融合在一起的感觉
-It feels like the combination of chicken stock and crab meat.
+It tastes like the fusion of chicken consommé and crab meat.
 
 62
 00:04:46,480 --> 00:04:47,672
 # 吃起来有点腥味
-It tastes a bit of fishy.
+It tastes a bit fishy.
 
 63
 00:04:48,120 --> 00:04:50,680
 # 我本来为它准备了很多的台词
-Originally, I had a lot to say.
+Originally, I prepared a lot to say.
 
 64
 00:04:50,680 --> 00:04:53,160
 # 和它搭配着要演很多的戏
-And expect a lot of fun with it.
+And expected a lot of fun acting with it.
 
 65
 00:04:53,160 --> 00:04:56,600
@@ -349,17 +350,17 @@ Now, it is done and dusted.
 66
 00:05:15,680 --> 00:05:19,080
 # 这一拿上来就是能够闻到很重的面香
-The fragrance of steamed flour is so strong.
+Strong fragrance of flour comes with the dish.
 
 67
 00:05:19,080 --> 00:05:22,760
 # 这一笼呢 就是两个千层油糕
-There are two steamed layer cakes in the steamer.
+There are two steamed thousand-layer cakes in the steamer.
 
 68
 00:05:22,760 --> 00:05:25,240
 # 蒸饺 一个单独的豆沙包
-Steamed dumplings. An individual red bean paste bun.
+One steamed dumplings and a red bean paste bun.
 
 69
 00:05:25,920 --> 00:05:28,960
@@ -379,7 +380,7 @@ You can see the gluten rice coming out on the top.
 72
 00:05:33,640 --> 00:05:35,640
 # 这个呢 就是三丁包
-This one is buns with three fillings.
+These two are steamed buns with three fillings.
 
 73
 00:05:35,640 --> 00:05:38,080
@@ -389,7 +390,7 @@ I ordered three fillings instead of five this time.
 74
 00:05:38,080 --> 00:05:43,440
 # 五丁呢 就是在三丁包的基础上会增加虾丁还有参丁
-Five fillings will have additional diced shrimps and sea cucumber.
+Five fillings includes diced shrimps and sea cucumber on top of the three.
 
 75
 00:05:44,520 --> 00:05:48,120
@@ -399,7 +400,7 @@ You can see there are diced chicken, bamboo shoots and pork inside.
 76
 00:05:48,120 --> 00:05:52,840
 # 它的外皮特别暄软 里面的肉汤 已经浸入到面皮当中了
-The bun is extremely soft. The pastry is soaked with juice.
+The shell is extremely soft and fluffy, suffused with juice.
 
 77
 00:05:52,840 --> 00:05:56,200
@@ -419,22 +420,22 @@ There is a coating of sugar and oil mixture between each layer.
 80
 00:06:17,600 --> 00:06:21,800
 # 上面加了一些青红丝 这么点缀着就是更加好看一些
-It is topped with some finely sliced green and red peppers. The dressing makes it more attractive.
+It is topped with some finely sliced green and red preserved fruits. The dressing makes it more attractive.
 
 81
 00:06:26,120 --> 00:06:28,600
 # 糖的味道还是很突出的
-Sugar taste is particularly strong.
+Its sweetness is intense,
 
 82
 00:06:28,600 --> 00:06:32,600
 # 它的甜 没有让你觉得很油腻
-It is sweet, but not sickening.
+but not greasy sweet.
 
 83
 00:06:32,600 --> 00:06:36,680
 # 吃起来也是这种很松软 很暄软的口感
-The feeling is soft and moist.
+The texture is fluffy, soft and moist.
 
 84
 00:06:41,240 --> 00:06:44,200
@@ -454,27 +455,27 @@ You can bite a big chunk off.
 87
 00:07:04,760 --> 00:07:08,600
 # 你看 我今天点的蟹黄汤包 还有三丁包是有点油的
-The crab meat consommé bun and buns with three fillings are savoury.
+The crab meat consommé bun and buns with three fillings are oily.
 
 88
 00:07:08,600 --> 00:07:11,720
 # 而像千层油糕 是有点甜的
-Whereas layered cake is sweet.
+Whereas the layered cake is sweet.
 
 89
 00:07:11,720 --> 00:07:14,160
 # 但不管是油腻 还是甜腻
-Whether it is savoury or sweet,
+Whether it is oily or sweet,
 
 90
 00:07:14,160 --> 00:07:17,080
 # 都可以喝杯茶解腻
-can all be washed done with a cup of cha!
+you can wash it away with a cup of tea!
 
 91
 00:07:18,560 --> 00:07:23,440
 # 还有 我今天来吃早茶的地方 是很金碧辉煌的
-Anyway, I came to a resplendent and magnificent place for dim sum today.
+In addition, the restaurant is a resplendent and magnificent place for dim sum.
 
 92
 00:07:23,440 --> 00:07:26,400
@@ -489,7 +490,7 @@ It was full when I came.
 94
 00:07:28,280 --> 00:07:32,120
 # 不过 如果我们的座位被安排到窗边会更好
-It would be nice if we could sit next to the windows.
+It would be better if we could sit next to the windows.
 
 95
 00:07:32,120 --> 00:07:34,360
@@ -509,12 +510,12 @@ The dining experience would be brilliant!
 98
 00:07:42,640 --> 00:07:46,240
 # 来到扬州的早茶店 我才知道 原来茶叶是可以自带的
-After dim sum, I just realised that I could bring my own tea leaves here.
+I just realized that I could bring my own tea leaves at a Yangzhou dim sum restaurant.
 
 99
 00:07:46,240 --> 00:07:49,640
 # 很多人呢 就是拿着自己的小水杯 里面放着茶叶
-Many diners carry their own little cups with tea leaves inside.
+Many diners bring their own little cups with tea leaves inside.
 
 100
 00:07:49,640 --> 00:07:51,240
@@ -539,10 +540,10 @@ In Yangzhou, you can frequently find a small pond and a small pavilion during yo
 104
 00:08:05,600 --> 00:08:10,600
 # 清水里面有花草 就会显得周围的环境格外雅致
-The flowers and plants in the pond give the surrounding a more elegant feel.
+The flowers and plants in the clear water give the surrounding a very elegant feel.
 
 105
 00:08:20,680 --> 00:08:23,680
 # 关  注
 # 雪 鱼  探 店
-Be sure to follow China Food Travel
+Follow Xueyu's China Food Travel
