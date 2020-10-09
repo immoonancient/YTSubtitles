@@ -2,12 +2,14 @@
 
 # 标题（翻译主要意思即可，不要超过 100 个字符
 # [國宴大師•煎烹鸡肉串】家常版鸡肉串，外焦里嫩、简单健康，有平底锅就能做！\|老飯骨
-# [State Banquet Master Chef] Home cooked pan-fried chicken skewers
+# State Banquet Master Chef - Home cooked pan-fried chicken skewers
 
 # 简介
 
 # 大家好，老饭骨为大家上菜咯！今天带来一道家常版煎烹鸡肉串。除了做鸡肉串，小友们还可以用这个方法做羊肉串、牛肉串、大虾串，一通百通！这样做出来的鸡肉串，外面焦香，鸡肉细嫩；这道菜做法也非常简单，家里有平底锅就能做！这道菜的亮点在辣酱油的香气一直拖着整个菜肴，味道浓郁！小友们快试试看，在家也能快乐地撸串！
-# Hello. Today, we will show you how to do pan fried chicken skewers at home. You can also substitute chicken with lamb, beef, shrimp, and hundreds more.  Pan-fried chicken skewers have a charred and crispy exterior with a moist centre. This simple dish only requires a frying pan! Give it a go and happy ‘Lu Chuan’(Chinese kebab) time!
+# Hello Everyone. Today, we will show you how to make pan fried chicken skewers at home. You can also substitute chicken with lamb, beef, shrimp. Master the one to master all.  Pan-fried chicken skewers have a charred and crispy exterior with a moist centre. This simple dish only requires a frying pan! Give it a go and happy ‘Lu Chuan’(Chinese kebab) time!
+
+# import intro
 
 # 字幕
 
@@ -42,7 +44,7 @@ These are vintage skewers.
 7
 00:00:13,560 --> 00:00:16,440
 # 鸡腿肉 先搁点淀粉上浆了
-Deboned leg of chicken. Mix with some starch first.
+Chicken thigh. Mix with some starch first.
 
 8
 00:00:16,440 --> 00:00:18,600
@@ -87,12 +89,12 @@ Er Bai guessed it right.
 16
 00:00:40,200 --> 00:00:43,120
 # 你看这个鸡丁都是现成的
-Already prepared chicken.
+The chicken has been cut into small pieces.
 
 17
 00:00:43,120 --> 00:00:44,280
 # 我们给它串好了
-Put the chicken on the skewers.
+Skew the chicken.
 
 18
 00:00:44,280 --> 00:00:46,280
@@ -117,7 +119,7 @@ They will be charred and turn into black bits.
 22
 00:00:54,080 --> 00:00:57,200
 # 这是真正传统菜 四五十年了
-This is a real traditional dish, which has a long history of 40 or 50 years.
+This is a real traditional dish, which has a long history around 40 or 50 years.
 
 23
 00:00:57,200 --> 00:00:58,520
@@ -142,7 +144,7 @@ All sorts of ideas for pan-frying.
 27
 00:01:10,680 --> 00:01:13,920
 # 一种像辣酱油的 还有茄汁的
-One uses Worcestershire sauce, or tomato juice, 2
+One uses Worcestershire sauce, or tomato juice
 
 8
 00:01:13,920 --> 00:01:16,920
@@ -215,7 +217,7 @@ The differences are the marinate and raw ingredients.
 42
 00:01:52,200 --> 00:01:55,160
 # 有的是酸辣的 有时候是咸鲜的
-Sometimes it is hot and sour, other times savoury.
+Sometimes it is spicy and sour, other times savoury.
 
 43
 00:01:55,160 --> 00:01:57,960
@@ -406,7 +408,7 @@ Because it (the skewer) is greasy.
 83
 00:03:38,240 --> 00:03:40,120
 # 我们拿锡纸给它包一下把儿
-Let us wrap it with some tin foil.
+Let us wrap the handle with foil.
 
 84
 00:03:40,120 --> 00:03:42,920
