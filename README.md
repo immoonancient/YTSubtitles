@@ -23,7 +23,6 @@
 - [雪鱼探店](https://www.youtube.com/channel/UCwUFx_z61wqMV8zTUVDNV1w)
 - [华农兄弟](https://www.youtube.com/channel/UCjEGRKDfUOel8Hp9Iumw5NQ)
 - [老饭骨](https://www.youtube.com/channel/UCBJmYv3Vf_tKcQr5_qmayXg)
-- [手工耿](https://www.youtube.com/channel/UCEvlIrEAqIfOcvr9Qc8jquw)
 
 如果想翻译别的频道，可以在[这个贴子](https://github.com/immoonancient/YTSubtitles/issues/1063)提名以及投票。
 
