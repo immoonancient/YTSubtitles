@@ -1,9 +1,8 @@
 # https://www.youtube.com/watch?v=MhMvG_ypHfI
 
-# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 标题
 # 【盗月社】北京三环肘子卷饼，脱骨称重再算钱？我不客气了！
-# Pork Knuckle Wraps on Beijing 3rd Ring Road. Weighted and priced after deboning? That's what I'm for!
-# |--------------------------- title should not be longer than this line ----------------------------|
+# Pork Knuckle Wraps on Beijing 3rd Ring Road. Weighted and priced after deboned? That's what I'm for!
 
 # 简介
 
