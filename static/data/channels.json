@@ -32,5 +32,10 @@
     "folder": "shou-gong-geng",
     "label": "手工耿",
     "nicknames": ["耿帅", "刑部尚书"]
+  },
+  {
+    "folder": "dao-yue-she",
+    "label": "盗月社食遇记",
+    "nicknames": ["盗月社"]
   }
 ]
