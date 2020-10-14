@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•大烩菜】简单粗暴家常大烩菜，冬天来一锅，暖暖的很幸福！ |老饭骨
-# [State Banquet Master•Stewed Dishes] Simple and straightforward homemade stewed dishes, a pot in winter, warm and happy! |Lao Fan Gu
+# State Banquet Master - Big Stewed Dishes. Simple and straightforward homemade stewed dishes.
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -11,27 +11,29 @@
 # 北方的小友一定不陌生，各种材料炖一锅，有肉有菜，满满一大锅，冬天来一碗，暖暖的，吃了就热乎，幸福感爆棚！
 # 这大炖菜虽说做法简单，下菜的顺序也有讲究，怎么才能把食材炖得鲜美，激发出食材的香味，小魏师傅在视频里会一步一步教给大家。
 # 最后想问问大家，小魏师傅的“丈母娘”炸丸子小友们吃过吗？
-# Hello, friends, the weather has gradually turned cold recently, and Lao Fan Gu brought you a very simple and straightforward stew.
-# Friends from the north must be familiar with this dish. All kinds of ingredients are stewed in a pot, there are meat and vegetables, and there is a big pot full of them. Have a bowl in winter warms you up and fill you with joy and comfort.
-# Although the preparation of this big stew is simple, the order of cooking ingredients is also important. How to stew the ingredients deliciously and inspire the aroma of the ingredients, Master Wei will teach you step by step in the video.
-# Finally, I would like to ask everyone, have you all eaten Master Wei's meat balls made in his "mother-in-law" style?
+# Hello friends, the weather is getting cold recently, and Lao Fan Gu brought you a very simple and straightforward stew.
+# Friends from the north must be familiar with this dish. All kinds of ingredients are stewed in a big pot, there are meat and vegetables, full of ingredients. Have a bowl in winter warms you up and fills you with joy and comfort.
+# Although the preparation of this big stew is simple, the order of adding ingredients is also important. How to stew the ingredients deliciously and inspire the aroma of the ingredients, Master Wei will teach you step by step in the video.
+# Finally, we would like to ask you, have you eaten Master Wei's meat balls made in his "mother-in-law" style?
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:02,400
 # 豆腐白菜丸子 这菜有食欲
-Tofu and cabbage balls, this dish looks appetizing
+Tofu, cabbage, (meat) balls, this dish looks appetizing
 
 2
 00:00:02,400 --> 00:00:04,320
 # 四季平安 大烩菜
-Four Seasons Stew
+Wish you safe (well) in all four seasons. Big Stew Dish.
 
 3
 00:00:08,760 --> 00:00:11,920
 # 这全乎 还有肉片呢
-This has all, look there is meat
+This has all, look there is sliced pork
 
 4
 00:00:11,920 --> 00:00:13,320
@@ -46,7 +48,7 @@ Stir the meat slices
 6
 00:00:15,680 --> 00:00:18,440
 # 肉片要厚点 五花肉片
-We need thicker meat, pork belly
+The slice pork needs to be thicker, sliced pork belly 
 
 7
 00:00:18,440 --> 00:00:20,960
@@ -61,7 +63,7 @@ Imaging having such a big stew in winter time
 9
 00:00:23,280 --> 00:00:26,400
 # 大料瓣  葱丁下上
-Aniseed   spring onion in
+Star anise, spring onion in
 
 10
 00:00:26,400 --> 00:00:28,600
@@ -96,7 +98,7 @@ This piece is suitable for me, not too thin
 16
 00:00:40,000 --> 00:00:41,920
 # 把这黄花搁进去一块煸一下
-Put this yellow flower in and stir it together
+Put this (dried) yellow flower in and stir it together
 
 17
 00:00:41,920 --> 00:00:43,360
@@ -146,22 +148,22 @@ The order is exquisite, first stir the meat slices to get the aroma
 26
 00:01:10,400 --> 00:01:13,720
 # 然后再煸大料 让料香味出来
-Then stir the aniseed to let the flavor come out
+Then stir the star anise to let the flavor come out
 
 27
 00:01:13,720 --> 00:01:17,720
 # 然后跟着葱姜蒜 黄花木耳西红柿
-Then followed with green onion, ginger, garlic, yellow flower fungus, tomatoes
+Then followed with green onion, ginger, garlic, yellow flower, fungus, tomatoes
 
 28
 00:01:17,720 --> 00:01:19,560
 # 加水 开水
-Add water boiling water
+Add water, boiling water
 
 29
 00:01:20,760 --> 00:01:24,120
 # 红薯粉条来一大锅 这好吃
-Sweet potato vermicelli comes in a big pot, it's delicious
+Add a big portion of sweet potato noodle, it's delicious
 
 30
 00:01:24,120 --> 00:01:27,320
@@ -256,7 +258,7 @@ You are such a good son-in-law
 48
 00:02:15,600 --> 00:02:19,760
 # 把老丈母娘做的手艺给学着了
-I learned the craftsmanship of the old mother-in-law
+learned the dishes from the old mother-in-law
 
 49
 00:02:19,760 --> 00:02:23,640
@@ -271,7 +273,7 @@ No need to leave anything else, you see the viscosity is up
 51
 00:02:26,840 --> 00:02:28,440
 # 而且没有这么腻
-And not so tired
+And not so fatty
 
 52
 00:02:28,440 --> 00:02:29,480
@@ -351,7 +353,7 @@ This meatball is delicious by itself, this stew dish
 67
 00:03:08,680 --> 00:03:10,680
 # 炸豆腐
-fried tofu
+frying tofu
 
 68
 00:03:10,680 --> 00:03:12,760
@@ -371,7 +373,7 @@ Let's make some adjustments on taste at this time
 71
 00:03:15,680 --> 00:03:18,440
 # 加点盐 两勺
-Add some salt spoons
+Add some salt, two spoons
 
 72
 00:03:18,440 --> 00:03:20,560
@@ -421,7 +423,7 @@ Big pot stew, this dish looks so appetising
 81
 00:03:43,120 --> 00:03:45,960
 # 这菜得用砂锅出 砂锅就保温
-This dish has to be made in a clay pot, it keeps
+This dish has to be made in a clay pot, it keeps the heat
 
 82
 00:03:45,960 --> 00:03:48,400
@@ -511,4 +513,4 @@ Four Seasons Ping An Stew
 99
 00:04:35,760 --> 00:04:39,080
 # 这太接地气了 老百姓太喜欢这菜了
-This is so home style. People like this dish so much.
+This is quintessential home cooking. People like this dish so much.
