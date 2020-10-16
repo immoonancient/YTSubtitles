@@ -1,0 +1,501 @@
+# https://youtu.be/Tt959-hPKh0
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•榄菜肉丁长寿果】二伯首创下酒菜，酥脆无比、回味无穷，再来点小酒，绝了！ |老饭骨
+# State Banquet Master Chef - Stir-fry kale borecole with pork and peanuts. 
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 小友们好，又到周一了，该和老饭骨一起来学做饭了！
+# Hello, it's Monday! Time to learn with Lao Fan Gu.
+# 今天二伯带来一道他首创的下酒菜——榄菜肉丁长寿果，这样的做法你一定没见过！
+# Today, Er Bai will teach you a dish that he first introduced: Stir-fry kale borecole with pork and peanuts. I bet you have never seen anything like this before.
+# 这道菜热吃冷吃味道都不错，花生和肉丁的酥脆，口感丰富，搭配榄菜的回香，再来点小酒，绝了！
+# This dish can be eaten either hot or cold, with the crunchy peanuts and crispy pork, as well as the fragrance from the kale borecole. It becomes even better with some liquor.
+# 小友们也可以按照自己的口味在二伯的基础上一通百通，进行创新，期待大家的作品！
+# You can also alter this dish base on your taste, because we can master the one to master all. I am looking forward to seeing your own versions of this dish.
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:02,440
+# 外边没这么做的
+Restaurants cook differently than us.
+
+2
+00:00:02,440 --> 00:00:05,080
+# 既下酒又下饭
+It goes well with both wine and rice.
+
+3
+00:00:05,080 --> 00:00:07,120
+# 榄菜肉丁长寿果
+Stir-fry kale borecole with pork and peanuts.
+
+4
+00:00:09,240 --> 00:00:11,960
+# 你看这花生米 鲜花生剥的
+Look at these. They were peeled from fresh peanuts.
+
+5
+00:00:11,960 --> 00:00:15,360
+# 剥完之后 盐大料花椒粒
+Afterwards, parboil the peanuts with salt, star anise, and Sichuan peppercorn
+
+6
+00:00:15,360 --> 00:00:16,800
+# 煮个十分钟就行了
+for about 10 minutes.
+
+7
+00:00:16,800 --> 00:00:19,040
+# 家里谁都会煮 这也好熟
+It's easy to do at home.
+
+8
+00:00:19,040 --> 00:00:21,000
+# 千万别给他它煮面了
+However, don't overcook the peanuts because they will become mushy
+
+9
+00:00:21,000 --> 00:00:22,080
+# 煮面了就不好吃了
+which taste not as good.
+
+10
+00:00:22,080 --> 00:00:25,440
+# 你再搓一个 小魏你再搓一个
+Try it. Xiao Wei, you can try it also.
+
+11
+00:00:25,440 --> 00:00:27,120
+# 别说师父偏心眼儿啊
+Don't say your master is biased.
+
+12
+00:00:28,040 --> 00:00:29,240
+# 你看这菜很简单
+This dish is simple.
+
+13
+00:00:29,240 --> 00:00:32,120
+# 有榄菜 葱姜蒜 小米辣 鸡蛋
+kale borecole, spring onion & ginger & garlic, "Xiaomila" Chili pepper, and egg.
+
+14
+00:00:32,120 --> 00:00:34,320
+# 通脊肉 现在咱开始腌一下
+Now, let's marinate the pork.
+
+15
+00:00:34,320 --> 00:00:37,600
+# 搁点盐  胡椒粉少许
+Some salt, and a little bit of pepper.
+
+16
+00:00:37,600 --> 00:00:39,520
+# 料酒（黄酒）
+Chinese cooking wine (or Huangjiu Rice Wine).
+
+17
+00:00:40,640 --> 00:00:42,200
+# 行了 你看浆浆
+Okay, it starts to become sticky.
+
+18
+00:00:42,200 --> 00:00:45,080
+# 这香油好在哪 它去腥的
+The good thing about sesame oil is that it removes bad odors.
+
+19
+00:00:45,080 --> 00:00:46,760
+# 这一个蛋清就够多的
+One egg white is enough.
+
+20
+00:00:46,760 --> 00:00:48,400
+# 鲜味汁咱增加点香气
+A little bit of seasoning sauce.
+
+21
+00:00:50,240 --> 00:00:53,920
+# 好了 你看这就行了
+Done.
+
+22
+00:00:53,920 --> 00:00:56,000
+# 小魏你看 粘性抓完了
+Xiao Wei, look at this. After the pork gets sticky,
+
+23
+00:00:56,000 --> 00:00:58,600
+# 蛋清裹上它也嫩
+the egg white will make it even more tender.
+
+24
+00:00:58,600 --> 00:01:01,840
+# 这香味我在这儿都闻着了
+I can smell the fragrance from here.
+
+25
+00:01:01,840 --> 00:01:03,760
+# 淀粉 好了
+Some starch, okay.
+
+26
+00:01:03,760 --> 00:01:06,520
+# 然后咱再封点油 它就酥了
+Finally, let's seal it with some oil, which will make the pork crispy.
+
+27
+00:01:07,280 --> 00:01:09,520
+# 油是起酥的
+Yes, oil makes pork crispy.
+
+28
+00:01:09,520 --> 00:01:10,840
+# 和匀了
+Mix evenly.
+
+29
+00:01:10,840 --> 00:01:14,160
+# 鸡丁 肉丁 虾 鱼丁都可以
+Chicken, pork, shrimp, or even fish all work fine for this dish.
+
+30
+00:01:14,680 --> 00:01:16,120
+# 中国菜就是举一反三
+Master the one to master all is the key for Chinese cooking.
+
+31
+00:01:16,120 --> 00:01:18,480
+# 一个会了 都会
+You learn one and you will learn all.
+
+32
+00:01:18,480 --> 00:01:19,880
+# 这就行了
+Done.
+
+33
+00:01:19,880 --> 00:01:21,640
+# 肉丁我改为炸
+I will instead deep fry the pork.
+
+34
+00:01:21,640 --> 00:01:24,480
+# 炸的口感上它有层次感
+This will enhance the texture.
+
+35
+00:01:24,480 --> 00:01:25,520
+# 这边是酥的
+The pork is crispy,
+
+36
+00:01:25,520 --> 00:01:28,520
+# 这边吃着也是脆的
+while the peanuts are also crunchy.
+
+37
+00:01:28,520 --> 00:01:30,960
+# 两种不同的脆感 有意思
+Two types of texture, very interesting.
+
+38
+00:01:30,960 --> 00:01:34,680
+# 做饭本身就是一种玩 是一种享受
+Cooking is just like playing. It's an enjoyment.
+
+39
+00:01:34,680 --> 00:01:36,680
+# 齐了 油温也上来了
+The oil temperature is coming up.
+
+40
+00:01:38,200 --> 00:01:41,080
+# 六成油温 油温也别太高了
+About 60% is good. Don't go too high.
+
+41
+00:01:41,080 --> 00:01:43,480
+# 瞬间就金黄色
+The pork turns golden immediately.
+
+42
+00:01:43,480 --> 00:01:46,400
+# 差不多熟了 来一个尝尝
+Let's try it.
+
+43
+00:01:48,240 --> 00:01:49,120
+# 铁手
+Iron hand.
+
+44
+00:01:49,720 --> 00:01:50,680
+# 倍儿酥
+So crispy,
+
+45
+00:01:53,200 --> 00:01:54,440
+# 倍儿香
+and tasty.
+
+46
+00:01:54,440 --> 00:01:58,000
+# 蘸点椒盐都好吃 直接吃就行
+You can just eat this with some salt & pepper.
+
+47
+00:01:58,000 --> 00:01:59,040
+# 什么都不蘸就行
+Or even just by itself.
+
+48
+00:01:59,040 --> 00:02:00,760
+# 咱再回下油
+Let's fry it once more.
+
+49
+00:02:05,120 --> 00:02:06,920
+# 这肉一点腥味没有
+No bad odors at all.
+
+50
+00:02:06,920 --> 00:02:10,240
+# 我待会找一小碗兑点汁儿 这就行了
+Now I will make a sauce for this dish.
+
+51
+00:02:10,240 --> 00:02:13,120
+# 鲜味汁
+Seasoning sauce,
+
+52
+00:02:13,120 --> 00:02:16,120
+# 胡椒粉
+pepper,
+
+53
+00:02:16,120 --> 00:02:19,000
+# 料酒（黄酒）来一点就够
+A little bit of Chinese cooking wine (or Huangjiu Rice Wine).
+
+54
+00:02:19,000 --> 00:02:21,200
+# 酱油 来点糖
+Some light soil sauce, and some sugar.
+
+55
+00:02:21,200 --> 00:02:23,760
+# 很简单 这是烹汁是吧 烹汁
+Very simple. This is the cooking sauce.
+
+56
+00:02:23,760 --> 00:02:25,960
+# 点火
+Fire up.
+
+57
+00:02:26,840 --> 00:02:29,720
+# 葱姜蒜 爆香
+Stir fry the spring onion, ginger, and garlic.
+
+58
+00:02:29,720 --> 00:02:31,720
+# 小米辣也搁进去
+Put in the "Xiaomila" Chili pepper in as well.
+
+59
+00:02:33,240 --> 00:02:34,400
+# 香味出来了
+The fragrance is coming out.
+
+60
+00:02:34,400 --> 00:02:38,040
+# 再加上榄菜这种特殊的香味
+Kale borecole also contains a special odor.
+
+61
+00:02:38,040 --> 00:02:40,160
+# 这个（放多少）根据自己的口味
+You can add as much as you want base on your preference.
+
+62
+00:02:40,160 --> 00:02:42,080
+# 然后花生米放进去
+Then, add in the peanuts.
+
+63
+00:02:43,920 --> 00:02:48,600
+# 火再大点 最大了
+Turn up the fire a little more. This is the max.
+
+64
+00:02:48,600 --> 00:02:49,880
+# 没招了
+Can't go any further.
+
+65
+00:02:49,880 --> 00:02:52,000
+# 这大火啪啪啪一收
+Cooking with this high heat,
+
+66
+00:02:52,000 --> 00:02:55,120
+# 绝对香啊 好
+this dish must be good.
+
+67
+00:02:58,040 --> 00:03:01,640
+# 既下酒又下饭 地道
+Goes well with both wine and rice. So authentic.
+
+68
+00:03:01,640 --> 00:03:04,280
+# 榄菜肉丁长寿果
+Stir-fry kale borecole with pork and peanuts.
+
+69
+00:03:04,280 --> 00:03:06,680
+# 你师父怎么琢磨出这么一个菜啊
+I just wonder how did your master come up with this dish (said by Er Bai, the master, himself).
+
+70
+00:03:08,960 --> 00:03:11,440
+# 要不叫您做鱼香肉丝您不做
+Because you won't show us how to make Yuxiang Stir-fry Pork.
+
+71
+00:03:11,440 --> 00:03:14,360
+# 又学一招小亮 是吧
+Xiao Liang, we learned something new from this dish, right?
+
+72
+00:03:14,360 --> 00:03:16,720
+# 先给小亮来 一会还上你那儿去吃肉
+Give Xiao Liang the first bite. Nah I will go to your house for meat later.
+
+73
+00:03:16,720 --> 00:03:19,200
+# 要不然怎么吃肉啊
+I will let you eat first, otherwise you won't give me meat.
+
+74
+00:03:19,200 --> 00:03:20,480
+# 师父再换一把勺
+Let me switch to a new spoon.
+
+75
+00:03:20,480 --> 00:03:22,920
+# 满满的都是爱
+Full of love.
+
+76
+00:03:25,240 --> 00:03:26,520
+# 好吃吧 好吃
+Delicious? So good.
+
+77
+00:03:28,240 --> 00:03:30,080
+# 给你来二两都不够
+Two Liang (100g) will not be enough for me.
+
+78
+00:03:30,080 --> 00:03:33,160
+# 说说吧你们俩人
+Opinions you two?
+
+79
+00:03:33,160 --> 00:03:38,680
+# 师父这菜 榄菜肉丁长寿果
+Master, this dish...
+
+80
+00:03:38,680 --> 00:03:41,200
+# 别介 我得照你
+I will hold the camera for you.
+
+81
+00:03:41,200 --> 00:03:43,080
+# 这菜可以说 北京首创
+I first introduced this dish to Beijing.
+
+82
+00:03:43,080 --> 00:03:44,680
+# 两种不同的脆感
+This dish has two types of crunchy texture (one from the pork and the other from the peanuts).
+
+83
+00:03:45,240 --> 00:03:48,440
+# 榄菜这种回味的香 又学一招
+So as the fragrance from the kale borecole.
+
+84
+00:03:48,440 --> 00:03:50,120
+# 这个菜咱们打包吧
+Let's pack this up,
+
+85
+00:03:50,120 --> 00:03:52,920
+# 回头晚上咱们回去喝啤酒使
+and eat it with some beer tonight.
+
+86
+00:03:52,920 --> 00:03:54,520
+# 这做凉菜也好吃
+This dish is good even when it gets cold.
+
+87
+00:03:54,520 --> 00:03:56,840
+# 这凉菜不这么做 不搁榄菜也行
+But if you really want to eat it cold, you don't need the kale corecole then.
+
+88
+00:03:56,840 --> 00:03:58,840
+# 鲜花生米搁点小米辣
+Instead, use some fresh peanuts and "Xiaomila" Chili Pepper.
+
+89
+00:03:58,840 --> 00:04:00,480
+# 稍微炒一下 用什么炒
+And stir fry
+
+90
+00:04:00,480 --> 00:04:02,720
+# 辣鲜露一烹 那种麻辣口
+with spicy "Xian Lu" (Chinese liquid seasoning). This creates a numbing and spicy taste.
+
+91
+00:04:02,720 --> 00:04:05,160
+# 这小花生米绝了
+Those peanuts are so good.
+
+92
+00:04:05,160 --> 00:04:09,400
+# 这加上肉了 你看吃的满嘴流油
+With the meat. Look are the oil dripping from your mouth.
+
+93
+00:04:12,400 --> 00:04:14,920
+# 今儿亮子来了我高兴啊
+I am so happy that Liang Zi is here today.
+
+94
+00:04:14,920 --> 00:04:18,040
+# 他爱吃肉 专门给他今天现加的肉
+He likes meat, so I added meat to this dish just for him.
+
+95
+00:04:18,040 --> 00:04:20,680
+# 原来没有肉 还是师父
+The original version doesn't have meat. Thanks master!
+
+96
+00:04:20,680 --> 00:04:23,800
+# 上桌了咱们 我打包了
+Let's serve. I'm going to pack this up.
