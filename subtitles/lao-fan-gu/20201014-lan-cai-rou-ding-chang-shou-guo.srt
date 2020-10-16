@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•榄菜肉丁长寿果】二伯首创下酒菜，酥脆无比、回味无穷，再来点小酒，绝了！ |老饭骨
-# State Banquet Master Chef: Stir-fry kale borecole with pork and peanuts. Er Bai first introduced this dish. Crispy, crunchy, delicious. Goes really well with some liquor.
+# State Banquet Master Chef - Stir-fry kale borecole with pork and peanuts. 
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -14,7 +14,9 @@
 # 这道菜热吃冷吃味道都不错，花生和肉丁的酥脆，口感丰富，搭配榄菜的回香，再来点小酒，绝了！
 # This dish can be eaten either hot or cold, with the crunchy peanuts and crispy pork, as well as the fragrance from the kale borecole. It becomes even better with some liquor.
 # 小友们也可以按照自己的口味在二伯的基础上一通百通，进行创新，期待大家的作品！
-# You can also alter this dish base on your taste, because we can master the one to master all. I am looking forward to seeing your own versionsz of this dish.
+# You can also alter this dish base on your taste, because we can master the one to master all. I am looking forward to seeing your own versions of this dish.
+
+# import intro
 
 # 字幕
 
@@ -66,7 +68,7 @@ which taste not as good.
 10
 00:00:22,080 --> 00:00:25,440
 # 你再搓一个 小魏你再搓一个
-Try it. Wei, you can try it also.
+Try it. Xiao Wei, you can try it also.
 
 11
 00:00:25,440 --> 00:00:27,120
@@ -126,7 +128,7 @@ Done.
 22
 00:00:53,920 --> 00:00:56,000
 # 小魏你看 粘性抓完了
-Wei, look at this. After the pork gets sticky,
+Xiao Wei, look at this. After the pork gets sticky,
 
 23
 00:00:56,000 --> 00:00:58,600
@@ -371,12 +373,12 @@ Because you won't show us how to make Yuxiang Stir-fry Pork.
 71
 00:03:11,440 --> 00:03:14,360
 # 又学一招小亮 是吧
-Liang has learned something new from this dish instead.
+Xiao Liang, we learned something new from this dish, right?
 
 72
 00:03:14,360 --> 00:03:16,720
 # 先给小亮来 一会还上你那儿去吃肉
-Give Liang the first bite. Nah I will go to your house for meat later.
+Give Xiao Liang the first bite. Nah I will go to your house for meat later.
 
 73
 00:03:16,720 --> 00:03:19,200
@@ -401,7 +403,7 @@ Delicious? So good.
 77
 00:03:28,240 --> 00:03:30,080
 # 给你来二两都不够
-I can eat as much as I can.
+Two Liang (100g) will not be enough for me.
 
 78
 00:03:30,080 --> 00:03:33,160
@@ -481,12 +483,12 @@ With the meat. Look are the oil dripping from your mouth.
 93
 00:04:12,400 --> 00:04:14,920
 # 今儿亮子来了我高兴啊
-I am so happy that Liang is here today.
+I am so happy that Liang Zi is here today.
 
 94
 00:04:14,920 --> 00:04:18,040
 # 他爱吃肉 专门给他今天现加的肉
-He like meat. So I added meat to this dish just for him.
+He likes meat, so I added meat to this dish just for him.
 
 95
 00:04:18,040 --> 00:04:20,680
