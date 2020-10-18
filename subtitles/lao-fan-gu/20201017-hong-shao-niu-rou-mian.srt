@@ -2,18 +2,20 @@
 
 # 标题
 # 【国宴大师•红烧牛肉面】家常版红烧牛肉面，汤鲜肉烂、劲道爽滑，还是大块的牛肉吃着过瘾！ |老饭骨
-# [State Banquet Master Chef•Red Braised Beef Noodles] Homestyle Red Braised Beef Noodles |Lao Fan Gu
+# State Banquet Master Chef - Red Braised Beef Noodles. Tender beef and chewy noodle.
 
 # 简介
 
 # 小友们好，今天老饭骨给大家带来一道家常版的红烧牛肉面！
-# My dear friends, today we Lao Fan Gu are bringing you this homestyle red braised beef noodles!
+# Hello friends, today we are bringing you this homestyle red braised beef noodles!
 # 红烧牛肉面就是要大块的牛肉，面条要筋道，吃起来才过瘾，一碗根本不够吃！
 # Red braised beef in the noodles are meant to be in large blocks. Only chewy noodles can be so satisfying. One bowl is never enough!
 # 那么牛肉应该怎么做才软烂入味？汤要怎么调才味道鲜美？这些咱们让最爱吃肉的冯肉肉为大家解答！
 # How to cook beef to make it tender and soft with sufficient flavor penetration? How to season the soup to have great savory taste? Let's have these answered for you by our meat lover Feng Rou Ru!
 # 最后想问大家，视频里的饸饹床子大家见过吗？还喜欢什么样的面食，老饭骨做给大家吃！
 # In the end, a question for you. Have you seen the tool used for making He Le noodles? Do you like some other kind of dough food? Lao Fan Gu will make it for you!
+
+# import intro
 
 # 字幕
 
@@ -53,7 +55,7 @@ The meat. Beef shank should be the primary option
 8
 00:00:17,200 --> 00:00:19,320
 # 前腿的或者后腿的都行
-Both foreshank and hindshank are good
+Either foreshank or hindshank works too.
 
 9
 00:00:19,320 --> 00:00:22,320
@@ -93,7 +95,7 @@ It's full of bone marrow inside
 16
 00:00:38,640 --> 00:00:42,680
 # 咱们这汤鲜还有香都靠它呢
-The savory taste and aroma of our soup all count on it
+The savory taste and aroma of our soup all rely on it
 
 17
 00:00:42,680 --> 00:00:45,480
@@ -158,7 +160,7 @@ Red braised beef with He Le noodles
 29
 00:01:09,120 --> 00:01:13,400
 # 全是咱北京这块的老住户
-Full of the old residents in Beijing
+Full of our old Beijing residents
 
 30
 00:01:13,400 --> 00:01:15,520
@@ -198,12 +200,12 @@ Wheat flour wasn't the one used for this, but cornflour
 37
 00:01:31,760 --> 00:01:34,080
 # 有的用莜面或者是荞麦面
-Some people also used flour made from hulless oat or buckwheat,
+Some people also used flour made from hulless oat flour or buckwheat flour,
 
 38
 00:01:34,080 --> 00:01:37,200
 # 加榆皮面 现在都改用白面了
-together with elm bark. Now wheat flour is used for He Le everywhere
+together with elm bark flour. Now wheat flour is used for He Le everywhere
 
 39
 00:01:37,200 --> 00:01:38,840
@@ -223,12 +225,12 @@ The meat is approximately a bit more than 2 jin (1 kg)
 42
 00:01:44,440 --> 00:01:47,480
 # 来几片香叶 大料来个四五瓣
-Some bay leaves, and four or five star anise petals
+Some bay leaves, and four or five star anise
 
 43
 00:01:47,480 --> 00:01:50,920
 # 小茴香来一点 都给了吧 别占着碗
-Some fennel seeds. Just put in all of them. Don't take up the bowl
+Some fennel seeds. Just put them all in. Don't take up the bowl
 
 44
 00:01:50,920 --> 00:01:52,920
@@ -298,7 +300,7 @@ These three are the most useful for making the aroma stand out
 57
 00:02:21,320 --> 00:02:23,240
 # 他这料搭配的特别合理
-His collocation of aromatics is quite wise
+His combination of aromatics is very reasonable.
 
 58
 00:02:23,240 --> 00:02:25,720
@@ -458,7 +460,7 @@ Let's put them in the bowl and let them soaked there
 89
 00:03:42,080 --> 00:03:44,160
 # 越泡味越重
-The longer the soak is, the stronger the flavor is
+The longer it soaks, the stronger the flavor is
 
 90
 00:03:44,160 --> 00:03:47,080
@@ -483,7 +485,7 @@ Later on, we will use the aromatics to cook beef
 94
 00:03:56,240 --> 00:03:59,840
 # 然后这个酱油汁它是有比例的
-And there is proportion in the decocted soy sauce
+And there is a proportion (for ingredients) in the decocted soy sauce
 
 95
 00:03:59,840 --> 00:04:04,240
@@ -493,7 +495,7 @@ And there is proportion in the decocted soy sauce
 96
 00:04:04,240 --> 00:04:05,840
 # 水是酱油的一倍
-Water is twice the soy sauce
+(The amount of)Water is twice of the soy sauce
 
 97
 00:04:05,840 --> 00:04:07,400
@@ -697,7 +699,7 @@ After the soup is done, we gotta boil it
 138
 00:05:58,520 --> 00:06:01,240
 # 葱姜一炸到金黄色 出香了
-Once the spring onion and ginger is fried to golden yellow and aroma is brought out
+Once the spring onion and ginger is fried to golden and aroma releases
 
 139
 00:06:01,240 --> 00:06:03,400
@@ -707,7 +709,7 @@ we can put the meat in the wok
 140
 00:06:03,400 --> 00:06:07,120
 # 煸炒这步很重要 一定要大火煸炒
-The stir frying step is really important. It has to be cooked with strong heat
+The stir frying step is really important. It has to be cooked with high heat
 
 141
 00:06:07,120 --> 00:06:11,440
@@ -817,7 +819,7 @@ The process of picking out the aromatics
 162
 00:07:06,040 --> 00:07:11,240
 # 您不论烧什么肉都得有 菜是做的干净
-is inevitable for all kinds of meat stew. Cuisines are to be tidy
+is inevitable for all kinds of meat stew. Dishes need to be (cooked) tidy.
 
 163
 00:07:11,240 --> 00:07:13,920
@@ -900,7 +902,7 @@ Because it's in the base soup, the flavor of pepper
 179
 00:07:51,560 --> 00:07:55,080
 # 让它冲一点没事 要充分
-could be a bit strong. Gotta be ample
+It can be a bit strong. Gotta be sufficient.
 
 180
 00:07:55,080 --> 00:07:57,240
@@ -979,7 +981,7 @@ Red braised beef with pressed He Le noodles
 196
 00:08:43,560 --> 00:08:46,080
 # 可以说这是我吃饸饹面
-I could say that this is the best He Le noodles
+I can say that this is the best He Le noodles
 
 197
 00:08:46,080 --> 00:08:49,240
