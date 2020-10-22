@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•三鲜饺子】皮薄馅多家常三鲜饺子！从和面开始手把手教您包饺子，一盘吃出三种味道！ |老饭骨
-# [State Banquet Chef, Sanxian Dumplings] Thin skin and big filling dumplings! Teach you step by step from making the dough! Three tastes from one plate!
+# State Banquet Master Chef - Sanxian Dumplings. Thin skin with a lot of filling!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -12,23 +12,25 @@
 # 饺子家家户户都会做，想要做得更美味，大爷还有好些小窍门儿！
 # 从和面开始，如何调馅儿，如何煮饺子，手把手把小友们都教会。
 # 皮薄馅大，一盘饺子能够吃出三种味道，都是家的感觉！
-# Hi guys, the weather is getting colder and stay warm.
+# Hello friends, the weather is getting colder, so stay warm.
 # Today we bring you a home-style dish-Sanxian dumplings (Three ingredients dumplings)
 # Every household can make dumplings and we have some tricks for you to make them better!
-# Starting from dough making, how to make the fillings and how to boil the dumplings. Guide you every step of the process.
-# Thin skins and big fillings. Every plate can have three different tastes. The feeling of home!
+# Starting from how to make dough and fillings to how to boiling, we guide you every step of this process.
+# Our dumplings have thin skins and a lot of fillings, and you can have them in three different ways to get different flavous. It is the feeling of home!
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:02,200
 # 十五个饺子能吃出三种味道来
-We have three flavors in these 15 dumplings
+We can have three flavors in these 15 dumplings
 
 2
 00:00:02,200 --> 00:00:04,680
 # 开锅煮馅 闭锅煮皮
-We cook the filling and the skin with and without the lid
+Uncover it to cook the filling, and cover it to cook the skin
 
 3
 00:00:04,680 --> 00:00:07,320
@@ -61,7 +63,7 @@ There’s a saying for the dumpling dough:
 9
 00:00:20,480 --> 00:00:21,800
 # 软面饺子 硬面汤
-Soft dough gives you dumplings and stiff dough gives you patch soup
+Soft dough for dumplings and stiff dough for soup
 
 10
 00:00:21,800 --> 00:00:25,400
@@ -131,7 +133,7 @@ I’ll start making the fillings
 23
 00:00:59,680 --> 00:01:03,320
 # 海参这肠有的人不爱去
-Some will forget to remove the inners of sea cucumbers
+Some will forget to remove the intestine of sea cucumbers
 
 24
 00:01:03,320 --> 00:01:06,360
@@ -171,7 +173,7 @@ These are store bought
 31
 00:01:23,120 --> 00:01:26,080
 # 这虾线都挑干净了
-With the shrimp lines removed
+and deveined
 
 32
 00:01:26,080 --> 00:01:30,840
@@ -186,7 +188,7 @@ Sea cucumbers in the boiling water and boil them for 5 minutes
 34
 00:01:36,000 --> 00:01:38,600
 # 剩下虾就不拍了 让它有点颗粒度
-We won’t crack the rest shrimps so they stay crunchy
+We won’t need to splash the rest shrimps, remain some texture
 
 35
 00:01:40,040 --> 00:01:42,040
@@ -201,12 +203,12 @@ Yeah but we season the pork and shrimps separately
 37
 00:01:45,120 --> 00:01:49,840
 # 因为肉馅儿的味儿重 虾馅的要轻
-Because the meat and shrimps need strong and light seasonings
+Because the meat need strong seasoning while shrimps need light seasoning
 
 38
 00:01:49,840 --> 00:01:52,240
 # 要混在一块调 容易虾就咸了
-If seasoned together, the shrimps will be too salty
+If seasoned them together, the shrimps will be too salty
 
 39
 00:01:52,240 --> 00:01:54,280
@@ -221,22 +223,22 @@ Alright, grab the sea cucumbers
 41
 00:01:58,320 --> 00:01:59,720
 # 这海参可多可少
-You can either have much or little sea cucumbers
+The amount of sea cucumber depends (on your preference)
 
 42
 00:01:59,720 --> 00:02:02,720
 # 爱吃的就是虾仁 海参 少搁肉
-If you like it, then much shrimps and sea cucumbers with less meat
+If you like it, then put more shrimps and sea cucumbers and less meat
 
 43
 00:02:02,720 --> 00:02:07,000
 # 这点就基本上一个饺子里有一个海参丁
-With these, it’s basically a piece of sea cucumbers in every dumpling
+With these, it’s basically just having one piece of sea cucumber in every dumpling
 
 44
 00:02:07,000 --> 00:02:13,240
 # 来点姜米 有韭菜不搁葱 一定要记住了
-Also some ginger pieces. The green onions don’t go with the chives, keep that in mind.
+Also some chopped ginger. No need for green onions when we have chives, keep that in mind.
 
 45
 00:02:14,440 --> 00:02:15,680
@@ -281,7 +283,7 @@ Don’t put cooking wine yet but some MSG
 53
 00:02:35,680 --> 00:02:38,240
 # 盐 这饺子馅儿必须得味重
-Some salt and the fillings must have strong seasoning
+Some salt. The fillings must have strong flavor 
 
 54
 00:02:38,240 --> 00:02:39,760
@@ -291,7 +293,7 @@ Otherwise it’s not good
 55
 00:02:39,760 --> 00:02:43,200
 # 少来 这要颜色的 老抽
-A little bit of Laochou soy sauce for the color
+A little bit of Laochou dark soy sauce for the color
 
 56
 00:02:43,200 --> 00:02:44,720
@@ -309,7 +311,7 @@ Long time ago, all the pork come from pigs older than one year
 59
 00:02:50,160 --> 00:02:52,960
 # 它肉香味浓 您多打点水没事
-Those pork have strong flavors and you can mix much water in the fillings
+Those pork have strong flavors and you can mix more water in the fillings
 
 60
 00:02:52,960 --> 00:02:55,160
@@ -382,7 +384,7 @@ In our Beijing dialect, it’s putting flavors in the fillings
 74
 00:03:33,400 --> 00:03:35,840
 # 你看这馅儿倍儿腻乎
-See how sticky the fillings have become
+See how sticky the fillings is now
 
 75
 00:03:35,840 --> 00:03:38,720
@@ -402,7 +404,7 @@ Use a pair of scissors to cut the roots
 78
 00:03:44,200 --> 00:03:47,880
 # 为什么这上边 有时候搁韭菜有沙子
-The reason is that there is often grains in there
+Why? Sometimes chives have sand.
 
 79
 00:03:47,880 --> 00:03:50,360
@@ -427,7 +429,7 @@ The ones with purple roots are better, which is a bit thinner
 83
 00:03:59,960 --> 00:04:03,800
 # 那个韭菜是更香 那叫鸡脖韭
-That one has a better smell and it has a nickname of chicken neck chives
+That one has a better smell and it has a nickname, called "chicken neck chives"
 
 84
 00:04:03,800 --> 00:04:05,680
@@ -442,7 +444,7 @@ Mix the veggies in the fillings just before making the dumplings
 86
 00:04:07,360 --> 00:04:10,880
 # 老早和了你要不包 一会儿塌了
-The fillings will collapse if you mix them too early
+The (vegetable) will loss water if you mix them too early
 
 87
 00:04:10,880 --> 00:04:12,880
@@ -467,17 +469,17 @@ Dip nothing for the first five dumplings
 91
 00:04:22,800 --> 00:04:25,920
 # 你要吃我的馅的鲜美的味道
-To taste the freshness of the fillings
+To taste the freshness and the original flavor of the fillings
 
 92
 00:04:25,920 --> 00:04:28,120
 # 第二个五个 搁点醋
-The second five can go with vinegar
+The next five dumplings can go with vinegar
 
 93
 00:04:28,120 --> 00:04:31,480
 # 吃醋和饺子馅的美味
-To have the taste of vinegar along with dumplings
+To taste the flavor of vinegar along with dumplings
 
 94
 00:04:31,480 --> 00:04:32,960
@@ -487,7 +489,7 @@ The third taste
 95
 00:04:32,960 --> 00:04:36,080
 # 少搁点酱油 搁点红油 搁点烂蒜
-A little bit of soy sauce, chili oil and garlic pieces into the vinegar
+A little bit of soy sauce, chili oil and garlic pieces
 
 96
 00:04:36,080 --> 00:04:40,600
@@ -517,7 +519,7 @@ For another 3-5 minutes
 101
 00:04:49,160 --> 00:04:50,760
 # 亮子咱开剂儿
-Lianzi, let’s make the patches
+Lianzi, let’s split the dough
 
 102
 00:04:50,760 --> 00:04:53,880
@@ -535,7 +537,7 @@ You’re pulling instead of cutting. Yeah I’m semi-professional
 105
 00:04:58,360 --> 00:05:00,120
 # 揪劲儿是这样
-Patch pulling should feel like this
+Pulling like this
 
 106
 00:05:00,120 --> 00:05:02,640
@@ -555,7 +557,7 @@ And grab some dough like this
 109
 00:05:07,760 --> 00:05:10,880
 # 这是一个剂儿 准确度
-One patch, there you go. Be precise
+One, there you go. Be precise
 
 110
 00:05:10,880 --> 00:05:14,960
@@ -578,7 +580,7 @@ It may not be perfect
 114
 00:05:22,400 --> 00:05:24,080
 # 擀剂儿
-Roll the patches
+Roll this small piece of dough
 
 115
 00:05:24,080 --> 00:05:25,320
@@ -636,7 +638,7 @@ Dumplings in my house have big portion of fillings
 126
 00:05:50,320 --> 00:05:53,440
 # 吃饺子要有仪式感 皮儿薄馅儿足
-It has a special festival feeling with thin skins and big fillings
+It has a special festival feeling with thin skins and a lot of fillings
 
 127
 00:05:53,440 --> 00:05:54,800
@@ -679,7 +681,7 @@ Once the water is boiling, they should be floating
 135
 00:06:10,760 --> 00:06:14,600
 # 我们有一句话叫开锅煮馅 闭锅煮皮
-We have a saying that it cooks the fillings and the skins with and without the lid on
+We have a saying that uncover it to cook the filling and cover it to cook the skin
 
 136
 00:06:14,600 --> 00:06:16,120
@@ -738,7 +740,7 @@ Like little pigs, all swollen and bright
 148
 00:06:44,880 --> 00:06:47,560
 # 你看这馅 韭菜特别绿
-Look at the fillings, the chives so green
+Look at the fillings, the chives are so green
 
 149
 00:06:47,560 --> 00:06:50,760
@@ -769,7 +771,7 @@ We always eat first
 155
 00:06:59,520 --> 00:07:00,720
 # 今天必须您吃第一口
-Today it has to be your turn first
+Today you have to be the first
 
 156
 00:07:00,720 --> 00:07:02,160
