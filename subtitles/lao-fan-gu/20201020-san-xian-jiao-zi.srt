@@ -1,0 +1,865 @@
+# https://youtu.be/ngBCZxri3-s
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•三鲜饺子】皮薄馅多家常三鲜饺子！从和面开始手把手教您包饺子，一盘吃出三种味道！ |老饭骨
+# State Banquet Master Chef - Sanxian Dumplings. Thin skin with a lot of filling!
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 小友们好，天气越来越凉了，大家一定要注意保暖。
+# 老饭骨今天给大家带来一道最家常的美味——三鲜饺子！
+# 饺子家家户户都会做，想要做得更美味，大爷还有好些小窍门儿！
+# 从和面开始，如何调馅儿，如何煮饺子，手把手把小友们都教会。
+# 皮薄馅大，一盘饺子能够吃出三种味道，都是家的感觉！
+# Hello friends, the weather is getting colder, so stay warm.
+# Today we bring you a home-style dish-Sanxian dumplings (Three ingredients dumplings)
+# Every household can make dumplings and we have some tricks for you to make them better!
+# Starting from how to make dough and fillings to how to boiling, we guide you every step of this process.
+# Our dumplings have thin skins and a lot of fillings, and you can have them in three different ways to get different flavous. It is the feeling of home!
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:02,200
+# 十五个饺子能吃出三种味道来
+We can have three flavors in these 15 dumplings
+
+2
+00:00:02,200 --> 00:00:04,680
+# 开锅煮馅 闭锅煮皮
+Uncover it to cook the filling, and cover it to cook the skin
+
+3
+00:00:04,680 --> 00:00:07,320
+# 好了 三鲜馅的
+Alright, Sanxian filling (pork, shrimps, sea cucumbers, chives) dumplings
+
+4
+00:00:07,320 --> 00:00:11,160
+
+5
+00:00:11,160 --> 00:00:12,480
+# 不管是高筋低筋的
+It doesn’t matter whether you got high- or low-gluten flour
+
+6
+00:00:12,480 --> 00:00:14,760
+# 我们和面当中要搁点盐
+We need some salt in the dough
+
+7
+00:00:14,760 --> 00:00:17,800
+# 使这面更加有劲 别太多
+So that it’s stiffer but don’t add too much
+
+8
+00:00:17,800 --> 00:00:20,480
+# 饺子面要注意 有一句话叫
+There’s a saying for the dumpling dough:
+
+9
+00:00:20,480 --> 00:00:21,800
+# 软面饺子 硬面汤
+Soft dough for dumplings and stiff dough for soup
+
+10
+00:00:21,800 --> 00:00:25,400
+# 饺子面子比烙饼面稍微硬点
+The dumpling dough should be a little stiffer than the pancake dough
+
+11
+00:00:25,400 --> 00:00:27,480
+# 比面条面稍微软点
+And a little softer than the noodle dough
+
+12
+00:00:27,480 --> 00:00:32,560
+# 和面也得匀着往里加水 和的才滋润
+Add water gradually when you are kneading the dough so it’s even
+
+13
+00:00:32,560 --> 00:00:35,640
+# 好了 咱们开始揣揣
+Alright let’s knead it into a dough
+
+14
+00:00:35,640 --> 00:00:38,800
+# 盆光面光手光 三光
+The surfaces of the pot, the dough and your hands should be clean at last
+
+15
+00:00:38,800 --> 00:00:41,880
+# 您这三鲜馅够豪华
+It’s a deluxe choice of Sanxian fillings
+
+16
+00:00:41,880 --> 00:00:43,880
+# 有时候我在家里要没有海参的时候
+When we could not find some sea cucumbers
+
+17
+00:00:43,880 --> 00:00:46,400
+# 也可以找一个东西替海参
+We could have an alternative for that
+
+18
+00:00:46,400 --> 00:00:47,200
+# 你知道什么么
+Guess what?
+
+19
+00:00:47,200 --> 00:00:51,520
+# 木耳 木耳也挺脆的
+It’s the wood ears because they are also crunchy
+
+20
+00:00:51,520 --> 00:00:53,240
+# 行了 然后让它饧一会儿
+Alright, let it rest for a while
+
+21
+00:00:53,240 --> 00:00:57,640
+# 猪肉 虾仁 海参 韭菜
+Pork, shrimps, sea cucumbers and chives
+
+22
+00:00:57,640 --> 00:00:59,680
+# 我这儿开始准备准备馅儿
+I’ll start making the fillings
+
+23
+00:00:59,680 --> 00:01:03,320
+# 海参这肠有的人不爱去
+Some will forget to remove the intestine of sea cucumbers
+
+24
+00:01:03,320 --> 00:01:06,360
+# 有时候不去它腥
+But it has a bad smell
+
+25
+00:01:06,360 --> 00:01:08,320
+# 找个小锅给它出一下水
+Grab a small pot and boil the sea cucumbers
+
+26
+00:01:08,320 --> 00:01:11,320
+# 来两片姜 来点酒 黄酒
+Two slices of garlic with some huangjiu rice wine in the water
+
+27
+00:01:11,320 --> 00:01:14,120
+# 再来几个葱 还得搁点盐
+Also some green onions and some salt
+
+28
+00:01:14,120 --> 00:01:18,080
+# 这去掉海参的腥味和给它增加点味道
+These remove the bad smell of sea cucumbers and add some flavors to it
+
+29
+00:01:18,080 --> 00:01:21,200
+# 然后咱把虾仁给它处理一下
+Now let’s deal with the shrimps
+
+30
+00:01:21,200 --> 00:01:23,120
+# 这虾仁买的是现成的
+These are store bought
+
+31
+00:01:23,120 --> 00:01:26,080
+# 这虾线都挑干净了
+and deveined
+
+32
+00:01:26,080 --> 00:01:30,840
+# 现在这海鲜便宜 比吃肉还便宜 白菜价
+Now it’s cheaper to have seafood than meat. Almost like cabbages
+
+33
+00:01:30,840 --> 00:01:34,400
+# 水开了海参下锅 开锅五分钟
+Sea cucumbers in the boiling water and boil them for 5 minutes
+
+34
+00:01:36,000 --> 00:01:38,600
+# 剩下虾就不拍了 让它有点颗粒度
+We won’t need to splash the rest shrimps, remain some texture
+
+35
+00:01:40,040 --> 00:01:42,040
+# 这个您是想和到馅儿里么
+So these shrimps are for the fillings?
+
+36
+00:01:42,040 --> 00:01:45,120
+# 对 但是分头打 分头调味
+Yeah but we season the pork and shrimps separately
+
+37
+00:01:45,120 --> 00:01:49,840
+# 因为肉馅儿的味儿重 虾馅的要轻
+Because the meat need strong seasoning while shrimps need light seasoning
+
+38
+00:01:49,840 --> 00:01:52,240
+# 要混在一块调 容易虾就咸了
+If seasoned them together, the shrimps will be too salty
+
+39
+00:01:52,240 --> 00:01:54,280
+# 齐了 真黏糊
+Alright, it’s so sticky
+
+40
+00:01:55,600 --> 00:01:58,320
+# 好了 拿出来
+Alright, grab the sea cucumbers
+
+41
+00:01:58,320 --> 00:01:59,720
+# 这海参可多可少
+The amount of sea cucumber depends (on your preference)
+
+42
+00:01:59,720 --> 00:02:02,720
+# 爱吃的就是虾仁 海参 少搁肉
+If you like it, then put more shrimps and sea cucumbers and less meat
+
+43
+00:02:02,720 --> 00:02:07,000
+# 这点就基本上一个饺子里有一个海参丁
+With these, it’s basically just having one piece of sea cucumber in every dumpling
+
+44
+00:02:07,000 --> 00:02:13,240
+# 来点姜米 有韭菜不搁葱 一定要记住了
+Also some chopped ginger. No need for green onions when we have chives, keep that in mind.
+
+45
+00:02:14,440 --> 00:02:15,680
+# 肉馅是这样
+The meat fillings is like this
+
+46
+00:02:15,680 --> 00:02:18,360
+# 一般咱们家里头都拿筷子打馅儿
+We usually mix the ground meat with chopsticks
+
+47
+00:02:18,360 --> 00:02:20,360
+# 筷子打馅就慢
+That way is too slow
+
+48
+00:02:20,360 --> 00:02:23,800
+# 上手打 酱油
+Just use your hands. Some soy sauce
+
+49
+00:02:23,800 --> 00:02:26,960
+# 这个肉馅的比例就是买肥瘦
+Keep a good portion of fat in the ground pork
+
+50
+00:02:26,960 --> 00:02:28,800
+# 肥三瘦七 前腿
+Thirty percent fat. That’s usually pork legs
+
+51
+00:02:28,800 --> 00:02:32,240
+# 首先抓抓
+Grab a few times first
+
+52
+00:02:32,240 --> 00:02:35,680
+# 打馅不加料酒 可以加味精
+Don’t put cooking wine yet but some MSG
+
+53
+00:02:35,680 --> 00:02:38,240
+# 盐 这饺子馅儿必须得味重
+Some salt. The fillings must have strong flavor 
+
+54
+00:02:38,240 --> 00:02:39,760
+# 不味重它不好吃
+Otherwise it’s not good
+
+55
+00:02:39,760 --> 00:02:43,200
+# 少来 这要颜色的 老抽
+A little bit of Laochou dark soy sauce for the color
+
+56
+00:02:43,200 --> 00:02:44,720
+
+57
+00:02:44,720 --> 00:02:47,280
+# 这个馅还得要摔摔它
+The ground pork fillings need to be beaten
+
+58
+00:02:47,280 --> 00:02:50,160
+# 以前的肉都是养一年的猪
+Long time ago, all the pork come from pigs older than one year
+
+59
+00:02:50,160 --> 00:02:52,960
+# 它肉香味浓 您多打点水没事
+Those pork have strong flavors and you can mix more water in the fillings
+
+60
+00:02:52,960 --> 00:02:55,160
+# 稍微打点水可以
+A little bit more water
+
+61
+00:02:55,160 --> 00:02:57,920
+# 现在肉打多了就没味了
+But the pork these days will be bland with too much water in the fillings
+
+62
+00:02:58,720 --> 00:03:01,280
+# 摔得有劲 包饺子容易抱团
+Beaten enough, the fillings can easily get to a ball inside the skins
+
+63
+00:03:01,280 --> 00:03:02,680
+# 抱团还出汁儿呐
+Also juicier
+
+64
+00:03:02,680 --> 00:03:04,880
+
+65
+00:03:04,880 --> 00:03:07,720
+# 虾肉 海参丁 姜米放进 去
+Shrimps, sea cucumber pieces, ginger pieces, in
+
+66
+00:03:07,720 --> 00:03:11,840
+# 这一抓挠 把荤馅打完了以后
+When the meat filings are ready
+
+67
+00:03:11,840 --> 00:03:15,160
+# 如果说我们一小时两小时以后才包呢
+If there is still time before making the dumplings
+
+68
+00:03:15,160 --> 00:03:18,800
+# 就放在冰箱里头 让它镇一镇
+Let the fillings rest in the fridge
+
+69
+00:03:18,800 --> 00:03:21,000
+# 素馅不要着急往里边一块和
+Don’t rush chopping the veggies and putting them in
+
+70
+00:03:21,000 --> 00:03:23,400
+# 什么时候包什么时候和 来油
+Mix the veggies with the meat just before making dumplings. Now some oil in
+
+71
+00:03:23,400 --> 00:03:27,080
+# 就仗着这油呢 多搁点油没事 花生油
+The oil is really important and add much to it. Peanut oil
+
+72
+00:03:27,080 --> 00:03:31,000
+# 香油 二合油 这叫什么
+Also some sesame oil mixed. What’s this called?
+
+73
+00:03:31,000 --> 00:03:33,400
+# 按照咱们老北京话说 这叫味上馅
+In our Beijing dialect, it’s putting flavors in the fillings
+
+74
+00:03:33,400 --> 00:03:35,840
+# 你看这馅儿倍儿腻乎
+See how sticky the fillings is now
+
+75
+00:03:35,840 --> 00:03:38,720
+# 味好了 切韭菜
+Enough with the flavors, now chop the chives
+
+76
+00:03:38,720 --> 00:03:41,240
+# 咱择韭菜的时候 我们在家里择韭菜
+When we are picking the chives at home
+
+77
+00:03:41,240 --> 00:03:44,200
+# 拿剪子 最后把根给去了
+Use a pair of scissors to cut the roots
+
+78
+00:03:44,200 --> 00:03:47,880
+# 为什么这上边 有时候搁韭菜有沙子
+Why? Sometimes chives have sand.
+
+79
+00:03:47,880 --> 00:03:50,360
+# 第一刀有时候就不要了
+Leave the first chop off
+
+80
+00:03:50,360 --> 00:03:53,840
+# 一入秋 一过国庆节就可以吃韭菜了
+The chive season start at autumn, after the National Day
+
+81
+00:03:53,840 --> 00:03:56,720
+# 现在的韭菜正香
+The chives are the best right now
+
+82
+00:03:56,720 --> 00:03:59,960
+# 买韭菜买那紫根的 比这个细
+The ones with purple roots are better, which is a bit thinner
+
+83
+00:03:59,960 --> 00:04:03,800
+# 那个韭菜是更香 那叫鸡脖韭
+That one has a better smell and it has a nickname, called "chicken neck chives"
+
+84
+00:04:03,800 --> 00:04:05,680
+# 咱就搁在里头了
+Now let’s put the chives in there
+
+85
+00:04:05,680 --> 00:04:07,360
+# 什么时候包 什么时候和
+Mix the veggies in the fillings just before making the dumplings
+
+86
+00:04:07,360 --> 00:04:10,880
+# 老早和了你要不包 一会儿塌了
+The (vegetable) will loss water if you mix them too early
+
+87
+00:04:10,880 --> 00:04:12,880
+# 老北京还一讲头 饺子要吃热的
+People in Beijing also prefer hot dumplings
+
+88
+00:04:12,880 --> 00:04:14,880
+# 吃五个煮五个
+Boil five, eat five
+
+89
+00:04:14,880 --> 00:04:19,800
+# 另外吃饺子能吃出三种味道来
+Also, there are three ways to taste the dumplings
+
+90
+00:04:19,800 --> 00:04:22,800
+# 第一个五个饺子 什么都不蘸
+Dip nothing for the first five dumplings
+
+91
+00:04:22,800 --> 00:04:25,920
+# 你要吃我的馅的鲜美的味道
+To taste the freshness and the original flavor of the fillings
+
+92
+00:04:25,920 --> 00:04:28,120
+# 第二个五个 搁点醋
+The next five dumplings can go with vinegar
+
+93
+00:04:28,120 --> 00:04:31,480
+# 吃醋和饺子馅的美味
+To taste the flavor of vinegar along with dumplings
+
+94
+00:04:31,480 --> 00:04:32,960
+# 第三种味道
+The third taste
+
+95
+00:04:32,960 --> 00:04:36,080
+# 少搁点酱油 搁点红油 搁点烂蒜
+A little bit of soy sauce, chili oil and garlic pieces
+
+96
+00:04:36,080 --> 00:04:40,600
+# 十五个饺子能吃出三种味道来
+Three tastes for 15 dumplings
+
+97
+00:04:40,600 --> 00:04:43,040
+# 咱们现在看看面好了没有
+Now let’s see whether the dough is ready
+
+98
+00:04:43,040 --> 00:04:44,520
+# 这面差不多了
+It seems about right
+
+99
+00:04:44,520 --> 00:04:46,560
+# 这面揉完了还得饧一下
+After kneading it again, let it rest again
+
+100
+00:04:46,560 --> 00:04:49,160
+# 再饧三分钟五分钟
+For another 3-5 minutes
+
+101
+00:04:49,160 --> 00:04:50,760
+# 亮子咱开剂儿
+Lianzi, let’s split the dough
+
+102
+00:04:50,760 --> 00:04:53,880
+
+103
+00:04:53,880 --> 00:04:54,800
+# 这面雪白
+It’s so white
+
+104
+00:04:54,800 --> 00:04:58,360
+# 您揪啊您不切 我不切 我是半专业
+You’re pulling instead of cutting. Yeah I’m semi-professional
+
+105
+00:04:58,360 --> 00:05:00,120
+# 揪劲儿是这样
+Pulling like this
+
+106
+00:05:00,120 --> 00:05:02,640
+# 我跟原来师傅看他们揪的时候
+I watched the older cooks pulling it
+
+107
+00:05:02,640 --> 00:05:04,240
+# 这边捏住了
+Nip this end like this
+
+108
+00:05:05,960 --> 00:05:07,760
+# 这手捏住了
+And grab some dough like this
+
+109
+00:05:07,760 --> 00:05:10,880
+# 这是一个剂儿 准确度
+One, there you go. Be precise
+
+110
+00:05:10,880 --> 00:05:14,960
+
+111
+00:05:14,960 --> 00:05:17,720
+# 这儿一使劲 往下一硌
+Pull like this and drop that
+
+112
+00:05:17,720 --> 00:05:19,400
+# 但是跟专业的老师
+Compared to professional bakers
+
+113
+00:05:19,400 --> 00:05:22,400
+# 可能有的方法还不太准确
+It may not be perfect
+
+114
+00:05:22,400 --> 00:05:24,080
+# 擀剂儿
+Roll this small piece of dough
+
+115
+00:05:24,080 --> 00:05:25,320
+# 您这娴熟的手法
+Whoa, you are so good at this
+
+116
+00:05:25,320 --> 00:05:27,960
+# 一看您也在家里边经常包 经常做
+I guess you often make dumplings at home too
+
+117
+00:05:27,960 --> 00:05:29,920
+# 这时候可以攉拢到一块去了
+Now we mix the veggies into the fillings
+
+118
+00:05:29,920 --> 00:05:32,640
+# 韭菜碧绿碧绿的
+Look at how green the chives are
+
+119
+00:05:32,640 --> 00:05:34,560
+# 包饺子是这样的
+Making dumplings is like this
+
+120
+00:05:34,560 --> 00:05:36,880
+# 在饭店里边就学会了挤饺子
+I learnt how to make dumplings in a restaurant
+
+121
+00:05:36,880 --> 00:05:39,920
+# 我老捏不好这头
+I always have problem nipping this end
+
+122
+00:05:39,920 --> 00:05:42,000
+# 我就先把这头给它封上
+So I first seal this end
+
+123
+00:05:42,000 --> 00:05:45,720
+# 一挤 倍儿棒
+Then nip the dumpling. There you go
+
+124
+00:05:45,720 --> 00:05:47,800
+
+125
+00:05:47,800 --> 00:05:50,320
+# 我们家包饺子就是馅比较大
+Dumplings in my house have big portion of fillings
+
+126
+00:05:50,320 --> 00:05:53,440
+# 吃饺子要有仪式感 皮儿薄馅儿足
+It has a special festival feeling with thin skins and a lot of fillings
+
+127
+00:05:53,440 --> 00:05:54,800
+# 大爷包的还挺快
+Daye is making so many dumplings
+
+128
+00:05:54,800 --> 00:05:56,520
+# 煮饺子也有点小窍门
+There is also a trick for boiling the dumplings
+
+129
+00:05:56,520 --> 00:05:58,760
+# 我们给它煮的时候搁点盐
+Put some salt in the boiling water
+
+130
+00:05:58,760 --> 00:06:00,080
+# 它互相不爱粘
+So that the dumplings won’t stick to each other
+
+131
+00:06:00,080 --> 00:06:01,800
+
+132
+00:06:01,800 --> 00:06:05,160
+# 宽水 上盖
+Wide boiling water, lid on
+
+133
+00:06:05,160 --> 00:06:07,840
+# 煮饺子的时候一定要让它悬起来
+When we are boiling the dumplings, it’s essential to let them float
+
+134
+00:06:09,160 --> 00:06:10,760
+# 开锅就漂
+Once the water is boiling, they should be floating
+
+135
+00:06:10,760 --> 00:06:14,600
+# 我们有一句话叫开锅煮馅 闭锅煮皮
+We have a saying that uncover it to cook the filling and cover it to cook the skin
+
+136
+00:06:14,600 --> 00:06:16,120
+
+137
+00:06:16,240 --> 00:06:19,200
+# 开锅了 开锅咱就不用盖了
+It’s boiling right now, then we can take the lid off
+
+138
+00:06:19,200 --> 00:06:20,920
+# 有时候像茴香馅
+Sometimes, for fillings like fennel
+
+139
+00:06:20,920 --> 00:06:22,800
+# 有时候为了保持茴香让它绿
+In order to keep them green
+
+140
+00:06:22,800 --> 00:06:26,240
+# 打馅儿的时候那里边还可以捏点碱
+We can have some alkali in the fillings
+
+141
+00:06:26,240 --> 00:06:29,600
+# 茴香就不是黄的了 就是绿的
+Then the fennel won’t turn yellow and stay green
+
+142
+00:06:29,600 --> 00:06:31,720
+# 纯韭菜馅的也可以搁一点碱
+Some alkali also works for pure chive fillings
+
+143
+00:06:31,720 --> 00:06:33,360
+# 这饺子快好了
+It’s almost ready
+
+144
+00:06:33,360 --> 00:06:35,800
+# 再一压 倍儿骨立
+Push it into the water a little bit. They are so plump
+
+145
+00:06:35,800 --> 00:06:38,760
+# 跟小猪似的饱满光亮 鼓起来
+Like little pigs, all swollen and bright
+
+146
+00:06:38,760 --> 00:06:40,480
+
+147
+00:06:42,280 --> 00:06:42,840
+
+148
+00:06:44,880 --> 00:06:47,560
+# 你看这馅 韭菜特别绿
+Look at the fillings, the chives are so green
+
+149
+00:06:47,560 --> 00:06:50,760
+# 韭菜馅这颜色不能太重了
+The color of fillings with chives cannot be too dark
+
+150
+00:06:50,760 --> 00:06:53,080
+# 先给大爷来一个
+Let’s give Daye one first
+
+151
+00:06:53,080 --> 00:06:54,000
+
+152
+00:06:54,000 --> 00:06:55,360
+# 这个必须得您先来了
+Your turn first this time
+
+153
+00:06:55,360 --> 00:06:58,000
+
+154
+00:06:58,000 --> 00:06:59,520
+# 每回都是我们先吃
+We always eat first
+
+155
+00:06:59,520 --> 00:07:00,720
+# 今天必须您吃第一口
+Today you have to be the first
+
+156
+00:07:00,720 --> 00:07:02,160
+# 师父您先来
+Master, please
+
+157
+00:07:02,160 --> 00:07:07,040
+
+158
+00:07:07,040 --> 00:07:07,920
+# 好吃啊
+So good
+
+159
+00:07:09,920 --> 00:07:13,280
+# 亮子吃饭就是猛 我是一口一个
+Liangzi eats so fast. Yeah I eat one dumpling per bite
+
+160
+00:07:13,280 --> 00:07:16,400
+# 不是光一口 就直接下手 武吃
+Not only that. You also use your hands
+
+161
+00:07:16,400 --> 00:07:18,920
+# 这里边海参吃着倍脆
+The sea cucumbers inside are so crunchy
+
+162
+00:07:18,920 --> 00:07:20,880
+# 这个虾 说句实话
+To be honest
+
+163
+00:07:20,880 --> 00:07:22,240
+# 这个饺子馅您看
+For the fillings,
+
+164
+00:07:22,240 --> 00:07:25,000
+
+165
+00:07:25,000 --> 00:07:28,720
+# 虾起了至关重要的作用 倍儿弹吃着
+The shrimps play a very important role. It tastes so crunchy
+
+166
+00:07:28,720 --> 00:07:30,440
+# 其实会做饭的人
+For people who know how to cook
+
+167
+00:07:30,440 --> 00:07:32,560
+# 我跟你说 你慢慢体验吧
+Let me tell you, just experience it
+
+168
+00:07:32,560 --> 00:07:35,920
+# 会做饭的人第一他疼媳妇
+People who cook care about their wives
+
+169
+00:07:35,920 --> 00:07:38,520
+# 顾家还有什么
+Also take responsibilities for their families
+
+170
+00:07:38,520 --> 00:07:40,320
+# 他调理性的特别强
+Can organize everything well
+
+171
+00:07:40,320 --> 00:07:42,720
+# 这个饺子你看似简单一个吃食
+The dumplings seem to be very simple
+
+172
+00:07:42,720 --> 00:07:46,520
+# 他从和面 到饺子到我们嘴里
+But he did a really good job from making doughs, making dumplings to cooking them
+
+173
+00:07:46,520 --> 00:07:47,480
+# 成型这个过程
+The whole process
+
+174
+00:07:47,480 --> 00:07:50,680
+# 每个环节他拿捏的都非常到位 非常好
+Nice job on every step. Excellent!
