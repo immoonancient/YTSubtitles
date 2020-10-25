@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•脆皮炸生蚝】脆皮糊黄金量化比例，酥脆可口，传承十几年的老手艺，绝对错不了！ |老饭骨
-# State Banquet Master Chef - Crispy Fried Oysters. A golden-ratio batter recipe
+# State Banquet Master Chef - Crispy Fried Oysters. A great old batter recipe, crispy and savory!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
