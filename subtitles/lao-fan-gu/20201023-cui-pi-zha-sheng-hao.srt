@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•脆皮炸生蚝】脆皮糊黄金量化比例，酥脆可口，传承十几年的老手艺，绝对错不了！ |老饭骨
-# 【State Banquet Master Chef•Crispy Fried Oysters】A golden-ratio batter recipe with a long history that ensures the oysters super crispy and savory
+# State Banquet Master Chef - Crispy Fried Oysters. A golden-ratio batter recipe
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -19,6 +19,8 @@
 # This time we are using fresh oysters as a demonstration but you can actually try a variety of different ingredients, which is also great!
 
 # Once you guys remember the recipe, you can apply it to other ingredients to create a crispy texture for any fried foods.
+
+# import intro
 
 # 字幕
 
@@ -78,17 +80,17 @@ Marinate the oysters with scallion, ginger and huangjiu rice wine
 12
 00:00:25,360 --> 00:00:27,720
 # 它本身就有点咸鲜味
-We don’t need to salt the oysters
+The oyster has some salty flavor itself
 
 13
 00:00:27,720 --> 00:00:29,440
 # 这就不用加盐了
-Because it comes with a salty taste
+so we don't need to add any salt
 
 14
 00:00:29,440 --> 00:00:32,240
 # 来点香油去腥
-Then let’s add some sesame oil to get rid of the gamey flavor
+Then let’s add some sesame oil to get rid of the fishy flavor
 
 15
 00:00:32,240 --> 00:00:34,800
@@ -101,7 +103,7 @@ A little pepper powder
 17
 00:00:35,760 --> 00:00:36,560
 # 够肥实
-That’s thick enough
+That’s very thick 
 
 18
 00:00:36,560 --> 00:00:38,520
@@ -121,7 +123,7 @@ Use warm water for the batter to ferment quicker
 21
 00:00:43,440 --> 00:00:47,240
 # 用筷子把泡打粉给它和开了
-Use chopsticks to mix the baking powder as well
+Use chopsticks to mix the baking powder well
 
 22
 00:00:47,240 --> 00:00:49,600
@@ -154,7 +156,7 @@ The more traditional batter has yeast and soda
 28
 00:01:03,720 --> 00:01:05,280
 # 油 50克
-Let’s do a quick recap. 50g oil
+50g oil
 
 29
 00:01:05,280 --> 00:01:07,960
@@ -204,12 +206,12 @@ The fermentation will make it more crispy
 38
 00:01:26,160 --> 00:01:29,120
 # 这个糊和好了 一定要标准
-Finally, we got the batter
+Finally, we got the batter. It has to be standard.
 
 39
 00:01:29,120 --> 00:01:32,120
 # 你按照比例做 就出不了大娄子
-As long as you follow the formula there’s no way to make it wrong
+As long as you follow the formula, there’s no way to make it wrong
 
 40
 00:01:32,120 --> 00:01:33,640
@@ -234,7 +236,7 @@ Make sure the oysters don’t soak up too much water
 44
 00:01:41,360 --> 00:01:45,480
 # 就是原材料的水分要吸干 不管炸什么
-Make sure we dry the water of any ingredients before frying in the oil
+Make sure we get rid of the water for any ingredients before frying them in the oil
 
 45
 00:01:46,520 --> 00:01:48,680
@@ -294,7 +296,7 @@ Now we need to add some water into the batter
 56
 00:02:17,000 --> 00:02:18,880
 # 稀释点 薄薄的一层糊
-To thin is slighly
+To make it thinner, a thin batter
 
 57
 00:02:18,880 --> 00:02:21,720
@@ -312,7 +314,7 @@ Perilla leaves also need to be fried then put on the bottom of the plate
 60
 00:02:26,000 --> 00:02:28,080
 # 一定要定一下型再翻
-Make sure the upside coat is settled then flip over for the other side
+Make sure to settle the coat first then flip over 
 
 61
 00:02:28,080 --> 00:02:30,960
@@ -397,7 +399,7 @@ The batter is mixed really well
 79
 00:03:10,200 --> 00:03:12,600
 # 这是师父十多年前教的我
-This is what you taught me ten years before
+This is what my master taught me ten years ago
 
 80
 00:03:12,600 --> 00:03:15,320
@@ -412,42 +414,42 @@ Great ingredients, excellent cooking skills and continuous heritage.
 82
 00:03:20,640 --> 00:03:22,840
 # 师父是什么 是味精
-Masters is sort of like a seasoning
+Masters is sort of like MSG
 
 83
 00:03:22,840 --> 00:03:26,400
 # 因为过去有些原材料不是那么很好
-Students are like a variety of ingredients with different qualities
+Because back then, the quality of some ingredients was not that good
 
 84
 00:03:26,400 --> 00:03:27,840
 # 也不是很新鲜
-They might not be all in the best place at the start
+or not that fresh
 
 85
 00:03:27,840 --> 00:03:30,360
 # 师父您尝尝这个菜行不行
-When the Master’s teaching students, they can tell the room for improvement and lead students to the right path.
+"Master, please try to see whether this dish satisfy the standard"
 
 86
 00:03:30,360 --> 00:03:32,400
 # 一尝不够鲜
-It’s similar to how a seasoning will make a dish better even when ingredients are not the best.
+Master felt that the umami flavor was not strong enough
 
 87
 00:03:32,400 --> 00:03:35,840
 # 师父到味精罐儿里头捏点味精
-A Master can enlighten students on what went wrong and how to fix them
+Master pitched some MSG 
 
 88
 00:03:35,840 --> 00:03:38,520
 # 往这菜里边一扔 行了
-Then students can be another Master in the future
+and added to the dishes. "Now is good"
 
 89
 00:03:38,520 --> 00:03:41,080
 # 所以师父是什么 师父是味精
-Master is like a seasoning
+So, Master is like MSG
 
 90
 00:03:41,080 --> 00:03:45,240
@@ -457,7 +459,7 @@ This metaphor could be a little bit fuzzy but you know what I mean
 91
 00:03:45,240 --> 00:03:47,880
 # 但是有一样 师父就是调味
-Seasoning That helps to balance everything when it comes to cooking
+Master is seasoning
 
 92
 00:03:47,880 --> 00:03:49,720
@@ -467,7 +469,7 @@ That’s what your Master said
 93
 00:03:49,720 --> 00:03:54,560
 # 调味 调情 调水 调心
-To keep all the cooking ingredients in a delicate balance
+Season the flavor, the emotion, the water, and the heart
 
 94
 00:03:54,560 --> 00:03:55,880
@@ -477,7 +479,7 @@ That’s very important
 95
 00:03:55,880 --> 00:03:57,560
 # 所以今天刚强做这个
-That’s why Chef Wei did this today
+So the dish Gang Qiang (Chef Wei) did today
 
 96
 00:03:57,560 --> 00:04:02,360
