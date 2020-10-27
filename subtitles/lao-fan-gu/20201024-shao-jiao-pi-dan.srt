@@ -4,13 +4,15 @@
 # State Banquet Master Chef - Classic Sichuan Cold Dish: Century Eggs with Charred Chillies
 
 # 小友们好，今天大爷的徒弟杨兵师傅给大家带来最正宗地道的四川经典凉菜——烧椒皮蛋！
-# Hello everyone! Today, Da Ye’s disciple - Chef Yang Bing is bringing us one of the most authentic classic Sichuan local cold dishes: century eggs with charred chillies!
+# Hello everyone! Today, Da Ye’s disciple - Chef Yang Bing brings us one of the most authentic classic Sichuan local cold dishes: century eggs with charred chillies!
 # 这个烧椒皮蛋，做法非常简单，家常又下饭，学会了调汁儿的手法，用来调制其他凉菜也很美味！
 # This dish is extremely easy to cook, and best served with rice at home. The sauce used in this dish also goes very well with other cold dishes as long as you master the techniques of making it!
 # 烧椒的味儿，皮蛋的味儿和特制酱汁的味道，小小的凉菜也能吃出浓浓家乡的感觉。
 # The flavours of charred chillies, century eggs and the special sauce from this small plate bring out such a rich and strong taste of Sichuan
 # 小友们还在等什么？快点击视频一起来学习如何做这道经典开胃小菜吧！
 # So, what are you waiting for? Watch the video and let’s learn how to make this classic starter!
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:02,240
@@ -158,7 +160,7 @@ In the meantime, the chilli oil will be able
 30
 00:01:14,640 --> 00:01:16,160
 # 它能扒到菜上
-To be captured by other ingredients when plating the dish
+To stick on other ingredients when plating the dish
 
 31
 00:01:16,160 --> 00:01:17,720
@@ -301,12 +303,12 @@ The sauce is key for this dish. It’s very easy to make
 59
 00:02:27,560 --> 00:02:29,760
 # 姜末 大概有个二十克左右
-About 20g of crushed ginger
+About 20g of minced ginger
 
 60
 00:02:29,760 --> 00:02:32,960
 # 蒜末也差不多
-Same amount of crushed garlic
+Same amount of minced garlic
 
 61
 00:02:32,960 --> 00:02:35,400
