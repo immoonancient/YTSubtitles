@@ -7,11 +7,13 @@
 # 为什么说这道菜养生呢，咱们看看配料，有红枣、大芸豆，当归，虽然简单但是都是对咱们身体都是很有益处的！
 # 用二伯的方法做出来的料汁颜色洪亮，味道浓厚。经过高压锅焖煮后的猪蹄，软糯耙香，入口即化！搭配上芸豆的酥香和红枣的香甜，这道菜味道真的太棒了！小友们一定要去试试看！
 
-# Hi everyone, in today’s video, Er Bai will cook us a nourishing recipe from Chinese imperial cuisine, empress mother pork feet.
+# Hi everyone, in today’s video, Er Bai brings us a nourishing recipe from Chinese imperial cuisine, empress mother pork feet.
 
 # This is a nourishing dish because there are red dates, white kidney beans and dong quai in the ingredients. It seems simple but it is indeed very beneficial for our health!
 
-# Following Er Bai’s recipe, the dish is covered in red and shiny sauce and rich in taste. After being cooked in a pressure cooker, the pork feet is super soft and mushy with a mellow taste. It will melt in your mouth! Together with the smoothness from the kidney beans, the sweetness from the red dates and their aromas, this dish tastes superb! You have to give it a go!
+# Following Er Bai’s recipe, the dish is covered in red and shiny sauce and rich in taste. After being cooked in a pressure cooker, the pork feet is super soft and mushy with a mellow taste. It melts in your mouth! Together with the smoothness from the kidney beans, the sweetness from the red dates and their aromas, this dish tastes superb! You have to give it a go!
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:01,720
@@ -105,7 +107,7 @@ We used a blowtorch to blow at every bit of the pork. That was so exhausting.
 19
 00:00:52,800 --> 00:00:54,400
 # 现在都先进了师父
-We have more advanced methods now, master.
+We have more advanced method now, master.
 
 20
 00:00:54,400 --> 00:00:56,080
@@ -236,7 +238,7 @@ The pork feet were so blackened, but now look so brilliant.
 46
 00:01:59,240 --> 00:02:02,000
 # 就这个工序太重要了
-This very procedure matters very much.
+This procedure is very important.
 
 47
 00:02:02,000 --> 00:02:03,440
