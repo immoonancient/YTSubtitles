@@ -11,7 +11,7 @@
 # 这道东坡豆花是四川的一道名小吃，做法比麻婆豆腐简单多了，喜欢吃豆腐又怕麻烦的小友可以试试看！
 # 肉末的酥香搭配上豆腐的嫩滑，汤汁浓厚味道鲜美，回味无穷太赞了！
 
-# Hi friends, Happy Monday! Your favorite Chef Yang Bing is back with another authentic Sichuan recipe. Daye had this dish once when he visited Sichuan and he could not forget the taste. Authentic Sichuan street food is very comforting. Dongpo tofu is a very famous dish from Sichuan, and it is a lot easier to cook than Mapo tofu. If you like tofu but doesn't have enough time, you can try this at home! Crispy minced meat with soft silky tofu, the sauce is umami and packed with flavours.
+# Hi friends, Happy Monday! Your favorite Chef Yang Bing is back with another authentic Sichuan recipe. Da Ye had this dish once when he visited Sichuan and he could not forget the taste. Authentic Sichuan street food is very comforting. Dongpo tofu is a very famous dish from Sichuan, and it is a lot easier to cook than Mapo tofu. If you like tofu but don't have enough time, you can try this at home! Crispy minced meat with soft silky tofu, the sauce is umami and packed with flavors.
 
 # import intro
 
