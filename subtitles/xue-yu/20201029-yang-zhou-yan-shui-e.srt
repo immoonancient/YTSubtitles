@@ -256,7 +256,7 @@ For a slice of goose, I like the skin the best
 51
 00:04:50,840 --> 00:04:53,280
 # 鹅皮是最肥的
-It has the most fat
+It has most of the fat
 
 52
 00:04:53,280 --> 00:04:55,800
