@@ -626,7 +626,7 @@ If you use 1 liang (50g) sugar
 123
 00:05:08,560 --> 00:05:09,720
 # 基本就是一两醋
-you need 1 liang (500g) vinegar
+you need 1 liang (50g) vinegar
 
 124
 00:05:10,120 --> 00:05:10,400
