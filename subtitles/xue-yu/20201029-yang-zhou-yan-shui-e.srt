@@ -201,7 +201,7 @@ Having it plain is already not greasy or fishy at all
 40
 00:04:00,160 --> 00:04:03,440
 # 你像我刚才那么吃 就会觉得鹅肉很香
-It tastes very nice
+You can already taste the aroma of goose meat just by eating like that
 
 41
 00:04:03,440 --> 00:04:05,680
