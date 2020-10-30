@@ -28,7 +28,7 @@ called Dongpo tofu
 3
 00:00:05,600 --> 00:00:07,120
 # 麻婆豆腐多费劲啊
-Mapo tofu is too much effort
+Mapo tofu needs too much effort
 
 4
 00:00:07,120 --> 00:00:09,120
