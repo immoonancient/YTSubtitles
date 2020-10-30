@@ -13,6 +13,8 @@
 
 # Hi friends, Happy Monday! Your favorite Chef Yang Bing is back with another authentic Sichuan recipe. Daye had this dish once when he visited Sichuan and he could not forget the taste. Authentic Sichuan street food is very comforting. Dongpo tofu is a very famous dish from Sichuan, and it is a lot easier to cook than Mapo tofu. If you like tofu but doesn't have enough time, you can try this at home! Crispy minced meat with soft silky tofu, the sauce is umami and packed with flavours.
 
+# import intro
+
 # 字幕
 
 1
