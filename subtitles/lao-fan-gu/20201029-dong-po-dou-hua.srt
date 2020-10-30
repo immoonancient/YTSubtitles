@@ -542,7 +542,7 @@ So your follower wants to
 106
 00:04:41,440 --> 00:04:42,800
 # 想问大爷二伯
-ask Daye and Erbai
+ask Da Ye and Er Bai
 
 107
 00:04:42,800 --> 00:04:44,800
