@@ -39,7 +39,7 @@ It uses sourdough (the leftover from the previously leavened dough) as a natural
 6
 00:00:37,920 --> 00:00:42,000
 # 等到面涨起来之后 兑碱 放食用碱
-After the dough rise up, add alkali and edible alkali
+After the dough is leavened, add soda ash (sodium carbonate)
 
 7
 00:00:42,000 --> 00:00:45,440
