@@ -329,7 +329,7 @@ So i wait 3 stove for 5 jingangti
 64
 00:06:32,960 --> 00:06:34,440
 # 吃完 走
-I’m done, lets go
+I’m done. Lets go!
 
 65
 00:06:43,040 --> 00:06:46,600
