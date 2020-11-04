@@ -34,7 +34,7 @@ It smells like fermented
 5
 00:00:32,960 --> 00:00:37,920
 # 这是老面肥（上次发酵剩的面）做面引子
-This is the old dough fertilizer (the leftover from the last fermentation dough)
+It uses sourdough (the leftover from the previously leavened dough) as a natural starter
 
 6
 00:00:37,920 --> 00:00:42,000
