@@ -314,7 +314,7 @@ Because every customers in front of me who always order dozens of Jinggangti aft
 61
 00:05:53,600 --> 00:05:56,440
 # 我前一炉 那个是要了20个
-The guy front of me order 20 jingangti
+One guy purchased 20 when the previous stove was baked
 
 62
 00:05:56,440 --> 00:05:59,640
