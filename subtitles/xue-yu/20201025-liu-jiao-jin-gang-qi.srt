@@ -169,12 +169,12 @@ Then use water to cool down the stove before sticking the dough inside the stove
 32
 00:02:26,720 --> 00:02:30,040
 # 做金刚蹄呢 炉子的温度太高 手插不进去
-For making Jingangti, You can not put hand in if the temperature of the stove is too high
+When making Jin'gangti, you cannot reach inside if the temperature of the stove is too high
 
 33
 00:02:30,040 --> 00:02:33,280
 # 太低呢 贴在炉壁上是贴不住的
-And dough is hard to stick on the stove wall if the temperature is too low
+while the dough cannot stick on the stove wall if the temperature is too low
 
 34
 00:02:33,280 --> 00:02:36,320
@@ -184,47 +184,47 @@ So the temperature is very important
 35
 00:03:03,040 --> 00:03:05,640
 # 开始准备撒糖了
-It’s time to pour sugar on the top
+It’s time to pour sugar into the stove
 
 36
 00:03:10,200 --> 00:03:12,240
 # 把糖罐子烧红之后 把糖放进去
-After burning the sugar jar to red, put the sugar in
+After burning the jar with charcoal glowing red, put the sugar in
 
 37
 00:03:21,680 --> 00:03:25,520
 # 老板 还得多长时间  大概5分钟就可以出炉了
-How long will it take? About five minutes
+How long will it take? -About five minutes
 
 38
 00:03:31,680 --> 00:03:35,520
 # 顾客：反正我钱付了 明天这个时候过来拿
-Customer: Anyway, I paid. And i will come and get it at this time tomorrow
+Customer: Anyway, I have paid. I will come back the same time tomorrow to pick them up.
 
 39
 00:04:14,520 --> 00:04:19,880
 # 刚出炉的金刚蹄 确实是很像老虎的爪子
-The freshly baked Jingangti are indeed like tiger claws
+The freshly baked Jin'gangti looks indeed like a tiger's claw
 
 40
 00:04:19,880 --> 00:04:24,480
 # 像老虎爪子 也像一朵比较饱满的花
-Also looks like a fuller flower
+Or a blooming flower
 
 41
 00:04:25,320 --> 00:04:28,640
 # 这是我等了好几炉 才拿到的金刚蹄
-This is the Jingangti that I waited for several stoves to get
+This is the Jin'gangti I got after waiting for several rounds.
 
 42
 00:04:28,640 --> 00:04:33,320
 # 它一共有6个花瓣 看上去特别漂亮
-It has a total of 6 petals and looks very beautiful
+It is shaped as 6 petals and looks very beautiful
 
 43
 00:04:34,600 --> 00:04:37,960
 # 我真的是忍不住想吃一口
-I can’t wait to give a bite
+I can’t wait to take a bite
 
 44
 00:04:38,360 --> 00:04:40,320
@@ -234,37 +234,37 @@ Looks like bread
 45
 00:04:45,800 --> 00:04:50,520
 # 它这个是微微甜 还能吃出这种面的发酵的味道
-It taste slightly sweet and it can taste the fermented taste of dough
+It tastes slightly sweet and still maintains some flavor from leavening
 
 46
 00:04:50,520 --> 00:04:55,720
 # 上面呢 就是这个瓣的地方 特别柔软 松软
-The upper part is the place where this flap is very soft
+The upper part, the "flower petal", is very soft and spongy.
 
 47
 00:04:55,720 --> 00:04:57,560
 # 其实 你仔细按压一下
-Actually if you press it carefully
+Actually, if you squeeze it,
 
 48
 00:04:57,560 --> 00:05:00,800
 # 也会发现 它是有很大的孔隙的
-You will find out that it has large pores
+You will find that it has large pores
 
 49
 00:05:00,800 --> 00:05:05,000
 # 下面接触炉壁的地方 就会变得很脆
-The blow area which close to the stove wall will become
+The bottom side which stick to the stove wall becomes crispy.
 
 50
 00:05:05,000 --> 00:05:09,000
 # 尤其是刚出炉的时候 变得特别酥脆 可口
-Especially when it is fresh baked, it get very crispy and delicious
+Especially when it just come out of the stove, this part is extra crispy and delicious.
 
 51
 00:05:12,240 --> 00:05:16,560
 # 它有个好处就是吃起来没有那么甜
-It has an advantage that it tastes not so sweet
+It has an advantage of not too sweet
 
 52
 00:05:18,640 --> 00:05:20,280
@@ -274,27 +274,27 @@ It is crispy
 53
 00:05:22,040 --> 00:05:25,760
 # 它这边的金刚蹄是分咸的和甜的
-They have sweet and salty Jingangti
+They have sweet or salty Jin'gangti
 
 54
 00:05:25,760 --> 00:05:29,240
 # 但是说咸的卖的比较少 一般都是甜的
-But customer usually buy sweet mostly
+But salty ones are less popular than sweet ones.
 
 55
 00:05:29,240 --> 00:05:33,800
 # 走近 靠近金刚蹄的时候 你会觉得
-When you walk in and get close to fresh baked Jingangti
+When you walk by and get close to freshly baked Jin'gangti, you can feel that,
 
 56
 00:05:33,800 --> 00:05:39,840
 # 面香味浓郁 尤其加上烤制 这个味道就是更加吸引人
-The dough have a strong flavor, especially when roasted, the taste is even more attractive
+the aroma of the dough is strong and temping. Especially when roasted, the smell is even more attractive
 
 57
 00:05:39,840 --> 00:05:43,160
 # 我感觉它就像一个烤面包 一个1块5
-It feels like a baked bread, 1.5 yuan for each
+It feels like a baked bread, 1.5 yuan each
 
 58
 00:05:43,160 --> 00:05:46,560
@@ -304,12 +304,12 @@ Actually, the price is quite reasonable
 59
 00:05:46,560 --> 00:05:48,720
 # 为什么说 我是等了好几炉才买上
-The reason i waited for several stoves to get is
+Why I have to wait several rounds of baking before getting it?
 
 60
 00:05:48,720 --> 00:05:53,600
 # 因为在我前面 每一炉做好都有一个人会要几十个
-Because every customers in front of me who always order dozens of Jinggangti after a stove of fresh baked Jinggangti out
+Because every customer in front of me ordered dozens of Jin'gangti when a fresh stove of Jin'gangti is baked.
 
 61
 00:05:53,600 --> 00:05:56,440
