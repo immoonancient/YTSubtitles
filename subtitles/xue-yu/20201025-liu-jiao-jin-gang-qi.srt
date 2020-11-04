@@ -64,12 +64,12 @@ Then the snack will taste good
 11
 00:00:57,400 --> 00:00:58,880
 # 刚才有句话没录上
-There was a sentence that was not recorded
+There was a sentence missing from our recording
 
 12
 00:00:58,880 --> 00:01:01,240
 # 他说 做金刚蹄 最重要的是什么
-He said, what's the most important to make Jingangti
+He said, what's the most important thing to make perfect Jin'gangti?
 
 13
 00:01:01,240 --> 00:01:02,920
