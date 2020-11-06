@@ -1,0 +1,798 @@
+# https://youtu.be/1ZQaWTyra2E
+
+# 标题
+# 【国宴大师•炸小黄鱼】家常炸小黄鱼，香酥脆嫩，挂糊有妙招！吃十条都不过瘾！ |老饭骨
+
+# State Banquet Master Chef - Fried Yellow Croaker. Ten pieces are not enough!
+# 简介
+
+# 小友们好，今天大爷为大家带来一道家常菜——炸小黄鱼。
+# 炸小黄鱼用的糊在软炸糊的基础上做了一些调整，加了一些淀粉，增加它的脆感。
+# 这也是炸小黄鱼外面酥脆，里面的鱼肉还能保持软嫩的秘诀！
+# 小友们调糊也要根据原材料的水分和质地稍加调整，一通百通，这样做出来的菜才美味！
+# 简单家常的小黄鱼大家学会了吗？还想学习哪些糊的做法呢？欢迎在评论区告诉我们！
+
+# Introduction
+# Hello friends, today Da Ye brings you a home-cooked dish-fried yellow croaker.
+# The batter for fried small yellow croaker has been adjusted based on the soft fried batter, and some starch has been added to increase its crispness.
+# This is the secret why this deep-fried yellow croaker is crispy outside and soft inside!
+# When making the batter, you also need to adjust the batter slightly according to the moisture and texture of the raw materials. Master the one to Master all, dishes made in this way are delicious!
+# Do you know how to make this simple and homemade little yellow croaker? What other types of batter do you want to learn? Let us know by leaving your comments below!
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:03,480
+# 倍儿挺看着 饱满
+Looks very firm and full
+
+2
+00:00:03,480 --> 00:00:09,040
+# 这老两位 大爷和二伯 配合默契
+These two, Da Ye and Er Bai cooperate tacitly
+
+3
+00:00:09,040 --> 00:00:13,360
+# 也是会享受生活的好男人
+They are good men who know how to enjoy life
+
+4
+00:00:13,360 --> 00:00:14,200
+# 炸个小黄鱼
+Fried small yellow croaker
+
+5
+00:00:15,400 --> 00:00:18,160
+
+6
+00:00:18,160 --> 00:00:19,800
+# 这是最家常的
+This is a homestyle dish
+
+7
+00:00:19,800 --> 00:00:23,760
+# 咱们今天买这个是没去头没去肠
+What we bought today is whole, with head and intestine
+
+8
+00:00:23,760 --> 00:00:27,080
+# 留了几条给大家演示一下
+I left a few to demonstrate (on how to clean it)
+
+9
+00:00:27,080 --> 00:00:30,400
+# 这里边有个小肠子给它清理干净
+Here is the small intestine, clean it up
+
+10
+00:00:30,400 --> 00:00:32,920
+# 这就干净了
+This is clean now
+
+11
+00:00:34,160 --> 00:00:36,240
+# 干炸好吃
+Deep fried (yellow croaker) is delicious
+
+12
+00:00:36,240 --> 00:00:37,720
+# 腌这个特别简单
+Marinade this is very easy
+
+13
+00:00:37,720 --> 00:00:39,800
+# 花椒
+Sichuan Pepper
+
+14
+00:00:39,800 --> 00:00:42,960
+# 腌这个就是现在马上就炸
+Marinade this, if you are going to fry it right now
+
+15
+00:00:42,960 --> 00:00:44,600
+# 盐稍微重一点
+Use a bit more salt
+
+16
+00:00:44,600 --> 00:00:47,760
+# 说腌 一会儿两小时以后才吃呢
+If you marinade and plan to eat after two hours
+
+17
+00:00:47,760 --> 00:00:49,680
+# 那就稍微薄一点
+Use less salt
+
+18
+00:00:49,680 --> 00:00:53,040
+# 少来一点点味精
+A little bit of MSG
+
+19
+00:00:53,040 --> 00:00:54,360
+# 这个味精是提味
+Use MSG to enhance the flavor
+
+20
+00:00:54,360 --> 00:00:58,400
+# 有些原料它没什么特殊的味道
+Some ingredients have no special taste
+
+21
+00:00:58,400 --> 00:00:59,680
+# 我们还要补充一点味道
+We have to add a bit of flavor
+
+22
+00:00:59,680 --> 00:01:02,440
+# 黄酒
+Huangjiu Rice wine
+
+23
+00:01:02,440 --> 00:01:03,920
+# 我们还得搁点葱姜
+We need to add some green onion and ginger
+
+24
+00:01:03,920 --> 00:01:06,240
+# 腌这鱼就用点葱尾巴
+Marinating this fish only requires small amount of the end part of green onion
+
+25
+00:01:06,240 --> 00:01:08,240
+# 而且它腌的也容易出味
+And it's easy to release its tastes
+
+26
+00:01:08,240 --> 00:01:09,800
+
+27
+00:01:09,800 --> 00:01:11,160
+# 大约腌十五分钟
+Marinate for about 15 minutes
+
+28
+00:01:11,160 --> 00:01:15,400
+# 下面咱就焙点椒盐 完了再调糊
+Let's toast some Sichuan pepper salt and make the batter afterwards
+
+29
+00:01:15,400 --> 00:01:20,320
+# 这花椒盐就是现焙现用 别太多
+This pepper salt should be freshly toasted, so don’t make too much
+
+30
+00:01:20,320 --> 00:01:23,280
+# 吃不了过两天味没了
+If you can't finish it, the aroma will be gone after a few days
+
+31
+00:01:23,280 --> 00:01:25,360
+# 大爷为什么加点味精
+Da Ye, why do you add some MSG?
+
+32
+00:01:25,360 --> 00:01:28,800
+# 不加味精还真不鲜 就这鱼挺怪
+It's not umami without MSG, this fish is pretty weird
+
+33
+00:01:28,800 --> 00:01:31,280
+# 有些东西必须得加点
+Some things must be added
+
+34
+00:01:31,280 --> 00:01:33,280
+# 因为它本身没有什么
+Because it has nothing,
+
+35
+00:01:33,280 --> 00:01:35,160
+# 其它的味道 除了腥
+Other smells except fishy
+
+36
+00:01:35,160 --> 00:01:37,840
+# 花椒焙好了 晾一晾
+The peppercorns are toasted. Let it dry and cool down
+
+37
+00:01:37,840 --> 00:01:40,320
+# 大爷 焙花椒的火候
+Da Ye, the temperature to toast pepper
+
+38
+00:01:40,320 --> 00:01:41,840
+# 是不是有一个讲究
+Is there a particular (temperature)?
+
+39
+00:01:41,840 --> 00:01:43,680
+# 基本上是以小火
+Basically with low heat
+
+40
+00:01:43,680 --> 00:01:48,280
+# 焙的稍微焦糊一点 出香味为准
+Toast till slightly burnt. When the aroma release, it is done
+
+41
+00:01:48,280 --> 00:01:50,640
+# 这花椒不能焙的太嫩是吧 对
+Sichuan pepper cannot be under-toasted, right?
+
+42
+00:01:50,640 --> 00:01:54,880
+# 稍微过一点 因为它里边你焙不透
+Over-toast it a little bit, because (otherwise) the inside might not have been toasted thoroughly
+
+43
+00:01:54,880 --> 00:01:56,760
+# 擀一下你看
+Crush it with rolling pin, see
+
+44
+00:01:58,360 --> 00:02:02,280
+# 它火候到了自然一擀就碎
+If it is well cooked, it break easily when you crush it
+
+45
+00:02:02,280 --> 00:02:04,360
+# 待会凉了之后更好擀了
+It will be easier after it gets cold
+
+46
+00:02:04,360 --> 00:02:07,400
+# 家里边炸小黄鱼 不加鸡蛋
+Fried small yellow croaker at home without eggs,
+
+47
+00:02:07,400 --> 00:02:09,320
+# 完全是面糊 不太香
+but only flour batter, is not very fragrant
+
+48
+00:02:09,320 --> 00:02:13,040
+# 搁点鸡蛋 是起一个增香的作用
+Add some egg and it will enhance the fragrance
+
+49
+00:02:13,040 --> 00:02:15,720
+# 另外挂糊比较饱满
+In addition, the batter will be fuller
+
+50
+00:02:15,720 --> 00:02:17,640
+# 所以这鸡蛋不宜太多
+No need for too many eggs
+
+51
+00:02:17,640 --> 00:02:18,800
+# 有一个就足矣了
+Just one is enough
+
+52
+00:02:18,800 --> 00:02:20,160
+# 全蛋是吧 全蛋
+Whole egg, right? Whole egg
+
+53
+00:02:20,160 --> 00:02:22,440
+# 面粉  我这不是软炸糊
+Flour, this is not soft fried batter
+
+54
+00:02:22,440 --> 00:02:26,080
+# 在软炸糊的基础上 给做了一些调整
+I made some adjustments on the basis of soft fried batter
+
+55
+00:02:26,080 --> 00:02:28,080
+# 软炸糊就是鸡蛋面粉
+Soft fried batter is (using) egg and flour
+
+56
+00:02:28,080 --> 00:02:30,600
+# 有些网友可能在纠结说
+Some netizens may think
+
+57
+00:02:30,600 --> 00:02:32,240
+# 软炸糊不搁淀粉
+Soft fried batter does not include starch
+
+58
+00:02:32,240 --> 00:02:37,600
+# 不是 根据原材料的水分和它的质地
+No necessarily. Based on the moisture and texture of the raw material
+
+59
+00:02:37,600 --> 00:02:39,480
+# 你要适当的加点淀粉
+You need to add some starch
+
+60
+00:02:39,480 --> 00:02:41,720
+# 为什么 增加它的脆感
+Why? To increase its crispness
+
+61
+00:02:41,720 --> 00:02:43,320
+# 水分别流失的太多
+Avoid losing too much water
+
+62
+00:02:43,320 --> 00:02:47,400
+# 这鱼炸得又要焦脆 但是还要鲜嫩
+This fish need to fry till crispy but still need to be tender
+
+63
+00:02:47,400 --> 00:02:49,680
+# 你不能炸那鱼跟干炸鱼似的
+You can't fry the fish like dry fried fish
+
+64
+00:02:49,680 --> 00:02:53,120
+# 那叫干炸小黄鱼 这个是带点糊的
+It's called dry fried yellow croaker. This one is with batter.
+
+65
+00:02:53,120 --> 00:02:57,480
+# 三分之一的淀粉 还得给点水
+One-third of starch, and add some water
+
+66
+00:02:57,480 --> 00:03:00,640
+# 面粉和淀粉的比例是二比一
+The ratio of flour to starch is two to one
+
+67
+00:03:00,640 --> 00:03:03,400
+# 二的面粉 一的淀粉
+2 portions of flour, 1 portion starch
+
+68
+00:03:03,400 --> 00:03:06,200
+# 这个糊因为咱们鱼刚才腌了 也看了
+This batter, because our fish was marinated just now
+
+69
+00:03:06,200 --> 00:03:09,040
+# 比较干 控水控的比较干
+And relatively dry, no extra water
+
+70
+00:03:09,040 --> 00:03:12,920
+# 所以这个糊稍微让它稀一点
+So let this batter be a little thinner
+
+71
+00:03:12,920 --> 00:03:16,840
+# 最关键最关键就是这糊 这就好啦
+The most important thing is this batter. That's it
+
+72
+00:03:16,840 --> 00:03:18,360
+# 亮子 有时候咱们做饭
+Liangzi, sometimes when we cook
+
+73
+00:03:18,360 --> 00:03:20,440
+# 还得掌握一个时间差
+We need to master a time difference
+
+74
+00:03:20,440 --> 00:03:25,400
+# 油烧上 花椒刚才二伯给擀了擀
+Preheat the oil. Er Bai crushed the pepper just now
+
+75
+00:03:25,400 --> 00:03:27,840
+# 你看这个程序
+Look at this procedure
+
+76
+00:03:27,840 --> 00:03:31,000
+# 择完鱼腌鱼 腌完鱼擀花椒
+Clean fish, marinate fish, and then crush Sichuan pepper
+
+77
+00:03:31,000 --> 00:03:33,760
+# 我们还要过滤一下
+We have to filter it
+
+78
+00:03:33,760 --> 00:03:38,080
+# 这个细的花椒面是蘸椒盐用的
+This fine pepper powder is for Sichuan pepper salt
+
+79
+00:03:38,080 --> 00:03:40,440
+# 粗的干嘛的呢 别扔
+What do you do with the coarse pepper powder? Don't throw it away
+
+80
+00:03:40,440 --> 00:03:42,400
+# 那个是炒菜的时候
+That is for cooking
+
+81
+00:03:42,400 --> 00:03:45,280
+# 比如做麻婆豆腐 给炒到里头
+Like making Mapo Tofu, use that.
+
+82
+00:03:45,280 --> 00:03:46,880
+# 不能浪费
+Shouldn’t waste ingredients
+
+83
+00:03:46,880 --> 00:03:49,240
+# 齐活 齐了
+All done
+
+84
+00:03:49,240 --> 00:03:51,120
+# 这椒盐真香
+This Sichuan pepper salt is really fragrant
+
+85
+00:03:51,120 --> 00:03:54,000
+# 椒盐怎么兑呢 一比一两勺盐
+How to make Sichuan pepper salt? One to one, two tablespoons of salt
+
+86
+00:03:54,000 --> 00:03:56,600
+# 然后这个味精是一定要加的
+Then this MSG must be added
+
+87
+00:03:56,600 --> 00:03:59,520
+# 椒盐里边也得加味精
+MSG must be added to the Sichuan pepper salt
+
+88
+00:03:59,520 --> 00:04:00,880
+# 必须加 必须得加味精
+Must add MSG
+
+89
+00:04:00,880 --> 00:04:02,760
+# 它就吃出来鲜了
+It's umami
+
+90
+00:04:02,760 --> 00:04:05,560
+# 为什么说他的黄鱼好吃呢
+Why is his yellow croaker delicious?
+
+91
+00:04:05,560 --> 00:04:07,400
+# 捏这椒盐到什么颜色
+Mix the Sichuan pepper salt to what extent?
+
+92
+00:04:07,400 --> 00:04:11,200
+# 一定要看点白的 沙沙的盐
+Must see some white, sandy-like salt
+
+93
+00:04:11,200 --> 00:04:16,440
+# 特别好看 这个椒盐就算齐了
+It's so pretty. This Sichuan pepper salt is ready
+
+94
+00:04:16,440 --> 00:04:20,040
+# 这油锅也差不多了 油锅也热了
+This oil is almost heated
+
+95
+00:04:20,040 --> 00:04:23,840
+# 然后您的鱼 我给您放过来 得
+Then your fish. Let me put it here for you. Good.
+
+96
+00:04:23,840 --> 00:04:27,280
+# 谢谢二伯 我就是老饭骨小助手
+Thank you, Er Bai. I'm your assistant
+
+97
+00:04:27,280 --> 00:04:28,640
+# 这花椒不用择出来
+No need to pick this Sichuan pepper out
+
+98
+00:04:28,640 --> 00:04:30,840
+# 花椒一会搁里都不要紧
+It doesn't matter if you leave the peppercorns in
+
+99
+00:04:30,840 --> 00:04:36,120
+# 把鱼放进去 放进去以后有两种炸法
+There are two ways to fry the fish after putting it in
+
+100
+00:04:36,120 --> 00:04:37,320
+# 一种是蘸糊炸
+One is dipping the batter and fry
+
+101
+00:04:37,320 --> 00:04:39,200
+# 一种是像这种混炸
+One is like this, mixing then fry
+
+102
+00:04:39,200 --> 00:04:43,480
+# 就是把糊和鱼拌一块 这样的比较省
+Just mix the batter and fish together. This way saves batter.
+
+103
+00:04:45,320 --> 00:04:49,400
+# 你要蘸糊炸呢 就是糊厚
+If you dip the batter and fry, the coating is thick
+
+104
+00:04:49,400 --> 00:04:50,680
+# 咱们试一个
+Let's try one
+
+105
+00:04:50,680 --> 00:04:53,880
+# 一般的来说 你看不能马上往下滴答
+Generally speaking, the batter should not drip down right away
+
+106
+00:04:53,880 --> 00:04:55,720
+# 这糊就合适
+This means the batter is suitable
+
+107
+00:04:55,720 --> 00:04:57,680
+
+108
+00:04:57,680 --> 00:04:59,600
+# 这油温合适
+The oil temperature is right
+
+109
+00:04:59,600 --> 00:05:01,960
+# 你看这糊 亮子
+Look at this batter, Liangzi
+
+110
+00:05:01,960 --> 00:05:04,440
+# 倍儿匀 光溜
+Very even, smooth
+
+111
+00:05:04,440 --> 00:05:07,760
+# 咱们这个糊就合适了
+Our batter is suitable
+
+112
+00:05:07,760 --> 00:05:11,520
+# 这是两次炸熟 先定型
+We will fry twice, first fix the shape
+
+113
+00:05:11,520 --> 00:05:15,440
+# 拉起来这鱼不能马上滴答汁儿
+This fish shouldn't drip liquid right away
+
+114
+00:05:15,440 --> 00:05:19,600
+# 糊不能马上往下垂 那就糊稀了
+The batter shouldn't drip immediately, otherwise the batter is too thin
+
+115
+00:05:19,600 --> 00:05:24,640
+# 油温大约在五六成热 定型
+The oil temperature is about 50% to 60% (150-180 C) heat setting to fix the shape of the fish
+
+116
+00:05:24,640 --> 00:05:29,800
+# 你看二伯 小助手
+Look at Er Bai, little assistant
+
+117
+00:05:29,800 --> 00:05:33,080
+# 二伯是我的小助手
+Er Bai is my little assistant
+
+118
+00:05:33,080 --> 00:05:34,520
+
+119
+00:05:34,520 --> 00:05:36,760
+# 看见了么 这老两位
+Did you see these two?
+
+120
+00:05:38,640 --> 00:05:42,080
+# 大爷和二伯配合默契
+Da Ye and Er Bai cooperate tacitly
+
+121
+00:05:42,080 --> 00:05:46,840
+# 也是会享受生活的好男人
+They are good men who know how to enjoy life
+
+122
+00:05:46,840 --> 00:05:51,280
+# 这两口子做饭 这不也更快乐了
+It’s happier for couple to cook together
+
+123
+00:05:51,280 --> 00:05:54,120
+# 先定型 炸到金黄色
+Fix the shape first and deep-fried until golden brown
+
+124
+00:05:54,120 --> 00:05:57,280
+# 实际上早上喝粥炸点也好吃
+In fact, it is good with porridge in the morning
+
+125
+00:05:57,280 --> 00:05:59,920
+# 把这渣子抄一下
+Get rid of this fried crumbs
+
+126
+00:05:59,920 --> 00:06:04,680
+# 好了 走着 复炸一遍
+Okay, let's go and fry it again
+
+127
+00:06:05,760 --> 00:06:07,800
+# 这也下锅是么 来啦
+Isn't this going in as well? Here it goes
+
+128
+00:06:07,800 --> 00:06:09,840
+
+129
+00:06:09,840 --> 00:06:11,040
+# 我没用那么多油
+I didn't use too much oil
+
+130
+00:06:11,040 --> 00:06:14,640
+# 节省点油 我就把油温升的高一点
+Save some oil, I will raise the oil temperature a bit higher
+
+131
+00:06:14,640 --> 00:06:19,920
+# 基本就好了 倍儿挺看着 饱满
+Basically it's done. Looks pretty firm and full
+
+132
+00:06:19,920 --> 00:06:21,600
+# 咱就开始捞了
+Let's start taking it out
+
+133
+00:06:21,600 --> 00:06:24,000
+# 外边买的外边都厚厚一层
+The (fried fish) you bought outside has a very thick coating
+
+134
+00:06:24,000 --> 00:06:25,320
+# 里边的小鱼不大
+But the fish inside is not big
+
+135
+00:06:25,320 --> 00:06:27,720
+# 看着炸出来个儿挺大的
+Looks big
+
+136
+00:06:27,720 --> 00:06:31,040
+# 外边酥脆 里边鲜嫩
+Crispy outside and tender inside
+
+137
+00:06:31,040 --> 00:06:36,400
+# 小黄鱼里边的肉一定得吃嫩嫩的那种
+The flesh of yellow croaker need to be tender
+
+138
+00:06:36,400 --> 00:06:38,840
+# 您先尝第一口咸不咸
+You take the first bite. Is it salty or not?
+
+139
+00:06:38,840 --> 00:06:41,920
+# 不咸的时候您蘸点椒盐 又是一个口
+If it’s not salty, dip it in Sichuan pepper salt. Another flavor
+
+140
+00:06:41,920 --> 00:06:42,680
+# 我来
+Let me try
+
+141
+00:06:42,680 --> 00:06:47,920
+
+142
+00:06:47,920 --> 00:06:48,960
+# 咸淡味
+Salty
+
+143
+00:06:52,120 --> 00:06:53,080
+# 这真够了
+This is enough
+
+144
+00:06:54,600 --> 00:06:57,800
+# 这小骨头一提溜就全出去了
+The bones are removed when you pick it up gently
+
+145
+00:06:57,800 --> 00:07:00,640
+# 我也来一个 随便挑一个
+Let me have one, pick one
+
+146
+00:07:00,640 --> 00:07:02,760
+# 我挑一个儿大的
+I want to pick a big one
+
+147
+00:07:02,760 --> 00:07:08,160
+# 没有太大的 我下手 就是武吃
+No extremely big ones. I will use my hand, Wu Chi
+
+148
+00:07:08,160 --> 00:07:13,440
+
+149
+00:07:14,920 --> 00:07:17,680
+# 咸淡味 咸淡味合适
+Proper saltiness
+
+150
+00:07:17,680 --> 00:07:20,640
+# 但是这个椒盐里边加味精
+But adding MSG in this Sichuan pepper salt
+
+151
+00:07:20,640 --> 00:07:26,680
+# 这确实是鲜度增加了 口感不一样
+This indeed enhances umami flavor, and it tastes differently
+
+152
+00:07:26,680 --> 00:07:29,880
+# 它皮不是那么酥  但是它就是好吃
+Its skin is not so crispy, but it is delicious
+
+153
+00:07:29,880 --> 00:07:32,320
+# 大爷这个就有这特点
+The dish that Da Ye made has this feature:
+
+154
+00:07:32,320 --> 00:07:35,880
+# 你吃了一个 你就想第二个
+You eat one, you want the second
+
+155
+00:07:35,880 --> 00:07:38,280
+# 这不吃白不吃了 不吃白不吃
+Don’t waste the chance to eat.
+
+156
+00:07:38,720 --> 00:07:38,800
+
+157
+00:07:38,800 --> 00:07:39,760
+# 我也来一个
+I will also have one
+
+158
+00:07:41,200 --> 00:07:42,760
+# 现出锅好吃 香
+It's delicious, when it just comes out of the pot
