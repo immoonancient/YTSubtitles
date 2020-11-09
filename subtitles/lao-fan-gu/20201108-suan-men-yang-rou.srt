@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•蒜焖羊肉】不加香料做出最原汁原味的蒜焖羊肉！鲜香味美，没膻味全靠这个小窍门！ |老饭骨
-# State Banquet Master Chef: Stewed lamb with garlic. The most original taste of lamb, no spices added!
+# State Banquet Master Chef - Stewed lamb with garlic. The most original taste of lamb!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,8 +13,10 @@
 # 小友们快点击视频，告诉你们这个小绝招！喜欢的小友一定不要忘了点赞留言，咱们开饭咯！
 # Hello friends! Our best meat-lover Chef Feng is bringing another home-made dish: Stewed lamb with garlic!
 # This dish presents the most original aroma of lamb with simple ingredients. It feels so warm and comfortable when you can have a big bowl of soup during the cold days!
-# However, in most situations we can only find frozen lamb when cooking at home. How can we remove the ram taint of frozen lamb?
+# However, in most situations we can only find frozen lamb when cooking at home. How can we remove the gamey flavour of frozen lamb?
 # Please find the trick in the video! Don't forget to thumb up and comment if you like it! Time for dinner!
+
+# import intro
 
 # 字幕
 
@@ -151,7 +153,7 @@ But once the meat is frozen
 27
 00:01:14,800 --> 00:01:17,320
 # 它腥膻味就加重
-The taint strengthens
+The gamey flavour strengthens
 
 28
 00:01:17,320 --> 00:01:20,200
@@ -201,7 +203,7 @@ However this does not apply to fresh meat
 37
 00:01:40,440 --> 00:01:43,000
 # 鲜肉您你怎么煮它都是清的
-Fresh meat always tastes nice no matter how you deal with it #这句话有点意味不明...
+Fresh meat always tastes nice no matter how you deal with it
 
 38
 00:01:43,000 --> 00:01:45,280
@@ -396,7 +398,7 @@ has always a been popular dish
 76
 00:03:16,000 --> 00:03:18,160
 # 行了 这开锅就行了
-Okay. It's done when boiling
+Okay. When the water is boiling, it is done.
 
 77
 00:03:18,160 --> 00:03:21,720
@@ -456,7 +458,7 @@ It was back into the 80s, Da Ye
 88
 00:03:47,960 --> 00:03:51,680
 # 就炖羊肉 就那老黄鸡扔进半只去
-While brewing lamb, simply put half of an old chicken into the pot
+While stewing lamb, simply put half of an old chicken into the pot
 
 89
 00:03:51,680 --> 00:03:54,240
@@ -617,7 +619,7 @@ Get rid of it with a spoon
 121
 00:05:14,520 --> 00:05:16,600
 # 下一步 先给它捞出来
-Next step. Taking out of the water first
+Next step. Taking it out first
 
 122
 00:05:16,600 --> 00:05:18,480
@@ -806,7 +808,7 @@ Because the temperature is not high enough here
 160
 00:06:47,400 --> 00:06:50,760
 # 你要一下闷了你就冲不出来了
-If you add too much broth in one go, the fatty droplets stay inside the meat and will not go out #理论上奶白汤是由于脂肪滴的悬浊液，这里加了一点解释
+If you add too much broth at once, the fatty droplets stay inside the meat and will not go out 
 
 161
 00:06:50,760 --> 00:06:53,400
@@ -831,7 +833,7 @@ One more spoon. That's intriguing
 165
 00:07:02,440 --> 00:07:04,200
 # 刚才咱们一点盐没有
-We didn't add any salt just now
+We didn't add any salt previously
 
 166
 00:07:04,200 --> 00:07:06,840
@@ -935,7 +937,7 @@ With very outstanding flavor
 187
 00:08:17,480 --> 00:08:22,000
 # 大蒜和羊肉这个融合 挺好的
-The combination between garlic and lamb
+The combination between garlic and lamb, great!
 
 188
 00:08:22,000 --> 00:08:24,120
@@ -995,7 +997,7 @@ I don't really enjoy those
 199
 00:08:51,480 --> 00:08:54,640
 # 用料简单 但是原料不简单
-Simple ingredients, but not simple material #不太明白大爷当时想表达啥...
+Simple ingredients, but the raw material is not simple 
 
 200
 00:08:54,640 --> 00:08:57,720
@@ -1010,7 +1012,7 @@ According to Er Bai
 202
 00:08:59,240 --> 00:09:02,320
 # 调水也好 调情也好 调味也好
-'Tune the water, tune the feel, tune the flavor' #这里可能也不太准确...
+'Tune the water, tune the feel, tune the flavor' 
 
 203
 00:09:02,320 --> 00:09:05,840
