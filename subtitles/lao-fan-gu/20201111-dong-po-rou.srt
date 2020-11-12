@@ -12,7 +12,7 @@
 # 快点击视频，看看一动就直颤悠的东坡肉是怎么做出来的，强烈建议这期视频小友们吃饱了再看
 
 # Hello friends, many of you have requested this dish, today Master Sui is making
-# it for you! Master Sui's version is from the Huaiyang (near Shanghai) region,
+# Dongpo Pork for you! Master Sui's version is from the Huaiyang (near Shanghai) region,
 # famous for its infused ShaoXing cooking wine flavour. The final dish will be a
 # marriage between rich flavourful sauce and tender, melting pork belly. Master
 # Sui gives out a few tips on picking the right pork, judging the done-ness and
@@ -22,6 +22,8 @@
 
 # P.S. Dongpo refers to Su Dongpo(苏东坡), one of the greatest poet in the entire
 # Chinese history. Some say, this is his favourite dish...
+
+# import intro
 
 # 字幕
 
@@ -56,7 +58,7 @@ Dongpo pork, a famous, traditional dish.
 7
 00:00:14,080 --> 00:00:15,960
 # 你这个烧法是传统烧法
-Traditional cooking today, eh.
+You are showing the traditional cooking technique today, eh.
 
 8
 00:00:15,960 --> 00:00:18,120
@@ -116,22 +118,22 @@ Remember to torch it, until, burnt
 19
 00:00:37,200 --> 00:00:38,280
 # 糊了之后一会一洗
-Wash it afterwards, the pork will hava a yellow hue
+Wash it afterward
 
 20
 00:00:38,280 --> 00:00:40,480
 # 会变成那种黄颜色
-Wash it afterwards, the pork will hava a yellow hue
+The pork will change to yellow
 
 21
 00:00:40,480 --> 00:00:42,800
 # 而且烧完黄之后 然后一刮
-Plus, scraping the skin (after torching it) helps the skin to absorb the sauce
+Plus, after torching it, you scrap the skin 
 
 22
 00:00:42,800 --> 00:00:45,560
 # 还便于吸收汤汁当中的颜色
-Plus, scraping the skin (after torching it) helps the skin to absorb the sauce
+it helps the skin to absorb the sauce
 
 23
 00:00:45,560 --> 00:00:47,080
@@ -161,12 +163,12 @@ where Su Dongpo served as a gov. official
 28
 00:00:57,160 --> 00:00:59,920
 # 而且苏东坡也喜欢美食
-and he loved his food, and made some too.
+and he loved his food
 
 29
 00:00:59,920 --> 00:01:03,440
 # 所以他擅长的也要做一些菜
-and he loved his food, and made some too.
+also enjoyed making them.
 
 30
 00:01:03,440 --> 00:01:06,520
@@ -191,12 +193,12 @@ Brush off the burnt bits.
 34
 00:01:13,800 --> 00:01:17,560
 # 好了干净了 这表面颜色又红
-Look, done, it's pink-ish on the skin, good color!
+Look, done, it's pink-ish on the skin.
 
 35
 00:01:17,560 --> 00:01:18,400
 # 颜色很漂亮
-Look, done, it's pink-ish on the skin, good color!
+The color looks great!
 
 36
 00:01:18,400 --> 00:01:19,720
@@ -251,7 +253,7 @@ Just make sure there's no oil coagulate on the surface
 46
 00:01:43,440 --> 00:01:46,240
 # 也不一定非得是零度的水
-Don't use freezing water.
+Don't need to use freezing cold water.
 
 47
 00:01:46,240 --> 00:01:48,800
@@ -271,12 +273,12 @@ Green onion, ginger, boil it thoroughly
 50
 00:01:54,440 --> 00:01:56,840
 # 第一刚放进去之后煮时间不长
-At begining, you won't be able to poke it with chopsticks
+At beginning, we are not boiling for too long
 
 51
 00:01:56,840 --> 00:01:59,120
 # 那么用筷子你扎的时候是扎不动的
-At begining, you won't be able to poke it with chopsticks
+so you won't be able to poke it with chopsticks
 
 52
 00:01:59,120 --> 00:02:00,240
@@ -344,7 +346,7 @@ You see how easy it goes through!
 65
 00:02:26,720 --> 00:02:29,240
 # 一定要煮到筷子一插能透进去
-It's important that you reach this stage!
+You have to boil till the pork is easy to poke through.
 
 66
 00:02:29,240 --> 00:02:30,600
@@ -476,7 +478,7 @@ until it takes on some color
 93
 00:03:46,080 --> 00:03:48,320
 # 这是什么 黄酒
-Cooking wine, in
+What's this? Huangjiu cooking wine
 
 94
 00:03:48,320 --> 00:03:52,280
@@ -512,12 +514,12 @@ so you might use a bit more wine here
 101
 00:04:07,240 --> 00:04:09,560
 # 突出的是酒香味
-to feature the wine.
+to feature the aroma of cooking wine.
 
 102
 00:04:09,560 --> 00:04:12,320
 # 把肉放进去
-In the meat goes,
+Add in the meat
 
 103
 00:04:12,320 --> 00:04:16,040
@@ -542,12 +544,12 @@ you can get away with some spacers on the bottom.
 107
 00:04:23,520 --> 00:04:26,320
 # 这个水位水量不够 还得加点热水
-Add hot water until the meat is submerged
+The water is not enough, add more
 
 108
 00:04:26,320 --> 00:04:27,960
 # 要漫过肉来
-Add hot water until the meat is submerged
+until the meat is submerged
 
 109
 00:04:27,960 --> 00:04:29,480
@@ -622,7 +624,7 @@ Some also tie the meat with twine, to keep its shape
 123
 00:04:59,560 --> 00:05:02,040
 # 这就是防止这个肉散掉
-Some also tie the meat with twine, to keep its shape
+to keep its shape
 
 124
 00:05:02,040 --> 00:05:05,880
@@ -642,7 +644,7 @@ If you use the fattier part, it will fall apart
 127
 00:05:11,600 --> 00:05:13,360
 # 夹起来以后它会很散掉
-If you use the fattier part, it will fall apart
+it is easy to fall apart
 
 128
 00:05:13,360 --> 00:05:15,680
@@ -708,17 +710,17 @@ See the meat is ready, the chopstick goes through just like  that
 141
 00:05:41,440 --> 00:05:42,960
 # 不费劲
-Like butter.
+Effortless.
 
 142
 00:05:42,960 --> 00:05:46,200
 # 行了别捅了 一会全是扎的眼儿了
-Enough poking pal, holes all over the place
+Enough poking, pal. Holes are all over the place
 
 143
 00:05:46,200 --> 00:05:48,720
 # 把肉捞到一个地方
-Strain the liquid
+Take the meat out
 
 144
 00:05:48,720 --> 00:05:51,560
@@ -763,12 +765,12 @@ the sauce is not as sticky
 152
 00:06:12,440 --> 00:06:14,360
 # 所以一会儿我们收汁的时候
-So a bit of slurry is needed later!
+So when we reduce the sauce,
 
 153
 00:06:14,360 --> 00:06:16,040
 # 还要适当勾点芡
-So a bit of slurry is needed later!
+we need to use a bit of slurry!
 
 154
 00:06:16,040 --> 00:06:18,680
@@ -778,22 +780,22 @@ That's good taste!
 155
 00:06:18,680 --> 00:06:21,480
 # 咱们做东坡肉的过程当中
-In the braising process, some of the flavour has evaporated
+In the braising process
 
 156
 00:06:21,480 --> 00:06:23,120
 # 因为经过加热挥发
-In the braising process, some of the flavour has evaporated
+due to the heating and evaporation, 
 
 157
 00:06:23,120 --> 00:06:24,760
 # 咱们里边酒香味已经不够了
-So we add some flavour here to compensate, boil for another while
+the aroma of cooking wine is not enough.
 
 158
 00:06:24,760 --> 00:06:31,760
 # 所以我们要补上一部分 再滚一下
-So we add some flavour here to compensate, boil for another while
+So we add some to compensate, then boil for another while
 
 159
 00:06:31,760 --> 00:06:33,400
@@ -853,7 +855,7 @@ Voilà,
 172
 00:07:06,560 --> 00:07:07,800
 # 来一点明油
-a bit of scallion oil (or just cooking oil will do, if you don't have it)
+a bit of scallion oil
 
 173
 00:07:07,800 --> 00:07:12,280
@@ -869,7 +871,7 @@ Off the heat.
 176
 00:07:14,920 --> 00:07:16,200
 # 红亮
-Look at the red shine!
+Look at the red shine meat!
 
 177
 00:07:16,200 --> 00:07:18,040
@@ -914,7 +916,7 @@ Da Ye cannot chew lean meat with his back teeth.
 185
 00:07:39,040 --> 00:07:42,320
 # 这牙吃瘦吃不了 只能吃肥的
-Da Ye cannot chew lean meat with his back teeth
+can only chew the fat part.
 
 186
 00:07:42,320 --> 00:07:45,320
@@ -937,12 +939,12 @@ Actually, it'd be more flavourful, if we don't use the pressure cooker
 190
 00:07:59,000 --> 00:08:01,720
 # 要在原锅里边炖一个半小时的话
-and just boil it for 90 minutes
+and just stew it for 90 minutes
 
 191
 00:08:01,720 --> 00:08:04,280
 # 这肉就更香
-and just boil it for 90 minutes
+The meat will be more fragrant. 
 
 192
 00:08:04,280 --> 00:08:06,640
@@ -967,7 +969,7 @@ Er Bai, taste it now bro.
 196
 00:08:12,760 --> 00:08:14,080
 # 接着锅尝
-
+just use the pot as your bowl
 197
 00:08:14,080 --> 00:08:16,640
 # 带着空心馒头
@@ -976,22 +978,22 @@ have it with flat Mantou
 198
 00:08:16,640 --> 00:08:17,960
 # 我就不一一说了
-Lemme summarize
+I am not going to details
 
 199
 00:08:17,960 --> 00:08:19,440
 # 说点关键的
-Lemme summarize
+directly summarize it
 
 200
 00:08:19,440 --> 00:08:20,600
 # 调味的六大要素
-Sui Po mastered all six aspect of seasoning
+Six aspects of seasoning
 
 201
 00:08:20,600 --> 00:08:24,760
 # 隋坡掌握的是完全面面俱到
-Sui Po mastered all six aspect of seasoning
+Sui Po mastered well in every aspect
 
 202
 00:08:24,760 --> 00:08:27,480
@@ -1039,7 +1041,7 @@ The key here, he's got the right balance between sweet and savoury.
 211
 00:08:49,840 --> 00:08:53,240
 # 南方人太甜 我真不喜欢吃
-I don't personally like the over-sweet Southern cooking,
+Personally, I don't like the over-sweet Southern cuisine,
 
 212
 00:08:53,240 --> 00:08:55,720
@@ -1059,7 +1061,7 @@ A bit guilty if I do though!
 215
 00:08:58,080 --> 00:09:01,120
 # 批准 二伯再吃一块
-Approved! Have another go Er Bai!
+Approved! Have another one, Er Bai!
 
 216
 00:09:01,120 --> 00:09:05,480
