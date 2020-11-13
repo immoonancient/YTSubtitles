@@ -1,12 +1,14 @@
 # https://youtu.be/RT9tmSnpziI
 
 # 【国宴大师•黄金炒饭】松软弹香又油润，粒粒分明不粘锅！这样的黄金炒饭不来一碗吗？ |老饭骨
-
+State Banquet Master Chef - Golden Fried Rice. Fluffy and Fragrant! 
 # 小友们好，今天给大家带来一碗家常的黄金炒饭！
 # 听着这个名字是不是就很诱人呢？每一粒米都吸收了蛋黄，颗颗分明、松软弹香又油润！
 # 这次的讲解细节很到位，小友们可要仔细看视频，这道黄金炒饭做法也很简单，新手也能做！
 # 不知道吃什么的时候就来一碗，小饭骨们，开饭咯！
-# Hello friends, today we will introduce “golden fried rice”! Isn't it tempting to hear that name? Every grain of rice has absorbed egg yolks, a clear, soft marble fragrance and oily! This time the details of the explanation is in place, make sure to watch the video carefully. This golden fried rice is also very simple, beginner can do it as well! It’s a good choice when you don’t know what to eat. Let’s eat!
+# Hello friends, today we will introduce “golden fried rice”! Does it sound tempting just hearing the name? Every grain of rice has absorbed egg yolks, a clear, soft marble fragrance and oily! This time the details of the explanation is in place, make sure to watch the video carefully. This golden fried rice is also very simple, beginner can do it as well! It’s a good choice when you don’t know what to eat. Let’s eat!
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:01,880
@@ -34,12 +36,12 @@ We often used leftover rice
 6
 00:00:14,560 --> 00:00:16,960
 # 润润锅 家里边有不粘锅的
-Add some oil to prevent stick pans
+Add some oil to prevent sticking
 
 7
 00:00:16,960 --> 00:00:18,680
 # 咱就不用聊了 怎么都不粘
-Use non-stick fry pan for the best
+If you use non-stick fry pan, we don't need to do the rest steps. It is not sticky
 
 8
 00:00:18,680 --> 00:00:22,120
@@ -59,7 +61,7 @@ Then heat it up slowly
 11
 00:00:26,440 --> 00:00:29,880
 # 怎么也得到六成以上 关火多焖一会儿
-heat it for at least 60 percent
+heat it for at least 60 percent (180 C). Turn off the heat and leave it for a while
 
 12
 00:00:29,880 --> 00:00:33,040
@@ -119,12 +121,12 @@ If it’s broken
 23
 00:01:02,080 --> 00:01:04,360
 # 达不到那种光洁度了 就很散
-It will not be smooth as a whole grain of rice
+It will not be as smooth as a whole grain of rice
 
 24
 00:01:04,360 --> 00:01:06,320
 # 再有一定要检查
-Next double check
+Next, double check
 
 25
 00:01:06,320 --> 00:01:08,240
@@ -134,27 +136,27 @@ The extend of the rice’s quality
 26
 00:01:08,240 --> 00:01:09,880
 # 蒸熟之后淀粉它会糊化
-When steamed, the starch will paste
+When steamed, there is starch gelatinization going on
 
 27
 00:01:09,880 --> 00:01:11,080
 # 糊化之后是晶莹剔透的
-If afterwards the paste is crystal clear
+If the rice is crystal clear after gelatinization
 
 28
 00:01:11,080 --> 00:01:12,640
 # 这应该是新米
-That will be fresh rice
+That should be fresh rice
 
 29
 00:01:12,640 --> 00:01:15,840
 # 如果蒸熟之后又散花 还不剔透
-If it’s not paste and clear
+If it’s not, the rice is broken and not clear
 
 30
 00:01:15,840 --> 00:01:18,240
 # 那证明是陈米 炒饭就不好炒了
-That will be old rice, will be harder to cook
+That should be old rice, it will be harder to make fried rice
 
 31
 00:01:18,240 --> 00:01:20,640
@@ -164,12 +166,12 @@ Old rice tends to break down when you fry it
 32
 00:01:20,640 --> 00:01:22,840
 # 它难以呈现是粒粒分明
-So it’s hard to be grain-clear
+So it’s hard to be separated from each other
 
 33
 00:01:24,640 --> 00:01:25,720
 # 锅润的差不多了
-The pan is moist enough to prevent sticking pan
+The pan is moist enough to prevent sticking
 
 34
 00:01:25,720 --> 00:01:28,920
@@ -179,7 +181,7 @@ Don’t worry, turn to low heat and wait
 35
 00:01:28,920 --> 00:01:31,200
 # 时间越长 它润的越透彻
-Pan will be moister due to longer period
+Pan will be moister as time goes on
 
 36
 00:01:31,200 --> 00:01:34,080
@@ -224,7 +226,7 @@ Will take a long time to heat up
 44
 00:01:52,200 --> 00:01:53,920
 # 我们就不如放在微波炉里边
-we might as well put it in the microwave
+we can put it in the microwave
 
 45
 00:01:53,920 --> 00:01:55,400
@@ -254,7 +256,7 @@ because it will not stick to the pan
 50
 00:02:04,640 --> 00:02:07,200
 # 再有 特别凉的米饭放到锅里边
-Moreover, cool rice
+Moreover, extremely cold rice
 
 51
 00:02:07,200 --> 00:02:08,680
@@ -302,12 +304,12 @@ Since it will not contaminate the rice
 60
 00:02:29,480 --> 00:02:33,240
 # 放点葱油 增加炒饭的香气
-Add some onion oil to add some aroma
+Add some green onion oil to add some aroma
 
 61
 00:02:33,240 --> 00:02:35,560
 # 葱 要想让它炸出香味
-To fry the onion for aroma
+Green onion, if you want the aroma to release
 
 62
 00:02:35,560 --> 00:02:36,600
@@ -327,7 +329,7 @@ So we just eat it instead of seeing it
 65
 00:02:41,840 --> 00:02:43,560
 # 温油 三成热
-Heat the oil around 30 percent
+Heat the oil around 30 percent (90 C)
 
 66
 00:02:43,560 --> 00:02:45,760
@@ -448,7 +450,7 @@ Are stick with egg yolks
 90
 00:03:58,000 --> 00:04:00,080
 # 所以它成为一个黄金炒饭
-So it is called “Gold fried rice”
+So it is called “Golden fried rice”
 
 91
 00:04:00,080 --> 00:04:03,840
@@ -473,7 +475,7 @@ Rice I changeling
 95
 00:04:12,480 --> 00:04:14,520
 # 看似一盘炒饭
-Fired rice seems to be easy
+Fried rice seems to be easy
 
 96
 00:04:14,520 --> 00:04:18,800
@@ -493,7 +495,7 @@ Seems easy
 99
 00:04:23,720 --> 00:04:26,600
 # 实际上炒饭 作为一个厨师
-Actually fired rice,
+Actually fried rice,
 
 100
 00:04:26,600 --> 00:04:28,040
@@ -513,17 +515,17 @@ You see, the cooking competition in Hong Kong
 103
 00:04:32,800 --> 00:04:35,880
 # 人家也不炒什么烧海参弄鲍鱼
-They don’t choose to fry  sea cumbers and sea cedans
+They don’t test on how to cook sea cumbers and abalone
 
 104
 00:04:35,880 --> 00:04:37,680
 # 炒饭 炒牛河
-They compete in fried rice and fried NiuHe noodles
+They compete in fried rice and beef chow fun
 
 105
 00:04:37,680 --> 00:04:39,520
 # 大爷这个饭我最有记忆
-I remembered Da Ye’s fried rice
+Da Ye,I have some deep memory about this fried rice
 
 106
 00:04:39,520 --> 00:04:41,760
@@ -538,7 +540,7 @@ Seeing this rice, I recall one event
 108
 00:04:45,200 --> 00:04:48,160
 # 原来我记得在天伦王朝炒这饭的时候
-When I am in Tian Lun Wang Chao frying rice
+When I am in Tian Lun Wang Chao, I was going to fry rice
 
 109
 00:04:48,160 --> 00:04:51,720
@@ -558,7 +560,7 @@ The rice doesn’t seem to be clear
 112
 00:04:54,880 --> 00:04:57,320
 # 然后我记得香港大厨 我是副的
-I am the sous chef, then I remembered the chef in Hong Kong
+I am the sous chef, then I remembered the executive chef in Hong Kong
 
 113
 00:04:57,320 --> 00:04:58,920
@@ -573,7 +575,7 @@ Says it’s not clear enough
 115
 00:05:02,960 --> 00:05:04,800
 # 从那之后我长记性了
-Afterwards pay attention to it
+After that, I learnt the lesson
 
 116
 00:05:04,800 --> 00:05:06,480
