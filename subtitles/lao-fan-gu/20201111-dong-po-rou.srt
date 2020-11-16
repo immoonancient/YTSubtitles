@@ -529,7 +529,7 @@ Give some colour to the skin, (skin on the bottom)
 104
 00:04:16,040 --> 00:04:19,360
 # 但是一定要注意 锅底特别薄的
-Pay attention if you are using sticky pots (like stainless)
+Pay attention if you are using thin layer pot
 
 105
 00:04:19,360 --> 00:04:20,600
@@ -619,7 +619,7 @@ Some also tie the meat with twine, to keep its shape
 122
 00:04:58,240 --> 00:04:59,560
 # 用马兰草给它捆一下
-Some also tie the meat with twine, to keep its shape
+Some also tie the meat with twine string
 
 123
 00:04:59,560 --> 00:05:02,040
@@ -639,7 +639,7 @@ there's a nice balance between lean and fat
 126
 00:05:08,520 --> 00:05:11,600
 # 如果是靠下边比如软那层五花
-If you use the fattier part, it will fall apart
+If you use the bottom part, the soft part
 
 127
 00:05:11,600 --> 00:05:13,360
@@ -659,7 +659,7 @@ It is firmer when cooked.
 130
 00:05:17,720 --> 00:05:18,920
 # 所以是不一样的
-See the difference? So you want to pick the tougher cut when choosing your belly.
+See they are different.
 
 131
 00:05:18,920 --> 00:05:21,080
