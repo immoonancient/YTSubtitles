@@ -1049,7 +1049,7 @@ According to cooking needs
 219
 00:08:04,000 --> 00:08:05,280
 # 大概的顺序
-Approximate order
+the general order
 
 220
 00:08:05,280 --> 00:08:07,960
