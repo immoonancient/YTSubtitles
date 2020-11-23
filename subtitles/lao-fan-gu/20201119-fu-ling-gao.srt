@@ -851,7 +851,7 @@ Also need back
 175
 00:06:45,880 --> 00:06:46,920
 # 调这个味道
-Adjust this taste
+To adjust this taste
 
 176
 00:06:46,920 --> 00:06:49,000
