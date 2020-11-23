@@ -15,6 +15,8 @@
 # It is relatively difficult to cook this dish, but don't worry - Er Bai is going to show you step-by-step how to cook chicken broth in a very short time, such that you can enjoy a state banquet dish at home!
 # Here we are sharing the way of home-cooking. You can also find the banquet-cooking style here: https://youtu.be/bF-ETixcu_g
 
+# import intro
+
 # 字幕
 
 1
@@ -64,7 +66,7 @@ Da Ye, this one is indeed difficult
 11
 00:00:23,120 --> 00:00:27,440
 # 鸡牙子 这里面有个筋膜我给它登出去
-'Ji Ya Zi'. Let me remove the fascia here
+'Ji Ya Zi'.(chicken tender) Let me remove the fascia here
 
 12
 00:00:27,440 --> 00:00:30,920
@@ -99,7 +101,7 @@ The difficult part is... there was no machine in the past
 18
 00:00:44,040 --> 00:00:46,560
 # 过去就得这样砸
-So we needed to pound it like this
+So we needed to smash it like this
 
 19
 00:00:46,560 --> 00:00:49,240
@@ -207,7 +209,7 @@ Mix the egg white with the corn starch
 40
 00:01:39,560 --> 00:01:41,600
 # 跟鸡豆花和好了
-And the chicken paste
+And the chicken puree
 
 41
 00:01:41,600 --> 00:01:43,680
@@ -222,7 +224,7 @@ Filter it with a 60-mesh filter. Be careful with your hand, master
 43
 00:01:47,480 --> 00:01:51,000
 # 过箩就使鸡蓉更加细腻
-The filtering step makes the chicken paste more smooth
+The filtering step makes the chicken puree more smooth
 
 44
 00:01:51,000 --> 00:01:53,960
@@ -661,7 +663,7 @@ We still need to wait for all scum to come out
 132
 00:05:39,920 --> 00:05:42,000
 # 有的网友说 什么叫砸一下
-Some friends asked, what is 'Za' (literally knock) the broth?
+Some friends asked, what is 'Za' (literally "smash") the broth?
 
 133
 00:05:42,000 --> 00:05:47,120
@@ -756,7 +758,7 @@ Slowly
 151
 00:06:25,080 --> 00:06:27,560
 # 一点一点的让它打进去
-Slowly mix it with the slurry chicken paste
+Slowly mix it with the slurry chicken puree
 
 152
 00:06:29,160 --> 00:06:29,960
@@ -1002,7 +1004,7 @@ Rinse it (with the broth) a bit
 201
 00:08:51,920 --> 00:08:55,040
 # 把这上面的浮沫就淋下去了
-Such that the scum over it will be removed
+Such that the scum can be removed
 
 202
 00:08:55,040 --> 00:08:57,080
@@ -1089,12 +1091,12 @@ We also experienced numerous experiments and failures
 220
 00:09:43,640 --> 00:09:46,080
 # 但是刚才大爷讲的过程
-But Da Ye was very specific
+But the procedure that Da Ye explained 
 
 221
 00:09:46,080 --> 00:09:47,720
 # 就非常详细了
-about the process
+was very specific and detailed
 
 222
 00:09:47,720 --> 00:09:51,720
@@ -1114,7 +1116,7 @@ We have been correcting and improving this dish continuously
 225
 00:09:58,240 --> 00:10:02,320
 # 二伯 二十年都不干了
-Er Bai has been away for his position for 20 years
+Er Bai has been away for cooking this dishes (regularly) for 20 years
 
 226
 00:10:02,320 --> 00:10:07,720
@@ -1137,7 +1139,7 @@ with Da Ye's help of course
 230
 00:10:23,800 --> 00:10:26,080
 # 小魏这汤不热 够热啊师父
--Xiao wei, the soup is not hot enough. -It is, master
+-Xiao wei, the soup is not hot enough. -It is hot enough, master
 
 231
 00:10:26,080 --> 00:10:28,040
@@ -1172,7 +1174,7 @@ Let me tell you
 237
 00:10:36,600 --> 00:10:38,080
 # 你呈现出来的东西就差远了
-Makes a great difference on your dish
+Make a great difference on your dish
 
 238
 00:10:38,080 --> 00:10:39,560
