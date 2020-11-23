@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•茯苓糕】软糯香甜满口桂花香！传承百年的传统糕点茯苓糕，好吃又养颜！大爷二伯大问答|老饭骨
-# 【State Banquet Master•Fu Ling Cake】soft and sweet, full of sweet-scented osmanthus fragrance! A century-old traditional pastry, Fuling Cake, is delicious and beautifying! Daye & Erbai Questions and Answers | Lao Fan Gu
+# State Banquet Master Chef - Fu Ling Cake (Poria Cake). Soft, Sweet and fragrance! 
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
