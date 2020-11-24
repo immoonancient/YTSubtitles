@@ -23,7 +23,7 @@
 1
 00:00:00,000 --> 00:00:03,600
 # 茯苓糕 心情不好的时候吃点茯苓糕
-Fulin Cake When you are in a bad mood, enjoy some Fulin Cake
+Fu Ling Cake. When you are in a bad mood, enjoy some Fu Ling Cake
 
 2
 00:00:03,600 --> 00:00:05,480
@@ -51,7 +51,7 @@ Rice flour is milled rice
 7
 00:00:14,880 --> 00:00:17,280
 # 然后糯米粉就是包元宵那个 糯米
-Then the glutinous rice flour is the glutinous rice that are used for Yuanxiao
+Then the glutinous rice flour is the glutinous rice that are used for Yuanxiao (sweet rice ball)
 
 8
 00:00:17,280 --> 00:00:19,400
@@ -99,7 +99,7 @@ Milk is better
 17
 00:00:39,800 --> 00:00:41,520
 # 茯苓糕 这个小吃好
-Fulin Cake This snack is good
+Fuling Cake, this snack is good
 
 18
 00:00:41,520 --> 00:00:43,920
@@ -127,7 +127,7 @@ One bag of milk is not enough, another bag
 23
 00:00:53,440 --> 00:00:56,240
 # 这茯苓粉还真能吃水
-This tuckahoe powder can really absorb water
+This poria flour can absorb a lot of water
 
 24
 00:00:56,960 --> 00:01:01,040
@@ -252,7 +252,7 @@ Lightly roast the sesame seeds
 48
 00:02:12,560 --> 00:02:16,040
 # 这茯苓糕有100多年历史了
-This Fulin cake has a history of more than 100 years
+This Fuling cake has a history of more than 100 years
 
 49
 00:02:16,040 --> 00:02:17,080
@@ -369,7 +369,7 @@ Smooth it out
 73
 00:03:16,800 --> 00:03:19,160
 # 在里蒸个小发糕都行是吧
-Steam a small hair cake in it, right?
+You can also use it to steam a small sponge cake in it, right?
 
 74
 00:03:19,160 --> 00:03:20,760
@@ -438,12 +438,12 @@ We put it inside
 88
 00:03:54,240 --> 00:03:56,160
 # 一蒸 蒸多久呢 二十五分钟
-How long does it take to steam for 25 minutes
+How long does it take to steam for? 25 minutes
 
 89
 00:03:56,160 --> 00:03:58,920
 # 好嘞 歇会儿您
-Okay, take a break for you
+Okay, you can take a break 
 
 90
 00:03:58,920 --> 00:04:00,000
@@ -463,7 +463,7 @@ It's actually like rice cakes
 93
 00:04:07,280 --> 00:04:08,800
 # 还真蒸瓷实了
-Really steamed stiff
+It is steamed quite stiff
 
 94
 00:04:08,800 --> 00:04:10,600
@@ -489,7 +489,7 @@ Take a knife and lightly press
 99
 00:04:19,000 --> 00:04:22,000
 # 它这个最好是晾十分钟（再切）
-It’s best to let it dry for ten minutes (cut it again)
+It’s best to let it cool for ten minutes (then cut)
 
 100
 00:04:22,000 --> 00:04:23,880
@@ -504,7 +504,7 @@ When it gets cold, it holds up
 102
 00:04:25,560 --> 00:04:27,200
 # 它一凉就挺住了
-It holds up when it cools
+It holds up when it is cold
 
 103
 00:04:27,200 --> 00:04:30,280
@@ -520,7 +520,7 @@ Just steam it in a bowl at home
 106
 00:04:36,000 --> 00:04:38,320
 # 咱大晚上不能吃那么多甜的
-We can't eat so much sweets at night
+We'd better not eat so much sweets at night
 
 107
 00:04:39,120 --> 00:04:39,400
@@ -601,7 +601,7 @@ Feel like too sticky
 123
 00:05:22,080 --> 00:05:23,160
 # 口感不好
-Bad taste
+Bad texture
 
 124
 00:05:23,160 --> 00:05:24,800
@@ -636,7 +636,7 @@ Then rinse with water
 130
 00:05:31,400 --> 00:05:33,240
 # 冲完以后冰水再镇一下
-After rinsing is finished
+After rinsing, you leave it in the ice water
 
 131
 00:05:33,240 --> 00:05:34,760
@@ -726,7 +726,7 @@ Wash it, rub it, and blanch it at the end
 148
 00:06:06,080 --> 00:06:07,320
 # 搁在冰水里边一镇
-Put a town in ice water
+Leave it in ice water
 
 149
 00:06:07,320 --> 00:06:08,440
@@ -787,7 +787,7 @@ Will make the next dish
 161
 00:06:25,400 --> 00:06:26,920
 # 菜不干净
-Dishes are not clean
+look not clean
 
 162
 00:06:26,920 --> 00:06:28,240
