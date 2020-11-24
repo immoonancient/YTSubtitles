@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•羊肉饺子】鲜嫩多汁的羊肉饺子！国宴大师的调馅儿手法，一点没膻味！ |老饭骨
-# 【State Banquet Masterchef - Lamb Dumpling】Juicy and Tender Lamb Lumpling, Methods of seasoning the stuffing from a state banquet Masterchef, no gamey taste at all!
+# State Banquet Master Chef - Lamb Dumpling. Juicy and Tender. Special seasoning!
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,7 +13,9 @@
 
 # Hello friends! We saw in the comments that some of you want to learn how to make lamb dumplings but not sure about seasoning, the dumplings weren’t tasty enough. This time, Da Ye is here with his method of seasoning. The lamb dumplings made with his method are juicy and tender, and have no gamey taste at all, and won’t affect the original taste of the lamb.
 # Please comment below and tell us whether you have learned the tips which are cooking the stuffing with open-lid and cooking the dough wrap with close-lid, besides how to prevent dumplings from sticking together.
-
+  
+ # import intro
+ 
 # 字幕
 
 1
