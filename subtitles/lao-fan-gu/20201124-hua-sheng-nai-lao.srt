@@ -3,13 +3,13 @@
 # ----------------------------------
 
 # 【国宴大师•花生奶酪】香甜细腻，绵密醇厚，冬季暖胃热饮花生奶酪，做法也太简单了！|老饭骨
-# Title: [State Banquet Master Chef] Peanut milk pudding: fragrant, sweet, thick, and smooth. Perfect warm dessert for the cold winter that is so simple to make. |LaoFanGu|
+# [State Banquet Master Chef] Peanut milk junket: smooth and warm dessert for the cold winter. 
 
 # 小友们好，看到小友们留言说想学习一些简单的菜品做法，大爷就给大家带来一道传统国宴小甜品——花生奶酪！
 # 这个小甜品原料和做法都很简单，只用了去皮花生米、奶、冰糖、水淀粉，按照我们的方法来，一碗香甜细腻、绵密醇厚、奶香浓郁的暖胃热饮花生奶酪几个步骤就能完成！
 # 天气越来越冷，小友们注意保暖的同时，想看哪些养身暖胃的菜品也欢迎在评论区给我们留言！
 # Introduction
-# Dear fans. We have seen your comments that you want to learn some simple dishes. Today, Da Ye will teach you how to make a traditional dessert dish good enough even for the State Banquet. The Peanut milk pudding.
+# Hi dear friends. We have seen your comments that you want to learn some simple dishes. Today, Da Ye will teach you how to make a traditional dessert for the State Banquet: the peanut milk junket.
 # Its simple ingredients only include peanut, milk, crystal sugar and starch. Follow our instructions to make this delicious, sweet , smooth and milky warm dessert in just a few steps.
 # Winter is coming, everyone please stay warm and let us know about what else do you want to learn in the comments section.
 
@@ -26,7 +26,7 @@ Let’s make something perfect for the winter season
 3
 00:00:03,240 --> 00:00:04,840
 # 叫花生奶酪
-It’s called Peanut Milk Pudding
+It’s called Peanut Milk Junket
 
 4
 00:00:04,840 --> 00:00:08,640
@@ -41,7 +41,7 @@ First let’s fry the peanuts
 6
 00:00:10,400 --> 00:00:12,640
 # 花生米去皮有一个小窍门
-There is a little tip in removing the skin
+There is a small trick in removing the peanut skin
 
 7
 00:00:12,640 --> 00:00:14,080
@@ -56,7 +56,7 @@ Not for too long
 9
 00:00:15,880 --> 00:00:17,720
 # 泡得了赶快捻 特别好捻
-Quickly soak them in hot water and then clean them immediate
+Quickly soak them in hot water then peal the skin off immediate
 
 10
 00:00:17,720 --> 00:00:18,520
@@ -66,12 +66,12 @@ If you soak them for two long
 11
 00:00:18,520 --> 00:00:20,960
 # 花生米一涨再捻就不好捻了
-The peanut will absorb too much water and expand, making it too difficult
+The peanut will absorb too much water and swell, making it too difficult to peal its skin
 
 12
 00:00:20,960 --> 00:00:23,440
 # 凉油下锅慢慢浸炸
-Peanuts in, while the oil is still cold
+Peanuts in, while the oil is still cold and fry them slowly
 
 13
 00:00:23,440 --> 00:00:26,920
@@ -81,7 +81,7 @@ You must fry the peanuts to get the maximum aroma
 14
 00:00:26,920 --> 00:00:29,160
 # 在家里边不愿吃炸的也没问题
-If you are cooking a home and you want to avoid frying
+If you are cooking at home and you want to avoid frying
 
 15
 00:00:29,160 --> 00:00:30,000
@@ -181,12 +181,12 @@ Remove the moisture and then start frying
 34
 00:01:06,560 --> 00:01:07,480
 # 炸出来以后
-When done properly
+When fried properly
 
 35
 00:01:07,480 --> 00:01:11,160
 # 花生米的表面它不起泡 特别的酥脆
-The surface of the peanuts are still smooth, and they are extremely crisyp
+The peanuts will have smooth surface and be extremely crispy
 
 36
 00:01:11,160 --> 00:01:15,920
@@ -217,7 +217,7 @@ Now we can grind them
 42
 00:01:27,320 --> 00:01:30,120
 # 来点纯净水
-Some clean water
+Add pure water
 
 43
 00:01:30,120 --> 00:01:30,920
@@ -252,7 +252,7 @@ Look how thick this is, Er Bai, it’s sticking to the spoon
 49
 00:01:50,320 --> 00:01:52,960
 # 两盒奶
-Two  bottles of milk
+Two bottles of milk
 
 50
 00:01:52,960 --> 00:01:55,120
@@ -262,17 +262,17 @@ Let me put the crystal sugar in
 51
 00:01:55,120 --> 00:01:57,280
 # 搁点冰糖或者是砂糖
-Both crystal sugar or powdered sugar are fine
+Either crystal sugar or powdered sugar is fine
 
 52
 00:01:57,280 --> 00:01:59,160
 # 稠 叫酪
-This dish is supposed to be thick
+This junket is expected to be thick
 
 53
 00:01:59,160 --> 00:02:02,200
 # 稀的像这样的 就像茶
-Otherwise it’s more like tea, not pudding
+Thinner dishes like this are similar to tea, like Mee Teh
 
 54
 00:02:02,200 --> 00:02:04,520
@@ -297,7 +297,7 @@ Depending on the number of participants
 58
 00:02:14,920 --> 00:02:18,000
 # 什么杏仁茶 花生奶酪
-We would make Almond tea, or this milk pudding
+We would make Almond tea, or this peanut milk junket
 
 59
 00:02:18,000 --> 00:02:19,040
@@ -307,7 +307,7 @@ For a large group
 60
 00:02:19,040 --> 00:02:22,360
 # 小宴会上我们就拔丝苹果了 八宝饭
-For a small group we would make toffee apple, or Ba Bao Rice
+For a smaller group we would make toffee apple, or Ba Bao Rice
 
 61
 00:02:22,360 --> 00:02:24,920
@@ -322,7 +322,7 @@ We need this
 63
 00:02:26,520 --> 00:02:28,080
 # 花生奶酪杏仁茶
-Thinks like this or the apricot kernel tea
+Dishes like this or the apricot kernel tea
 
 64
 00:02:28,080 --> 00:02:30,080
@@ -350,12 +350,12 @@ A thin slurry
 69
 00:02:42,560 --> 00:02:46,400
 # 因为这叫酪 这酪好喝啊
-This is called “LAO”
+This is junket. Very delicious!
 
 70
 00:02:46,400 --> 00:02:47,320
 # 可以加点东西
-You can add some other ingredients in here
+You can add other ingredients in here
 
 71
 00:02:47,320 --> 00:02:51,520
@@ -398,7 +398,7 @@ Smells so good
 79
 00:03:11,840 --> 00:03:15,640
 # 花生奶酪 二伯尝尝呗
-Here we have it! Peanut Milk Pudding. Have a taste Er Bai!
+Here we have it! Peanut Milk Junket. Have a taste, Er Bai!
 
 80
 00:03:17,160 --> 00:03:20,080
@@ -421,7 +421,7 @@ Rich in protein
 84
 00:03:26,400 --> 00:03:27,920
 # 先让二伯那酝着
-Er Bai will have a taste
+Let Er Bai savor it
 
 85
 00:03:27,920 --> 00:03:29,360
@@ -446,7 +446,7 @@ Aromatic, but not burnt
 89
 00:03:38,000 --> 00:03:40,600
 # 还有奶香味跟花生的香味
-Combined with the flavor of the milk
+I also tasted the beautiful flavor of the milk and peanuts
 
 90
 00:03:40,600 --> 00:03:44,160
@@ -476,7 +476,7 @@ For me
 95
 00:03:51,520 --> 00:03:54,800
 # 它不单单的是一碗酪的问题
-This is more than a bowl of pudding
+This is more than a bowl of junket
 
 96
 00:03:54,800 --> 00:03:59,280
@@ -491,7 +491,7 @@ When I started working at around 20 years old
 98
 00:04:01,840 --> 00:04:04,040
 # 我们曾经做这个酪
-We used to make this together
+We used to make this dish
 
 99
 00:04:04,040 --> 00:04:05,400
@@ -501,17 +501,17 @@ Seeing this again
 100
 00:04:05,400 --> 00:04:06,840
 # 不但是传承
-It’s not only about sharing and learning
+It’s not only about inheriting
 
 101
 00:04:06,840 --> 00:04:09,400
 # 而且是我们对生活的一种回忆
-But also brings back good memories
+But also a reflect of our lives
 
 102
 00:04:09,400 --> 00:04:12,160
 # 和我们对后人传承的一种态度
-And our respect to the older generation
+And our attitude towards inheritance.
 
 103
 00:04:12,160 --> 00:04:14,400
