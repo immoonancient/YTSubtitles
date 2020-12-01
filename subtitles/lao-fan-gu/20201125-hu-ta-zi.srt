@@ -5,12 +5,14 @@
 # 小友们好，今天请到了二伯的女徒弟教大家一道家常美味的地道老北京小吃糊塌子！
 # Hi friends, today we have invited Er Bai’s apprentice to teach everyone how to make a delicious, authentic Beijing snack - Hu tazi!
 # 糊塌子主要原料是西葫芦、面粉和鸡蛋，营养健康，做法也非常简单，把握好糊的稀稠程度就很容易成功。
-# The main ingredients are zucchini, flour and egg. Healthy, nutritious and an extremely simple method. Once you have grasped the right consistency, this dish will be easy to make.
+# The main ingredients are zucchini, flour and egg. Healthy, nutritious and an extremely simple to make. Once you have grasped the right consistency, this dish will be hard to fail.
 # 这道菜冷吃热吃都可以，再搭配上蒜醋汁儿和牦牛肉，美味得停不下来！
 # You can eat this hot or cold, either works!
-# Just add garlic, vinegar and yak meat and it will be so delicious you won’t be able to stop eating!
+# If you add garlic, vinegar and yak meat, it will be so delicious and you cannot stop eating!
 # 小友们还想吃什么小吃，留言告诉我们，大爷二伯做给大家吃！
-# If our viewers would like to eat other snacks, leave a comment and let us know, Da Ye and Er Bai will make it for everyone to eat!
+# If there are other snacks you would like to have, leave a comment below. Da Ye and Er Bai will make it for everyone!
+
+# import intro
 
 # 字幕
 
@@ -27,7 +29,7 @@ A result you would never expect.
 3
 00:00:04,760 --> 00:00:05,720
 # 糊塌子
-Hu tazi (dish name)
+Hu tazi (zucchini pancake)
 
 4
 00:00:06,560 --> 00:00:08,080
@@ -62,12 +64,12 @@ Alright, we’ve finished grating
 10
 00:00:22,240 --> 00:00:27,720
 # 现在往里撒点盐 差不多二十克一勺
-Now we add about 20g of salt (1 spoon)
+Now add about 20g of salt (1 spoon)
 
 11
 00:00:27,720 --> 00:00:30,120
 # 然后把糊塌子杀一下
-Then we extract the water
+to extract the water 
 
 12
 00:00:30,120 --> 00:00:31,600
@@ -87,17 +89,17 @@ Da Ye, here we have a top female chef
 15
 00:00:37,800 --> 00:00:39,720
 # 新国贸饭店的行政总厨
-The head chef at Hotel Jen
+The head chef at Hotel Jen Beijing
 
 16
 00:00:39,720 --> 00:00:42,520
 # 北京市十大名厨技能大赛时候
-When she competed at Beijing’s ten top chefs competition
+When she was at the competition of Beijing’s top ten chefs
 
 17
 00:00:42,520 --> 00:00:44,280
 # 把那九个男的全给挫败了
-She beat all nine men
+She beat all nine male chefs
 
 18
 00:00:44,280 --> 00:00:46,160
@@ -107,7 +109,7 @@ A true hero among women, and beautiful too
 19
 00:00:46,160 --> 00:00:49,480
 # 这个我们磕五粒鸡蛋
-Here we crack open 5 eggs
+Here we crack 5 eggs
 
 20
 00:00:49,480 --> 00:00:51,560
@@ -117,7 +119,7 @@ These are washed eggs
 21
 00:00:51,560 --> 00:00:53,280
 # 我们把鸡蛋搅一搅
-We beat the eggs
+Let's beat the eggs
 
 22
 00:00:53,280 --> 00:00:55,200
@@ -172,17 +174,17 @@ It’s not as heavy anymore
 32
 00:01:18,960 --> 00:01:21,840
 # 慢慢的跟水似的 泡沫也多了
-It slowly becomes like water with lots of bubbles forming
+It slowly becomes water-like liquid, with lots of bubbles forming
 
 33
 00:01:23,040 --> 00:01:25,360
 # 好 泡沫多了 我们就
-Now that lots of bubbles have formed
+Ok, when lots of bubbles have formed
 
 34
 00:01:25,360 --> 00:01:29,960
 # 下一步西葫芦的汁也出来了
-For the next step, the water has now come out from the zucchini
+For the next step, the water has now came out from the zucchini
 
 35
 00:01:29,960 --> 00:01:31,480
@@ -202,7 +204,7 @@ to prevent settled pieces going through
 38
 00:01:38,640 --> 00:01:42,600
 # 你看每一个环节这个都是细心
-You see, every step is very particular
+You see, every step is very carefully handled  
 
 39
 00:01:42,600 --> 00:01:44,000
@@ -220,7 +222,7 @@ and zucchini mixture until it’s even
 42
 00:01:50,080 --> 00:01:52,920
 # 这时候就放面粉了
-then it’s time to add cornstarch
+then it’s time to add flour
 
 43
 00:01:52,920 --> 00:01:55,560
@@ -235,7 +237,7 @@ so we will add around 650g of flour
 45
 00:01:59,440 --> 00:02:02,480
 # 这个比例大概齐就是1:1
-The proportion to use is roughly 1:1
+The proportion is roughly 1:1
 
 46
 00:02:02,480 --> 00:02:08,400
@@ -250,7 +252,7 @@ This flour we’re using is low gluten (cake flour)
 48
 00:02:11,920 --> 00:02:13,160
 # 要是劲大了的话
-If you use a lot of  force while mixing
+If you use a lot of force while mixing
 
 49
 00:02:13,160 --> 00:02:17,600
@@ -278,7 +280,7 @@ One bowl of flour, one bowl of water
 54
 00:02:26,440 --> 00:02:29,920
 # 大家就把握这个稀稠程度
-Let us understand the consistency
+You need to master the consistency
 
 55
 00:02:29,920 --> 00:02:32,640
@@ -323,12 +325,12 @@ It makes the Hu tazi even softer, and fragrant too
 63
 00:02:57,560 --> 00:03:01,200
 # 这个就真的齐活了
-Now it really is all complete!
+Now it is all done!
 
 64
 00:03:01,200 --> 00:03:03,880
 # 先搁着 然后还有一个秘密
-We’ll put this to one side first, there’s still another secret tip
+Leave it aside first, there’s still another secret tip
 
 65
 00:03:03,880 --> 00:03:06,600
@@ -368,7 +370,7 @@ Even if it is a simple dish
 72
 00:03:20,400 --> 00:03:23,760
 # 穿心莲 去火啊
-Chuan Xin Lian， this helps reduce the heat
+Chuan Xin Lian, this make you feel cool and comfortable
 
 73
 00:03:23,760 --> 00:03:25,480
@@ -396,12 +398,12 @@ How could you guys set me up like this
 78
 00:03:35,480 --> 00:03:40,480
 # 好了 撒点盐省的滑 砸点烂蒜
-Alright. Sprinkle some salt and crush up garlic
+Alright. Sprinkle some salt and crush some garlic
 
 79
 00:03:40,480 --> 00:03:43,320
 # 这个就是糊塌子的汁 蒜泥汁
-This is the Hu tazi filling, garlic filling
+This is the sauce for Hu tazi, garlic sauce
 
 80
 00:03:43,320 --> 00:03:45,040
@@ -426,7 +428,7 @@ Add a small amount of soy sauce with a higher amount of vinegar
 84
 00:03:56,080 --> 00:03:58,160
 # 实际上外国醋
-To tell the truth these foreign vinegars
+Actually, these foreign vinegars
 
 85
 00:03:58,160 --> 00:04:00,280
@@ -446,7 +448,7 @@ Some sesame oil, add according to your own preferences
 88
 00:04:07,800 --> 00:04:11,040
 # 你像过去姥姥活着那个年代
-You cook similar to my Mum’s generation when she was alive
+You cook similar to my grandmom’s generation 
 
 89
 00:04:11,040 --> 00:04:14,760
@@ -466,7 +468,7 @@ We have now finished making this sauce
 92
 00:04:20,960 --> 00:04:24,080
 # 点火 来点底油
-Light the fire and pour in some base oil
+Light the fire and pour in some oil
 
 93
 00:04:24,080 --> 00:04:27,440
@@ -542,7 +544,7 @@ Let it heat evenly
 108
 00:05:03,640 --> 00:05:05,720
 # 为什么叫虎皮糊塌子
-Why is it called tiger skin hu tazi?
+Why is it called "tiger skin hu tazi"?
 
 109
 00:05:05,720 --> 00:05:08,080
@@ -643,7 +645,7 @@ Have a taste, it’s an interesting flavour
 129
 00:05:59,840 --> 00:06:00,800
 # 文吃
-This is cultured eating
+This is civilised way of eating
 
 130
 00:06:02,160 --> 00:06:07,480
@@ -666,12 +668,12 @@ This sauce has been seasoned very well
 134
 00:06:13,360 --> 00:06:15,000
 # 香草醋有一种特殊的香味
-Balsamic vinegar has a special kind of fragrance.
+Balsamic vinegar has a special aroma.
 
 135
 00:06:15,000 --> 00:06:19,040
 # 这个跟咱们那米醋有不同的口感
-This is a different texture to our rice vinegar
+The flavour is different to our rice vinegar
 
 136
 00:06:19,760 --> 00:06:24,560
