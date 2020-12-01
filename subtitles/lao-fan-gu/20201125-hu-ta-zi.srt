@@ -1,0 +1,691 @@
+# https://youtu.be/G_xJARjG3lI
+
+# 简介
+
+# 小友们好，今天请到了二伯的女徒弟教大家一道家常美味的地道老北京小吃糊塌子！
+# Hi friends, today we have invited Er Bai’s apprentice to teach everyone how to make a delicious, authentic Beijing snack - Hu tazi!
+# 糊塌子主要原料是西葫芦、面粉和鸡蛋，营养健康，做法也非常简单，把握好糊的稀稠程度就很容易成功。
+# The main ingredients are zucchini, flour and egg. Healthy, nutritious and an extremely simple to make. Once you have grasped the right consistency, this dish will be hard to fail.
+# 这道菜冷吃热吃都可以，再搭配上蒜醋汁儿和牦牛肉，美味得停不下来！
+# You can eat this hot or cold, either works!
+# If you add garlic, vinegar and yak meat, it will be so delicious and you cannot stop eating!
+# 小友们还想吃什么小吃，留言告诉我们，大爷二伯做给大家吃！
+# If there are other snacks you would like to have, leave a comment below. Da Ye and Er Bai will make it for everyone!
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:02,800
+# 家家都做的 特别特别家常的
+All families know how to cook this homely dish.
+
+2
+00:00:02,800 --> 00:00:04,760
+# 让你意想不到的效果
+A result you would never expect.
+
+3
+00:00:04,760 --> 00:00:05,720
+# 糊塌子
+Hu tazi (zucchini pancake)
+
+4
+00:00:06,560 --> 00:00:08,080
+# 五星级糊塌子
+5 star hu tazi
+
+5
+00:00:08,080 --> 00:00:11,440
+# 您嚼嚼 特别有意思
+Have a taste, it’s an interesting flavour
+
+6
+00:00:11,440 --> 00:00:13,040
+# 你这擦子不错
+This grater’s not bad
+
+7
+00:00:13,040 --> 00:00:16,120
+# 师父您看这个 我选的是最大（孔）的
+Master, have a look, I’m using the side with the biggest holes
+
+8
+00:00:16,120 --> 00:00:20,880
+# 因为吃糊塌子的时候口感好 有嚼劲
+This gives it an incredible, chewy texture
+
+9
+00:00:20,880 --> 00:00:22,240
+# 好 擦好了
+Alright, we’ve finished grating
+
+10
+00:00:22,240 --> 00:00:27,720
+# 现在往里撒点盐 差不多二十克一勺
+Now add about 20g of salt (1 spoon)
+
+11
+00:00:27,720 --> 00:00:30,120
+# 然后把糊塌子杀一下
+to extract the water 
+
+12
+00:00:30,120 --> 00:00:31,600
+# 糊塌子咱有蘸汁
+We’ll make a sauce for it
+
+13
+00:00:31,600 --> 00:00:34,120
+# 这个（盐）还不能放太多
+Don’t add too much salt
+
+14
+00:00:34,120 --> 00:00:37,800
+# 大爷 女大厨
+Da Ye, here we have a top female chef
+
+15
+00:00:37,800 --> 00:00:39,720
+# 新国贸饭店的行政总厨
+The head chef at Hotel Jen Beijing
+
+16
+00:00:39,720 --> 00:00:42,520
+# 北京市十大名厨技能大赛时候
+When she was at the competition of Beijing’s top ten chefs
+
+17
+00:00:42,520 --> 00:00:44,280
+# 把那九个男的全给挫败了
+She beat all nine male chefs
+
+18
+00:00:44,280 --> 00:00:46,160
+# 女中豪杰 姣姣者
+A true hero among women, and beautiful too
+
+19
+00:00:46,160 --> 00:00:49,480
+# 这个我们磕五粒鸡蛋
+Here we crack 5 eggs
+
+20
+00:00:49,480 --> 00:00:51,560
+# 这是洗过的鸡蛋
+These are washed eggs
+
+21
+00:00:51,560 --> 00:00:53,280
+# 我们把鸡蛋搅一搅
+Let's beat the eggs
+
+22
+00:00:53,280 --> 00:00:55,200
+# 为什么 就让蛋液里
+Why? To make sure
+
+23
+00:00:55,200 --> 00:00:56,680
+# 有充分的空气在里边
+there is enough air in the eggs
+
+24
+00:00:56,680 --> 00:01:00,760
+# 然后它的饼 糊塌子喧乎 松软
+This makes it soft and fluffy
+
+25
+00:01:00,760 --> 00:01:04,560
+# 一般家里就直接把鸡蛋和到面里了
+Most people would just crack the eggs directly into the dough
+
+26
+00:01:04,560 --> 00:01:07,320
+# 所以每一个环节都很重要
+So every step is important
+
+27
+00:01:07,320 --> 00:01:11,120
+# 打鸡蛋尽量朝一个方向打
+Beat the eggs in one direction as much as you can
+
+28
+00:01:11,120 --> 00:01:12,080
+# 这就不像咱们家里
+This isn’t how we usually
+
+29
+00:01:12,080 --> 00:01:14,080
+# 一般的打鸡蛋了是吧
+beat the eggs at home right?
+
+30
+00:01:14,080 --> 00:01:16,960
+# 抽这鸡蛋能感觉到鸡蛋
+You can feel the egg as you beat it
+
+31
+00:01:16,960 --> 00:01:18,960
+# 它没那么大劲了
+It’s not as heavy anymore
+
+32
+00:01:18,960 --> 00:01:21,840
+# 慢慢的跟水似的 泡沫也多了
+It slowly becomes water-like liquid, with lots of bubbles forming
+
+33
+00:01:23,040 --> 00:01:25,360
+# 好 泡沫多了 我们就
+Ok, when lots of bubbles have formed
+
+34
+00:01:25,360 --> 00:01:29,960
+# 下一步西葫芦的汁也出来了
+For the next step, the water has now came out from the zucchini
+
+35
+00:01:29,960 --> 00:01:31,480
+# 然后我们小心一些
+then we have to be a bit more careful now
+
+36
+00:01:31,480 --> 00:01:35,960
+# 把这鸡蛋液 防止它有蛋皮在里边
+Pour the egg mixture out
+
+37
+00:01:35,960 --> 00:01:38,640
+# 我们小心的给它倒出来
+to prevent settled pieces going through
+
+38
+00:01:38,640 --> 00:01:42,600
+# 你看每一个环节这个都是细心
+You see, every step is very carefully handled  
+
+39
+00:01:42,600 --> 00:01:44,000
+
+40
+00:01:45,120 --> 00:01:48,000
+# 现在我们把蛋液和西葫芦
+Now we mix the egg
+
+41
+00:01:48,000 --> 00:01:50,080
+# 充分的拌匀了
+and zucchini mixture until it’s even
+
+42
+00:01:50,080 --> 00:01:52,920
+# 这时候就放面粉了
+then it’s time to add flour
+
+43
+00:01:52,920 --> 00:01:55,560
+# 刚才西葫芦有一斤多
+We used about 1 jin (500g) of zucchini
+
+44
+00:01:55,560 --> 00:01:59,440
+# 我们的面粉是差不多六百五十克
+so we will add around 650g of flour
+
+45
+00:01:59,440 --> 00:02:02,480
+# 这个比例大概齐就是1:1
+The proportion is roughly 1:1
+
+46
+00:02:02,480 --> 00:02:08,400
+# 我们先把面粉和西葫芦鸡蛋拌匀
+First we mix the mixture evenly
+
+47
+00:02:08,400 --> 00:02:11,920
+# 这个面粉是低筋面就可以
+This flour we’re using is low gluten (cake flour)
+
+48
+00:02:11,920 --> 00:02:13,160
+# 要是劲大了的话
+If you use a lot of force while mixing
+
+49
+00:02:13,160 --> 00:02:17,600
+# 它出来的饼 糊塌子它会硬
+the texture will end up too hard
+
+50
+00:02:17,600 --> 00:02:20,000
+# 一碗面真正的是一碗水
+One bowl of flour, one bowl of water
+
+51
+00:02:20,000 --> 00:02:23,160
+# 一碗面一碗水 五个鸡蛋
+One bowl of flour, one bowl of water and five eggs
+
+52
+00:02:23,160 --> 00:02:25,120
+
+53
+00:02:25,120 --> 00:02:26,440
+# 一碗面一碗水
+One bowl of flour, one bowl of water
+
+54
+00:02:26,440 --> 00:02:29,920
+# 大家就把握这个稀稠程度
+You need to master the consistency
+
+55
+00:02:29,920 --> 00:02:32,640
+# 感觉提溜起来的状态
+Feel the texture as you hold it like this
+
+56
+00:02:32,640 --> 00:02:36,920
+# 就很快滑落下去了从手里边 就行了
+When it easily falls from your hand
+
+57
+00:02:36,920 --> 00:02:40,200
+# 看这样 这就差不多了
+Look, just like this. When it’s like this, it’s ready
+
+58
+00:02:41,240 --> 00:02:43,760
+# 齐活 还差最后一步
+And that’s everything! There’s still one last step
+
+59
+00:02:43,760 --> 00:02:48,800
+# 香油一勺 两勺
+Sesame oil! One spoon, two spoons
+
+60
+00:02:48,800 --> 00:02:52,040
+# 看着啊 混合均匀
+Have a look, mix evenly
+
+61
+00:02:52,040 --> 00:02:53,920
+# 搁油是什么目的呢
+What’s the purpose of the oil?
+
+62
+00:02:53,920 --> 00:02:57,560
+# 使糊塌子更加松软 香
+It makes the Hu tazi even softer, and fragrant too
+
+63
+00:02:57,560 --> 00:03:01,200
+# 这个就真的齐活了
+Now it is all done!
+
+64
+00:03:01,200 --> 00:03:03,880
+# 先搁着 然后还有一个秘密
+Leave it aside first, there’s still another secret tip
+
+65
+00:03:03,880 --> 00:03:06,600
+# 我心中藏着一个小秘密
+My heart hides a small secret (song lyrics)
+
+66
+00:03:06,600 --> 00:03:10,160
+# 不能告诉你
+which I can’t tell you
+
+67
+00:03:10,160 --> 00:03:12,240
+# 下一节目 这是什么肉啊
+Time for the next step. What kind of meat is this?
+
+68
+00:03:12,240 --> 00:03:13,960
+# 酱牛肉 酱牦牛肉
+Soy braised beef, yak meat
+
+69
+00:03:13,960 --> 00:03:15,400
+# 现在快节奏的生活
+Nowadays the pace of life is so fast
+
+70
+00:03:15,400 --> 00:03:17,600
+# 这一盘荤素全有了
+This dish has both meat and vegetables
+
+71
+00:03:17,600 --> 00:03:20,400
+# 就算一简单的食品
+Even if it is a simple dish
+
+72
+00:03:20,400 --> 00:03:23,760
+# 穿心莲 去火啊
+Chuan Xin Lian, this make you feel cool and comfortable
+
+73
+00:03:23,760 --> 00:03:25,480
+# 也是有准备而来啊
+You’ve come prepared!
+
+74
+00:03:25,480 --> 00:03:28,280
+# 有准备 她说了不能让师父失望
+She came prepared, saying she couldn’t let Master be disappointed
+
+75
+00:03:28,280 --> 00:03:29,840
+# 不能让大爷绝望
+Can’t let Da Ye down
+
+76
+00:03:29,840 --> 00:03:33,240
+
+77
+00:03:33,240 --> 00:03:35,480
+# 怎么那么会编排我啊
+How could you guys set me up like this
+
+78
+00:03:35,480 --> 00:03:40,480
+# 好了 撒点盐省的滑 砸点烂蒜
+Alright. Sprinkle some salt and crush some garlic
+
+79
+00:03:40,480 --> 00:03:43,320
+# 这个就是糊塌子的汁 蒜泥汁
+This is the sauce for Hu tazi, garlic sauce
+
+80
+00:03:43,320 --> 00:03:45,040
+# 好我们蒜泥打出来了
+We’ve crushed the garlic into garlic paste
+
+81
+00:03:45,040 --> 00:03:49,600
+# 这个是香草醋 意大利香草醋
+This is balsamic vinegar from Italy
+
+82
+00:03:49,600 --> 00:03:52,640
+# 这个香醋米醋都可以
+Balsamic vinegar or rice vinegar, either works.
+
+83
+00:03:52,640 --> 00:03:56,080
+# 生抽我们少来一点 醋多
+Add a small amount of soy sauce with a higher amount of vinegar
+
+84
+00:03:56,080 --> 00:03:58,160
+# 实际上外国醋
+Actually, these foreign vinegars
+
+85
+00:03:58,160 --> 00:04:00,280
+# 香草醋也好 苹果醋也好
+Balsamic vinegar, apple cider vinegar
+
+86
+00:04:00,280 --> 00:04:03,720
+# 它的醋的酸味特别稳定
+The acidity is very stable
+
+87
+00:04:03,720 --> 00:04:07,800
+# 香油 香油的比例就是个人的爱好
+Some sesame oil, add according to your own preferences
+
+88
+00:04:07,800 --> 00:04:11,040
+# 你像过去姥姥活着那个年代
+You cook similar to my grandmom’s generation 
+
+89
+00:04:11,040 --> 00:04:14,760
+# 就搁两滴香油 家里没香油
+Only two drops of sesame oil, no sesame oil in the house
+
+90
+00:04:14,760 --> 00:04:18,200
+# 但是那两滴香油真香
+But with just those two drops, it’s still truly fragrant
+
+91
+00:04:18,200 --> 00:04:20,960
+# 这汁我们就和好了
+We have now finished making this sauce
+
+92
+00:04:20,960 --> 00:04:24,080
+# 点火 来点底油
+Light the fire and pour in some oil
+
+93
+00:04:24,080 --> 00:04:27,440
+# 做饼不建议用特别旺的火
+We don’t suggest using high heat
+
+94
+00:04:27,440 --> 00:04:31,000
+# 小一些的火 它喧腾 好
+Use a smaller flame, just enough to make it sizzle
+
+95
+00:04:31,000 --> 00:04:33,680
+# 听这声 合适
+Listen to this sound
+
+96
+00:04:33,680 --> 00:04:36,200
+# 能听着这滋啦滋啦的声
+When you hear this sound
+
+97
+00:04:36,200 --> 00:04:39,000
+
+98
+00:04:39,000 --> 00:04:40,760
+# 也可以备一个小板儿
+You can prepare a pancake spreader
+
+99
+00:04:40,760 --> 00:04:42,080
+# 这家里的小板我也有这个
+I’ve also got one of those here
+
+100
+00:04:42,080 --> 00:04:46,520
+# 煎饼的小刮板用在这了
+We use the pancake scraper here
+
+101
+00:04:46,520 --> 00:04:50,400
+# 您看这上面的糊没有了 它都变黄了
+Look, there’s no more dough on the top, it has turned yellow
+
+102
+00:04:50,400 --> 00:04:53,440
+# 证明这个就起来了
+This means that it has started to rise
+
+103
+00:04:53,440 --> 00:04:56,680
+# 这一面都变成黄色以后
+After this side has turned yellow
+
+104
+00:04:56,680 --> 00:04:58,720
+# 翻
+Flip
+
+105
+00:04:58,720 --> 00:05:01,040
+# 一点都没有起嘎巴
+Hasn’t been burned one bit
+
+106
+00:05:01,040 --> 00:05:01,880
+
+107
+00:05:01,880 --> 00:05:03,640
+# 受热均匀
+Let it heat evenly
+
+108
+00:05:03,640 --> 00:05:05,720
+# 为什么叫虎皮糊塌子
+Why is it called "tiger skin hu tazi"?
+
+109
+00:05:05,720 --> 00:05:08,080
+# 您看它这个焦状特别美
+Look here, it looks especially beautiful when it’s cooked
+
+110
+00:05:08,080 --> 00:05:11,080
+
+111
+00:05:11,680 --> 00:05:13,440
+# 精彩
+Amazing
+
+112
+00:05:13,440 --> 00:05:17,760
+# 黄的绿的再加上金色的
+Yellow, green and gold
+
+113
+00:05:17,760 --> 00:05:21,640
+# 好出锅 漂亮
+Alright, take it out of the pan. Beautiful
+
+114
+00:05:21,640 --> 00:05:25,920
+# 这个必须戴着手套做
+You must wear gloves for this part
+
+115
+00:05:25,920 --> 00:05:29,680
+# 同样一煎饼 它就产生一种
+It’s the same as jian bing (Chinese savoury pancake). It produces a kind of
+
+116
+00:05:29,680 --> 00:05:32,760
+# 让你意想不到的效果 齐
+effect which you would never expect. Finished
+
+117
+00:05:32,760 --> 00:05:34,400
+# 装盘儿
+Time for plating
+
+118
+00:05:34,400 --> 00:05:36,160
+# 你看高宁这一装饰
+See how Gao Ning (name) has plated this
+
+119
+00:05:36,160 --> 00:05:37,200
+# 就不像咱们一摊
+Unlike how we would
+
+120
+00:05:37,200 --> 00:05:39,120
+# 摊一大张往那一搁 跟烙饼似的
+Spread it out wide and roll it one way Just like a pancake
+
+121
+00:05:39,120 --> 00:05:41,480
+# 五星级糊塌子
+5 star hu tazi
+
+122
+00:05:41,480 --> 00:05:42,240
+
+123
+00:05:42,240 --> 00:05:43,720
+# 白糖
+White sugar
+
+124
+00:05:43,720 --> 00:05:48,200
+# 尽量把这白糖不撒在糊塌子上
+Try not to sprinkle this on the hu tazi
+
+125
+00:05:48,200 --> 00:05:51,480
+# 让它在牦牛肉和穿心莲上边
+Sprinkle it on the meat and chuan tin lian
+
+126
+00:05:51,480 --> 00:05:53,800
+# 我们现在浇汁
+Now we pour the sauce on top
+
+127
+00:05:53,800 --> 00:05:56,160
+# 这个又是一种吃法
+This is also a way of eating
+
+128
+00:05:56,160 --> 00:05:59,840
+# 您嚼嚼 特别有意思
+Have a taste, it’s an interesting flavour
+
+129
+00:05:59,840 --> 00:06:00,800
+# 文吃
+This is civilised way of eating
+
+130
+00:06:02,160 --> 00:06:07,480
+# 味道醇厚 加上蒜香味浓 特别精彩
+A simple and rich flavour, and with the fragrant garlic paste on top it is truly amazing.
+
+131
+00:06:07,480 --> 00:06:09,120
+
+132
+00:06:09,120 --> 00:06:12,080
+# 绝搭 再来个糊塌子
+A perfect pairing, let’s have another
+
+133
+00:06:12,080 --> 00:06:13,360
+# 这个汁调得好
+This sauce has been seasoned very well
+
+134
+00:06:13,360 --> 00:06:15,000
+# 香草醋有一种特殊的香味
+Balsamic vinegar has a special aroma.
+
+135
+00:06:15,000 --> 00:06:19,040
+# 这个跟咱们那米醋有不同的口感
+The flavour is different to our rice vinegar
+
+136
+00:06:19,760 --> 00:06:24,560
+# 一个平平常常的糊塌子吃食
+An ordinary Hu tazi but when you eat it
+
+137
+00:06:24,560 --> 00:06:28,400
+# 每个层次的味道还是不一样
+every layer has a different flavour
+
+138
+00:06:28,400 --> 00:06:33,640
+# 给高宁一个大赞
+Give Gao Ning a like!
