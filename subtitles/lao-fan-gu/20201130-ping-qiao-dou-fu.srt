@@ -1,0 +1,727 @@
+# https://youtu.be/qkNhxqsPWZ4
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•平桥豆腐】令乾隆都拍手叫绝的菜—平桥豆腐！咸鲜味美、清淡顺滑，比文思豆腐更好切！ |老饭骨
+# State Banquet Master Chef - Pingqiao Tofu. Umami and silky. Easier to cut than Wensi Tofu
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# 小友们好，隋坡师傅上次带来的文思豆腐大家都还有印象吗？
+# 视频链接：https://youtu.be/HD3s_AyY7Ug
+# 那条视频收到很多朋友反馈，说文思豆腐刀功太难了，这次就给大家带来一道刀功更加简单的菜品，也是一道淮扬名菜，切出来的豆腐形似小雀舌，搭配蛋皮、香菇、虾干和鸡肉，咸鲜味美、清素入肺、顺滑细腻，令乾隆都拍手叫绝！
+# 这次我们用的高汤是老饭骨的金汤，滋味醇厚并且方便快捷，小友们有需要可以在老饭骨淘宝购买！
+# Hi friends! Do you remember the Wensi Tofu introduced by Po Sui?
+# Link to the video: https://youtu.be/HD3s_AyY7Ug
+# We received many feedback from that video, saying that the knife skill was too hard. This time we will introduce one dish with easier knife skill. It is also a famous Huaiyang cuisine. The sliced tofu looks like the tongue of sparrow. Accompanied by egg roll wrapper, shiitake, dried shrimp and chicken. Savory, light, sliky and smooth.
+# This time we used the golden stock from our own brand. Thick, rich flavor with easy usage. You can buy it in Lao Fan Gu's Taobao store!
+
+# import intro
+
+# 字幕
+
+1
+00:00:01,840 --> 00:00:02,120
+
+2
+00:00:02,120 --> 00:00:04,200
+# 这也是一个显示刀工的菜
+This is also a dish showing knife skills
+
+3
+00:00:08,960 --> 00:00:11,360
+# 豆腐的形状近似于雀舌的形状
+The shape of tofu is like the tongue of sparrow
+
+4
+00:00:11,360 --> 00:00:12,440
+# 小菱形片
+Small slice in diamond shape
+
+5
+00:00:12,440 --> 00:00:14,000
+# 用勺背慢慢趟
+Lead gently with the back of spoon
+
+6
+00:00:14,000 --> 00:00:16,720
+# 平桥豆腐
+Pingqiao Tofu
+
+7
+00:00:16,720 --> 00:00:21,120
+
+8
+00:00:21,120 --> 00:00:23,480
+# 这得用大油 先得炼一下
+We need lard. Gotta first cook it a bit
+
+9
+00:00:23,480 --> 00:00:25,920
+# 味儿还是有点腥味
+There's still some gamey smell
+
+10
+00:00:25,920 --> 00:00:26,880
+# 但是你聪明
+But you are smart
+
+11
+00:00:26,880 --> 00:00:28,400
+# 你加了葱姜了 你给耗一下
+You left spring onion and ginger in it for a while
+
+12
+00:00:28,400 --> 00:00:30,680
+# 因为在淮扬菜里边
+Because lard is widely used
+
+13
+00:00:30,680 --> 00:00:32,720
+# 用大油还是比较广泛
+in Huaiyang cuisine
+
+14
+00:00:32,720 --> 00:00:34,560
+# 后来我给总结了一个是
+I then made a summary
+
+15
+00:00:34,560 --> 00:00:35,640
+# 淮扬菜的大油
+Lard in Huaiyang cuisine
+
+16
+00:00:35,640 --> 00:00:37,320
+# 川菜的红油
+Red chili oil in Sichuan cuisine
+
+17
+00:00:37,320 --> 00:00:38,800
+# 粤菜的蚝油
+Oyster sauce in Canton cuisine
+
+18
+00:00:38,800 --> 00:00:40,160
+# 鲁菜的什么油
+And what in Shandong cuisine
+
+19
+00:00:40,160 --> 00:00:42,080
+# 葱油 回答正确
+Scallion oil. Bingo
+
+20
+00:00:42,080 --> 00:00:43,680
+
+21
+00:00:43,680 --> 00:00:44,240
+
+22
+00:00:44,240 --> 00:00:45,520
+# 这就关小火慢慢炼
+This has to be simmered with mild heat
+
+23
+00:00:45,520 --> 00:00:46,960
+# 配料说一下
+Let's introduce the ingredients
+
+24
+00:00:46,960 --> 00:00:50,120
+# 蛋皮 香菇 用木耳也行
+Egg roll wrapper, shiitake, black fungus is also fine
+
+25
+00:00:50,120 --> 00:00:50,760
+# 就配个颜色
+Just for the color
+
+26
+00:00:50,760 --> 00:00:52,840
+# 这是虾干 这是熟的鸡肉
+This is dried shrimp. This is cooked chicken
+
+27
+00:00:52,840 --> 00:00:55,040
+# 增加点鲜香的味道 四样东西
+To add some umami taste and aroma. Four things
+
+28
+00:00:55,760 --> 00:00:58,800
+# 这道菜主要的主角还是豆腐
+The leading role of this dish is tofu
+
+29
+00:00:58,800 --> 00:01:01,920
+# 它这是软滑嫩烫咸香
+It is soft, silky, tender, hot, salty and has aroma
+
+30
+00:01:01,920 --> 00:01:03,560
+# 所以只要不影响
+So as long as the side ingredients don't affect
+
+31
+00:01:03,560 --> 00:01:04,960
+# 主体这个味道的原料
+the main flavor
+
+32
+00:01:04,960 --> 00:01:05,800
+# 咱们都可以用
+It can be used
+
+33
+00:01:05,800 --> 00:01:08,280
+# 这上面一层老皮
+There is a layer of skin on the top
+
+34
+00:01:08,280 --> 00:01:09,800
+# 得给它搞掉 有点硬
+We gotta remove it. It's a bit hard
+
+35
+00:01:09,800 --> 00:01:12,720
+# 平桥豆腐主要体现在
+Pingqiao Tofu is mainly presented by
+
+36
+00:01:12,720 --> 00:01:14,520
+# 豆腐的刀工上面
+the knife skills
+
+37
+00:01:14,520 --> 00:01:17,200
+# 它要切成小的菱形
+It has to be in small diamond shape
+
+38
+00:01:17,200 --> 00:01:19,440
+# 也叫雀舌片 跟舌头一样
+Also called sparrow tongue slice. Like a tongue
+
+39
+00:01:19,440 --> 00:01:21,720
+# 斜刀第一片可以不要
+First slice from tilted cutting can be thrown away
+
+40
+00:01:21,720 --> 00:01:26,880
+
+41
+00:01:26,880 --> 00:01:27,560
+# 第二刀
+Second slice
+
+42
+00:01:30,960 --> 00:01:34,160
+# 不能使劲往里按 得推着
+Don't push down the knife too hard. You gotta send it there
+
+43
+00:01:34,160 --> 00:01:36,000
+# 它平行着进去
+Let it slice parallelly
+
+44
+00:01:36,000 --> 00:01:46,680
+
+45
+00:01:46,680 --> 00:01:49,200
+# 这最后一片就不要了
+We will not use the last slice
+
+46
+00:01:49,200 --> 00:01:50,800
+
+47
+00:02:12,680 --> 00:02:14,640
+# 你看都是小菱形片
+You see. They are all in small diamond shape
+
+48
+00:02:15,920 --> 00:02:18,400
+# 小菱形
+Small diamond shape
+
+49
+00:02:18,400 --> 00:02:19,880
+# 这是蛋皮
+This is egg roll wrapper
+
+50
+00:02:19,880 --> 00:02:22,160
+# 咱们摊的时候放点（水）淀粉
+When you make it, put some starch (slurry) in it
+
+51
+00:02:22,160 --> 00:02:24,800
+# 增加粘稠度 增加蛋皮的韧性
+It increases the viscosity, makes the egg roll wrapper more tough
+
+52
+00:02:24,800 --> 00:02:26,720
+# 放盐么 不放盐
+Do we add salt? No, no salt
+
+53
+00:02:26,720 --> 00:02:28,560
+# 切成小菱形
+Cut to small diamond shape
+
+54
+00:02:30,120 --> 00:02:32,680
+# 猪油炒好了 炼的差不多了
+Lard is ready. It's well simmered
+
+55
+00:02:35,040 --> 00:02:37,680
+# 把这葱炸到这种黄色
+If you fry the scallion until it shows yellow like this
+
+56
+00:02:37,680 --> 00:02:40,120
+# 它会释放出这种葱的葱香味
+it releases its own special aroma
+
+57
+00:02:40,120 --> 00:02:42,800
+# 没有炸到这个黄色还是不行的
+It's not ready if you don't see this color
+
+58
+00:02:42,800 --> 00:02:45,880
+# 烧点水 还得把这豆腐烫一下
+Boil some water. We gotta still heat up the tofu
+
+59
+00:02:45,880 --> 00:02:48,200
+# 加点盐 让它蛋白质凝固
+Add some salt to let the protein coagulates
+
+60
+00:02:48,200 --> 00:02:49,520
+# 增加一些韧性
+Increase the toughness
+
+61
+00:02:49,520 --> 00:02:51,480
+# 看咱们豆腐的形状
+Look at the shape of the tofu
+
+62
+00:02:51,480 --> 00:02:55,360
+# 近似于雀舌的形状 小菱形片
+Similar to the tongue of sparrow. Small diamond shape
+
+63
+00:02:55,360 --> 00:02:56,960
+# 切的还是比较薄
+It's very thin
+
+64
+00:02:56,960 --> 00:02:59,040
+# 好了开锅就行了
+It's ok once it's boiling
+
+65
+00:02:59,040 --> 00:03:01,320
+# 然后我们要加高汤
+Then we add stock
+
+66
+00:03:01,320 --> 00:03:02,600
+# 今儿我们的高汤
+The stock we use today
+
+67
+00:03:02,600 --> 00:03:05,680
+# 用的就是老饭骨的金汤
+is the golden stock from our brand - Lao Fan Gu
+
+68
+00:03:05,680 --> 00:03:08,520
+# 今天我这个菜不能要这么稠
+Today's dish can't be this thick
+
+69
+00:03:08,520 --> 00:03:10,160
+# 大概兑了一个三倍的水
+I added around three times amount of water
+
+70
+00:03:10,160 --> 00:03:12,520
+# 这汤还很鲜呐
+The stock is very savory
+
+71
+00:03:12,520 --> 00:03:15,320
+# 然后调味 放点盐
+Then we season it. A bit of salt
+
+72
+00:03:15,320 --> 00:03:16,040
+# 白胡椒粉
+White pepper
+
+73
+00:03:16,040 --> 00:03:18,920
+# 胡椒粉还是在汤开之前最好放
+White pepper is better put in before it's boiling
+
+74
+00:03:18,920 --> 00:03:21,920
+# 汤开之后它容易起疙瘩
+Otherwise it might group into small pieces
+
+75
+00:03:23,520 --> 00:03:24,960
+# 出来了
+Take it out
+
+76
+00:03:24,960 --> 00:03:27,520
+# 放在旁边 咱们炝个锅
+Put it aside. Let's bring out the aroma
+
+77
+00:03:27,520 --> 00:03:29,520
+# 咱们炼的猪油要用上了
+The flavored lard comes into play
+
+78
+00:03:29,520 --> 00:03:30,880
+# 倒点猪油
+A bit of lard
+
+79
+00:03:30,880 --> 00:03:34,160
+# 然后呢 葱姜炝下锅
+Then, scallion and ginger
+
+80
+00:03:34,160 --> 00:03:36,120
+# 出香味不能糊
+Bring out the aroma without overcooking
+
+81
+00:03:36,120 --> 00:03:40,120
+# 然后把汤倒回来
+Then pour the stock back 
+
+82
+00:03:40,120 --> 00:03:42,080
+# 刚才调过味了咱就不用再调了
+It has been seasoned so we don't have to season it again
+
+83
+00:03:42,080 --> 00:03:46,160
+# 然后把鸡肉 香菇
+Then add chicken, shiitake
+
+84
+00:03:46,160 --> 00:03:51,080
+# 海米 鸡蛋皮（放进去）
+Dried shrimp, egg roll wrapper (put them in)
+
+85
+00:03:53,600 --> 00:03:55,240
+# 然后咱们的豆腐
+Then the tofu
+
+86
+00:03:55,240 --> 00:03:58,840
+# 豆腐焯完水之后不能单放
+The boiled tofu can't be put aside without water
+
+87
+00:03:58,840 --> 00:04:00,680
+# 单放它就凝固了 粘一块了
+Without water, it will stick together
+
+88
+00:04:00,680 --> 00:04:06,640
+
+89
+00:04:08,320 --> 00:04:10,600
+# 沥完水迅速倒里
+Quickly put it in to the pot after draining the water
+
+90
+00:04:10,600 --> 00:04:13,600
+# 然后用勺背慢慢搅开
+Then slowly stir it with the back of spoon
+
+91
+00:04:13,600 --> 00:04:16,040
+# 小火煨它一分钟两分钟
+Simmer it with mild heat for one or two minutes
+
+92
+00:04:16,040 --> 00:04:17,840
+# 让它入入味儿
+For the flavor penetration
+
+93
+00:04:17,840 --> 00:04:19,000
+# 拿那什么
+Take the dark soy sauce
+
+94
+00:04:19,000 --> 00:04:22,520
+# 拿老抽点一小筷头儿 好的
+And put in a tiny bit of it. OK
+
+95
+00:04:22,520 --> 00:04:26,640
+# 咱们这道菜不需要特别的黄
+The color of this dish doesn't have to be very yellowish
+
+96
+00:04:26,640 --> 00:04:30,720
+# 要点一点老抽中和一下颜色
+We need a bit of dark soy sauce to neutralize it
+
+97
+00:04:30,720 --> 00:04:32,280
+
+98
+00:04:32,280 --> 00:04:33,320
+# 刚刚好
+Just right
+
+99
+00:04:33,320 --> 00:04:35,600
+# 这个咱们要放点味精
+We need to put in some MSG
+
+100
+00:04:35,600 --> 00:04:39,960
+# 大约有0.5克 特别少 提个鲜味
+Around 0.5 gram. Very little to promote the umami taste
+
+101
+00:04:39,960 --> 00:04:41,880
+# 这个水的温度一百度左右
+The temperature is around 100 degree
+
+102
+00:04:41,880 --> 00:04:45,400
+# 所以它不至于把味精
+So it will not turn MSG
+
+103
+00:04:45,400 --> 00:04:47,520
+# 变成其它的有害物质
+into other harmful substances
+
+104
+00:04:47,520 --> 00:04:51,040
+# 开始勾芡 玉米淀粉
+Add slurry. Corn starch
+
+105
+00:04:55,160 --> 00:04:58,280
+# 这一定要注意 慢慢勾
+This has to be a careful step. Slowly
+
+106
+00:04:58,280 --> 00:05:00,200
+# 用勺背慢慢趟
+Slowly lead it with the back of the spoon
+
+107
+00:05:00,200 --> 00:05:03,360
+# 趟劲儿太大了 这个豆腐就碎了
+If you push it too hard, the tofu will be broken
+
+108
+00:05:03,360 --> 00:05:05,560
+
+109
+00:05:05,560 --> 00:05:09,520
+# 最后还要打点（大）油
+Finally some lard
+
+110
+00:05:09,520 --> 00:05:12,480
+# 最后成菜的特点看着不冒热气
+The finished dish doesn't steam much
+
+111
+00:05:12,480 --> 00:05:15,200
+# 但是您入口肯定是特别的烫
+But it will be very hot if you put it into your mouth
+
+112
+00:05:15,200 --> 00:05:21,120
+# 就来自于这里头油的温度 要推
+It comes from the temperature of the oil. Gotta push it
+
+113
+00:05:21,120 --> 00:05:22,880
+# 还有一滴香油
+And a drop of sesame oil
+
+114
+00:05:22,880 --> 00:05:25,760
+# 一定是少许的这么两滴
+It must not be too much
+
+115
+00:05:25,760 --> 00:05:28,120
+# 多了就会抢掉味道
+Otherwise it dominates the flavor over others
+
+116
+00:05:29,360 --> 00:05:29,960
+# 香菜
+Cilantro
+
+117
+00:05:32,920 --> 00:05:34,160
+# 出盘
+Finished
+
+118
+00:05:34,160 --> 00:05:39,880
+
+119
+00:05:39,880 --> 00:05:41,400
+# 平桥豆腐
+Pingqiao Tofu
+
+120
+00:05:41,400 --> 00:05:45,520
+
+121
+00:05:45,520 --> 00:05:46,320
+# 其实这道菜
+In fact, this dish
+
+122
+00:05:46,320 --> 00:05:48,160
+# 是一个传统的淮扬菜的老菜
+is a traditional dish from Huaiyang cuisine
+
+123
+00:05:48,160 --> 00:05:49,720
+# 为什么叫平桥豆腐
+Why is it called Pingqiao Tofu
+
+124
+00:05:49,720 --> 00:05:55,400
+# 它在淮安地区有个平桥 平桥镇
+Because there is a Pingqiao in Huai'an area. Pingqiao town
+
+125
+00:05:55,400 --> 00:05:57,840
+# 这个菜来自于那儿
+This dish comes from there
+
+126
+00:05:57,840 --> 00:05:59,840
+# 按当地传统的要有虾子
+Based on the local tradition, shrimp roe is needed
+
+127
+00:05:59,840 --> 00:06:02,520
+# 现在因为虾子不好买
+But it is hard to buy
+
+128
+00:06:02,520 --> 00:06:04,280
+# 要有虾子更加鲜美
+It would be even more savory and umami with shrimp roe
+
+129
+00:06:04,280 --> 00:06:06,920
+# 通过刚才的这种烹调的过程
+By the cooking process
+
+130
+00:06:06,920 --> 00:06:10,960
+# 加上好的汤 清淡 滑润
+with quality stock. Light. Skily and smooth
+
+131
+00:06:10,960 --> 00:06:13,320
+# 你看看似是一个
+It looks like a
+
+132
+00:06:13,320 --> 00:06:18,520
+# 好像豆腐羹的这么一个烩的菜
+thick tofu soup
+
+133
+00:06:18,520 --> 00:06:21,480
+# 但是它显示你勾芡的均匀
+But it shows your evenly added slurry
+
+134
+00:06:21,480 --> 00:06:22,880
+# 火候的掌握
+well controlled heat
+
+135
+00:06:22,880 --> 00:06:24,120
+# 你看那个菜的都在
+You can see that added ingredients are
+
+136
+00:06:24,120 --> 00:06:26,240
+# 汁芡中间托浮着
+supported by the soup and floating in it
+
+137
+00:06:26,240 --> 00:06:29,920
+# 而且粘稠适度 非常好
+And the viscosity is very good
+
+138
+00:06:29,920 --> 00:06:31,960
+# 虽说看食材很普通
+The ingredients seem to be ordinary
+
+139
+00:06:31,960 --> 00:06:35,760
+# 但是这里边从刀工到味道
+But it is an exquisite dish
+
+140
+00:06:35,760 --> 00:06:38,440
+# 到色彩到呈现
+from knife skills to flavor
+
+141
+00:06:38,440 --> 00:06:40,200
+# 就是讲究的一道菜
+from color to presentation
+
+142
+00:06:40,200 --> 00:06:42,000
+# 今天隋坡再度把
+Today, Po Sui recreated and
+
+143
+00:06:42,000 --> 00:06:45,680
+# 这道老菜给呈现出来
+presented this traditional dish
+
+144
+00:06:45,680 --> 00:06:47,800
+# 好 谢谢二伯谢谢师父
+Good. Thank you, Er Bai. Thank you, master.
+
+145
+00:06:47,800 --> 00:06:50,680
+# 这道菜也特别适合老年 也适合我
+This dish is also very suitable for seniors. Also for me
+
+146
+00:06:52,360 --> 00:06:55,080
+# 牙口不好的 小孩老人
+People with less tough teeth. Children and seniors
