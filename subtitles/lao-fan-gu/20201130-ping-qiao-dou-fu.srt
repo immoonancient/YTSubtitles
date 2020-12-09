@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•平桥豆腐】令乾隆都拍手叫绝的菜—平桥豆腐！咸鲜味美、清淡顺滑，比文思豆腐更好切！ |老饭骨
-# [State Banquet Master Chef | Pingqiao Tofu] Umami and silky, easier to cut than Wensi Tofu | Lao Fan Gu
+# State Banquet Master Chef - Pingqiao Tofu. Umami and silky. Easier to cut than Wensi Tofu
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
@@ -13,8 +13,10 @@
 # 这次我们用的高汤是老饭骨的金汤，滋味醇厚并且方便快捷，小友们有需要可以在老饭骨淘宝购买！
 # Hi friends! Do you remember the Wensi Tofu introduced by Po Sui?
 # Link to the video: https://youtu.be/HD3s_AyY7Ug
-# Many feedback from that video said it required too many knife skills. This time we will introduce one with fewer knife skills needed. A famous Huaiyang cuisine. The sliced tofu looks like the tongue of sparrow. Accompanied by egg roll wrapper, shiitake, dried shrimp and chicken. Savory, light, sliky and smooth.
-# This time we used the golden stock from Lao Fan Gu as the stock. Thick, rich flavor with easy usage. You can buy it in Lao Fan Gu's Taobao shop!
+# We received many feedback from that video, saying that the knife skill was too hard. This time we will introduce one dish with easier knife skill. It is also a famous Huaiyang cuisine. The sliced tofu looks like the tongue of sparrow. Accompanied by egg roll wrapper, shiitake, dried shrimp and chicken. Savory, light, sliky and smooth.
+# This time we used the golden stock from our own brand. Thick, rich flavor with easy usage. You can buy it in Lao Fan Gu's Taobao store!
+
+# import intro
 
 # 字幕
 
@@ -158,7 +160,7 @@ It is soft, silky, tender, hot, salty and has aroma
 30
 00:01:01,920 --> 00:01:03,560
 # 所以只要不影响
-So as long as the side thing doesn't affect
+So as long as the side ingredients don't affect
 
 31
 00:01:03,560 --> 00:01:04,960
@@ -216,7 +218,7 @@ Second slice
 42
 00:01:30,960 --> 00:01:34,160
 # 不能使劲往里按 得推着
-Don't just push down the knife. You gotta send it there
+Don't push down the knife too hard. You gotta send it there
 
 43
 00:01:34,160 --> 00:01:36,000
@@ -252,7 +254,7 @@ This is egg roll wrapper
 50
 00:02:19,880 --> 00:02:22,160
 # 咱们摊的时候放点（水）淀粉
-When you make it, put some (water) starch in it
+When you make it, put some starch (slurry) in it
 
 51
 00:02:22,160 --> 00:02:24,800
@@ -337,7 +339,7 @@ The stock we use today
 67
 00:03:02,600 --> 00:03:05,680
 # 用的就是老饭骨的金汤
-is the golden stock from our Lao Fan Gu
+is the golden stock from our brand - Lao Fan Gu
 
 68
 00:03:05,680 --> 00:03:08,520
@@ -387,7 +389,7 @@ Put it aside. Let's bring out the aroma
 77
 00:03:27,520 --> 00:03:29,520
 # 咱们炼的猪油要用上了
-The simmered lard comes into play
+The flavored lard comes into play
 
 78
 00:03:29,520 --> 00:03:30,880
@@ -407,7 +409,7 @@ Bring out the aroma without overcooking
 81
 00:03:36,120 --> 00:03:40,120
 # 然后把汤倒回来
-Then pour back the stock
+Then pour the stock back 
 
 82
 00:03:40,120 --> 00:03:42,080
@@ -417,7 +419,7 @@ It has been seasoned so we don't have to season it again
 83
 00:03:42,080 --> 00:03:46,160
 # 然后把鸡肉 香菇
-Then put chicken, shiitake
+Then add chicken, shiitake
 
 84
 00:03:46,160 --> 00:03:51,080
@@ -513,7 +515,7 @@ So it will not turn MSG
 103
 00:04:45,400 --> 00:04:47,520
 # 变成其它的有害物质
-into other harmful substance
+into other harmful substances
 
 104
 00:04:47,520 --> 00:04:51,040
@@ -561,7 +563,7 @@ It comes from the temperature of the oil. Gotta push it
 113
 00:05:21,120 --> 00:05:22,880
 # 还有一滴香油
-And sesame oil
+And a drop of sesame oil
 
 114
 00:05:22,880 --> 00:05:25,760
@@ -632,7 +634,7 @@ But it is hard to buy
 128
 00:06:02,520 --> 00:06:04,280
 # 要有虾子更加鲜美
-It would be even more savory with shrimp roe
+It would be even more savory and umami with shrimp roe
 
 129
 00:06:04,280 --> 00:06:06,920
@@ -642,7 +644,7 @@ By the cooking process
 130
 00:06:06,920 --> 00:06:10,960
 # 加上好的汤 清淡 滑润
-with quality soup. Light. Skily and smooth
+with quality stock. Light. Skily and smooth
 
 131
 00:06:10,960 --> 00:06:13,320
@@ -687,7 +689,7 @@ The ingredients seem to be ordinary
 139
 00:06:31,960 --> 00:06:35,760
 # 但是这里边从刀工到味道
-But it is a dish with full attention
+But it is an exquisite dish
 
 140
 00:06:35,760 --> 00:06:38,440
@@ -712,14 +714,14 @@ presented this traditional dish
 144
 00:06:45,680 --> 00:06:47,800
 # 好 谢谢二伯谢谢师父
-Alright thank you Er Bai thank you master
+Good. Thank you, Er Bai. Thank you, master.
 
 145
 00:06:47,800 --> 00:06:50,680
 # 这道菜也特别适合老年 也适合我
-This dish is also very suitable for elderly people. Also for me
+This dish is also very suitable for seniors. Also for me
 
 146
 00:06:52,360 --> 00:06:55,080
 # 牙口不好的 小孩老人
-People with less tough teeth. Children and elderly people
+People with less tough teeth. Children and seniors
