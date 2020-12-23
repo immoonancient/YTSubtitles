@@ -7,7 +7,16 @@
 # 冰糖葫芦的做法其实也很简单，跟着小魏师傅掌握三个关键步骤，糖衣就能做得薄脆不粘牙，咬起来嘎嘣脆。
 # 做这道小吃，大爷和二伯都还有点伤感了，想起他们小时候吃串糖葫芦就快过年了，这一晃就几十年过去了。
 # 小友们还有什么想吃的童年回忆中的小吃吗？评论区告诉我们，老饭骨给大家做！
+# State Banquet Master Chef - Candied hawthorn. Sweet and sour. Delicious appetizer.
 
+
+# Hello friends, it’s Monday, Lao Fangu brings everyone a childhood memory -Bingtang Hulu (Candied hawthorn)!
+# Bingtang Hulu is sweet and sour, suitable for all ages. It also has the effects of appetizing, beautifying, enhancing intelligence, eliminating fatigue, and clearing heat, etc. that everyone may not think of.
+# Bingtang Hulu is actually very simple to make. Following the three key steps demonstrated by Master Wei, the sugar coating can be made thin and crispy without sticking to the teeth.
+# Making this snack, Da Ye and Er Bai feel a bit sad and nostalgia. It brings back their childhood memory. Usually when they had their skewered candied hawthorn, Chinese New Year was around the corner. Decades have passed since then.
+# Friends, do you have any snacks from childhood memories that you want to eat? Tell us in the comment section. We will make it for you!
+
+# import intro
 1
 00:00:00,000 --> 00:00:00,640
 # 往这一摆
@@ -89,7 +98,7 @@ Candied hawthorn is something
 17
 00:00:30,040 --> 00:00:32,280
 # 不可缺少的一个美食
-no temple fair can be without
+that can not be lacked of in a temple fair 
 
 18
 00:00:32,280 --> 00:00:34,880
@@ -104,12 +113,12 @@ The key to it is in cooking the caramel
 20
 00:00:36,640 --> 00:00:39,760
 # 炒过了呢就苦了
-Overcook it and it turns bitter
+Overcook makes it too bitter
 
 21
 00:00:39,760 --> 00:00:42,160
 # 炒的不够呢 粘牙
-Undercook it and it sticks to the teeth
+Undercook makes it too sticky to the teeth
 
 22
 00:00:42,160 --> 00:00:43,800
@@ -144,7 +153,7 @@ Master is still the best
 28
 00:00:53,320 --> 00:00:57,200
 # 下次让二伯做一个 那叫翻砂的
-Next time we should get Er Bai to do that sugar coated dish
+Next time we should let Er Bai do a sugar coated dish
 
 29
 00:00:57,200 --> 00:01:00,360
@@ -202,7 +211,7 @@ We will be using water to cook the sugar, water and nothing else
 40
 00:01:26,040 --> 00:01:27,600
 # 这刚开始大火
-It’s just been put on high heat
+Use high heat at the beginning
 
 41
 00:01:27,600 --> 00:01:30,280
@@ -449,7 +458,7 @@ Thinking about it now, it must be around 40 years now right Da Ye?
 91
 00:03:25,600 --> 00:03:28,640
 # 多少看见糖葫芦有点伤悲
-How many of these have I seen since then? Makes me a bit sad
+Seeing these makes me a bit sad
 
 92
 00:03:28,640 --> 00:03:30,320
