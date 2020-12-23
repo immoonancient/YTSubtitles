@@ -10,7 +10,9 @@
 # 冬笋其实不太入味，配上炸过的雪菜叶，非常酥香脆嫩。
 # 这道菜非常家常，做法也不难，但是细节还是很多的，大爷之前分享过的“劈柴块”刀功，大家还有印象吗？
 # 还有什么冬季的时令菜大家想吃的？留言给老饭骨，大爷二伯教你们做！
-# Hello friends! Today we are presenting a seasonal dish for winter - dry-braised winter bamboo shoots. In fact, it's hard for the bamboo shoots to absorb all the flavors. However, this dish is very crispy and delicious when served with fried potherb mustard leaves. You can cook easily it at home, but there are still plenty of details to pay attention to. Do you still remember the 'chop-wood' cutting skill taught by Da Ye? By the way, is there any other winter dishes that you want to learn? Please comment and Da Ye and Er Bai will show you how to cook!
+# Hello friends! Today we are presenting a seasonal dish for winter - dry-braised winter bamboo shoots. In fact, it's hard for the bamboo shoots to absorb all the flavors. However, this dish is very crispy and delicious when served with fried potherb mustard leaves. You can cook it easily at home, but there are still plenty of details to pay attention to. Do you still remember the 'chop-wood' cutting skill taught by Da Ye? By the way, is there any other winter dishes that you want to learn? Please leave your comment below, Da Ye and Er Bai will show you how to cook!
+
+# import intro
 
 # 字幕
 
@@ -117,7 +119,7 @@ Can we eat it raw?
 21
 00:00:40,880 --> 00:00:43,080
 # 不能直接吃 一会还得处理一下
-Nope, we need to process it later
+Nope, we need to deal it later
 
 22
 00:00:43,080 --> 00:00:46,480
@@ -137,7 +139,7 @@ Let's boil it
 25
 00:00:51,120 --> 00:00:52,960
 # 凉水热水都行
-Either cold or hot water
+Both cold and hot water work here.
 
 26
 00:00:53,000 --> 00:00:54,520
@@ -202,7 +204,7 @@ you want it to be crunchy and tender
 38
 00:01:19,440 --> 00:01:21,200
 # 要把这水都给挤干了
-If you squeeze out all the water
+If you squeeze all the water out 
 
 39
 00:01:21,240 --> 00:01:22,680
@@ -252,7 +254,7 @@ That's done, Da Ye. Okay
 48
 00:01:46,520 --> 00:01:48,800
 # 先关火 这边晾着
-Turn off the fire. Cool it a bit
+Turn off the heat. Cool it a bit
 
 49
 00:01:48,960 --> 00:01:51,040
@@ -382,7 +384,7 @@ What else? For easy cooking
 74
 00:02:36,880 --> 00:02:38,280
 # 二伯点火
-Er Bai, turn on the fire, please
+Er Bai, turn on the heat, please
 
 75
 00:02:40,360 --> 00:02:42,000
@@ -472,7 +474,7 @@ Some water
 92
 00:03:22,960 --> 00:03:24,160
 # 酱油
-Soysauce
+Soy sauce
 
 93
 00:03:25,560 --> 00:03:26,960
@@ -712,7 +714,7 @@ taste, shape, and color
 140
 00:05:38,360 --> 00:05:39,680
 # 其实是还原
-This is to recover
+This is to reproduce
 
 141
 00:05:39,680 --> 00:05:42,120
