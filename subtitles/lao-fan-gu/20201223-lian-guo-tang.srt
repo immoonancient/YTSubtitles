@@ -11,7 +11,9 @@
 # 搭配这道菜，二伯还做了3种蘸料，分别用干辣椒、辣椒面和辣椒酱来做，蘸上萝卜和白肉，各有风味！
 # Hello friends! Lots of people want to have soup in the cold winter. Today Er Bai presents a traditional dish: 'Lian Guo Tang' (Soup-in-pot)
 # The main ingredients for this dish are radish and pork. With Er Bai's trick, the radish is delicious, sweet, and soft. You can feel warm immediately with one sip of the soup.
-# Er Bai also introduced 3 types of dippings for this dish, including dry chili pepper, chili pepper powder, and chili sauce, each of which has a unique flavor.
+# Er Bai also introduces 3 types of dippings for this dish, including dry chili pepper, chili pepper powder, and chili sauce, each of which has a unique flavor.
+
+# import intro
 
 # 字幕
 
@@ -58,22 +60,22 @@ I would say it's really suitable for winter
 9
 00:00:19,640 --> 00:00:21,480
 # 这是猪的坐板儿肉
-This is the 'zuo ban rou' pork (the cut on the butt)
+This is the 'zuo ban rou' pork (pork butt)
 
 10
 00:00:21,480 --> 00:00:23,920
 # 就是煮回锅肉这块肉
-which is also for 'Hui Guo Rou'
+which is also for 'Hui Guo Rou' (twice-cooked pork)
 
 11
 00:00:23,920 --> 00:00:27,960
 # 凉水下锅 得嘞
-Boil from cold water. OK
+Boil in cold water. OK
 
 12
 00:00:27,960 --> 00:00:30,280
 # 凉水下锅把里边这个
-Boil from cold water to
+Boil in cold water to
 
 13
 00:00:30,280 --> 00:00:33,040
@@ -108,7 +110,7 @@ As long as you can pierce it
 19
 00:00:42,280 --> 00:00:43,640
 # 还不能煮太烂了
-Don't cook it too hard
+Don't cook it too soft.
 
 20
 00:00:43,640 --> 00:00:46,880
@@ -273,7 +275,7 @@ This is done
 52
 00:01:59,480 --> 00:02:01,080
 # 下边呢 下边把酱油做了
-Now let's prepare the soysauce
+Now let's prepare the soy sauce
 
 53
 00:02:02,280 --> 00:02:04,160
@@ -288,7 +290,7 @@ Er Bai is going to boil the soysauce
 55
 00:02:08,160 --> 00:02:09,600
 # 其实很多酱油
-In fact, for most types of soysauce
+In fact, for most types of soy sauce
 
 56
 00:02:09,600 --> 00:02:11,360
@@ -378,7 +380,7 @@ Crush the Sichuan peppercorn
 73
 00:02:46,680 --> 00:02:49,520
 # 我们把花椒炒好以后
-After heating the Sichuan peppercorn
+After toasting the Sichuan peppercorn
 
 74
 00:02:49,520 --> 00:02:51,320
@@ -433,7 +435,7 @@ This is not a handful
 84
 00:03:11,640 --> 00:03:12,760
 # 您这一捏捏
-This is a 'fingerful'
+This is a 'pitch'
 
 85
 00:03:12,760 --> 00:03:15,360
@@ -483,7 +485,7 @@ The thinner the better
 94
 00:03:33,840 --> 00:03:36,480
 # 够薄吗 够薄
-Thin enough? Yes
+Is this thin enough? Yes
 
 95
 00:03:36,480 --> 00:03:38,880
