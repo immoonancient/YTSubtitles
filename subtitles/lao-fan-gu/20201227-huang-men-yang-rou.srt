@@ -10,10 +10,12 @@
 # 有冬至吃水饺习惯的小友也可以复习一下之前做的鲜嫩多汁的【羊肉水饺】https://youtu.be/dugcZPi6VGE
 # 俗话说“气始于冬至”，小友们一定要注意保暖，多吃有营养的食物，今天带来的这道黄焖羊肉是河南特色八大碗之一，羊肉先炸后蒸。炸羊肉的糊不是软炸糊也不是脆皮糊，炸完之后的这糊酥脆，一蒸就软和了，筋道咸香！
 # 豫中平原这块儿，做菜都离不开十三香，加了十三香能够更加突出羊肉的鲜香，又不失其本味，忒棒！
-# Hello friends! Today is winter solstice, a great chance to keep healthy - what's better than a lamb dish?
+# Hello friends! Today is winter solstice. a great time for having nutritious and healthy food. What's better than a lamb dish?
 # For friends who enjoy dumplings on winter solstice day please also review our previous video: Lamb dumplings https://youtu.be/dugcZPi6VGE
 # As a saying goes, 'Qi' (a concept for human energy in traditional Chinese medicine) starts from winter solstice. Hence, please keep yourself warm and eat more healthy food at this time. The dish in this video is one of the 'Eight Special Bowls' in Henan province, in which the lamb was first fried and steamed. The batter that we use here is neither soft-fry batter, nor crispy-fry batter. The batter we use today becomes crispy after frying, but turns soft and chewy after steaming.
 # In the middle Henan plains, the '13 spices' appear in every dish. Specifically, the lamb in this dish tastes extra delicious with the '13 spices' without losing its original flavor.
+
+# import intro
 
 # 字幕
 
@@ -393,7 +395,7 @@ Green onion and ginger
 78
 00:02:41,280 --> 00:02:44,120
 # 然后放一点点酱油
-Some soysauce
+Some soy sauce
 
 79
 00:02:44,120 --> 00:02:47,480
