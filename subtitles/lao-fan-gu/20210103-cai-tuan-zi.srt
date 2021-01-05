@@ -10,8 +10,11 @@
 # 这道菜是大妈点名要吃的，大爷之前做的也会经常遇到开裂等问题，经过不断摸索，终于找到了一个新的手法，做出来的菜团子薄皮大馅、软糯咸香，各个都圆润润金灿灿！
 # 快点击视频，看看大爷的独家秘方！小友们还有什么想学的家常菜，快在评论区里面告诉我们！
 # Hello friends! Da Ye brings a home-made dish today: steamed vegetable buns.
-# This dish was ordered by Da Ma. Da Ye encountered some problems, such as cracking, when he cooked this dish before. However, he invented a new technique after exploration and made perfect golden yellow steamed buns, which are full of stuffing, soft, and delicious.
-# Watch the video now to learn Da Ye's unique trick! Please also tell us what home-made dishes you want to learn - just comment!
+# This dish was ordered by Da Ma. When Da Ye cooked this dish before, he also encountered some problems, such as cracking. However, he invented a new technique after exploration and made perfect golden yellow steamed buns, which are soft, delicious and full of stuffing.
+# Watch the video now to learn Da Ye's unique trick! Please let us know what home-made dishes you want to learn - just leave a comment below!
+
+# import intro
+
 
 # 字幕
 
@@ -23,12 +26,12 @@ See? They are spherical now
 2
 00:00:03,240 --> 00:00:06,360
 # 大团子 还真光溜啊
-Big steamed buns. Really smooth surface
+Big steamed buns. The surface is really smooth.
 
 3
 00:00:06,360 --> 00:00:09,480
 # 就用这种办法 保证薄皮儿大馅儿
-In this way, you will definitely make buns with thin skin and full stuffing
+In this way, you can definitely get the buns with thin skin and full stuffing
 
 4
 00:00:09,480 --> 00:00:12,720
@@ -123,12 +126,12 @@ In 2007, Da Ma really wanted to have this dish
 22
 00:00:53,480 --> 00:00:55,600
 # 完了以后我说没问题
-I was like, no problem!
+I said, "No problem!"
 
 23
 00:00:55,600 --> 00:00:58,720
 # 我给你包个菜团子保证是薄皮大馅
-Let me make it for you. I am sure it must be full of stuffing with thin skin
+"Let me make it for you. I am sure it must be full of stuffing with thin skin"
 
 24
 00:00:58,720 --> 00:01:00,080
@@ -143,7 +146,7 @@ I didn't know if the problem was with the cornmeal
 26
 00:01:02,080 --> 00:01:04,240
 # 是我的手艺问题
-or my cooking ability
+or my cooking skill
 
 27
 00:01:04,240 --> 00:01:06,320
@@ -276,7 +279,7 @@ Squeeze the water out
 53
 00:02:01,960 --> 00:02:03,760
 # 木耳
-Black wood ear
+Black wood ear mushroom
 
 54
 00:02:03,760 --> 00:02:05,240
@@ -423,7 +426,7 @@ Come on, Er Bai. Add some MSG
 84
 00:03:22,480 --> 00:03:25,760
 # 手拌馅是最快的 而且还拌的匀
-It's the fastest to mix the stuffing with your hands. Also it's gonna be more uniform
+It's the fastest to mix the stuffing with your hands. Also it can be mixed more evenly.
 
 85
 00:03:25,760 --> 00:03:27,400
@@ -433,7 +436,7 @@ Some ginger and green onion
 86
 00:03:27,400 --> 00:03:31,560
 # 还得来点油吗 来油啊
-Some more oil? Yes please
+Some more oil? Yes, please
 
 87
 00:03:31,560 --> 00:03:32,760
@@ -471,7 +474,7 @@ I was wondering
 94
 00:03:48,360 --> 00:03:50,240
 # 我说我现在厨艺有点下降了
-I was like, 'Is my cooking ability dropping now?'
+I was like, 'Does my cooking skill deteriorate?'
 
 95
 00:03:50,240 --> 00:03:53,640
@@ -679,7 +682,7 @@ Look, no cracking
 136
 00:05:50,600 --> 00:05:51,960
 # 圆圆乎乎的吧
-They are spherical now
+They are round now
 
 137
 00:05:51,960 --> 00:05:55,440
@@ -807,4 +810,4 @@ Thumb up for you! Thanks, Er Bai! Thanks, Sui Po!
 162
 00:07:03,000 --> 00:07:04,640
 # 对不住了 中午我有饭了
-Sorry about that. Got food for my lunch #这里意思是要打包带走？
+Sorry about that. Got food for my lunch
