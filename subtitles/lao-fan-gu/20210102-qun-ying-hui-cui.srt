@@ -12,8 +12,10 @@
 # 搭配熬得奶白的鲫鱼汤，一口下去，无比鲜美！小友们家常吃也可以把萝卜丝儿直接煮到鲫鱼汤里，更加方便快捷！
 # Hello friends! Today we are having a dish with a very special name: Qun Ying Hui Cui (Gathering of heroes). Looking at this colorful dish, can you figure out what the ingredients are?
 # Yes, radish! As a saying goes, radish is for winter and ginger is for summer. Radish is very nutrient, containing various vitamins and rich plant proteins. Eating radish regularly is good for your immune system.
-# For this dish, we use white radish, carrots, and green radish. Apart from its beautiful color, this dish is cooked in a delicate fashion - same as a traditional Huaiyang dish, Kou San Si.
+# For this dish, we use white radish, carrots, and green radish. Apart from its beautiful color, this dish is cooked in a delicate fashion - same as a traditional Huaiyang dish, Kou San Si (steamed three shreds).
 # This dish is incomparably delicious with the milky-white carp soup. When cooking at home, you may also boil the shredded radish in the carp soup, making it simple and fast!
+
+# import intro
 
 # 字幕
 
@@ -60,12 +62,12 @@ Gathering of heroes
 9
 00:00:17,760 --> 00:00:19,560
 # 先处理鲫鱼
-Let's process the carp first
+Let's deal with the carp first
 
 10
 00:00:19,560 --> 00:00:20,920
 # 鳍都要铰掉
-Scissor the fins
+Cut off the fins with scissor
 
 11
 00:00:20,920 --> 00:00:23,080
@@ -75,7 +77,7 @@ The teeth are extremely fishy
 12
 00:00:23,080 --> 00:00:25,440
 # 里边还有好多血水
-There's much blood in it too
+There's quite a lot of blood in it too
 
 13
 00:00:26,240 --> 00:00:28,160
@@ -95,7 +97,7 @@ So we need to use hot water at about 80 degrees Celsius
 16
 00:00:32,160 --> 00:00:33,120
 # 要烫一下
-to 'wash' it #感觉soak和blanch都不太好
+to 'wash' it 
 
 17
 00:00:33,200 --> 00:00:34,840
@@ -200,7 +202,7 @@ Yes. Hot wok, cold oil
 37
 00:01:08,480 --> 00:01:09,920
 # 放点葱油还有色拉油
-Add some green onion oil and salad oil
+Add some green onion oil and regular oil
 
 38
 00:01:09,920 --> 00:01:12,400
@@ -240,7 +242,7 @@ The fish... only after the fish is completely cooked
 45
 00:01:32,440 --> 00:01:34,480
 # 那么再加入热水
-can you add hot water
+you can add hot water
 
 46
 00:01:34,480 --> 00:01:36,680
@@ -315,7 +317,7 @@ White radish
 60
 00:02:08,960 --> 00:02:10,200
 # 胡萝卜 还有青萝卜
-Carrot, and green radish #严格来说白萝卜和青萝卜是十字花科的；胡萝卜是伞形科的，不是真萝卜...所以这里要解释一下嘛？
+Carrot, and green radish
 
 61
 00:02:10,200 --> 00:02:12,000
@@ -545,7 +547,7 @@ If you think this is too complicated
 106
 00:03:42,160 --> 00:03:43,240
 # 您就切点五彩丝儿
-Just prepare some shredded radish #这里应该是指萝卜丝？
+Just prepare some shredded radish 
 
 107
 00:03:43,240 --> 00:03:44,400
@@ -560,7 +562,7 @@ If you want to change the way of presenting
 109
 00:03:46,040 --> 00:03:47,560
 # 您就按照我这个操作一下
-You can follow my protocol
+You can follow my steps
 
 110
 00:03:47,920 --> 00:03:49,520
@@ -740,7 +742,7 @@ This is a unique dish
 145
 00:05:19,880 --> 00:05:22,080
 # 我建议多熬点汤
-I suggest you to make more soup
+I suggest to make more soup
 
 146
 00:05:22,080 --> 00:05:23,520
