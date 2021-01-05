@@ -1,20 +1,20 @@
 # https://youtu.be/Mx7rSbsE3-s
 
-# State Banquet Master Chef - Abalone or Eggplant Box? Crispy, salty, and fresh, how to make home cooking look unfordable. LaoFanGu
+# State Banquet Master Chef - "Abalone" Eggplant Box. Crispy, salty, and fresh.
 
 # Introduction
 # 小友们好，今天隋坡师傅给大家带来一道鲍鱼茄盒！
-# Friends, Master Bo Sui will bring us an Abalone Eggplant Box today!
+# Hello friends! Master Bo Sui brings us an Abalone Eggplant Box today!
 # 听这个名字就知道这个茄盒和我们平时吃的茄盒不太一样，这道菜形似鲍鱼，其实上下两片是一大一小两块茄子。
 # By this name, you can know that this eggplant box is different from the one we usually eat. This dish looks like abalone. Its meat is layered with two different sizes of eggplant slices.
 # 茄盒里面夹的肉馅小友们可以自行选择，鸡肉、鱼肉、虾肉这些都可以！
-# The meat layered in the eggplant is flexible. You can repalce it with chicken, fish, shrimp, whatever meat you like.
+# The meat layered between eggplants is flexible. You can replace it with chicken, fish, shrimp, whatever meat you like.
 # 值得注意的是糊的稀稠程度一定要把握好，这里我们用了150克的脆炸粉，120克的清水和20克纯净色拉油。
 # It's worth noting that we should control the thickness of the batter. Here we used 150 grams of crispy fried powder, 120 grams of water, and 20 grams of pure salad oil.
 # 要想做成鲍鱼的形状，一定要先煎后炸，煎得时候油温不要太高，4成就可以，炸一定得底儿朝上，这样才能定型。
-# To make it look like abalone, we should pan-fry first, then deep-fry. The oil temperature should not be too high, almost 120 Celsius degree (248F). The smaller side of eggplant box should be upward while deep-grying, so that we can fix the shape(to make it look like abalone).
+# To make it look like abalone, we should pan-fry first, then deep-fry. The oil temperature should not be too high, almost 120 Celsius degree (248F). The smaller side of eggplant box should be upward while deep-frying, so that we can fix the shape(to make it look like abalone).
 # 知识点都给小友们划好啦，一道简单家常的美味茄盒也可以做出不同的花样，小友们学会了快去厨房一展身手！
-# The knowledge points are all marked out for you, dear friends. A homely, easy and delicious eggplant box can be so different as well. Just go the the kitchen and have a try!
+# The key points are all marked out for you, dear friends. A homely, easy and delicious eggplant box can be so different as well. Just go the the kitchen and have a try!
 
 1
 00:00:03,440 --> 00:00:04,320
@@ -79,7 +79,7 @@ is sliced like a clip.
 13
 00:00:22,200 --> 00:00:23,640
 # 加上肉馅之后
-after layering the mincemeat,
+after layering the ground meat,
 
 14
 00:00:23,760 --> 00:00:25,160
@@ -179,7 +179,7 @@ The mince should be layered to the middle of the eggplant box.
 33
 00:01:00,720 --> 00:01:02,720
 # 这是肥瘦的猪肉馅
-This is fat and lean ground pork meat.
+This is fat and lean mixed ground pork meat.
 
 34
 00:01:02,760 --> 00:01:04,800
@@ -214,7 +214,7 @@ add some green union and ginger water,
 40
 00:01:16,840 --> 00:01:18,400
 # 放点香油增加香气
-some sesame oil to increase the flavor,
+some sesame oil to enhance the aroma,
 
 41
 00:01:18,400 --> 00:01:20,120
@@ -364,7 +364,7 @@ this is 3 liang (150 grams) of crispy frying powder,
 70
 00:02:26,760 --> 00:02:28,080
 # 市场就有卖的
-which is selt in the market,
+which usually sells in the market,
 
 71
 00:02:28,320 --> 00:02:31,120
@@ -384,12 +384,12 @@ the thickness should be right,
 74
 00:02:35,720 --> 00:02:36,840
 # 太厚了 它不下去
-It it is too thick, too much of batter will stick in the eggplant;
+If it is too thick, too much of batter will stick on the eggplant;
 
 75
 00:02:36,840 --> 00:02:38,160
 # 太薄了 是挂不住
-If it is too thin, it will not stick with eggplant.
+If it is too thin, it will not stick on eggplant.
 
 76
 00:02:39,080 --> 00:02:40,840
@@ -399,7 +399,7 @@ It would help if you stirred it again and again,
 77
 00:02:42,240 --> 00:02:45,560
 # 这个稀稠程度啊 它拉的线
-To how thick? Until it can flow like a thread.
+To what extend? Until it can flow like a thread.
 
 78
 00:02:46,440 --> 00:02:48,120
@@ -414,7 +414,7 @@ About how much?
 80
 00:02:49,560 --> 00:02:51,320
 # 20克纯净的色拉油
-20 grams of pure salad oil,
+20 grams of oil,
 
 81
 00:02:51,960 --> 00:02:56,000
@@ -429,7 +429,7 @@ It is a key ingredient.
 83
 00:02:58,320 --> 00:02:59,720
 # 你看这就行了
-Looks, it is ok now.
+Look, it is ok now.
 
 84
 00:02:59,880 --> 00:03:01,440
@@ -649,7 +649,7 @@ You see, it was pan-fried first,
 127
 00:04:31,960 --> 00:04:33,120
 # 煎完了它不起
-it won't swell after that,
+to prevent swelling after heating
 
 128
 00:04:33,120 --> 00:04:34,760
