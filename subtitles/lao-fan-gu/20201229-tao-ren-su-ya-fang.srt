@@ -10,8 +10,10 @@
 # 本期视频大爷将会展示完整地处理鸭子的做法，经过香料腌制过的鸭肉，鲜嫩入味。
 # 再加上用虾滑和肥膘肉做的瓤，搭配上桃仁，一口下去，没有失去鸭子的本味，反而更突出主味，满口挂香！
 # Hello friends! Today Da Ye brings a traditional dish: crispy walnut kernel duck cubes!
-# In this video, Da Ye will show a complete protocol of processing a duck. The duck will be tender and delicious after marination with spices.
-# The duck will then be stuffed with mashed shrimp, pork fat, and decorated with walnut kernels. However, these ingredients will not steal the show - in contrast, they dramatically enhance the aroma of duck!
+# In this video, Da Ye will show a complete procedure of prepare a duck. The duck is tender and delicious after marinating with spices.
+# The duck then is stuffed with mashed shrimp, pork fat, and decorated with walnut kernels. However, these ingredients does not steal the show - in contrast, they dramatically enhance the aroma of duck!
+
+# import intro
 
 # 字幕
 
@@ -31,7 +33,7 @@ Clean up the anal area of the duck
 4
 00:00:10,080 --> 00:00:12,440
 # 这边呢 鸭骚
-Here, (remove) the preen gland #这里我怀疑鸭骚指的是尾脂腺https://en.wikipedia.org/wiki/Uropygial_gland
+Here, (remove) the preen gland 
 
 5
 00:00:12,440 --> 00:00:14,960
@@ -114,7 +116,7 @@ Rub it with salt
 21
 00:00:48,240 --> 00:00:52,000
 # 腿 肚皮里边
-Legs. Inside the belly #还是abdominal cavity？
+Legs. Inside the abdominal cavity
 
 22
 00:00:52,000 --> 00:00:56,240
@@ -239,7 +241,7 @@ There're ginger, green onion, Huangjiu cooking wine, and salt
 46
 00:01:58,320 --> 00:02:00,280
 # 盖盖儿
-Close the lid
+Put the lid on
 
 47
 00:02:02,000 --> 00:02:03,480
@@ -294,7 +296,7 @@ Prepare some mashed shrimp as the stuffing
 57
 00:02:24,640 --> 00:02:25,720
 # 吃起来又方便
-That's also convenient for eating
+That's also convenient to eat
 
 58
 00:02:25,720 --> 00:02:28,200
@@ -464,7 +466,7 @@ Green onion, ginger, and some cooking wine. What's this?
 91
 00:03:39,840 --> 00:03:40,920
 # 葱姜酒水
-Onion-ginger-wine
+green onion-ginger-wine
 
 92
 00:03:40,920 --> 00:03:42,840
@@ -494,7 +496,7 @@ That's all the ingredients. Mix until it becomes sticky
 97
 00:03:52,280 --> 00:03:55,640
 # 这虾胶打的还真是腻乎啊
-The shrimp stuffing is indeed very sticky
+The shrimp stuffing is indeed quite sticky
 
 98
 00:03:55,640 --> 00:03:58,080
@@ -558,7 +560,7 @@ Sprinkle some starch. Let it stick to the duck
 111
 00:04:34,280 --> 00:04:36,920
 # 它一炸能托一下
-When frying, it's gonna hold the duck together#我也不是很明白这里是啥意思...
+When frying, it's gonna hold the duck together
 
 112
 00:04:37,920 --> 00:04:39,160
@@ -578,7 +580,7 @@ Add some oil. Heating now
 115
 00:04:43,640 --> 00:04:46,640
 # 葱椒盐 铺上了
-Onion-pepper-salt. Spread on the duck
+Green onion-pepper-salt. Spread on the duck
 
 116
 00:04:46,640 --> 00:04:48,560
@@ -588,7 +590,7 @@ After that, pat some starch on the duck
 117
 00:04:49,800 --> 00:04:51,080
 # 这鸭子是新煮的
-The duck is just boiled
+The duck is freshly boiled 
 
 118
 00:04:51,080 --> 00:04:53,120
@@ -804,7 +806,7 @@ From the beginning to the end
 163
 00:06:57,920 --> 00:07:00,680
 # 我并没有吃出这葱椒盐的味来
-I did not taste the onion-pepper-salt at all
+I did not taste the green onion-pepper-salt at all
 
 164
 00:07:00,680 --> 00:07:02,680
