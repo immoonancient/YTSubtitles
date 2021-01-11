@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•罗汉大虾】传承真正的美食魂！经典名菜罗汉大虾,一菜两吃,学会让年夜饭惊艳四座！ |老饭骨
-# State Banquet Master Chef: Arhat Prawn #Arhat是佛教的罗汉，不知道用拼音好还是用英文好
+# State Banquet Master Chef: Arhat Prawn
 
 # 简介
 
@@ -11,11 +11,13 @@
 # 这道菜相比于家常菜，对厨艺的要求更高，很多细节需要注意，相信看完今天的视频小友们都会收获满满干货。
 # 这期视频录下来，大爷二伯和隋坡师傅都很感慨，这道老菜展现了大爷的美食魂。
 # 大爷二伯虽然年纪大了，但是都有一颗不老的心，一个继续把美食传承下去的信念！
-# Hello friends! Da Ye brings a highlight dish in New Year's Eve dinner that will impress all guests.
-# This is a traditional, famous dish in 'Tan Jia Cai' series in Beijing. The prawn head and tail will be cooked in two ways. Also, the presentation of this dish is unique - the prawn looks like a round belly of an Arhat, which is the origin of its name.
-# Compared with common home-made dishes, this dish requires better cooking skills as well as more attention to details. You will definitely learn a lot of solid skills from this video.
+# Hello friends! The dish Da Ye brings today is the highlight of the in New Year's Eve dinner menu and will definitely impress all guests.
+# This is a traditional and famous dish in Beijing 'Tan Jia Cai' series. The prawn head and tail will be cooked in two ways. Also, the presentation of this dish is unique - the prawn looks like a round belly of an Arhat, which is the origin of its name.
+# Compared with casual home-made dishes, this dish requires higher cooking skills as well as more attention to details. You will definitely learn a lot of solid skills from this video.
 # While shooting this video, Da Ye, Er Bai, and Sui Po are overwhelmed with mixed emotions - this dish presents the Da Ye's soul as a master chef.
 # Though Da Ye and Er Bai are in old age, their hearts never get old. Their faith of preserving delicious dishes and cooking skills will never perish.
+
+# import intro
 
 # 字幕
 
@@ -167,7 +169,7 @@ Also, you should cut here
 30
 00:01:06,680 --> 00:01:07,960
 # 不斩一下它有筋
-Otherwise there's a nerve cord remaining #虾的背部是肠，腹部是一条神经索，估计这里是说神经
+Otherwise there's a nerve cord remaining 
 
 31
 00:01:07,960 --> 00:01:11,520
@@ -320,7 +322,7 @@ Stir in one direction
 61
 00:02:20,840 --> 00:02:23,480
 # 蛋清 再搅
-Egg white. Go on stirring
+Egg white. Keep stirring
 
 62
 00:02:23,480 --> 00:02:26,520
@@ -335,7 +337,7 @@ Towel
 64
 00:02:28,560 --> 00:02:31,280
 # 这虾已经腌了半天了 腌好了
-The shrimp has been marinated for a long time. That's done
+The shrimp has been marinated for a long time. It's done
 
 65
 00:02:31,280 --> 00:02:32,840
@@ -424,7 +426,7 @@ Something black inside
 83
 00:03:24,000 --> 00:03:25,400
 # 不许说那么明白啊
-Don't you say that!
+Don't explain it so clear!
 
 84
 00:03:25,400 --> 00:03:30,120
@@ -474,7 +476,7 @@ In the past, in banquets
 93
 00:03:49,160 --> 00:03:53,320
 # 煎炒烹炸烧烩焖熘
-We have dishes cooked by pan-frying, stir-frying, deep-frying, braising, boiling, brewing, and many other cooking techniques #臣妾翻不到啊
+We have dishes cooked by pan-frying, stir-frying, deep-frying, braising, boiling, brewing, and many other cooking techniques 
 
 94
 00:03:53,320 --> 00:03:56,240
@@ -918,7 +920,7 @@ Thank you, Er Bai
 185
 00:07:50,560 --> 00:07:54,400
 # 二伯说的让我有点伤感
-Er Bai's words are getting me emotional
+Er Bai's words makes me emotional
 
 186
 00:07:55,920 --> 00:07:57,880
@@ -1002,7 +1004,7 @@ Stand up, stand up
 203
 00:08:32,280 --> 00:08:35,720
 # 你让我激动了 快起快起
-You are making me emotional. Stand up now
+You make me emotional. Stand up now
 
 204
 00:08:38,480 --> 00:08:41,040
@@ -1022,7 +1024,7 @@ to pass on the great skills in Chinese cooking
 207
 00:08:45,880 --> 00:08:48,160
 # 其实我们的责任是很大的
-Actually we feel obliged to do this
+Actually our responsibility is quite huge
 
 208
 00:08:48,160 --> 00:08:51,760
@@ -1062,4 +1064,4 @@ Chinese cooking is so great and broad
 215
 00:09:05,080 --> 00:09:07,840
 # 永远有我们学不完的东西
-We will never learn everything of it
+There is always something we have not seen and learnt
