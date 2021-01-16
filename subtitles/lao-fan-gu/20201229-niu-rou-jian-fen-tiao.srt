@@ -13,6 +13,8 @@
 # Would you like to have a Chinese-style pizza made of vermicelli? With beef dices on both sides, dressed with green and red chili peppers, and fried egg, the 'pizza' is so crispy and tastes amazing!
 # If you would like to recommend any special dish from your hometown, please comment and we can cook it for you!
 
+# import intro
+
 # 字幕
 
 1
@@ -618,12 +620,12 @@ I'll have the one with more vermicelli
 121
 00:04:11,080 --> 00:04:12,320
 # 你说说
-Talk to us
+Tell us
 
 122
 00:04:12,320 --> 00:04:13,760
 # 怎么样
-How do you like it?
+How is it?
 
 123
 00:04:14,200 --> 00:04:16,720
