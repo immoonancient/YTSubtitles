@@ -2,22 +2,24 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•圆梦烧饼】这烧饼圆了慈禧太后的一个梦!香酥馅满,大有来头的烧饼原来这么简单!|老饭骨
-# [State Banquet Master Chef • Yuan Meng Shaobing] Cixi’s Dream Shaobing (Chinese flatbread) is Crispy and Fulfilling. Also Easy to make!
+# State Banquet Master Chef - Yuan Meng Shaobing  (Chinese flatbread). Empress Dowager's Dream
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
 # 大家好，今天为小友们带来的这个烧饼可是大有来头，它圆了慈禧太后的一个梦！
-# Hello everyone, today we introduce you the legendary Shaobing (a type of Chinese Flatbread) that brings Empress Dowager Cixi’s dream to life!
+# Hello friends! Today we introduce you the legendary Shaobing (a type of Chinese Flatbread) that brings Empress Dowager Cixi’s dream to life!
 # 为什么这么说呢，相传老佛爷有次梦见吃火烧夹肉末，第二天御膳房恰巧做了这道肉末烧饼，就圆了慈溪太后这个梦！
 # And why is that? One night, Cixi (or the royal name -- Lao Fo Ye) had a dream of eating Shaobing stuffed with grounded meat. Surprisingly, without any conversation, the imperial kitchen put the same dish on her table the second day!
 # 炒肉馅呢二伯还有个20字小口诀，大家伙可要记好咯！
 # Er Bai has a 20-word secret formula for frying the meat filling. Are you ready to take notes?
 # 酱油料酒醋，咸盐味之素，
 # 糖辣葱姜蒜，淀粉勾点芡。
-# Listen: [soy, cooking wine, vinegar], [salt and msg]; [sugar, hot pepper, green onion, ginger, garlic], [starch to thicken].
+# Listen: [soy, cooking wine, vinegar], [salt and msg]; [sugar, chili, green onion, ginger, garlic], [starch to thicken].
 # 口诀很简单，但是非常实用。最后这道菜还有一点点小瑕疵，改进的方法大爷二伯在片尾教给小友们了，快点击视频一探究竟吧！
-# Sounds easy yet very useful. The recipe has a bit defect, but Er Bai will provide an improvement advice at the end of the video.
+# Sounds easy yet very useful. The recipe has a bit defect, but Er Bai provides the improvement advice at the end of the video. Let's check it out!
+
+# import intro
 
 # 字幕
 
@@ -197,7 +199,7 @@ This Shaobing brings Empress Dowager Cixi’s dream to life!
 36
 00:01:03,520 --> 00:01:04,520
 # 这是芯
-This is the heart dough.
+This is the dough putting inside the wrapper.
 
 37
 00:01:04,520 --> 00:01:07,320
@@ -237,7 +239,7 @@ Ok, now we have the dough ready.
 44
 00:01:20,720 --> 00:01:23,680
 # 直接揪出来小芯 不用饧这个
-Now we are making the smaller heart doughs. No need to proof them.
+Now we are making the smaller doughs to put inside. No need to proof them.
 
 45
 00:01:24,040 --> 00:01:26,720
@@ -252,7 +254,7 @@ Add some oil so it won’t stick.
 47
 00:01:29,800 --> 00:01:31,760
 # 这芯好扣往外
-In addition, we will find it easy to remove the heart dough after baking.
+In addition, we will find it easy to remove the inside dough after baking.
 
 48
 00:01:31,840 --> 00:01:33,400
@@ -472,11 +474,11 @@ We can’t wait to learning from you!
 91
 00:03:10,280 --> 00:03:13,280
 # 您这是好 老佛爷肉馅夹馍
-
+It's great! Empress Dowager's bun with meat.
 92
 00:03:13,280 --> 00:03:15,440
 # 老佛爷圆梦烧饼
-
+Empress Dowager's Dreaming Shao Bing
 93
 00:03:18,760 --> 00:03:20,200
 # 这肉啊有一个
@@ -500,7 +502,7 @@ Look, the color
 97
 00:03:25,640 --> 00:03:29,040
 # 由红变白
-It changes from read to white
+It changes from red to white
 
 98
 00:03:29,200 --> 00:03:32,840
@@ -560,7 +562,7 @@ salt and msg
 109
 00:03:50,880 --> 00:03:51,960
 # 糖辣葱姜蒜
-sugar, hot pepper, green onion, ginger, garlic
+sugar, chili, green onion, ginger, garlic
 
 110
 00:03:51,960 --> 00:03:53,480
@@ -625,7 +627,7 @@ Crispy enough?
 122
 00:04:19,440 --> 00:04:20,840
 # 这是啥 师父
-What is this, Master Chef?
+What is this, Master?
 
 123
 00:04:20,840 --> 00:04:22,800
@@ -765,7 +767,7 @@ Though there is still room for improvement.
 150
 00:05:37,680 --> 00:05:39,680
 # 面团和烧饼
-The heart dough and the Shaobing
+The inside dough and the Shaobing
 
 151
 00:05:39,680 --> 00:05:42,400
