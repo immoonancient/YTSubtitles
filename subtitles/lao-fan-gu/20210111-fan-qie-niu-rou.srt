@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•番茄牛肉】鲜美浓郁!搭配牛油果的番茄牛肉你一定没吃过!|老饭骨
-# State Banquet Master Chef : Beef and Tomato
+# State Banquet Master Chef : Beef Tomato Soup. Bet you haven't try the version with avocado 
 
 # 简介
 
@@ -11,18 +11,20 @@
 # 番茄、西芹和洋葱用黄油炒过之后，加入牛肉汤煮一会儿，还要用粉碎机打碎，食材更加细腻，这样我们做出来的汤才会更加浓郁。
 # 最后加入牛油果，搭配牛油果的牛肉会有一种特殊的香气，吃一口欲罢不能！
 # 小友们快去试试看，这道家常番茄牛肉，真的不一般！
-# Hello friends! Er Bai brings an amazingly delicious dish - Beef and Tomato!
+# Hello friends! Er Bai brings an amazingly delicious dish - Beef Tomato Soup!
 # This dish is different from the tomato beef brisket stew that we usually have. Firstly, the beef brisket must be blanched with cold water with the scum removed immediately. Cold water should be added into the pot repeatedly to clean up the beef as well as the broth.
 # The tomato, celery, and onion should be stir-fried with butter, boiled with the original beef broth, and crushed with a blender. In this way, the soup will be creamy, thick, and rich.
 # Finally, the avacado will give a special aroma in combination with beef, which makes you never drop your chopsticks!
-# Please try to cook this dish by yourselves - this home-made beef and tomato is incredible!
+# Please try to cook this dish by yourselves - this home-made beef tomato soup is incredible!
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,040 --> 00:00:02,360
 # 二伯的番茄牛肉来了
-Here it comes - Er Bai's Beef and Tomato!
+Here it comes - Er Bai's Beef Tomato Soup!
 
 2
 00:00:05,320 --> 00:00:07,360
@@ -217,7 +219,7 @@ Okay. It's been 40 minutes now
 40
 00:01:24,280 --> 00:01:26,120
 # 大爷您看看这个 清澈见底
-Look at this, Da Ye. Clear as you can see the bottom
+Look at this, Da Ye. Clear. you can even see the bottom
 
 41
 00:01:27,560 --> 00:01:29,360
@@ -382,7 +384,7 @@ The avacado produces a special aroma in this dish
 73
 00:03:03,600 --> 00:03:06,080
 # 二伯 的番茄牛肉来了
-Here it comes - Er Bai's Beef and Tomato!
+Here it comes - Er Bai's Beef Tomato Soup!
 
 74
 00:03:08,360 --> 00:03:10,560
