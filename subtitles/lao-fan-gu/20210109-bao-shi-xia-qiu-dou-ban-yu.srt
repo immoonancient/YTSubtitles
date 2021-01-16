@@ -3,7 +3,7 @@
 # 视频链接：https://youtu.be/hgN4RnKhH1E
 
 # 【国宴大师•宝石虾球&豆瓣鱼】珍藏40年的老菜谱,老饭骨首次分享!老饭骨团建日,坚守传承老味道!|老饭骨
-# [State Banquet Master Chef – Shrimp Balls Full of Gems & Douban Fish] Laofangu reveals a 40-year-old legendary recipe! Celebrating the craftsmanship at Team Building Day.
+# State Banquet Master Chef – Shrimp Balls with Gems & Douban Fish. 40-years-old recipe!
 
 # 小友们好，今天的视频比较特殊，是老饭骨的团建日！今天也不在咱们小厨房做菜了，目的地：密云！
 # Hi everyone, we have a special episode today for the Laofangu’s Team Building Day! Instead of cooking in our signatory kitchen, we are leaving for Miyun District, Northeast Beijing.
@@ -15,6 +15,8 @@
 # We have been working on Laofangu for two years, and Da Ye and Er Bai want to share some honest words with you. We couldn’t have been so popular without your love and support, which will always motivate us down the road.  No matter how hard it’s gonna be in the future, Laofangu promises to carry on the mission to pass on the culinary legacy.
 # 老饭骨是条路，这条路要一直走下去...
 # Laofangu is creating a pathway for many more food enthusiasts to walk along with us.
+
+# import intro
 
 1
 00:00:00,000 --> 00:00:03,120
@@ -172,7 +174,7 @@ You guys can eat some Xiaohuawan…
 32
 00:01:24,600 --> 00:01:26,120
 # 先垫一垫吧 可以
-…to stay your hunger. Ok.
+so that you won't be too hungry. Ok.
 
 33
 00:01:26,120 --> 00:01:30,600
@@ -236,7 +238,7 @@ Such as Fotiaoqiang
 46
 00:01:52,760 --> 00:01:55,680
 # 亮子 我们期待着啊
-Liang Zi, we are looking for ward to it.
+Liang Zi, we are looking forward to it.
 
 47
 00:01:55,680 --> 00:01:56,880
@@ -281,7 +283,7 @@ Well, having such a session usually means..
 55
 00:02:14,840 --> 00:02:17,920
 # 晕车的隋哥已经迷茫了
-Brother Sui who got carsick already looks confused.
+Brother Sui got carsick and already looks confused.
 
 56
 00:02:17,920 --> 00:02:19,000
@@ -319,12 +321,12 @@ We brought some old books this time
 63
 00:02:38,680 --> 00:02:40,640
 # 也带来了老菜
-As well as some legendary dishes.
+As well as some traditional dishes.
 
 64
 00:02:40,640 --> 00:02:43,120
 # 我先说说我这个老菜
-Let me talk about my legendary dish
+Let me talk about mine one first
 
 65
 00:02:43,120 --> 00:02:45,320
@@ -525,17 +527,17 @@ When I took apprenticeship under my master, …
 105
 00:04:14,600 --> 00:04:19,360
 # 我师父原来所传承的一个老菜
-One legendary dish inherited by my master…
+One traditional dish inherited by my master…
 
 106
 00:04:19,360 --> 00:04:21,640
 # 叫宝石虾球
-… is called Shrimp Balls Full of Gems.
+… is called Shrimp Balls with Gems. 
 
 107
 00:04:21,640 --> 00:04:23,360
 # 我把宝石虾球这个菜
-Let me discuss this Shrimp Balls Full of Gems…
+Let me discuss this dish
 
 108
 00:04:23,360 --> 00:04:24,920
@@ -545,7 +547,7 @@ Let me discuss this Shrimp Balls Full of Gems…
 109
 00:04:24,920 --> 00:04:26,600
 # 宝石虾球
-Shrimp Balls Full of Gems
+Shrimp Balls with Gems
 
 110
 00:04:26,600 --> 00:04:27,640
@@ -665,12 +667,12 @@ What does the book say on the first step?
 133
 00:05:17,160 --> 00:05:19,000
 # 先把虾肉弄干净
-First, one needs to clean the shrimp meat
+First, clean the shrimp meat
 
 134
 00:05:19,000 --> 00:05:21,520
 # 然后铺开给剁成馅 虾蓉
-Then the meat is spread and chopped into sticky fillings, or shrimp paste
+Then spread the meat  and chop it into sticky fillings, or shrimp paste
 
 135
 00:05:21,520 --> 00:05:23,160
@@ -690,12 +692,12 @@ Then cut green onions into sections, and slice some ginger
 138
 00:05:26,160 --> 00:05:29,520
 # 加料酒 制成葱姜酒水
-Add Chinese cooking wine to create green-onion-ginger-wine water
+Add Chinese cooking wine to create green-onion-ginger-wine extract
 
 139
 00:05:29,520 --> 00:05:32,920
 # 加葱姜酒水 白胡椒粉 盐
-Add in this water, and white pepper power, salt
+Add in this extract, and white pepper power, salt
 
 140
 00:05:32,920 --> 00:05:36,600
@@ -768,7 +770,7 @@ Low heat to have the balls fully cooked
 154
 00:06:09,640 --> 00:06:10,880
 # 过去老师傅讲
-Experience chefs once said in the past
+Experienced chefs once said in the past
 
 155
 00:06:10,880 --> 00:06:12,440
@@ -826,17 +828,17 @@ The variety of ingredients remind people of…
 166
 00:06:33,440 --> 00:06:38,000
 # 珊瑚 翡翠 琥珀 玛瑙 水晶之类
-… a bunch of gems like coral reef, jade, amber, agate, crystal, etc.
+… a bunch of gems like coral, jade, amber, agate, crystal, etc.
 
 167
 00:06:38,000 --> 00:06:40,200
 # 因此得名宝石虾球
-Thus, it has the name of “Shrimp Balls Full of Gems”
+Thus, it has the name of “Shrimp Balls with Gems”
 
 168
 00:06:41,080 --> 00:06:43,320
 # 大爷讲这个宝石虾球
-That’s it on Da Ye’s introduction of Shrimp Balls Full of Gems
+That’s it on Da Ye’s introduction of Shrimp Balls with Gems
 
 169
 00:06:43,320 --> 00:06:45,280
@@ -1403,7 +1405,7 @@ In your future career, …
 284
 00:11:42,320 --> 00:11:43,480
 # 你就没有休息日了
-… you don’t have any off day.
+… you don’t have any day off.
 
 285
 00:11:43,480 --> 00:11:44,440
