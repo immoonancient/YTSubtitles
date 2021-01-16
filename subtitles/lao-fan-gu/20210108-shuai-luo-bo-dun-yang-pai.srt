@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•摔萝卜炖羊排】汤清肉鲜!简单必学的一道摔萝卜炖羊排，20分钟出锅!|老饭骨
-# 【State Banquet Master Chef• Smashed radish and lamb rib stew】one must learn, only take 20 minutes!
+# State Banquet Master Chef - Smashed radish and lamb rib stew. Easy, done within 20 minutes!
 
 # 简介
 
@@ -10,10 +10,12 @@
 # 这次由二伯掌勺，教小友们快速做出一锅汤清肉鲜、营养丰富的摔萝卜炖羊排。
 # 快速鸡汤的做法大家伙可以参考之前的【国宴鸡豆花】视频https://youtu.be/IKCLukES7-s
 # 摔出来的萝卜里面的纤维更开，比直接切出来的萝卜更加入味。最后加入焯过的虫草花和枸杞，喝汤吃肉，冬季养生就看这锅汤了！
-# Hello! We are making stewed lamb ribs that you requested in the comment area!
+# Hello friends! We are making stewed lamb ribs that you requested in the comment area for a long time!
 # Today, Er Bai is taking over to teach you a tasty and nutritious dish: Smashed radish and lamb rib stew.
 # For more details on making “instant” chicken broth, you could refer to 【State Banquet Ji Douhua (Chicken tofu pudding)】 Link: https://youtu.be/IKCLukES7-s
-# Smashing the radish breaks its fiber, so it absorbs more flavour than just cutting it. Add blanched cordyceps flower and goji berry at the end to make it nutritious, it’s a great stew to have in winter!
+# Smashing the radish breaks its fiber, so it absorbs more flavour than just cutting it. At the end, we add some blanched cordyceps flower and goji berry to make it nutritious. It’s a great stew to have in winter!
+
+# import intro
 
 # 字幕
 
@@ -23,7 +25,7 @@
 2
 00:00:02,000 --> 00:00:04,160
 # 摔萝卜炖羊排 好了
-Smashed radish and lamb rib stew. done!
+Smashed radish and lamb rib stew. Done!
 
 3
 00:00:04,160 --> 00:00:10,120
@@ -117,7 +119,7 @@ Blanch the radish with some rock sugar
 22
 00:00:42,520 --> 00:00:44,240
 # 冰糖 你不管多臭的萝卜
-Nomatter how stinky the radish is
+No matter how stinky the radish is
 
 23
 00:00:44,240 --> 00:00:45,280
@@ -137,7 +139,7 @@ Smashed radish and lamb ribs
 26
 00:00:47,920 --> 00:00:50,720
 # 这个季节正好吃羊肉跟萝卜
-This is a great season the have lamb and radish
+This is a great season to have lamb and radish
 
 27
 00:00:50,720 --> 00:00:53,680
@@ -239,7 +241,7 @@ Use this ‘instant’ chicken broth
 48
 00:01:39,480 --> 00:01:41,720
 # 省去了吊汤的这功夫
-It saves the time for make real broth
+It saves the time for making real broth
 
 49
 00:01:41,720 --> 00:01:43,920
@@ -366,7 +368,7 @@ If the impurities are not out, the broth is not cloudy
 75
 00:02:48,800 --> 00:02:52,600
 # 再稍微小一点 还得让它开
-Turn the heat a little lower but make make sure it’s still almost boiling
+Turn the heat a little lower but make sure it’s still almost boiling
 
 76
 00:02:52,600 --> 00:02:56,520
@@ -526,7 +528,7 @@ And we put it together with the clear broth
 109
 00:04:10,840 --> 00:04:12,040
 # 我们再合在一起
-We add the together
+Then we put them together
 
 110
 00:04:12,040 --> 00:04:14,720
