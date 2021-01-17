@@ -2,7 +2,7 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•圆梦烧饼】这烧饼圆了慈禧太后的一个梦!香酥馅满,大有来头的烧饼原来这么简单!|老饭骨
-# State Banquet Master Chef - Yuan Meng Shaobing (Chinese flatbread). Empress Dowager's Dream Comes True!
+# State Banquet Master Chef - Yuan Meng Shaobing (Chinese flatbread). 
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
