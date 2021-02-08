@@ -1,0 +1,398 @@
+# https://youtu.be/RRgDVvskHIM
+
+# 标题
+# 【国宴大师•霸王卤肉饭】干饭人必学的一道卤肉饭！大口吃肉，无比满足，就是香！ |老饭骨
+# State Banquet Master Chef- Super Star Braised Pork over Rice!
+
+# 简介
+
+# 小友们大家好，今天带来的这道菜可是卤肉饭的升级版——霸王卤肉饭！
+# Hello everyone. Today we brought to you the advanced version of Braised Pork over Rice – Super Start Braised Pork over Rice!
+# 大爷二伯最近学了个新词叫“干饭人”，霸王卤肉饭里面有大块的卤肉，肉香满满，大爷和二伯都忍不住化身“干饭人”武吃了！
+# Da Ye and Er Bai learned a new phrase called “Gan Fan Ren” (i.e. a food lover who has a great appetite and never miss a meal). The Super Star Braised Pork over Rice has the bigger size of the braised pork inside and the fulfilling meaty flavor and smell. Da Ye and Er Bai can’t wait to having it as Gan Fan Ren.
+# 小魏师傅为了把菜做到极致，还加了玫瑰露酒，并且融入了山东葱烧海参的手法，不得不说，这碗卤肉饭实在太香了！小友们快学起来！
+# Chef Xiao Wei took this dish to an extreme by adding rose wine and integrating the cooking technique used in Shandong Cuisine’s famous Sea Cucumber Fried with Spring Onion. We have to say this bowl of Super Star Braised Pork over Rice is amazing! Be sure to try it yourself!
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:01,760
+# 哎 小卤肉
+Yo, braised pork!
+
+2
+00:00:01,880 --> 00:00:03,320
+# 我一听说小魏要吃这饭
+As soon as I heard that Xiao Wei is making this dish…
+
+3
+00:00:03,320 --> 00:00:04,400
+# 大爷 我中午没吃饭
+Da Ye, I didn’t have lunch today.
+
+4
+00:00:04,400 --> 00:00:06,120
+# 我也没吃啊
+I didn’t have any either.
+
+5
+00:00:08,000 --> 00:00:09,040
+# 嗯
+Yum.
+
+6
+00:00:10,360 --> 00:00:11,280
+# 好
+Good.
+
+7
+00:00:11,280 --> 00:00:13,680
+# 老饭骨版的霸王卤肉饭
+Lao Fan Gu’s version of Super Star Braised Pork over Rice.
+
+8
+00:00:16,800 --> 00:00:18,480
+# 干葱 蒜片
+Shallot slices, garlic slices,…
+
+9
+00:00:18,600 --> 00:00:20,760
+# 还有洋葱我们把它炸成金黄色
+…and Onion. We are frying them till golden.
+
+10
+00:00:20,760 --> 00:00:22,120
+# 留一部分
+Save some.
+
+11
+00:00:22,120 --> 00:00:23,880
+# 这时候把大葱搁进去
+Now we add in some spring onion.
+
+12
+00:00:23,880 --> 00:00:24,800
+# 要分头炸
+You have to fry them separately.
+
+13
+00:00:24,800 --> 00:00:26,840
+# 不然的话炸的大葱都干了
+Otherwise the spring onion would be too dehydrated…
+
+14
+00:00:26,840 --> 00:00:28,360
+# 洋葱还不行呢
+…while the onion is not ready at all.
+
+15
+00:00:28,360 --> 00:00:30,400
+# 大火 浸炸
+High heat. The items should be bathing in the oil.
+
+16
+00:00:30,400 --> 00:00:32,200
+# 这时候就行了 关火
+Ok, this works. Turn off the heat.
+
+17
+00:00:32,200 --> 00:00:33,760
+# 给它捞出来 备用
+Scoop it up and put it on the side.
+
+18
+00:00:34,240 --> 00:00:35,520
+# 葱油有点多
+We have a bit of extra scallion oil.
+
+19
+00:00:35,520 --> 00:00:36,760
+# 要留点出来
+Let’s put some away.
+
+20
+00:00:37,520 --> 00:00:39,200
+# 五花肉切成条
+Cut the pork belly into slim pieces with the layers on the long side.
+
+21
+00:00:39,280 --> 00:00:42,160
+# 以往的台湾卤肉饭就是小条
+Taiwan style Braised Pork over Rice typically has uniform size like this.
+
+22
+00:00:42,360 --> 00:00:43,760
+# 我今天配两块大个的
+Today I am adding two big ones.
+
+23
+00:00:43,760 --> 00:00:44,840
+# 霸王桩
+Super Stars.
+
+24
+00:00:44,880 --> 00:00:47,320
+# 切下刀它就能够一块熟了
+I am adding some carves so that they can be cooked alongside the small ones at the same time.
+
+25
+00:00:47,320 --> 00:00:48,760
+# 这吃的就过瘾
+This must be very fulfilling to eat.
+
+26
+00:00:50,480 --> 00:00:51,520
+# 开始可以煸了
+Now we can start to fry them in shallow oil.
+
+27
+00:00:51,520 --> 00:00:53,400
+# 大料瓣 炸香
+Star anise. Fry till the smell comes out.
+
+28
+00:00:53,520 --> 00:00:55,680
+# 这时候咱就把这个
+At this moment, we add …
+
+29
+00:00:56,160 --> 00:00:58,120
+# （霸王桩）生煸
+…the Super Stars into the pot.
+
+30
+00:00:59,760 --> 00:01:01,520
+# 把肉给它推进去
+Push the meat in.
+
+31
+00:01:02,920 --> 00:01:04,160
+# 连葱一块下去
+Together with the spring onion and the shallot slices.
+
+32
+00:01:05,160 --> 00:01:08,800
+# 主要突出干葱跟大葱的香气
+to highlight the smell of the shallot and spring onion.
+
+33
+00:01:10,280 --> 00:01:11,840
+# 咱这肉煸到什么程度
+When should the meat be ready?
+
+34
+00:01:12,000 --> 00:01:15,080
+# 洋葱跟大葱还有干葱
+When the onion, sprint onion, and shallot..
+
+35
+00:01:15,080 --> 00:01:16,800
+# （煸成）金黄色
+…become golden.
+
+36
+00:01:18,640 --> 00:01:20,800
+# 香菇必须给它攥干水分
+We need to squish the water out of the shiitake mushroom
+
+37
+00:01:20,800 --> 00:01:22,960
+# 生抽 顺着锅边
+Add some light soy sauce along the inner side of the pot.
+
+38
+00:01:23,400 --> 00:01:25,320
+# 烹出香气来
+to cook (the soy sauce) and release the aroma.
+
+39
+00:01:25,760 --> 00:01:26,960
+# 沙嗲酱
+Some satay sauce.
+
+40
+00:01:26,960 --> 00:01:28,400
+# 炒一炒
+Fry them.
+
+41
+00:01:28,400 --> 00:01:29,480
+# 加水
+Add some water.
+
+42
+00:01:29,880 --> 00:01:31,440
+# 老抽
+Dark soy sauce.
+
+43
+00:01:33,040 --> 00:01:34,920
+# 再来点水
+Add more water.
+
+44
+00:01:36,360 --> 00:01:38,160
+# 胡椒粉来点
+Some white pepper powder.
+
+45
+00:01:38,960 --> 00:01:42,120
+# 少来点儿玫瑰露酒
+A little bit Chinese rose wine.
+
+46
+00:01:42,640 --> 00:01:45,040
+# 增香 有玫瑰香味的酒
+This wine with rosy smell adds even more flavor to the dish.
+
+47
+00:01:45,600 --> 00:01:47,840
+# 炸好的干葱洋葱搁进去
+Now add in the previously fried shallot and onion.
+
+48
+00:01:48,080 --> 00:01:49,400
+# 搁到砂煲里头
+Pour everything into the clay pot.
+
+49
+00:01:49,960 --> 00:01:51,120
+# 炖制
+Stew them.
+
+50
+00:01:52,240 --> 00:01:54,200
+# 开锅该调颜色了
+Upon boiling, we adjust the color (with dark soy sauce here).
+
+51
+00:01:55,040 --> 00:01:57,080
+# 盖上盖 得了
+Cover it up. Good.
+
+52
+00:01:59,760 --> 00:02:01,520
+# 炖了20来分钟了
+Now we have stewed them for more than 20 minutes.
+
+53
+00:02:02,480 --> 00:02:04,960
+# 把这个鸡蛋给它搁进去
+We add some boiled eggs.
+
+54
+00:02:05,600 --> 00:02:07,400
+# 泡上 小卤肉
+Soak them well. Braised pork.
+
+55
+00:02:09,040 --> 00:02:10,120
+# 好 炖着吧
+Ok, let it stew.
+
+56
+00:02:13,040 --> 00:02:15,000
+# 炖了半小时又闷了10分钟
+Now it’s another half an hour and 10 minutes.
+
+57
+00:02:15,200 --> 00:02:16,560
+# 可以啊
+Looks great.
+
+58
+00:02:16,800 --> 00:02:18,960
+# 肉出锅了 卤肉
+It’s show time for the Braised Pork!
+
+59
+00:02:21,240 --> 00:02:22,880
+# 霸王在这呢
+Our Super Start is here!
+
+60
+00:02:24,320 --> 00:02:26,880
+# 老饭骨版的霸王卤肉饭
+Lao Fan Gu’s version of Super Start Braised Pork over Rice.
+
+61
+00:02:27,240 --> 00:02:28,600
+# 齐活
+Ready to serve.
+
+62
+00:02:33,160 --> 00:02:33,920
+# 好
+Tasty.
+
+63
+00:02:34,680 --> 00:02:37,160
+# 嚯 也扒拉着吃
+Look at you, you can’t wait to having a mouthful of food.
+
+64
+00:02:37,800 --> 00:02:38,800
+# 香吗
+Doesn’t it taste good?
+
+65
+00:02:39,120 --> 00:02:41,000
+# 真香
+Very good.
+
+66
+00:02:41,920 --> 00:02:44,000
+# 不能影响二伯形象
+Er Bai still needs his image.
+
+67
+00:02:48,000 --> 00:02:49,560
+# 好吃啊 大爷
+Delicious, Da Ye.
+
+68
+00:02:49,760 --> 00:02:51,440
+# 一般在做菜当中
+Usually when we cook,…
+
+69
+00:02:51,440 --> 00:02:53,000
+# 用玫瑰酒特别少
+… it’s very rare to use rose wine.
+
+70
+00:02:53,000 --> 00:02:54,160
+# 做的非常精致
+The fact that Chef Xiao Wei used it here makes the dish exquisite.
+
+71
+00:02:54,160 --> 00:02:55,560
+# 我融入了咱
+I integrated our…
+
+72
+00:02:55,560 --> 00:02:57,840
+# 山东菜的葱烧海参的手法
+… Shandong Cuisine’s cooking technique for Sea Cucumber Fried with Spring Onion.
+
+73
+00:02:57,840 --> 00:02:59,880
+# 原来没有大料瓣
+We don’t typically use star anise in braised pork.
+
+74
+00:02:59,880 --> 00:03:00,880
+# 没加大葱
+No spring onion either.
+
+75
+00:03:00,880 --> 00:03:02,400
+# 我在原有的基础上
+On top of the tradition,…
+
+76
+00:03:02,400 --> 00:03:04,440
+# 加了葱烧海参的技法
+… I integrated the cooking technique for Sea Cucumber Fried with Spring Onion.
