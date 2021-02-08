@@ -2,7 +2,7 @@
 
 # 标题
 # 【国宴大师•醋熘白菜】易学易懂的家常醋熘白菜，酸甜开胃，掌握三大要点，一学就会！ |老饭骨
-# State Banquet Master Chef: Quick Fried Napa Cabbage with Vinegar, sweet & sour, easy to learn!
+# State Banquet Master Chef: Quick Fried Napa Cabbage with Vinegar. Sweet, sour, easy!
 
 # 简介
 
@@ -11,6 +11,8 @@
 # 选材、刀功、料汁的比例、火候大小这些小细节也得处理好咯！快点击视频，看隋坡师傅为小友们解锁最简单易学的做菜小知识！
 # Hello friends! Do you all think that the dish we made last time, Arhat Prawn is too complicated? Today we are going to teach you guys a homestyle dish that is easy to learn, Quick Fried Napa Cabbage with Vinegar. This dish is very common for home-cooking, but if you want the cabbage to have a crunchy texture, there are three key points to be noted.
 # You have to pay attention to all details, including ingredient selection, cutting skills, ratio of the sauce and the control of the flame. Now please watch the video and learn the recipe with Sui Po together!
+
+# import intro
 
 # 字幕
 
@@ -67,12 +69,12 @@ for this dish
 11
 00:00:18,320 --> 00:00:19,680
 # 第一个要点他说出来了
-was told by him just now
+He just told us now
 
 12
 00:00:19,680 --> 00:00:21,160
 # 第二个就是刀工了
-The second point Is the cutting skill
+The second point is the cutting skill
 
 13
 00:00:21,200 --> 00:00:23,120
@@ -102,7 +104,7 @@ Garlic must be used in this dish
 18
 00:00:36,040 --> 00:00:37,960
 # 葱不起主要的味道
-Onion is not the main flavour
+Green onion does not provide the main flavour here
 
 19
 00:00:38,200 --> 00:00:39,960
