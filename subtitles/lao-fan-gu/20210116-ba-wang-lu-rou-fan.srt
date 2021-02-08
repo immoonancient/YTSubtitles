@@ -9,9 +9,11 @@
 # 小友们大家好，今天带来的这道菜可是卤肉饭的升级版——霸王卤肉饭！
 # Hello everyone. Today we brought to you the advanced version of Braised Pork over Rice – Super Start Braised Pork over Rice!
 # 大爷二伯最近学了个新词叫“干饭人”，霸王卤肉饭里面有大块的卤肉，肉香满满，大爷和二伯都忍不住化身“干饭人”武吃了！
-# Da Ye and Er Bai learned a new phrase called “Gan Fan Ren” (i.e. a food lover who has a great appetite and never miss a meal). The Super Star Braised Pork over Rice is famous for the bigger size of the braised pork and the fulfilling meaty flavor and smell. Da Ye and Er Bai can’t wait to having it as Gan Fan Ren.
+# Da Ye and Er Bai learned a new phrase called “Gan Fan Ren” (i.e. a food lover who has a great appetite and never miss a meal). The Super Star Braised Pork over Rice has the bigger size of the braised pork inside and the fulfilling meaty flavor and smell. Da Ye and Er Bai can’t wait to having it as Gan Fan Ren.
 # 小魏师傅为了把菜做到极致，还加了玫瑰露酒，并且融入了山东葱烧海参的手法，不得不说，这碗卤肉饭实在太香了！小友们快学起来！
-# Chef Xiao Wei took this dish to an extreme by adding rose wine and integrating the cooking method for Shandong Cuisine’s famous Sea Cucumber Fried with Spring Onion. There is no reason not to say this bowl of Super Star Braised Pork over Rice is amazing! Be sure to try it yourself!
+# Chef Xiao Wei took this dish to an extreme by adding rose wine and integrating the cooking technique used in Shandong Cuisine’s famous Sea Cucumber Fried with Spring Onion. We have to say this bowl of Super Star Braised Pork over Rice is amazing! Be sure to try it yourself!
+
+# import intro
 
 # 字幕
 
@@ -23,7 +25,7 @@ Yo, braised pork!
 2
 00:00:01,880 --> 00:00:03,320
 # 我一听说小魏要吃这饭
-As soon as I heard that Chef Xiao Wei is making this dish…
+As soon as I heard that Xiao Wei is making this dish…
 
 3
 00:00:03,320 --> 00:00:04,400
@@ -118,12 +120,12 @@ Cut the pork belly into slim pieces with the layers on the long side.
 21
 00:00:39,280 --> 00:00:42,160
 # 以往的台湾卤肉饭就是小条
-Taiwan style Braised Pork over Rice typically applies such size.
+Taiwan style Braised Pork over Rice typically has uniform size like this.
 
 22
 00:00:42,360 --> 00:00:43,760
 # 我今天配两块大个的
-Today I am making two big ones.
+Today I am adding two big ones.
 
 23
 00:00:43,760 --> 00:00:44,840
@@ -163,7 +165,7 @@ At this moment, we add …
 30
 00:00:59,760 --> 00:01:01,520
 # 把肉给它推进去
-Push in the meat.
+Push the meat in.
 
 31
 00:01:02,920 --> 00:01:04,160
@@ -173,7 +175,7 @@ Together with the spring onion and the shallot slices.
 32
 00:01:05,160 --> 00:01:08,800
 # 主要突出干葱跟大葱的香气
-This gives a highlight of the smell of the shallot and spring onion.
+to highlight the smell of the shallot and spring onion.
 
 33
 00:01:10,280 --> 00:01:11,840
@@ -193,17 +195,17 @@ When the onion, sprint onion, and shallot..
 36
 00:01:18,640 --> 00:01:20,800
 # 香菇必须给它攥干水分
-We need to squish the water out of the shiitake mushroom before it hits the pot.
+We need to squish the water out of the shiitake mushroom
 
 37
 00:01:20,800 --> 00:01:22,960
 # 生抽 顺着锅边
-Add some light soy sauce from the inner side of the pot.
+Add some light soy sauce along the inner side of the pot.
 
 38
 00:01:23,400 --> 00:01:25,320
 # 烹出香气来
-The steam smells great.
+to cook (the soy sauce) and release the aroma.
 
 39
 00:01:25,760 --> 00:01:26,960
@@ -238,7 +240,7 @@ Some white pepper powder.
 45
 00:01:38,960 --> 00:01:42,120
 # 少来点儿玫瑰露酒
-A little bit rose wine.
+A little bit Chinese rose wine.
 
 46
 00:01:42,640 --> 00:01:45,040
@@ -253,7 +255,7 @@ Now add in the previously fried shallot and onion.
 48
 00:01:48,080 --> 00:01:49,400
 # 搁到砂煲里头
-Pour everything into the casserole.
+Pour everything into the clay pot.
 
 49
 00:01:49,960 --> 00:01:51,120
@@ -263,12 +265,12 @@ Stew them.
 50
 00:01:52,240 --> 00:01:54,200
 # 开锅该调颜色了
-Upon boiling, we adjust the toning (with dark soy sauce here).
+Upon boiling, we adjust the color (with dark soy sauce here).
 
 51
 00:01:55,040 --> 00:01:57,080
 # 盖上盖 得了
-Cover it up. Solid.
+Cover it up. Good.
 
 52
 00:01:59,760 --> 00:02:01,520
@@ -288,7 +290,7 @@ Soak them well. Braised pork.
 55
 00:02:09,040 --> 00:02:10,120
 # 好 炖着吧
-Ok, let the casserole stew.
+Ok, let it stew.
 
 56
 00:02:13,040 --> 00:02:15,000
@@ -373,7 +375,7 @@ I integrated our…
 72
 00:02:55,560 --> 00:02:57,840
 # 山东菜的葱烧海参的手法
-… Shandong Cuisine’s cooking method for Sea Cucumber Fried with Spring Onion.
+… Shandong Cuisine’s cooking technique for Sea Cucumber Fried with Spring Onion.
 
 73
 00:02:57,840 --> 00:02:59,880
@@ -393,4 +395,4 @@ On top of the tradition,…
 76
 00:03:02,400 --> 00:03:04,440
 # 加了葱烧海参的技法
-… I integrated the cooking method for Sea Cucumber Fried with Spring Onion.
+… I integrated the cooking technique for Sea Cucumber Fried with Spring Onion.
