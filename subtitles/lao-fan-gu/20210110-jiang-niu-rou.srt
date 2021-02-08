@@ -14,40 +14,42 @@
 # 卤制小友们可以按照小亮师傅的配方，只需六种料：白芷、白蔻、小茴香、花椒、大料和香叶。做出来的酱包还可以放进冰箱冻上，能再用两次。
 # 做出来的酱牛肉酱香浓郁，筋软肉酥超级入味！小友们还等什么，快跟着视频学起来！
 
-# Hola Amigos, may everyone have a wonderful new year!
-# Today's video is about a braised beef recipe from Liang Shifu. The recipe is his own take.
+# Hello Friends, Today is the first day of 2021. Lao Fan Gu really appreciated your long-term support and company. May everyone have a wonderful new year, a good mood and a good appetite!
+# Today's video is about a braised beef recipe from Master Xiaoliang. The recipe is his own take.
 # It's a two-step process, marination and braising. The marination takes 24 hours for the best results.
-# The spices used in the brining process: Baizhi, White cardamom, fennel seeds, Sichuan peppercorns, Star anise, and bayleaves.
+# The spices used in the brining process: Baizhi, White cardamom, fennel seeds, Sichuan peppercorns, Star anise, and bay leaves.
 # The spice mix can be used three times, just remember to keep it frozen after each use.
 
 # The braised beef will be rich in flavour and tender, let's get started!
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:00,800
 # 切开之后
-It's clear, the flavour is there after cutting open
+After you cut it open
 
 2
 00:00:00,800 --> 00:00:02,360
 # 一看就能看出来
-It's clear, the flavour is there after cutting open
+you can tell by just looking at it
 
 3
 00:00:02,360 --> 00:00:03,720
 # 入味没入味
-It's clear, the flavour is there after cutting open
+whether the flavour is there or not
 
 4
 00:00:04,480 --> 00:00:05,440
 # 大爷这好吃
-It's good Daye, take a bite!
+It's good Da Ye.
 
 5
 00:00:06,080 --> 00:00:07,240
 # 您来吧 您来您来
-It's good Daye, take a bite!
+Take a bite!
 
 6
 00:00:07,240 --> 00:00:10,280
@@ -63,12 +65,12 @@ We are making braised beef today
 8
 00:00:15,920 --> 00:00:17,560
 # 你看网友为什么想你啊
-Our viewers miss you pal, you make show stoppers every single time
+Our viewers miss you pal, why?
 
 9
 00:00:17,560 --> 00:00:19,400
 # 来了就是高大上
-Our viewers miss you pal, you make show stoppers every single time
+You make fancy food!
 
 10
 00:00:19,400 --> 00:00:20,720
@@ -78,7 +80,7 @@ Lamb, beef, you got it all, feasty!
 11
 00:00:20,720 --> 00:00:23,120
 # 人家说小亮净做横货
-Lamb, beef, you got it all, feasty!
+Viewers comment that "Xiao Liang only makes meat."
 
 12
 00:00:24,080 --> 00:00:25,920
@@ -88,12 +90,12 @@ We soak the meat first
 13
 00:00:25,920 --> 00:00:27,080
 # 泡完了之后开刀
-Cut into three strips once soaked
+ once soaked, cut it
 
 14
 00:00:27,080 --> 00:00:28,560
 # 开刀给它开成三条
-Cut into three strips once soaked
+into three strips
 
 15
 00:00:28,600 --> 00:00:30,680
@@ -138,7 +140,7 @@ We have around 1.5 kilos of meat (~3lbs)
 23
 00:00:47,560 --> 00:00:49,320
 # 一斤您就放两克就行
-Around 4g per every kilo
+Around 4g per kilo
 
 24
 00:00:51,360 --> 00:00:52,480
@@ -163,22 +165,22 @@ Use about 100g marinade for every kilo of meat
 28
 00:01:01,000 --> 00:01:03,200
 # 把这酱给它均匀的裹上
-Rub the marinade even, and let it marinade in fridge
+Rub the marinade evenly
 
 29
 00:01:03,280 --> 00:01:04,240
 # 搁冰箱里腌制
-Rub the marinade even, and let it marinade in fridge
+and let it marinade in fridge
 
 30
 00:01:04,280 --> 00:01:05,280
 # 我还得来点盐
-For making this quick, some extra salt is needed
+I need to add more salt
 
 31
 00:01:05,280 --> 00:01:06,880
 # 咱为了让它快速吃
-For making this quick, some extra salt is needed
+to make the flavour penetrate more quickly
 
 32
 00:01:07,240 --> 00:01:08,120
@@ -188,12 +190,12 @@ About three tsp,
 33
 00:01:08,720 --> 00:01:10,400
 # 这样拌匀了
-Even it out
+Mix it well
 
 34
 00:01:11,040 --> 00:01:13,200
 # 吃酱牛肉家里边要是费
-If you make braised beef often (不太懂这句话是啥意思)
+If you make braised beef often 
 
 35
 00:01:13,200 --> 00:01:14,240
@@ -228,7 +230,7 @@ Marinade it for at least 24 hours in fridge
 41
 00:01:25,680 --> 00:01:27,080
 # 您就可以用了
-Marinade it for at least 24 hours in fridge
+then you can use it
 
 42
 00:01:27,600 --> 00:01:29,360
@@ -248,7 +250,7 @@ You see, the colour changed from bright to darker red.
 45
 00:01:32,440 --> 00:01:34,320
 # 它会把酱吃进去
-The marinade is absorbed into hte meat
+The marinade is absorbed into the meat
 
 46
 00:01:34,320 --> 00:01:36,040
@@ -263,12 +265,12 @@ Next, wash the marinade off the meat
 48
 00:01:38,560 --> 00:01:41,920
 # 因为咱们酱还有料粉咱们不能要
-Next, wash the marinade off the meat
+because we don't need the marinade sauce
 
 49
 00:01:42,040 --> 00:01:43,560
 # 咱要的是它的味道
-We don't want the marinade, but its flavour.
+We just need its flavour.
 
 50
 00:01:46,720 --> 00:01:48,120
@@ -278,12 +280,12 @@ Right, clean, all set
 51
 00:01:49,440 --> 00:01:51,800
 # 咱们今天这个是做牛肉的
-The spice mix will be published on his channel (小号？？？)
+The spice mix will be published on his channel
 
 52
 00:01:51,800 --> 00:01:54,800
 # 这个料的配比在冯肉肉小号上
-The spice mix will be published on his channel (小号？？？)
+The spice mix will be published on his channel
 
 53
 00:01:54,840 --> 00:01:56,480
@@ -403,7 +405,7 @@ If you don't like beefy flavour, discard the broth
 76
 00:02:52,560 --> 00:02:54,160
 # 重新沏汤
-If you don't like beefy flavour, discard the broth
+Start with a new pot of water to boil
 
 77
 00:02:54,440 --> 00:02:56,560
@@ -423,7 +425,7 @@ Just remove all the impurities
 80
 00:03:01,280 --> 00:03:02,240
 # 炒酱
-Stir fry the sauce (酱不知道怎么翻准确)
+Stir fry the sauce 
 
 81
 00:03:04,000 --> 00:03:05,960
@@ -453,17 +455,17 @@ but you can be creative here,
 86
 00:03:17,320 --> 00:03:20,040
 # 上市场您买点黄油老鸡的鸡油
-For example you can use chicken oil (lard)
+For example you can use chicken fat
 
 87
 00:03:20,240 --> 00:03:21,520
 # 买回来给它炼了
-For example you can use chicken oil
+render it to chicken oil at home
 
 88
 00:03:21,520 --> 00:03:22,200
 # 炼完了之后
-For example you can use chicken oil
+You can use that oil
 
 89
 00:03:22,200 --> 00:03:24,920
@@ -568,22 +570,22 @@ We strain out the spice mix later
 109
 00:04:17,440 --> 00:04:19,000
 # 打出来之后搁冰箱里边
-Freeze it, and you can use it twice more later
+After that, leave it in the fridge
 
 110
 00:04:19,000 --> 00:04:20,760
 # 冷冻冰箱给它冻上
-Freeze it, and you can use it twice more later
+Freeze it
 
 111
 00:04:21,080 --> 00:04:23,000
 # 您下次还可以酱两次
-Freeze it, and you can use it twice more later
+you can use it twice more later
 
 112
 00:04:23,000 --> 00:04:24,320
 # 用这个料包
-Freeze it, and you can use it twice more later
+Use this 
 
 113
 00:04:25,080 --> 00:04:27,160
@@ -593,42 +595,42 @@ We have boiled it for 20 minutes already
 114
 00:04:27,160 --> 00:04:29,000
 # 你要不喜欢香料味重
-If you don't like the spice flavours, boil it for 10 minutes less
+If you don't like the spice flavours to be too strong
 
 115
 00:04:29,000 --> 00:04:30,760
 # 您就少煮10分钟
-If you don't like the spice flavours, boil it for 10 minutes less
+boil it for 10 minutes less
 
 116
 00:04:30,760 --> 00:04:32,280
 # 你要喜欢这个料味
-If you like the spice flavours, boil it for 10 minutes more
+If you like the spice flavours
 
 117
 00:04:32,280 --> 00:04:33,640
 # 您就多煮10分钟
-If you like the spice flavours, boil it for 10 minutes more
+boil it for 10 minutes more
 
 118
 00:04:33,640 --> 00:04:37,120
 # 就是连酱渣带香料全要打出来
-Strain everything out, don't just dump them
+Strain everything out
 
 119
 00:04:38,600 --> 00:04:39,680
 # 这个别给扔了
-Strain everything out, don't just dump them
+Don't just dump them
 
 120
 00:04:39,680 --> 00:04:41,240
 # 下回再酱的时候
-Reuse it next time you make this
+Next time you make this dish
 
 121
 00:04:41,240 --> 00:04:42,600
 # 还可以放进去
-Reuse it next time you make this
+you can reuse this.
 
 122
 00:04:43,040 --> 00:04:45,240
@@ -648,12 +650,12 @@ A few chilis
 125
 00:04:49,720 --> 00:04:51,320
 # 您可搁可不搁
-Totally up to you, based on your liking
+Totally up to you
 
 126
 00:04:51,320 --> 00:04:53,120
 # 这是根据您自己的口味
-Totally up to you, based on your liking
+Based on your own taste
 
 127
 00:04:53,120 --> 00:04:54,280
@@ -663,12 +665,12 @@ Some rock sugars
 128
 00:04:54,280 --> 00:04:56,080
 # 因为这酱还有料
-We need sugar because the spices would be a bit bitter later
+We need sugar because the sauce and spices
 
 129
 00:04:56,080 --> 00:04:58,240
 # 它煮完了之后它会回苦
-We need sugar because the spices would be a bit bitter later
+it has a bitter aftertaste once you boil it
 
 130
 00:04:58,240 --> 00:04:59,680
@@ -683,17 +685,17 @@ Just tens of them would be enough.
 132
 00:05:02,080 --> 00:05:02,960
 # 牛肉
-Place the beef in, after straining out everything else
+Beef,
 
 133
 00:05:03,480 --> 00:05:04,600
 # 搁到锅里
-Place the beef in, after straining out everything else
+Place the beef in the pot
 
 134
 00:05:05,520 --> 00:05:08,680
 # 汤呢 酱渣和料渣给它篦出来
-Place the beef in, after straining out everything else
+straining out everything else
 
 135
 00:05:09,920 --> 00:05:10,600
@@ -703,12 +705,12 @@ Done
 136
 00:05:11,600 --> 00:05:13,720
 # 现在咱们高压锅（压上）
-Place it in pressure cooker for 36 minutes
+Now let's use pressure cooker (to cook)
 
 137
 00:05:14,560 --> 00:05:16,000
 # 开始（36分钟）
-Place it in pressure cooker for 36 minutes
+Let's start (cook for 36 minutes)
 
 138
 00:05:16,800 --> 00:05:17,440
@@ -723,7 +725,7 @@ Place it in pressure cooker for 36 minutes
 140
 00:05:18,680 --> 00:05:19,880
 # 半天了 这家伙
-It's been some time now
+It's been a long time, buddy. 
 
 141
 00:05:20,960 --> 00:05:21,960
@@ -738,22 +740,22 @@ Nice red colour in there
 143
 00:05:24,040 --> 00:05:26,080
 # 端出来
-If the colour isn't as red, you can reduce the soup a bit
+Take it out
 
 144
 00:05:26,320 --> 00:05:28,240
 # 颜色它要是淡
-If the colour isn't as red, you can reduce the soup a bit
+If the colour is too light (not as red as you like)
 
 145
 00:05:28,560 --> 00:05:30,920
 # 您还可以搁在锅里边
-If the colour isn't as red, you can reduce the soup a bit
+you can put it back to the pot
 
 146
 00:05:30,960 --> 00:05:33,120
 # 给它收收汤
-If the colour isn't as red, you can reduce the soup a bit
+reduce the broth a bit
 
 147
 00:05:33,120 --> 00:05:35,760
@@ -783,7 +785,7 @@ A bit more soy sauce if you like the darker colour
 152
 00:05:43,440 --> 00:05:45,160
 # 您就多来一点 多来一点没事
-A bit more soy sauce if you like the darker colour
+A bit more , no problem
 
 153
 00:05:45,760 --> 00:05:47,360
@@ -813,7 +815,7 @@ Lots of meat
 158
 00:06:01,640 --> 00:06:03,400
 # 没问题就是这味
-Atta flavour!
+No problem, this is the right flavour!
 
 159
 00:06:05,320 --> 00:06:06,800
@@ -823,12 +825,12 @@ Sure, take it out
 160
 00:06:07,440 --> 00:06:08,800
 # 瞧瞧这亮
-Watch the shin of the meat
+See, how shinny is the meat
 
 161
 00:06:09,160 --> 00:06:10,320
 # 齐活
-C'est Tres bien
+All done
 
 162
 00:06:11,720 --> 00:06:13,640
@@ -863,17 +865,17 @@ It's too big lol
 168
 00:06:23,200 --> 00:06:25,680
 # 咱这个最好是第二天
-It's best to rest for a day in fridge, sealed by plastic film
+It's best to wait till next day,
 
 169
 00:06:25,680 --> 00:06:26,680
 # 搁冰箱里边
-It's best to rest for a day in fridge, sealed by plastic film
+rest in fridge
 
 170
 00:06:26,680 --> 00:06:28,320
 # 给它用保鲜膜封好了
-It's best to marinade for two days in fridge, sealed by plastic film
+sealed well with plastic film
 
 171
 00:06:28,320 --> 00:06:30,800
@@ -893,7 +895,7 @@ It's already good now
 174
 00:06:37,360 --> 00:06:38,880
 # 大爷这好吃
-It's good Da Ye
+It's good, Da Ye
 
 175
 00:06:39,040 --> 00:06:39,960
@@ -903,7 +905,7 @@ Come on come on
 176
 00:06:39,960 --> 00:06:42,600
 # 筋 长筋   长点筋骨
-Take some
+Take some tendon
 
 177
 00:06:42,600 --> 00:06:45,040
@@ -913,17 +915,17 @@ It's good for you
 178
 00:06:45,040 --> 00:06:46,080
 # 小亮给你来一口
-Take a bit too
+Xiao Liang, have a bit too
 
 179
 00:06:46,080 --> 00:06:47,720
 # 您来这个 我来这块瘦的
-Take this lean one
+You can have this, I will take this lean one
 
 180
 00:06:47,720 --> 00:06:48,760
 # 你长长筋
-You grow some tendon
+Help you grow some tendon
 
 181
 00:06:49,120 --> 00:06:50,720
@@ -953,7 +955,7 @@ Yours is perfect, in and out
 186
 00:06:58,280 --> 00:07:01,160
 # 吃完了不塞牙
-Good job managing the heat!
+It will not stuck in between your teeth.
 
 187
 00:07:01,160 --> 00:07:04,720
