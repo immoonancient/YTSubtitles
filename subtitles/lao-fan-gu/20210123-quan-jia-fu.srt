@@ -1,0 +1,669 @@
+# https://youtu.be/vU7hmK1eQQg
+
+# 标题 （标题翻译过长，请将其精简到 100 字符内）
+# 【国宴大师•全家福】汤鲜味美，食材满满的超大份量什锦砂锅！全家人一起吃，美！ |老饭骨
+# State Banquet Master Chef – Happy Family Portrait (Assorted Meat & Veg Soup Casserole).
+# |--------------------------- title should not be longer than this line ----------------------------|
+
+# 简介
+
+# Introduction
+# 小友们好！今天是腊八节，老饭骨在这里祝所有小友腊八节快乐！
+# Hello, friends! Today (Jan.20th) is Laba Festival. Lao Fan Gu wishes everyone a happy Laba Festival!
+# 不知道我们上次教小友们做的腊八粥大家今天都喝了吗？
+# We wonder if Xiao Fan Gu has had Laba Congee which we taught you last time.
+# 今天大爷给大家带来一道超大份、食材满满的什锦砂锅！这次我们用了多少种食材，大家伙儿快数数看！每种食材的处理方式小友们也要看好咯！
+# Today Da Ye brought everyone an assorted soup casserole that is full of diverse ingredients. How many different ingredients we have used today? Let’s count! Take notes on our treatment methods for each ingredient.
+# 同时老饭骨也借这道菜名【全家福】，祝愿不能回家团聚的小饭骨，福气满满！
+# Meanwhile, with the name of the dish “Happy Family Portrait”, Lao Fan Gu wishes Xiao Fan Gu who can’t reunite with their family all the luck and happiness!
+# 可以团圆的小饭骨，不用说，给家人安排上！
+# For Xiao Fan Gu who are able to reunite with family, you can cook the dish for your family members!
+
+# import intro
+
+# 字幕
+
+1
+00:00:00,000 --> 00:00:03,560
+# 胡萝卜 青笋 白肉 猪肚 白鸡
+Carrots, celtuce, white meat, pork tripe, and chicken.
+
+2
+00:00:03,560 --> 00:00:05,800
+# 快过年了今天给大家做一个
+It’s almost Spring Festival, so we are making a traditional dish for everyone…
+
+3
+00:00:05,800 --> 00:00:08,040
+# 传统的老菜叫什锦砂锅
+… called Assorted Soup Casserole.
+
+4
+00:00:08,040 --> 00:00:09,800
+# 大款的全家福
+A full-sized “Happy Family Portrait”.
+
+5
+00:00:10,480 --> 00:00:12,680
+# 你看这里边备的料有白肉
+Look at what we have prepared, white meat,
+
+6
+00:00:12,960 --> 00:00:15,920
+# 猪肚 熟鸡白水煮
+Pork tripe, chicken, all are boiled in water
+
+7
+00:00:15,920 --> 00:00:17,720
+# 放点葱姜放点黄酒
+Put some green onion, ginger, and some huangjiu rice wine in.
+
+8
+00:00:17,720 --> 00:00:20,480
+# 鸡腿煮了大约在半小时
+The chicken thigh has been cooked for almost half an hour.
+
+9
+00:00:20,680 --> 00:00:23,880
+# 肉要煮大约三十五分钟到四十分钟
+The meat should be cooked for 35 to 40 minutes.
+
+10
+00:00:23,880 --> 00:00:26,360
+# 这猪肚硬点 （煮）一个多小时
+The pork strip is harder to cook, so it needs more than an hour.
+
+11
+00:00:26,360 --> 00:00:28,520
+# 这个鸡腿我们改改刀
+Let’s cut the chicken thigh (to small pieces)…
+
+12
+00:00:28,520 --> 00:00:30,680
+# 咱们把这骨头给去掉
+removing the bone.
+
+13
+00:00:31,040 --> 00:00:32,920
+# 好的肉要摆个面
+Those quality and pretty meat should be laid out well.
+
+14
+00:00:32,920 --> 00:00:35,600
+# 过去讲究货卖一张皮
+In the past it is said that packaging is the key to marketing.
+
+15
+00:00:35,600 --> 00:00:37,120
+# 这是一份
+These is a portion.
+
+16
+00:00:37,120 --> 00:00:38,720
+# 剩这些肉怎么办呀
+What about the rest of the meat?
+
+17
+00:00:38,720 --> 00:00:41,520
+# 这个不成材的肉垫底
+Put these less good-looking pieces at the bottom.
+
+18
+00:00:42,200 --> 00:00:45,040
+# 这是猪的后臀尖的坐板肉
+This the Zuoban meat at the tip of the pig hip.
+
+19
+00:00:45,320 --> 00:00:47,600
+# 这个是上片
+This one is the upper part.
+
+20
+00:00:49,080 --> 00:00:51,080
+# 不能少于十片
+Include at least 10 pieces.
+
+21
+00:00:52,120 --> 00:00:54,600
+# 猪肚呢一定要搁点盐
+We have to add some salt to the pork tripe.
+
+22
+00:00:54,600 --> 00:00:57,000
+# 搁点醋 把它洗干净
+Add some vinegar to clean it well.
+
+23
+00:01:00,480 --> 00:01:03,800
+# 丸子 肥瘦猪肉 葱花姜末
+meatballs, made of fat and lean grounded pork, diced green onion and grounded ginger.
+
+24
+00:01:03,920 --> 00:01:05,280
+# 胡椒粉
+white pepper powder.
+
+25
+00:01:06,520 --> 00:01:07,520
+# 盐
+Salt
+
+26
+00:01:08,360 --> 00:01:09,680
+# 黄酒
+Huangjiu rice wine.
+
+27
+00:01:09,880 --> 00:01:11,080
+# 淀粉
+Starch
+
+28
+00:01:12,000 --> 00:01:13,840
+# 加点普通的水
+Add some regular water
+
+29
+00:01:13,880 --> 00:01:15,440
+# 朝着一个方向（打）
+Stir it in one direction.
+
+30
+00:01:16,160 --> 00:01:18,560
+# 我参加工作七一年到现在
+Since I first joined work at 1971,
+
+31
+00:01:18,560 --> 00:01:20,600
+# 就有这道菜
+… I have seen this dish.
+
+32
+00:01:20,880 --> 00:01:22,080
+# 应该有五六十年
+It should be 50-60 years old.
+
+33
+00:01:22,080 --> 00:01:23,600
+# 六七十年的历史
+Or actually 60-70 years’ history.
+
+34
+00:01:23,600 --> 00:01:25,360
+# 甚至一百多年
+Or even more than 100 years old.
+
+35
+00:01:26,320 --> 00:01:29,040
+# 这是一个传承的老菜
+This is a traditional dish and a legacy to preserve.
+
+36
+00:01:29,600 --> 00:01:31,600
+# 这个过去不叫全家福
+This is not called “ Happy Family Portrait” in the past.
+
+37
+00:01:31,600 --> 00:01:34,080
+# 就叫什锦砂锅
+It’s just assorted soup casserole.
+
+38
+00:01:34,560 --> 00:01:38,240
+# 现在为了取这好的名字 好听
+We have this name now because it is a bless to hear.
+
+39
+00:01:38,400 --> 00:01:40,400
+# 所以改了叫全家福
+So we changed the name to “Happy Family Portrait”.
+
+40
+00:01:40,400 --> 00:01:41,600
+# 这盘底上抹点油
+Brush some oil at the bottom of the plate.
+
+41
+00:01:41,600 --> 00:01:43,760
+# 今天呢给大家展示一个
+Today we show everyone a …
+
+42
+00:01:43,760 --> 00:01:45,360
+# 蒸的 叫眉毛丸子
+… steamed dish called Eyebrow Meatball.
+
+43
+00:01:45,360 --> 00:01:46,480
+# 你看他弄完了
+Look carefully on how he does this.
+
+44
+00:01:46,480 --> 00:01:48,640
+# 在这一刮一刀就跟眉毛一样
+After he is done pulling and pressing here, the ball looks just like an eyebrow.
+
+45
+00:01:48,640 --> 00:01:51,120
+# 利用这虎口 推挤
+Use your purlicue to push and squeeze the paste.
+
+46
+00:01:52,400 --> 00:01:54,040
+# 往下头抹
+Downwards.
+
+47
+00:01:54,560 --> 00:01:56,080
+# 成为三角形
+To form a triangle.
+
+48
+00:01:58,000 --> 00:02:01,200
+# 上锅蒸四分钟到五分钟
+Steam for 4 to 5 minutes.
+
+49
+00:02:01,600 --> 00:02:02,520
+# 蒸上了啊
+Now steaming on the stove.
+
+50
+00:02:02,520 --> 00:02:03,920
+# 包个虾饺
+Wrap a shrimp dumpling.
+
+51
+00:02:03,920 --> 00:02:06,480
+# 虾馅 虾馅里边有肥膘
+Shrimp paste, which includes fatty meat.
+
+52
+00:02:06,560 --> 00:02:08,000
+# 搁点葱
+Add some green onion.
+
+53
+00:02:08,520 --> 00:02:09,760
+# 搁点姜
+Add some ginger.
+
+54
+00:02:11,040 --> 00:02:12,640
+# 来点料酒 黄酒
+Some Chinese rice wine and huangjiu rice wine.
+
+55
+00:02:13,560 --> 00:02:14,640
+# 蛋清
+Egg white.
+
+56
+00:02:15,440 --> 00:02:17,240
+# 盐三克
+3g of salt.
+
+57
+00:02:17,720 --> 00:02:20,520
+# 胡椒粉两克
+2g of white pepper powder.
+
+58
+00:02:20,640 --> 00:02:23,480
+# 淀粉三克
+3g of starch.
+
+59
+00:02:25,400 --> 00:02:27,040
+# 馅打好了啊
+The paste is ready
+
+60
+00:02:27,680 --> 00:02:29,680
+# 蛋皮摊的要薄
+The egg wrap has to be thin.
+
+61
+00:02:30,080 --> 00:02:33,960
+# 要想蛋皮黄多加蛋黄少加蛋清
+If you want to have a yellower egg wrap, add more egg yolk and less egg white.
+
+62
+00:02:35,120 --> 00:02:37,280
+# 这个馅往边上来点
+Fill the egg wrap towards the edge for a bit.
+
+63
+00:02:38,080 --> 00:02:39,920
+# 让（蛋饺）好封口
+So that (the egg wrap dumpling) could be easily sealed.
+
+64
+00:02:40,160 --> 00:02:43,440
+# 这饺子不是挤的 是捏的
+The dumpling isn’t made by squeezing, but by pinching.
+
+65
+00:02:44,000 --> 00:02:46,080
+# 虾饺蒸上三分钟
+Steam the shrimp dumpling for 3 minutes.
+
+66
+00:02:47,280 --> 00:02:49,360
+# 白菜叶主要全是用白菜叶
+The leaves of napa cabbage. We mostly use napa cabbage leaves,…
+
+67
+00:02:49,360 --> 00:02:51,840
+# 用开水给它烫稍微的过一点
+… and we blanch them a little longer than usual.
+
+68
+00:02:51,840 --> 00:02:53,280
+# 烫完了以后拿凉水冲凉
+After that, use cold water to cool them down.
+
+69
+00:02:53,280 --> 00:02:54,360
+# 水挤干
+Squeeze dry the cabbage.
+
+70
+00:02:54,360 --> 00:02:56,800
+# 和粉丝倒到砂锅里头
+Together with glass noodles, fill the cabbage in the clay pot.
+
+71
+00:02:57,120 --> 00:03:00,240
+# 把这些料放进去
+Put these ingredients in.
+
+72
+00:03:00,240 --> 00:03:02,240
+# 海米搁的黄酒
+Haimi (Dried shrimps from the ocean) which is steamed with huangjiu rice wine…
+
+73
+00:03:02,240 --> 00:03:04,600
+# 搁的葱姜蒸了二十分钟
+…and green onion and ginger for 20 minutes.
+
+74
+00:03:05,320 --> 00:03:06,400
+# 这些东西都齐了
+Everything is ready.
+
+75
+00:03:06,400 --> 00:03:08,280
+# 我们把它拿手给拌匀了
+We use our hands to mix them well.
+
+76
+00:03:09,440 --> 00:03:12,240
+# 还有一样鸡蛋摊的蛋皮
+And one more ingredient – the egg wraps made from eggs.
+
+77
+00:03:13,320 --> 00:03:16,240
+# 胡萝卜 青笋 冬笋
+Carrots, celtuce, winter bamboo shoots.
+
+78
+00:03:16,640 --> 00:03:18,360
+# 切成花刀出水
+Carve them skillfully and leave the water out.
+
+79
+00:03:18,400 --> 00:03:19,840
+# 香菇我们把它泡软
+We soak the shiitake mushrooms till they become soft.
+
+80
+00:03:19,840 --> 00:03:21,800
+# 洗干净以后放上葱姜
+After cleaning them well, we add some spring onion and ginger.
+
+81
+00:03:21,800 --> 00:03:22,760
+# 给它煨好了
+Stew the ingredients well.
+
+82
+00:03:22,760 --> 00:03:24,920
+# 上锅蒸 搁点酒搁点鸡油
+Steam it now with some rice wine and chicken fat.
+
+83
+00:03:25,000 --> 00:03:26,840
+# 现在该开始摆了
+Now we start to lay out the ingredients.
+
+84
+00:03:26,840 --> 00:03:28,720
+# 你看这刀口都是朝上的
+See, the carves are facing upwards.
+
+85
+00:03:29,080 --> 00:03:30,520
+# 这边摆六片
+Place 6 pieces here.
+
+86
+00:03:30,920 --> 00:03:32,400
+# 对面再摆六片
+6 more on the opposite site.
+
+87
+00:03:32,400 --> 00:03:34,480
+# 这样呢旋转起来就好看了
+Now the dish looks beautiful when the plate spins.
+
+88
+00:03:35,520 --> 00:03:36,640
+# 白肉
+White meat
+
+89
+00:03:39,200 --> 00:03:40,160
+# 猪肚
+Pork tripe
+
+90
+00:03:40,520 --> 00:03:41,520
+# 鸡肉
+Chicken meat
+
+91
+00:03:43,600 --> 00:03:44,720
+# 香菇
+Shiitake mushroom
+
+92
+00:03:45,360 --> 00:03:46,320
+# 冬笋
+Winter bamboo shoots
+
+93
+00:03:46,320 --> 00:03:48,040
+# 一定要把它处理干净
+Have to clean them well.
+
+94
+00:03:48,040 --> 00:03:49,680
+# 丸子要码上
+Don’t miss the meatballs.
+
+95
+00:03:50,120 --> 00:03:52,720
+# 这像不像人的那个大眉毛
+Do  they look like people’s eyebrows?
+
+96
+00:03:53,680 --> 00:03:54,840
+# 蛋饺
+Egg wrap dumpling (with shrimp paste)
+
+97
+00:03:56,040 --> 00:03:57,320
+# 这个全家福呢
+This Happy Family Portrait…
+
+98
+00:03:57,320 --> 00:03:59,200
+# 装这个砂锅里装好了
+… is laid out well in the clay pot.
+
+99
+00:03:59,200 --> 00:04:02,760
+# 胡萝卜 青笋 白肉 猪肚 白鸡
+Carrots, celtuce, white meat, pork tripe, chicken
+
+100
+00:04:03,360 --> 00:04:05,080
+# 香菇 冬笋
+Shiitake mushroom, winter bamboo shoots
+
+101
+00:04:05,080 --> 00:04:06,880
+# 上边是眉毛丸子
+The upper part if the Eyebrow meatballs.
+
+102
+00:04:06,880 --> 00:04:08,800
+# 还有我们这个蛋饺
+And our egg wrap dumplings.
+
+103
+00:04:09,120 --> 00:04:12,080
+# 一会把这（鸡）汤烧开了灌到里头
+After a few moments, pour the boiled (chicken) broth into the pot.
+
+104
+00:04:12,080 --> 00:04:13,520
+# 这边就点火了
+On this side, we ignite the stove.
+
+105
+00:04:13,520 --> 00:04:16,040
+# 为了防止面给破坏了
+To prevent the presentation not holding its shape,…
+
+106
+00:04:16,040 --> 00:04:18,080
+# 我们这上面得覆盖一个盘子
+… we have to cover a plate on the top.
+
+107
+00:04:18,440 --> 00:04:19,920
+# 把这东西给压上
+Press on these ingredients…
+
+108
+00:04:19,920 --> 00:04:22,480
+# 别让它乱跑 让它听话
+…so they won’t run away. Let them stay in place.
+
+109
+00:04:22,520 --> 00:04:24,280
+# 这（汤）现在可以开始调味了
+Now we can season the soup.
+
+110
+00:04:24,480 --> 00:04:25,600
+# 先搁盐
+Add salt first.
+
+111
+00:04:25,960 --> 00:04:27,120
+# 胡椒粉
+White pepper powder.
+
+112
+00:04:28,080 --> 00:04:30,240
+# 就点一点糖 提鲜
+Add a bit of sugar to bring up the umami/xian taste.
+
+113
+00:04:31,120 --> 00:04:33,120
+# 汤开的下去基本就开了
+The soup is warm so it is boiled in a short time.
+
+114
+00:04:33,120 --> 00:04:34,720
+# 所有料都是熟的
+All the ingredients are cooked.
+
+115
+00:04:38,760 --> 00:04:40,120
+# 等到它开锅
+Wait till it reaches boiling point.
+
+116
+00:04:42,880 --> 00:04:45,120
+# 锅已经开了十分钟了
+The soup is boiled for 10 minutes.
+
+117
+00:04:45,680 --> 00:04:47,040
+# 咱们掀锅了
+We are removing the cover from the pot.
+
+118
+00:04:47,040 --> 00:04:48,120
+# 看着啊
+Look.
+
+119
+00:04:48,440 --> 00:04:50,480
+# 大款的全家福
+A full-sized Happy Family Portrait!
+
+120
+00:04:54,680 --> 00:04:56,120
+# 这虾真鲜
+The shrimp is so umami/xian.
+
+121
+00:04:57,440 --> 00:04:58,800
+# 再尝尝丸子
+Taste the eyebrow meatballs the next.
+
+122
+00:04:59,000 --> 00:05:00,320
+# 对 再尝尝丸子
+Yep, try the meatballs as well.
+
+123
+00:05:02,880 --> 00:05:05,720
+# 所以说今天您这爱徒有福气了
+Your favorite apprentice has all the happiness and luck today!
+
+124
+00:05:05,720 --> 00:05:09,200
+# 一个六十五岁高龄的师父
+Although his master is already 65 years old…
+
+125
+00:05:09,200 --> 00:05:12,280
+# 还今天在灶台间满头大汗
+… he is still dedicated to demonstrates his best skills, sweating a lot, in the kitchen today.
+
+126
+00:05:16,160 --> 00:05:18,880
+# 闻其味心旷神怡
+It is such a pleasure smelling the beautiful aroma.
+
+127
+00:05:18,880 --> 00:05:21,200
+# 食其物美味绝伦
+The food is extremely exquisite and delicious.
+
+128
+00:05:21,600 --> 00:05:23,760
+# 师父辛苦了
+Master, thanks for your hard work today!
+
+129
+00:05:23,760 --> 00:05:25,200
+# 谢谢二伯
+Thank you Er Bai!
