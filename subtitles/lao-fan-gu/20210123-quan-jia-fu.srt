@@ -2,29 +2,31 @@
 
 # 标题 （标题翻译过长，请将其精简到 100 字符内）
 # 【国宴大师•全家福】汤鲜味美，食材满满的超大份量什锦砂锅！全家人一起吃，美！ |老饭骨
-# [State Banquet Master Chef – Happy Family Portrait] Umami/Xian Soup! The assorted casserole is full of diverse ingredients and only becomes tastier when the family enjoy together!
+# State Banquet Master Chef – Happy Family Portrait (Assorted Meat & Veg Soup Casserole).
 # |--------------------------- title should not be longer than this line ----------------------------|
 
 # 简介
 
 # Introduction
 # 小友们好！今天是腊八节，老饭骨在这里祝所有小友腊八节快乐！
-# Hi Xiao Fan Gu! Today (Jan.20th) is Laba Festival. Lao Fan Gu wishes everyone a happy Laba Festival!
+# Hello, friends! Today (Jan.20th) is Laba Festival. Lao Fan Gu wishes everyone a happy Laba Festival!
 # 不知道我们上次教小友们做的腊八粥大家今天都喝了吗？
 # We wonder if Xiao Fan Gu has had Laba Congee which we taught you last time.
 # 今天大爷给大家带来一道超大份、食材满满的什锦砂锅！这次我们用了多少种食材，大家伙儿快数数看！每种食材的处理方式小友们也要看好咯！
-# Today Da Ye brought everyone an assorted casserole that is full of diverse ingredients. How many different ingredients we have used today? Let’s count! Take notes on our treatment methods for each ingredient.
+# Today Da Ye brought everyone an assorted soup casserole that is full of diverse ingredients. How many different ingredients we have used today? Let’s count! Take notes on our treatment methods for each ingredient.
 # 同时老饭骨也借这道菜名【全家福】，祝愿不能回家团聚的小饭骨，福气满满！
 # Meanwhile, with the name of the dish “Happy Family Portrait”, Lao Fan Gu wishes Xiao Fan Gu who can’t reunite with their family all the luck and happiness!
 # 可以团圆的小饭骨，不用说，给家人安排上！
-# For Xiao Fan Gu who are reuniting with family, feel free to cook the dish for your family members!
+# For Xiao Fan Gu who are able to reunite with family, you can cook the dish for your family members!
+
+# import intro
 
 # 字幕
 
 1
 00:00:00,000 --> 00:00:03,560
 # 胡萝卜 青笋 白肉 猪肚 白鸡
-Carrots, green bamboo shoots, white meat, pork tripe, and chicken.
+Carrots, celtuce, white meat, pork tripe, and chicken.
 
 2
 00:00:03,560 --> 00:00:05,800
@@ -34,7 +36,7 @@ It’s almost Spring Festival, so we are making a traditional dish for everyone�
 3
 00:00:05,800 --> 00:00:08,040
 # 传统的老菜叫什锦砂锅
-… called Assorted Casserole.
+… called Assorted Soup Casserole.
 
 4
 00:00:08,040 --> 00:00:09,800
@@ -59,12 +61,12 @@ Put some green onion, ginger, and some huangjiu rice wine in.
 8
 00:00:17,720 --> 00:00:20,480
 # 鸡腿煮了大约在半小时
-The chicken thigh is cooked for almost half an hour.
+The chicken thigh has been cooked for almost half an hour.
 
 9
 00:00:20,680 --> 00:00:23,880
 # 肉要煮大约三十五分钟到四十分钟
-The meat should be cooked between 35 and 40 minutes.
+The meat should be cooked for 35 to 40 minutes.
 
 10
 00:00:23,880 --> 00:00:26,360
@@ -74,17 +76,17 @@ The pork strip is harder to cook, so it needs more than an hour.
 11
 00:00:26,360 --> 00:00:28,520
 # 这个鸡腿我们改改刀
-Let’s treat the chicken thigh…
+Let’s cut the chicken thigh (to small pieces)…
 
 12
 00:00:28,520 --> 00:00:30,680
 # 咱们把这骨头给去掉
-… by removing the bone.
+removing the bone.
 
 13
 00:00:31,040 --> 00:00:32,920
 # 好的肉要摆个面
-Quality meat should be laid out well.
+Those quality and pretty meat should be laid out well.
 
 14
 00:00:32,920 --> 00:00:35,600
@@ -94,7 +96,7 @@ In the past it is said that packaging is the key to marketing.
 15
 00:00:35,600 --> 00:00:37,120
 # 这是一份
-The is a portion.
+These is a portion.
 
 16
 00:00:37,120 --> 00:00:38,720
@@ -134,12 +136,12 @@ Add some vinegar to clean it well.
 23
 00:01:00,480 --> 00:01:03,800
 # 丸子 肥瘦猪肉 葱花姜末
-Balls is made of fat and lean grounded pork, diced green onion and grounded ginger.
+meatballs, made of fat and lean grounded pork, diced green onion and grounded ginger.
 
 24
 00:01:03,920 --> 00:01:05,280
 # 胡椒粉
-Black pepper powder.
+white pepper powder.
 
 25
 00:01:06,520 --> 00:01:07,520
@@ -204,7 +206,7 @@ This is not called “ Happy Family Portrait” in the past.
 37
 00:01:31,600 --> 00:01:34,080
 # 就叫什锦砂锅
-It’s just assorted casserole.
+It’s just assorted soup casserole.
 
 38
 00:01:34,560 --> 00:01:38,240
@@ -229,12 +231,12 @@ Today we show everyone a …
 42
 00:01:43,760 --> 00:01:45,360
 # 蒸的 叫眉毛丸子
-… steamed dish called Eyebrow Ball.
+… steamed dish called Eyebrow Meatball.
 
 43
 00:01:45,360 --> 00:01:46,480
 # 你看他弄完了
-Look carefully at his treatment.
+Look carefully on how he does this.
 
 44
 00:01:46,480 --> 00:01:48,640
@@ -354,7 +356,7 @@ The leaves of napa cabbage. We mostly use napa cabbage leaves,…
 67
 00:02:49,360 --> 00:02:51,840
 # 用开水给它烫稍微的过一点
-… and we shabu them (cook them with boiled water) a little longer than usual.
+… and we blanch them a little longer than usual.
 
 68
 00:02:51,840 --> 00:02:53,280
@@ -404,7 +406,7 @@ And one more ingredient – the egg wraps made from eggs.
 77
 00:03:13,320 --> 00:03:16,240
 # 胡萝卜 青笋 冬笋
-Carrots, green bamboo shoots, winter bamboo shoots.
+Carrots, celtuce, winter bamboo shoots.
 
 78
 00:03:16,640 --> 00:03:18,360
@@ -489,12 +491,12 @@ Have to clean them well.
 94
 00:03:48,040 --> 00:03:49,680
 # 丸子要码上
-Don’t miss the eyebrow balls.
+Don’t miss the meatballs.
 
 95
 00:03:50,120 --> 00:03:52,720
 # 这像不像人的那个大眉毛
-Look how alike they are to people’s eyebrows.
+Do  they look like people’s eyebrows?
 
 96
 00:03:53,680 --> 00:03:54,840
@@ -514,7 +516,7 @@ This Happy Family Portrait…
 99
 00:03:59,200 --> 00:04:02,760
 # 胡萝卜 青笋 白肉 猪肚 白鸡
-Carrots, green bamboo shoots, white meat, pork tripe, chicken
+Carrots, celtuce, white meat, pork tripe, chicken
 
 100
 00:04:03,360 --> 00:04:05,080
@@ -524,7 +526,7 @@ Shiitake mushroom, winter bamboo shoots
 101
 00:04:05,080 --> 00:04:06,880
 # 上边是眉毛丸子
-The upper part if the Eyebrow balls.
+The upper part if the Eyebrow meatballs.
 
 102
 00:04:06,880 --> 00:04:08,800
@@ -534,7 +536,7 @@ And our egg wrap dumplings.
 103
 00:04:09,120 --> 00:04:12,080
 # 一会把这（鸡）汤烧开了灌到里头
-After a few moments, pour the boiled (chicken) soup into the pot.
+After a few moments, pour the boiled (chicken) broth into the pot.
 
 104
 00:04:12,080 --> 00:04:13,520
@@ -544,7 +546,7 @@ On this side, we ignite the stove.
 105
 00:04:13,520 --> 00:04:16,040
 # 为了防止面给破坏了
-To prevent the noodles from damage,…
+To prevent the presentation not holding its shape,…
 
 106
 00:04:16,040 --> 00:04:18,080
@@ -624,12 +626,12 @@ The shrimp is so umami/xian.
 121
 00:04:57,440 --> 00:04:58,800
 # 再尝尝丸子
-Taste the eyebrow balls the next.
+Taste the eyebrow meatballs the next.
 
 122
 00:04:59,000 --> 00:05:00,320
 # 对 再尝尝丸子
-Yep, try the meat balls as well.
+Yep, try the meatballs as well.
 
 123
 00:05:02,880 --> 00:05:05,720
